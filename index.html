@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telangana Monitor - Real-Time Intelligence</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background-color: #0f172a; color: #f8fafc; font-family: 'Inter', system-ui, sans-serif; }
+        .widget { background-color: #1e293b; border: 1px solid #334155; border-radius: 0.5rem; padding: 1.5rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); }
+        .loader { border-top-color: #3b82f6; animation: spinner 1s linear infinite; }
+        @keyframes spinner { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #1e293b; }
+        ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #64748b; }
+    </style>
+</head>
+<body class="p-4 md:p-8 min-h-screen flex flex-col">
+    <header class="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 border-b border-slate-700 pb-4 gap-4">
+        <div>
+            <h1 class="text-3xl font-bold text-blue-500 tracking-tight">Telangana<span class="text-slate-100">Monitor</span></h1>
+            <p class="text-sm text-slate-400 mt-1">Live State Intelligence & Heritage Dashboard</p>
+        </div>
+        <div class="flex flex-col items-end bg-slate-800 px-4 py-2 rounded-lg border border-slate-700">
+            <span class="text-xs text-slate-400 uppercase tracking-wider font-semibold">System Time</span>
+            <div id="live-clock" class="text-xl font-mono text-emerald-400 font-bold">--:--:--</div>
+        </div>
+    </header>
+
+    <main class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 flex-1">
+        
+        <div class="space-y-6 flex flex-col">
+            <section class="widget flex flex-col pb-4">
+                <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
+                    <h2 class="text-lg font-semibold text-slate-200">Live Telemetry</h2>
+                    <span class="text-xs bg-slate-700 px-2 py-1 rounded text-slate-300">Ramachandrapuram</span>
+                </div>
+                <div id="weather-data" class="space-y-3">
+                    <div class="flex justify-center items-center py-2"><div class="loader ease-linear rounded-full border-2 border-t-2 border-slate-600 h-6 w-6"></div></div>
+                </div>
+            </section>
+
+            <section class="widget flex flex-col pb-4">
+                <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
+                    <h2 class="text-lg font-semibold text-slate-200">Environmental Health</h2>
+                    <span class="text-xs bg-slate-700 px-2 py-1 rounded text-slate-300">AQI Data</span>
+                </div>
+                <div id="aqi-data" class="space-y-3">
+                    <div class="flex justify-center items-center py-2"><div class="loader ease-linear rounded-full border-2 border-t-2 border-slate-600 h-6 w-6"></div></div>
+                </div>
+            </section>
+
+            <section class="widget flex flex-col bg-gradient-to-br from-slate-800 to-slate-900 flex-1">
+                <div class="flex items-center justify-between mb-3 border-b border-slate-600 pb-2">
+                    <h2 class="text-lg font-semibold text-amber-500">Cultural Spotlight</h2>
+                    <span class="text-xs bg-amber-900/50 text-amber-300 px-2 py-1 rounded border border-amber-700/50">Daily Heritage</span>
+                </div>
+                <div id="cultural-data" class="flex-1 flex flex-col justify-center items-center text-center p-2">
+                    <h3 id="culture-title" class="text-lg font-bold text-slate-100 mb-2">Loading...</h3>
+                    <p id="culture-desc" class="text-slate-400 text-sm leading-relaxed"></p>
+                </div>
+            </section>
+        </div>
+
+        <section class="widget flex flex-col h-[750px] lg:h-auto">
+            <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
+                <h2 class="text-lg font-semibold text-slate-200">State Intelligence</h2>
+                <span class="flex h-3 w-3 relative">
+                  <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+                  <span class="relative inline-flex rounded-full h-3 w-3 bg-red-500"></span>
+                </span>
+            </div>
+            <div id="news-data" class="space-y-3 overflow-y-auto flex-1 pr-2">
+                <div class="flex justify-center items-center h-full"><div class="loader ease-linear rounded-full border-2 border-t-2 border-slate-600 h-8 w-8"></div></div>
+            </div>
+        </section>
+
+        <section class="widget flex flex-col h-[750px] lg:h-auto bg-[#0b1120]">
+            <div class="flex items-center justify-between mb-4 border-b border-slate-800 pb-2">
+                <div class="flex items-center gap-2">
+                    <span class="relative flex h-3 w-3">
+                      <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+                      <span class="relative inline-flex rounded-full h-3 w-3 bg-red-500"></span>
+                    </span>
+                    <h2 class="text-lg font-semibold text-slate-200">Live Broadcast</h2>
+                </div>
+                <select id="news-source" onchange="updateVideoFeed()" class="bg-slate-800 text-xs text-slate-200 border border-slate-600 rounded p-1.5 focus:outline-none focus:border-blue-500 transition-colors cursor-pointer">
+                    <option value="UCeE-EWz7OQosUioR_3JdFZw">NTV Telugu</option>
+                    <option value="UCb5jXikH-B2D310p6YwDkCQ">TV9 Telugu</option>
+                    <option value="UCq4h58q67qU-L55A-5bE5qw">V6 News</option>
+                    <option value="UCd7XFWe2PZqEayz0P0hE_vA">T News</option>
+                </select>
+            </div>
+            
+            <div class="flex-1 flex flex-col gap-6 pr-1">
+                <div class="w-full aspect-video rounded-lg overflow-hidden border border-slate-700 bg-slate-900 relative shadow-lg">
+                    <iframe 
+                        id="live-video-frame"
+                        class="absolute top-0 left-0 w-full h-full" 
+                        src="https://www.youtube.com/embed/live_stream?channel=UCeE-EWz7OQosUioR_3JdFZw&autoplay=1&mute=1" 
+                        title="Live State News" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+
+                <div class="flex-1 rounded-lg overflow-hidden border border-slate-700 relative bg-slate-900 shadow-lg min-h-[300px]">
+                    <div class="absolute top-2 left-2 z-10 bg-slate-900/90 text-xs text-slate-300 px-2 py-1 rounded border border-slate-600 backdrop-blur-sm">
+                        Live Transit Grid
+                    </div>
+                    <iframe 
+                        width="100%" 
+                        height="100%" 
+                        frameborder="0" 
+                        scrolling="no" 
+                        marginheight="0" 
+                        marginwidth="0" 
+                        src="https://www.openstreetmap.org/export/embed.html?bbox=78.2540%2C17.4550%2C78.3540%2C17.5550&amp;layer=mapnik&amp;marker=17.5050%2C78.3040" 
+                        style="filter: invert(90%) hue-rotate(180deg) brightness(85%) contrast(85%); border: none;">
+                    </iframe>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <script>
+        // 1. Live IST Clock
+        function updateClock() {
+            document.getElementById('live-clock').innerText = new Date().toLocaleTimeString('en-IN', { timeZone: 'Asia/Kolkata' });
+        }
+        setInterval(updateClock, 1000);
+        updateClock();
+
+        // Coordinates for Ramachandrapuram, TS
+        const lat = 17.5050; const lon = 78.3040;
+
+        // 2. Fetch Live Weather & AQI Data
+        async function fetchTelemetryData() {
+            try {
+                // Weather
+                const weatherRes = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,relative_humidity_2m,wind_speed_10m&timezone=auto`);
+                const weatherData = await weatherRes.json();
+                
+                document.getElementById('weather-data').innerHTML = `
+                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Temperature</span> <span class="text-lg font-bold text-amber-400">${weatherData.current.temperature_2m}°C</span></div>
+                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Humidity</span> <span class="text-md text-blue-300">${weatherData.current.relative_humidity_2m}%</span></div>
+                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Wind</span> <span class="text-md text-slate-200">${weatherData.current.wind_speed_10m} km/h</span></div>
+                `;
+
+                // AQI
+                const aqiRes = await fetch(`https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${lat}&longitude=${lon}&current=european_aqi,pm10,pm2_5&timezone=auto`);
+                const aqiData = await aqiRes.json();
+                const aqiValue = aqiData.current.european_aqi;
+                const aqiColor = aqiValue > 100 ? 'text-red-400' : (aqiValue > 50 ? 'text-yellow-400' : 'text-emerald-400');
+
+                document.getElementById('aqi-data').innerHTML = `
+                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">AQI Index</span> <span class="text-lg font-bold ${aqiColor}">${aqiValue}</span></div>
+                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">PM 10</span> <span class="text-md text-slate-200">${aqiData.current.pm10} <span class="text-xs text-slate-500">μg/m³</span></span></div>
+                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">PM 2.5</span> <span class="text-md text-slate-200">${aqiData.current.pm2_5} <span class="text-xs text-slate-500">μg/m³</span></span></div>
+                `;
+            } catch (error) {
+                document.getElementById('weather-data').innerHTML = '<p class="text-red-400 text-xs">Error connecting to telemetry grid.</p>';
+                document.getElementById('aqi-data').innerHTML = '<p class="text-red-400 text-xs">Error connecting to AQI sensors.</p>';
+            }
+        }
+
+        // 3. Intelligence Feed (Google News - Last 24 Hours)
+        async function fetchIntelligenceFeed() {
+            try {
+                const rssUrl = encodeURIComponent('https://news.google.com/rss/search?q=Telangana+when:1d&hl=en-IN&gl=IN&ceid=IN:en');
+                const newsRes = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`);
+                const newsData = await newsRes.json();
+                
+                if(newsData && newsData.items && newsData.items.length > 0) {
+                    let html = '';
+                    newsData.items.slice(0, 15).forEach(article => {
+                        const pubDate = new Date(article.pubDate).toLocaleString('en-IN', { 
+                            timeZone: 'Asia/Kolkata', hour: '2-digit', minute:'2-digit', day: 'numeric', month: 'short' 
+                        });
+                        const source = article.source || 'News Update';
+
+                        html += `
+                            <div class="p-3 bg-slate-800/50 rounded-lg border border-slate-700 hover:border-blue-500 transition-colors group">
+                                <a href="${article.link}" target="_blank" class="text-slate-200 font-medium text-sm group-hover:text-blue-400 transition-colors line-clamp-2 mb-2 leading-snug">${article.title}</a>
+                                <div class="flex justify-between items-center text-xs text-slate-500 mt-2">
+                                    <span class="bg-slate-900 px-2 py-1 rounded border border-slate-700 truncate max-w-[50%]">${source}</span>
+                                    <span class="whitespace-nowrap ml-2">${pubDate}</span>
+                                </div>
+                            </div>
+                        `;
+                    });
+                    document.getElementById('news-data').innerHTML = html;
+                } else {
+                    document.getElementById('news-data').innerHTML = '<p class="text-slate-400 text-sm p-4 text-center">No recent alerts found in the last 24 hours.</p>';
+                }
+            } catch (error) {
+                document.getElementById('news-data').innerHTML = '<p class="text-red-400 text-sm p-4 text-center">Failed to sync with intelligence database.</p>';
+            }
+        }
+
+        // 4. Dynamic Video Feed Update Function
+        function updateVideoFeed() {
+            const channelId = document.getElementById('news-source').value;
+            const videoFrame = document.getElementById('live-video-frame');
+            videoFrame.src = `https://www.youtube.com/embed/live_stream?channel=${channelId}&autoplay=1&mute=1`;
+        }
+
+        // 5. Cultural Spotlight Engine
+        function loadCulturalSpotlight() {
+            const culturalFacts = [
+                { title: "Telugu Script Evolution", desc: "The modern Telugu script evolved from the ancient Bhattiprolu script, a variant of the Brahmi script used around 3rd century BCE, slowly rounding its characters over centuries.", tag: "Linguistics" },
+                { title: "Bathukamma", desc: "A vibrant floral festival celebrating the patron goddess of womanhood, Maha Gauri, with beautiful concentric layers of seasonal flowers.", tag: "Festivals" },
+                { title: "Ramappa Temple", desc: "A UNESCO World Heritage site known for its exquisite Kakatiya architecture and fascinating 'floating bricks'.", tag: "Architecture" },
+                { title: "Golla Bhama Saris", desc: "A GI-tagged handloom craft from Siddipet, known for its intricate motifs of the Golla Bhama (cowherd women) woven directly into the border.", tag: "Arts & Handlooms" },
+                { title: "Oggu Katha", desc: "A traditional folklore singing style of the Yadava community in Telangana, where narrators praise Hindu gods like Shiva and Mallanna with vigorous drumming.", tag: "Performing Arts" }
+            ];
+            
+            const dayOfYear = Math.floor((new Date() - new Date(new Date().getFullYear(), 0, 0)) / (1000 * 60 * 60 * 24));
+            const fact = culturalFacts[dayOfYear % culturalFacts.length];
+
+            document.getElementById('culture-title').innerText = fact.title;
+            document.getElementById('culture-desc').innerText = fact.desc;
+        }
+
+        // Boot up systems
+        fetchTelemetryData();
+        fetchIntelligenceFeed();
+        loadCulturalSpotlight();
+
+        // Auto-refresh dynamic data every 5 minutes
+        setInterval(fetchTelemetryData, 300000);
+        setInterval(fetchIntelligenceFeed, 300000);
+    </script>
+</body>
+</html>
