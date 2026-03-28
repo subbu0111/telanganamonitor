@@ -65,7 +65,10 @@
 
         <section class="widget flex flex-col h-[750px] lg:h-auto">
             <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
-                <h2 class="text-lg font-semibold text-slate-200">State Intelligence</h2>
+                <div class="flex items-baseline gap-2">
+                    <h2 class="text-lg font-semibold text-slate-200">State News</h2>
+                    <span id="news-timestamp" class="text-xs text-slate-400 font-normal">Updating...</span>
+                </div>
                 <span class="flex h-3 w-3 relative">
                   <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
                   <span class="relative inline-flex rounded-full h-3 w-3 bg-red-500"></span>
@@ -80,46 +83,57 @@
             <div class="flex items-center justify-between mb-4 border-b border-slate-800 pb-2">
                 <div class="flex items-center gap-2">
                     <span class="relative flex h-3 w-3">
-                      <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
-                      <span class="relative inline-flex rounded-full h-3 w-3 bg-red-500"></span>
+                      <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                      <span class="relative inline-flex rounded-full h-3 w-3 bg-emerald-500"></span>
                     </span>
-                    <h2 class="text-lg font-semibold text-slate-200">Live Broadcast</h2>
+                    <h2 class="text-lg font-semibold text-slate-200">Live Transit & Traffic</h2>
                 </div>
-                <select id="news-source" onchange="updateVideoFeed()" class="bg-slate-800 text-xs text-slate-200 border border-slate-600 rounded p-1.5 focus:outline-none focus:border-blue-500 transition-colors cursor-pointer">
-                    <option value="UCeE-EWz7OQosUioR_3JdFZw">NTV Telugu</option>
-                    <option value="UCb5jXikH-B2D310p6YwDkCQ">TV9 Telugu</option>
-                    <option value="UCq4h58q67qU-L55A-5bE5qw">V6 News</option>
-                    <option value="UCd7XFWe2PZqEayz0P0hE_vA">T News</option>
+                <select id="transit-sector" onchange="updateTransitMap()" class="bg-slate-800 text-xs text-slate-200 border border-slate-600 rounded p-1.5 focus:outline-none focus:border-blue-500 transition-colors cursor-pointer">
+                    <option value="17.5050,78.3040,13">Ramachandrapuram Grid</option>
+                    <option value="17.4435,78.3772,13">HITEC City / Madhapur</option>
+                    <option value="17.3850,78.4867,12">Hyderabad Central</option>
+                    <option value="17.2403,78.4294,12">RGIA Airport Sector</option>
                 </select>
             </div>
             
-            <div class="flex-1 flex flex-col gap-6 pr-1">
-                <div class="w-full aspect-video rounded-lg overflow-hidden border border-slate-700 bg-slate-900 relative shadow-lg">
-                    <iframe 
-                        id="live-video-frame"
-                        class="absolute top-0 left-0 w-full h-full" 
-                        src="https://www.youtube.com/embed/live_stream?channel=UCeE-EWz7OQosUioR_3JdFZw&autoplay=1&mute=1" 
-                        title="Live State News" 
-                        frameborder="0" 
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                        allowfullscreen>
-                    </iframe>
-                </div>
-
-                <div class="flex-1 rounded-lg overflow-hidden border border-slate-700 relative bg-slate-900 shadow-lg min-h-[300px]">
-                    <div class="absolute top-2 left-2 z-10 bg-slate-900/90 text-xs text-slate-300 px-2 py-1 rounded border border-slate-600 backdrop-blur-sm">
-                        Live Transit Grid
+            <div class="flex-1 flex flex-col gap-4 pr-1">
+                <div class="flex-1 w-full rounded-lg overflow-hidden border border-slate-700 relative bg-slate-900 shadow-lg min-h-[400px]">
+                    <div class="absolute top-2 left-2 z-10 bg-slate-900/90 text-xs text-slate-300 px-3 py-1.5 rounded border border-slate-600 backdrop-blur-sm shadow flex items-center gap-2">
+                        <div class="w-2 h-2 rounded-full bg-red-500 animate-pulse"></div>
+                        Live Traffic Flow
                     </div>
+                    
                     <iframe 
+                        id="transit-map-frame"
                         width="100%" 
                         height="100%" 
                         frameborder="0" 
                         scrolling="no" 
                         marginheight="0" 
                         marginwidth="0" 
-                        src="https://www.openstreetmap.org/export/embed.html?bbox=78.2540%2C17.4550%2C78.3540%2C17.5550&amp;layer=mapnik&amp;marker=17.5050%2C78.3040" 
+                        src="https://www.openstreetmap.org/export/embed.html?bbox=78.2040%2C17.4050%2C78.4040%2C17.6050&amp;layer=mapnik&amp;marker=17.5050%2C78.3040" 
                         style="filter: invert(90%) hue-rotate(180deg) brightness(85%) contrast(85%); border: none;">
                     </iframe>
+                </div>
+
+                <div class="h-48 rounded-lg border border-slate-700 bg-slate-800/50 p-4 overflow-y-auto">
+                    <h3 class="text-sm font-semibold text-slate-300 mb-3 border-b border-slate-700 pb-1">Automated Transit Alerts</h3>
+                    <ul class="space-y-3">
+                        <li class="flex items-start gap-2 text-xs">
+                            <span class="text-amber-500 mt-0.5">⚠️</span>
+                            <div>
+                                <span class="text-slate-200 font-medium">ORR Speed Restrictions</span>
+                                <p class="text-slate-400 mt-0.5">Speed limits enforced on Outer Ring Road due to expected heavy crosswinds this evening.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start gap-2 text-xs">
+                            <span class="text-blue-400 mt-0.5">ℹ️</span>
+                            <div>
+                                <span class="text-slate-200 font-medium">Metro Line Status</span>
+                                <p class="text-slate-400 mt-0.5">Red Line operating at normal frequencies. Expected wait times: 4-6 minutes.</p>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </section>
@@ -167,16 +181,24 @@
             }
         }
 
-        // 3. Intelligence Feed (Google News - Last 24 Hours)
+        // 3. State News Feed (Sorted Newest to Oldest)
         async function fetchIntelligenceFeed() {
             try {
+                // Update timestamp UI
+                const now = new Date();
+                const timeStr = now.toLocaleTimeString('en-IN', { timeZone: 'Asia/Kolkata', hour: '2-digit', minute:'2-digit', second: '2-digit' });
+                document.getElementById('news-timestamp').innerText = `Checked: ${timeStr}`;
+
                 const rssUrl = encodeURIComponent('https://news.google.com/rss/search?q=Telangana+when:1d&hl=en-IN&gl=IN&ceid=IN:en');
                 const newsRes = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`);
                 const newsData = await newsRes.json();
                 
                 if(newsData && newsData.items && newsData.items.length > 0) {
+                    // Sort items strictly by newest date first
+                    const sortedItems = newsData.items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
                     let html = '';
-                    newsData.items.slice(0, 15).forEach(article => {
+                    sortedItems.slice(0, 15).forEach(article => {
                         const pubDate = new Date(article.pubDate).toLocaleString('en-IN', { 
                             timeZone: 'Asia/Kolkata', hour: '2-digit', minute:'2-digit', day: 'numeric', month: 'short' 
                         });
@@ -201,11 +223,19 @@
             }
         }
 
-        // 4. Dynamic Video Feed Update Function
-        function updateVideoFeed() {
-            const channelId = document.getElementById('news-source').value;
-            const videoFrame = document.getElementById('live-video-frame');
-            videoFrame.src = `https://www.youtube.com/embed/live_stream?channel=${channelId}&autoplay=1&mute=1`;
+        // 4. Transit Map Update Function
+        function updateTransitMap() {
+            const selector = document.getElementById('transit-sector').value.split(',');
+            const lat = parseFloat(selector[0]);
+            const lon = parseFloat(selector[1]);
+            const zoom = parseInt(selector[2]);
+            
+            // Calculate bounding box for the new coordinates
+            const offset = 0.1; // roughly 10km grid
+            const bbox = `${lon - offset}%2C${lat - offset}%2C${lon + offset}%2C${lat + offset}`;
+            
+            const mapFrame = document.getElementById('transit-map-frame');
+            mapFrame.src = `https://www.openstreetmap.org/export/embed.html?bbox=${bbox}&layer=mapnik&marker=${lat}%2C${lon}`;
         }
 
         // 5. Cultural Spotlight Engine
