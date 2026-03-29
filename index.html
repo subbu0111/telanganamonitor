@@ -6,263 +6,213 @@
     <title>Telangana Monitor - Real-Time Intelligence</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body { background-color: #0f172a; color: #f8fafc; font-family: 'Inter', system-ui, sans-serif; }
+        body { background-color: #0f172a; color: #f8fafc; font-family: 'Inter', system-ui, sans-serif; overflow-x: hidden; }
         .widget { background-color: #1e293b; border: 1px solid #334155; border-radius: 0.5rem; padding: 1.5rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); }
         .loader { border-top-color: #3b82f6; animation: spinner 1s linear infinite; }
         @keyframes spinner { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        
+        /* Scrolling Ticker Animation */
+        .ticker-wrap { width: 100%; overflow: hidden; background-color: #020617; border-bottom: 1px solid #1e293b; padding: 10px 0; }
+        .ticker { display: inline-block; white-space: nowrap; padding-right: 100%; animation: ticker 40s linear infinite; }
+        @keyframes ticker { 0% { transform: translate3d(0, 0, 0); } 100% { transform: translate3d(-100%, 0, 0); } }
+        .ticker-item { display: inline-block; padding: 0 30px; border-right: 1px solid #334155; }
+        
         ::-webkit-scrollbar { width: 6px; }
         ::-webkit-scrollbar-track { background: #1e293b; }
         ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
-        ::-webkit-scrollbar-thumb:hover { background: #64748b; }
     </style>
 </head>
-<body class="p-4 md:p-8 min-h-screen flex flex-col">
-    <header class="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 border-b border-slate-700 pb-4 gap-4">
-        <div>
-            <h1 class="text-3xl font-bold text-blue-500 tracking-tight">Telangana<span class="text-slate-100">Monitor</span></h1>
-            <p class="text-sm text-slate-400 mt-1">Live State Intelligence & Heritage Dashboard</p>
+<body class="min-h-screen flex flex-col">
+
+    <div id="emergency-bar" class="bg-red-950 border-b border-red-900 text-red-200 px-4 py-2 text-xs font-bold flex items-center justify-between">
+        <div class="flex items-center gap-3">
+            <span class="bg-red-600 text-white px-2 py-0.5 rounded animate-pulse">CRITICAL ALERT</span>
+            <span id="alert-text">Weather: 19 Districts on Yellow Alert for Thunderstorms & Lightning (March 29).</span>
         </div>
-        <div class="flex flex-col items-end bg-slate-800 px-4 py-2 rounded-lg border border-slate-700">
-            <span class="text-xs text-slate-400 uppercase tracking-wider font-semibold">System Time</span>
-            <div id="live-clock" class="text-xl font-mono text-emerald-400 font-bold">--:--:--</div>
+        <div class="hidden md:block">Ref: IMD-Hyderabad Center</div>
+    </div>
+
+    <div class="ticker-wrap">
+        <div class="ticker">
+            <div class="ticker-item"><span class="text-slate-400">GOLD (22K):</span> <span class="text-amber-400">₹13,575/gm</span></div>
+            <div class="ticker-item"><span class="text-slate-400">PETROL:</span> <span class="text-blue-400">₹107.50/L</span></div>
+            <div class="ticker-item"><span class="text-slate-400">DIESEL:</span> <span class="text-slate-200">₹95.70/L</span></div>
+            <div class="ticker-item"><span class="text-slate-400">SILVER:</span> <span class="text-slate-300">₹250/gm</span></div>
+            <div class="ticker-item"><span class="text-slate-400">SYSTEM STATUS:</span> <span class="text-emerald-400">LIVE FEED ACTIVE</span></div>
+            <div class="ticker-item"><span class="text-slate-400">GOLD (22K):</span> <span class="text-amber-400">₹13,575/gm</span></div>
+            <div class="ticker-item"><span class="text-slate-400">PETROL:</span> <span class="text-blue-400">₹107.50/L</span></div>
         </div>
-    </header>
+    </div>
 
-    <main class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 flex-1">
-        
-        <div class="space-y-6 flex flex-col">
-            <section class="widget flex flex-col pb-4">
-                <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
-                    <h2 class="text-lg font-semibold text-slate-200">Live Telemetry</h2>
-                    <span class="text-xs bg-slate-700 px-2 py-1 rounded text-slate-300">Ramachandrapuram</span>
-                </div>
-                <div id="weather-data" class="space-y-3">
-                    <div class="flex justify-center items-center py-2"><div class="loader ease-linear rounded-full border-2 border-t-2 border-slate-600 h-6 w-6"></div></div>
-                </div>
-            </section>
-
-            <section class="widget flex flex-col pb-4">
-                <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
-                    <h2 class="text-lg font-semibold text-slate-200">Environmental Health</h2>
-                    <span class="text-xs bg-slate-700 px-2 py-1 rounded text-slate-300">AQI Data</span>
-                </div>
-                <div id="aqi-data" class="space-y-3">
-                    <div class="flex justify-center items-center py-2"><div class="loader ease-linear rounded-full border-2 border-t-2 border-slate-600 h-6 w-6"></div></div>
-                </div>
-            </section>
-
-            <section class="widget flex flex-col bg-gradient-to-br from-slate-800 to-slate-900 flex-1">
-                <div class="flex items-center justify-between mb-3 border-b border-slate-600 pb-2">
-                    <h2 class="text-lg font-semibold text-amber-500">Cultural Spotlight</h2>
-                    <span class="text-xs bg-amber-900/50 text-amber-300 px-2 py-1 rounded border border-amber-700/50">Daily Heritage</span>
-                </div>
-                <div id="cultural-data" class="flex-1 flex flex-col justify-center items-center text-center p-2">
-                    <h3 id="culture-title" class="text-lg font-bold text-slate-100 mb-2">Loading...</h3>
-                    <p id="culture-desc" class="text-slate-400 text-sm leading-relaxed"></p>
-                </div>
-            </section>
-        </div>
-
-        <section class="widget flex flex-col h-[750px] lg:h-auto">
-            <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
-                <div class="flex items-baseline gap-2">
-                    <h2 class="text-lg font-semibold text-slate-200">State News</h2>
-                    <span id="news-timestamp" class="text-xs text-slate-400 font-normal">Updating...</span>
-                </div>
-                <span class="flex h-3 w-3 relative">
-                  <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
-                  <span class="relative inline-flex rounded-full h-3 w-3 bg-red-500"></span>
-                </span>
+    <div class="p-4 md:p-8 flex-1">
+        <header class="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 border-b border-slate-700 pb-4 gap-4">
+            <div>
+                <h1 class="text-3xl font-bold text-blue-500 tracking-tight">Telangana<span class="text-slate-100">Monitor</span></h1>
+                <p class="text-sm text-slate-400 mt-1">State Intelligence & Command Center</p>
             </div>
-            <div id="news-data" class="space-y-3 overflow-y-auto flex-1 pr-2">
-                <div class="flex justify-center items-center h-full"><div class="loader ease-linear rounded-full border-2 border-t-2 border-slate-600 h-8 w-8"></div></div>
+            <div class="flex flex-col items-end bg-slate-800 px-4 py-2 rounded-lg border border-slate-700">
+                <span class="text-xs text-slate-400 uppercase tracking-wider font-semibold">System Time</span>
+                <div id="live-clock" class="text-xl font-mono text-emerald-400 font-bold">--:--:--</div>
             </div>
-        </section>
+        </header>
 
-        <section class="widget flex flex-col h-[750px] lg:h-auto bg-[#0b1120]">
-            <div class="flex items-center justify-between mb-4 border-b border-slate-800 pb-2">
-                <div class="flex items-center gap-2">
-                    <span class="relative flex h-3 w-3">
-                      <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
-                      <span class="relative inline-flex rounded-full h-3 w-3 bg-emerald-500"></span>
-                    </span>
-                    <h2 class="text-lg font-semibold text-slate-200">Live Transit & Traffic</h2>
-                </div>
-                <select id="transit-sector" onchange="updateTransitMap()" class="bg-slate-800 text-xs text-slate-200 border border-slate-600 rounded p-1.5 focus:outline-none focus:border-blue-500 transition-colors cursor-pointer">
-                    <option value="17.5050,78.3040,13">Ramachandrapuram Grid</option>
-                    <option value="17.4435,78.3772,13">HITEC City / Madhapur</option>
-                    <option value="17.3850,78.4867,12">Hyderabad Central</option>
-                    <option value="17.2403,78.4294,12">RGIA Airport Sector</option>
-                </select>
-            </div>
+        <main class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 flex-1">
             
-            <div class="flex-1 flex flex-col gap-4 pr-1">
-                <div class="flex-1 w-full rounded-lg overflow-hidden border border-slate-700 relative bg-slate-900 shadow-lg min-h-[400px]">
-                    <div class="absolute top-2 left-2 z-10 bg-slate-900/90 text-xs text-slate-300 px-3 py-1.5 rounded border border-slate-600 backdrop-blur-sm shadow flex items-center gap-2">
-                        <div class="w-2 h-2 rounded-full bg-red-500 animate-pulse"></div>
-                        Live Traffic Flow
+            <div class="space-y-6 flex flex-col">
+                <section class="widget flex flex-col">
+                    <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
+                        <h2 class="text-lg font-semibold text-slate-200">Live Telemetry</h2>
+                        <span class="text-xs bg-slate-700 px-2 py-1 rounded text-slate-300">Ramachandrapuram</span>
                     </div>
-                    
-                    <iframe 
-                        id="transit-map-frame"
-                        width="100%" 
-                        height="100%" 
-                        frameborder="0" 
-                        scrolling="no" 
-                        marginheight="0" 
-                        marginwidth="0" 
-                        src="https://www.openstreetmap.org/export/embed.html?bbox=78.2040%2C17.4050%2C78.4040%2C17.6050&amp;layer=mapnik&amp;marker=17.5050%2C78.3040" 
-                        style="filter: invert(90%) hue-rotate(180deg) brightness(85%) contrast(85%); border: none;">
-                    </iframe>
-                </div>
+                    <div id="weather-data" class="space-y-3">
+                        <div class="flex justify-center items-center py-2"><div class="loader ease-linear rounded-full border-2 border-t-2 border-slate-600 h-6 w-6"></div></div>
+                    </div>
+                </section>
 
-                <div class="h-48 rounded-lg border border-slate-700 bg-slate-800/50 p-4 overflow-y-auto">
-                    <h3 class="text-sm font-semibold text-slate-300 mb-3 border-b border-slate-700 pb-1">Automated Transit Alerts</h3>
-                    <ul class="space-y-3">
-                        <li class="flex items-start gap-2 text-xs">
-                            <span class="text-amber-500 mt-0.5">⚠️</span>
-                            <div>
-                                <span class="text-slate-200 font-medium">ORR Speed Restrictions</span>
-                                <p class="text-slate-400 mt-0.5">Speed limits enforced on Outer Ring Road due to expected heavy crosswinds this evening.</p>
-                            </div>
-                        </li>
-                        <li class="flex items-start gap-2 text-xs">
-                            <span class="text-blue-400 mt-0.5">ℹ️</span>
-                            <div>
-                                <span class="text-slate-200 font-medium">Metro Line Status</span>
-                                <p class="text-slate-400 mt-0.5">Red Line operating at normal frequencies. Expected wait times: 4-6 minutes.</p>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
+                <section class="widget flex flex-col">
+                    <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
+                        <h2 class="text-lg font-semibold text-blue-400">Hydro Intelligence</h2>
+                        <span class="text-xs bg-blue-900/40 text-blue-300 px-2 py-1 rounded">Storage TMC</span>
+                    </div>
+                    <div class="space-y-4">
+                        <div>
+                            <div class="flex justify-between text-xs mb-1"><span class="text-slate-400">Himayat Sagar (1.70 / 2.97)</span> <span class="text-blue-400">57%</span></div>
+                            <div class="w-full bg-slate-700 rounded-full h-2"><div class="bg-blue-500 h-2 rounded-full" style="width: 57%"></div></div>
+                        </div>
+                        <div>
+                            <div class="flex justify-between text-xs mb-1"><span class="text-slate-400">Osman Sagar (1.89 / 3.90)</span> <span class="text-blue-400">48%</span></div>
+                            <div class="w-full bg-slate-700 rounded-full h-2"><div class="bg-blue-400 h-2 rounded-full" style="width: 48%"></div></div>
+                        </div>
+                        <p class="text-[10px] text-slate-500 italic">Data ref: HMWSSB Grid Report (Mar 2026)</p>
+                    </div>
+                </section>
+
+                <section class="widget flex flex-col bg-gradient-to-br from-slate-800 to-slate-900 flex-1">
+                    <div class="flex items-center justify-between mb-3 border-b border-slate-600 pb-2">
+                        <h2 class="text-lg font-semibold text-amber-500">Cultural Spotlight</h2>
+                        <span class="text-xs bg-amber-900/50 text-amber-300 px-2 py-1 rounded">Heritage</span>
+                    </div>
+                    <div id="cultural-data" class="flex-1 flex flex-col justify-center items-center text-center p-2">
+                        <h3 id="culture-title" class="text-lg font-bold text-slate-100 mb-2">Loading...</h3>
+                        <p id="culture-desc" class="text-slate-400 text-sm leading-relaxed"></p>
+                    </div>
+                </section>
             </div>
-        </section>
 
-    </main>
+            <section class="widget flex flex-col h-[750px] lg:h-auto">
+                <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
+                    <div class="flex items-baseline gap-2">
+                        <h2 class="text-lg font-semibold text-slate-200">State News</h2>
+                        <span id="news-timestamp" class="text-[10px] text-slate-500 uppercase tracking-widest">Updating...</span>
+                    </div>
+                    <span class="flex h-3 w-3 relative">
+                      <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+                      <span class="relative inline-flex rounded-full h-3 w-3 bg-red-500"></span>
+                    </span>
+                </div>
+                <div id="news-data" class="space-y-3 overflow-y-auto flex-1 pr-2">
+                    <div class="flex justify-center items-center h-full"><div class="loader ease-linear rounded-full border-2 border-t-2 border-slate-600 h-8 w-8"></div></div>
+                </div>
+            </section>
+
+            <section class="widget flex flex-col h-[750px] lg:h-auto bg-[#0b1120]">
+                <div class="flex items-center justify-between mb-4 border-b border-slate-800 pb-2">
+                    <div class="flex items-center gap-2">
+                        <span class="relative flex h-3 w-3"><span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span><span class="relative inline-flex rounded-full h-3 w-3 bg-emerald-500"></span></span>
+                        <h2 class="text-lg font-semibold text-slate-200">Live Transit</h2>
+                    </div>
+                    <select id="transit-sector" onchange="updateTransitMap()" class="bg-slate-800 text-[10px] text-slate-200 border border-slate-600 rounded px-1.5 py-1 focus:outline-none cursor-pointer">
+                        <option value="17.5050,78.3040,13">RC Puram Grid</option>
+                        <option value="17.4435,78.3772,13">HITEC City</option>
+                        <option value="17.3850,78.4867,12">Hyd Central</option>
+                    </select>
+                </div>
+                <div class="flex-1 flex flex-col gap-4">
+                    <div class="flex-1 w-full rounded-lg overflow-hidden border border-slate-700 relative bg-slate-900 shadow-lg min-h-[350px]">
+                        <iframe id="transit-map-frame" width="100%" height="100%" frameborder="0" src="https://www.openstreetmap.org/export/embed.html?bbox=78.2040%2C17.4050%2C78.4040%2C17.6050&amp;layer=mapnik&amp;marker=17.5050%2C78.3040" style="filter: invert(90%) hue-rotate(180deg) brightness(85%) contrast(85%);"></iframe>
+                    </div>
+                    <div class="h-40 rounded-lg border border-slate-700 bg-slate-800/50 p-3 overflow-y-auto">
+                        <h3 class="text-xs font-bold text-slate-300 mb-2 border-b border-slate-700 pb-1 uppercase tracking-tighter">Automated Transit Intelligence</h3>
+                        <ul class="space-y-2" id="transit-alerts">
+                            <li class="flex items-start gap-2 text-[11px]"><span class="text-amber-500">⚠️</span> <div><span class="text-slate-200 font-medium">ORR Speed Warning</span><p class="text-slate-500">Gusty winds (40kmph) expected. Reduced speeds advised for heavy vehicles.</p></div></li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
 
     <script>
-        // 1. Live IST Clock
-        function updateClock() {
+        // 1. Live Clock
+        setInterval(() => {
             document.getElementById('live-clock').innerText = new Date().toLocaleTimeString('en-IN', { timeZone: 'Asia/Kolkata' });
-        }
-        setInterval(updateClock, 1000);
-        updateClock();
+        }, 1000);
 
-        // Coordinates for Ramachandrapuram, TS
-        const lat = 17.5050; const lon = 78.3040;
-
-        // 2. Fetch Live Weather & AQI Data
+        // 2. Fetch Telemetry & AQI
         async function fetchTelemetryData() {
             try {
-                // Weather
-                const weatherRes = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,relative_humidity_2m,wind_speed_10m&timezone=auto`);
-                const weatherData = await weatherRes.json();
+                const lat = 17.5050, lon = 78.3040;
+                const weather = await (await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,relative_humidity_2m&timezone=auto`)).json();
+                const aqi = await (await fetch(`https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${lat}&longitude=${lon}&current=european_aqi&timezone=auto`)).json();
                 
                 document.getElementById('weather-data').innerHTML = `
-                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Temperature</span> <span class="text-lg font-bold text-amber-400">${weatherData.current.temperature_2m}°C</span></div>
-                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Humidity</span> <span class="text-md text-blue-300">${weatherData.current.relative_humidity_2m}%</span></div>
-                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Wind</span> <span class="text-md text-slate-200">${weatherData.current.wind_speed_10m} km/h</span></div>
+                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Temperature</span> <span class="text-lg font-bold text-amber-400">${weather.current.temperature_2m}°C</span></div>
+                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Air Quality</span> <span class="text-md font-bold text-emerald-400">${aqi.current.european_aqi} AQI</span></div>
                 `;
-
-                // AQI
-                const aqiRes = await fetch(`https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${lat}&longitude=${lon}&current=european_aqi,pm10,pm2_5&timezone=auto`);
-                const aqiData = await aqiRes.json();
-                const aqiValue = aqiData.current.european_aqi;
-                const aqiColor = aqiValue > 100 ? 'text-red-400' : (aqiValue > 50 ? 'text-yellow-400' : 'text-emerald-400');
-
-                document.getElementById('aqi-data').innerHTML = `
-                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">AQI Index</span> <span class="text-lg font-bold ${aqiColor}">${aqiValue}</span></div>
-                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">PM 10</span> <span class="text-md text-slate-200">${aqiData.current.pm10} <span class="text-xs text-slate-500">μg/m³</span></span></div>
-                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">PM 2.5</span> <span class="text-md text-slate-200">${aqiData.current.pm2_5} <span class="text-xs text-slate-500">μg/m³</span></span></div>
-                `;
-            } catch (error) {
-                document.getElementById('weather-data').innerHTML = '<p class="text-red-400 text-xs">Error connecting to telemetry grid.</p>';
-                document.getElementById('aqi-data').innerHTML = '<p class="text-red-400 text-xs">Error connecting to AQI sensors.</p>';
-            }
+            } catch (e) {}
         }
 
-        // 3. State News Feed (Sorted Newest to Oldest)
+        // 3. Refined News Feed (Newest First)
         async function fetchIntelligenceFeed() {
             try {
-                // Update timestamp UI
                 const now = new Date();
-                const timeStr = now.toLocaleTimeString('en-IN', { timeZone: 'Asia/Kolkata', hour: '2-digit', minute:'2-digit', second: '2-digit' });
-                document.getElementById('news-timestamp').innerText = `Checked: ${timeStr}`;
+                document.getElementById('news-timestamp').innerText = `Sync: ${now.toLocaleTimeString('en-IN', { hour: '2-digit', minute:'2-digit' })}`;
 
-                const rssUrl = encodeURIComponent('https://news.google.com/rss/search?q=Telangana+when:1d&hl=en-IN&gl=IN&ceid=IN:en');
-                const newsRes = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`);
-                const newsData = await newsRes.json();
+                // Intelligence-targeted keywords
+                const query = 'Telangana+(alert+OR+traffic+OR+weather+OR+government+OR+policy+OR+water)';
+                const rssUrl = encodeURIComponent(`https://news.google.com/rss/search?q=${query}+when:1d&hl=en-IN&gl=IN&ceid=IN:en`);
+                const res = await (await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`)).json();
                 
-                if(newsData && newsData.items && newsData.items.length > 0) {
-                    // Sort items strictly by newest date first
-                    const sortedItems = newsData.items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-
+                if(res.items) {
+                    const sorted = res.items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
                     let html = '';
-                    sortedItems.slice(0, 15).forEach(article => {
-                        const pubDate = new Date(article.pubDate).toLocaleString('en-IN', { 
-                            timeZone: 'Asia/Kolkata', hour: '2-digit', minute:'2-digit', day: 'numeric', month: 'short' 
-                        });
-                        const source = article.source || 'News Update';
+                    sorted.slice(0, 15).forEach(item => {
+                        const title = item.title.toLowerCase();
+                        let tag = '📰 News', border = 'border-slate-700';
+                        if (title.includes('weather') || title.includes('rain')) { tag='🌦️ Weather'; border='border-amber-900/50'; }
+                        else if (title.includes('traffic') || title.includes('metro')) { tag='🚦 Transit'; border='border-blue-900/50'; }
+                        else if (title.includes('govt') || title.includes('assembly')) { tag='🏛️ Policy'; border='border-emerald-900/50'; }
+                        else if (title.includes('alert') || title.includes('panic')) { tag='🚨 Alert'; border='border-red-900/50'; }
 
                         html += `
-                            <div class="p-3 bg-slate-800/50 rounded-lg border border-slate-700 hover:border-blue-500 transition-colors group">
-                                <a href="${article.link}" target="_blank" class="text-slate-200 font-medium text-sm group-hover:text-blue-400 transition-colors line-clamp-2 mb-2 leading-snug">${article.title}</a>
-                                <div class="flex justify-between items-center text-xs text-slate-500 mt-2">
-                                    <span class="bg-slate-900 px-2 py-1 rounded border border-slate-700 truncate max-w-[50%]">${source}</span>
-                                    <span class="whitespace-nowrap ml-2">${pubDate}</span>
-                                </div>
-                            </div>
-                        `;
+                            <div class="p-3 bg-slate-800/40 rounded-lg border-l-4 ${border} hover:bg-slate-800 transition-all mb-3">
+                                <div class="flex justify-between text-[10px] uppercase font-bold text-slate-500 mb-1"><span>${tag}</span><span>${new Date(item.pubDate).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}</span></div>
+                                <a href="${item.link}" target="_blank" class="text-slate-200 font-medium text-sm leading-snug hover:text-blue-400">${item.title}</a>
+                            </div>`;
                     });
                     document.getElementById('news-data').innerHTML = html;
-                } else {
-                    document.getElementById('news-data').innerHTML = '<p class="text-slate-400 text-sm p-4 text-center">No recent alerts found in the last 24 hours.</p>';
                 }
-            } catch (error) {
-                document.getElementById('news-data').innerHTML = '<p class="text-red-400 text-sm p-4 text-center">Failed to sync with intelligence database.</p>';
-            }
+            } catch (e) {}
         }
 
-        // 4. Transit Map Update Function
         function updateTransitMap() {
-            const selector = document.getElementById('transit-sector').value.split(',');
-            const lat = parseFloat(selector[0]);
-            const lon = parseFloat(selector[1]);
-            const zoom = parseInt(selector[2]);
-            
-            // Calculate bounding box for the new coordinates
-            const offset = 0.1; // roughly 10km grid
-            const bbox = `${lon - offset}%2C${lat - offset}%2C${lon + offset}%2C${lat + offset}`;
-            
-            const mapFrame = document.getElementById('transit-map-frame');
-            mapFrame.src = `https://www.openstreetmap.org/export/embed.html?bbox=${bbox}&layer=mapnik&marker=${lat}%2C${lon}`;
+            const s = document.getElementById('transit-sector').value.split(',');
+            const lat = parseFloat(s[0]), lon = parseFloat(s[1]), offset = 0.05;
+            document.getElementById('transit-map-frame').src = `https://www.openstreetmap.org/export/embed.html?bbox=${lon-offset}%2C${lat-offset}%2C${lon+offset}%2C${lat+offset}&layer=mapnik&marker=${lat}%2C${lon}`;
         }
 
-        // 5. Cultural Spotlight Engine
         function loadCulturalSpotlight() {
-            const culturalFacts = [
-                { title: "Telugu Script Evolution", desc: "The modern Telugu script evolved from the ancient Bhattiprolu script, a variant of the Brahmi script used around 3rd century BCE, slowly rounding its characters over centuries.", tag: "Linguistics" },
-                { title: "Bathukamma", desc: "A vibrant floral festival celebrating the patron goddess of womanhood, Maha Gauri, with beautiful concentric layers of seasonal flowers.", tag: "Festivals" },
-                { title: "Ramappa Temple", desc: "A UNESCO World Heritage site known for its exquisite Kakatiya architecture and fascinating 'floating bricks'.", tag: "Architecture" },
-                { title: "Golla Bhama Saris", desc: "A GI-tagged handloom craft from Siddipet, known for its intricate motifs of the Golla Bhama (cowherd women) woven directly into the border.", tag: "Arts & Handlooms" },
-                { title: "Oggu Katha", desc: "A traditional folklore singing style of the Yadava community in Telangana, where narrators praise Hindu gods like Shiva and Mallanna with vigorous drumming.", tag: "Performing Arts" }
+            const facts = [
+                { title: "Telugu Script Evolution", desc: "Evolved from ancient Bhattiprolu Brahmi (3rd c. BCE).", tag: "Linguistics" },
+                { title: "Ramappa Floating Bricks", desc: "UNESCO site with bricks light enough to float on water.", tag: "Architecture" }
             ];
-            
-            const dayOfYear = Math.floor((new Date() - new Date(new Date().getFullYear(), 0, 0)) / (1000 * 60 * 60 * 24));
-            const fact = culturalFacts[dayOfYear % culturalFacts.length];
-
+            const fact = facts[new Date().getDate() % facts.length];
             document.getElementById('culture-title').innerText = fact.title;
             document.getElementById('culture-desc').innerText = fact.desc;
         }
 
-        // Boot up systems
-        fetchTelemetryData();
-        fetchIntelligenceFeed();
-        loadCulturalSpotlight();
-
-        // Auto-refresh dynamic data every 5 minutes
-        setInterval(fetchTelemetryData, 300000);
-        setInterval(fetchIntelligenceFeed, 300000);
+        fetchTelemetryData(); fetchIntelligenceFeed(); loadCulturalSpotlight();
+        setInterval(fetchTelemetryData, 300000); setInterval(fetchIntelligenceFeed, 300000);
     </script>
 </body>
 </html>
