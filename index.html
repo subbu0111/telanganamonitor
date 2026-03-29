@@ -11,9 +11,8 @@
         .loader { border-top-color: #3b82f6; animation: spinner 1s linear infinite; }
         @keyframes spinner { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
         
-        /* Scrolling Ticker Animation */
         .ticker-wrap { width: 100%; overflow: hidden; background-color: #020617; border-bottom: 1px solid #1e293b; padding: 10px 0; }
-        .ticker { display: inline-block; white-space: nowrap; padding-right: 100%; animation: ticker 40s linear infinite; }
+        .ticker { display: inline-block; white-space: nowrap; padding-right: 100%; animation: ticker 45s linear infinite; }
         @keyframes ticker { 0% { transform: translate3d(0, 0, 0); } 100% { transform: translate3d(-100%, 0, 0); } }
         .ticker-item { display: inline-block; padding: 0 30px; border-right: 1px solid #334155; }
         
@@ -26,21 +25,20 @@
 
     <div id="emergency-bar" class="bg-red-950 border-b border-red-900 text-red-200 px-4 py-2 text-xs font-bold flex items-center justify-between">
         <div class="flex items-center gap-3">
-            <span class="bg-red-600 text-white px-2 py-0.5 rounded animate-pulse">CRITICAL ALERT</span>
-            <span id="alert-text">Weather: 19 Districts on Yellow Alert for Thunderstorms & Lightning (March 29).</span>
+            <span class="bg-red-600 text-white px-2 py-0.5 rounded animate-pulse uppercase">Intelligence Alert</span>
+            <span id="alert-text">Weather: IMD issues YELLOW ALERT for Mar 30. Intense Thunderstorms & Gusty Winds (50 KMPH) in Rangareddy, Sangareddy, and Vikarabad.</span>
         </div>
-        <div class="hidden md:block">Ref: IMD-Hyderabad Center</div>
+        <div class="hidden md:block">Ref: IMD-Hyd / NDRF-TS</div>
     </div>
 
     <div class="ticker-wrap">
         <div class="ticker">
-            <div class="ticker-item"><span class="text-slate-400">GOLD (22K):</span> <span class="text-amber-400">₹13,575/gm</span></div>
-            <div class="ticker-item"><span class="text-slate-400">PETROL:</span> <span class="text-blue-400">₹107.50/L</span></div>
-            <div class="ticker-item"><span class="text-slate-400">DIESEL:</span> <span class="text-slate-200">₹95.70/L</span></div>
-            <div class="ticker-item"><span class="text-slate-400">SILVER:</span> <span class="text-slate-300">₹250/gm</span></div>
-            <div class="ticker-item"><span class="text-slate-400">SYSTEM STATUS:</span> <span class="text-emerald-400">LIVE FEED ACTIVE</span></div>
-            <div class="ticker-item"><span class="text-slate-400">GOLD (22K):</span> <span class="text-amber-400">₹13,575/gm</span></div>
-            <div class="ticker-item"><span class="text-slate-400">PETROL:</span> <span class="text-blue-400">₹107.50/L</span></div>
+            <div class="ticker-item"><span class="text-slate-400">GOLD (24K):</span> <span class="text-amber-400">₹7,485/gm</span></div>
+            <div class="ticker-item"><span class="text-slate-400">HYD PETROL:</span> <span class="text-blue-400">₹107.51</span></div>
+            <div class="ticker-item"><span class="text-slate-400">HYD DIESEL:</span> <span class="text-slate-200">₹95.74</span></div>
+            <div class="ticker-item"><span class="text-slate-400">COMMODITY:</span> <span class="text-emerald-400">Srisailam Level: 834.40 ft</span></div>
+            <div class="ticker-item"><span class="text-slate-400">POLITICAL:</span> <span class="text-slate-300">Metro Phase-I Handover Scheduled Mar 31</span></div>
+            <div class="ticker-item"><span class="text-slate-400">GOLD (24K):</span> <span class="text-amber-400">₹7,485/gm</span></div>
         </div>
     </div>
 
@@ -48,10 +46,10 @@
         <header class="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 border-b border-slate-700 pb-4 gap-4">
             <div>
                 <h1 class="text-3xl font-bold text-blue-500 tracking-tight">Telangana<span class="text-slate-100">Monitor</span></h1>
-                <p class="text-sm text-slate-400 mt-1">State Intelligence & Command Center</p>
+                <p class="text-sm text-slate-400 mt-1">Real-Time State Intelligence Center</p>
             </div>
             <div class="flex flex-col items-end bg-slate-800 px-4 py-2 rounded-lg border border-slate-700">
-                <span class="text-xs text-slate-400 uppercase tracking-wider font-semibold">System Time</span>
+                <span class="text-xs text-slate-400 uppercase tracking-wider font-semibold">IST Time</span>
                 <div id="live-clock" class="text-xl font-mono text-emerald-400 font-bold">--:--:--</div>
             </div>
         </header>
@@ -61,8 +59,8 @@
             <div class="space-y-6 flex flex-col">
                 <section class="widget flex flex-col">
                     <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
-                        <h2 class="text-lg font-semibold text-slate-200">Live Telemetry</h2>
-                        <span class="text-xs bg-slate-700 px-2 py-1 rounded text-slate-300">Ramachandrapuram</span>
+                        <h2 class="text-lg font-semibold text-slate-200">Local Telemetry</h2>
+                        <span class="text-xs bg-slate-700 px-2 py-1 rounded text-slate-300">RC Puram Sector</span>
                     </div>
                     <div id="weather-data" class="space-y-3">
                         <div class="flex justify-center items-center py-2"><div class="loader ease-linear rounded-full border-2 border-t-2 border-slate-600 h-6 w-6"></div></div>
@@ -71,19 +69,18 @@
 
                 <section class="widget flex flex-col">
                     <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
-                        <h2 class="text-lg font-semibold text-blue-400">Hydro Intelligence</h2>
-                        <span class="text-xs bg-blue-900/40 text-blue-300 px-2 py-1 rounded">Storage TMC</span>
+                        <h2 class="text-lg font-semibold text-blue-400">Hydro Monitoring</h2>
+                        <span class="text-xs bg-blue-900/40 text-blue-300 px-2 py-1 rounded">Mar 30 Status</span>
                     </div>
                     <div class="space-y-4">
                         <div>
-                            <div class="flex justify-between text-xs mb-1"><span class="text-slate-400">Himayat Sagar (1.70 / 2.97)</span> <span class="text-blue-400">57%</span></div>
+                            <div class="flex justify-between text-xs mb-1"><span class="text-slate-400">Himayat Sagar Storage</span> <span class="text-blue-400">1.70 TMC</span></div>
                             <div class="w-full bg-slate-700 rounded-full h-2"><div class="bg-blue-500 h-2 rounded-full" style="width: 57%"></div></div>
                         </div>
                         <div>
-                            <div class="flex justify-between text-xs mb-1"><span class="text-slate-400">Osman Sagar (1.89 / 3.90)</span> <span class="text-blue-400">48%</span></div>
+                            <div class="flex justify-between text-xs mb-1"><span class="text-slate-400">Osman Sagar Storage</span> <span class="text-blue-400">1.89 TMC</span></div>
                             <div class="w-full bg-slate-700 rounded-full h-2"><div class="bg-blue-400 h-2 rounded-full" style="width: 48%"></div></div>
                         </div>
-                        <p class="text-[10px] text-slate-500 italic">Data ref: HMWSSB Grid Report (Mar 2026)</p>
                     </div>
                 </section>
 
@@ -103,7 +100,7 @@
                 <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
                     <div class="flex items-baseline gap-2">
                         <h2 class="text-lg font-semibold text-slate-200">State News</h2>
-                        <span id="news-timestamp" class="text-[10px] text-slate-500 uppercase tracking-widest">Updating...</span>
+                        <span id="news-timestamp" class="text-[10px] text-slate-500 uppercase tracking-widest font-bold">Sync: --:--</span>
                     </div>
                     <span class="flex h-3 w-3 relative">
                       <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
@@ -119,12 +116,12 @@
                 <div class="flex items-center justify-between mb-4 border-b border-slate-800 pb-2">
                     <div class="flex items-center gap-2">
                         <span class="relative flex h-3 w-3"><span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span><span class="relative inline-flex rounded-full h-3 w-3 bg-emerald-500"></span></span>
-                        <h2 class="text-lg font-semibold text-slate-200">Live Transit</h2>
+                        <h2 class="text-lg font-semibold text-slate-200">Transit Pulse</h2>
                     </div>
                     <select id="transit-sector" onchange="updateTransitMap()" class="bg-slate-800 text-[10px] text-slate-200 border border-slate-600 rounded px-1.5 py-1 focus:outline-none cursor-pointer">
                         <option value="17.5050,78.3040,13">RC Puram Grid</option>
                         <option value="17.4435,78.3772,13">HITEC City</option>
-                        <option value="17.3850,78.4867,12">Hyd Central</option>
+                        <option value="17.2403,78.4294,12">RGIA Airport</option>
                     </select>
                 </div>
                 <div class="flex-1 flex flex-col gap-4">
@@ -132,9 +129,9 @@
                         <iframe id="transit-map-frame" width="100%" height="100%" frameborder="0" src="https://www.openstreetmap.org/export/embed.html?bbox=78.2040%2C17.4050%2C78.4040%2C17.6050&amp;layer=mapnik&amp;marker=17.5050%2C78.3040" style="filter: invert(90%) hue-rotate(180deg) brightness(85%) contrast(85%);"></iframe>
                     </div>
                     <div class="h-40 rounded-lg border border-slate-700 bg-slate-800/50 p-3 overflow-y-auto">
-                        <h3 class="text-xs font-bold text-slate-300 mb-2 border-b border-slate-700 pb-1 uppercase tracking-tighter">Automated Transit Intelligence</h3>
+                        <h3 class="text-xs font-bold text-slate-300 mb-2 border-b border-slate-700 pb-1 uppercase tracking-tighter">Live Traffic Intelligence</h3>
                         <ul class="space-y-2" id="transit-alerts">
-                            <li class="flex items-start gap-2 text-[11px]"><span class="text-amber-500">⚠️</span> <div><span class="text-slate-200 font-medium">ORR Speed Warning</span><p class="text-slate-500">Gusty winds (40kmph) expected. Reduced speeds advised for heavy vehicles.</p></div></li>
+                            <li class="flex items-start gap-2 text-[11px]"><span class="text-amber-500">⚠️</span> <div><span class="text-slate-200 font-medium">HMWSSB Pipe Leak</span><p class="text-slate-500">Miyapur X Road reported waterlogging. Traffic slow toward Bachupally.</p></div></li>
                         </ul>
                     </div>
                 </div>
@@ -148,7 +145,62 @@
             document.getElementById('live-clock').innerText = new Date().toLocaleTimeString('en-IN', { timeZone: 'Asia/Kolkata' });
         }, 1000);
 
-        // 2. Fetch Telemetry & AQI
+        // 2. Fetch News (Using your High-Intelligence Keywords)
+        async function fetchIntelligenceFeed() {
+            try {
+                const now = new Date();
+                document.getElementById('news-timestamp').innerText = `Sync: ${now.toLocaleTimeString('en-IN', { hour: '2-digit', minute:'2-digit' })}`;
+
+                // TARGETED QUERY: Grouping all your keywords with 'when:12h' for absolute freshness
+                const securityKwd = '("Telangana police" OR "Hyderabad crime" OR Cyberabad OR Rachakonda OR TGCSB)';
+                const govtKwd = '("government order" OR "Telangana GO" OR "TSPSC" OR "Revanth Reddy")';
+                const infraKwd = '("Hyderabad Metro" OR "RRR project" OR "ORR Hyderabad" OR GHMC OR HMDA)';
+                const agriKwd = '("Rythu Bandhu" OR Kaleshwaram OR "Srisailam reservoir" OR "WAQF")';
+                
+                const finalQuery = `${securityKwd} OR ${govtKwd} OR ${infraKwd} OR ${agriKwd} when:12h`;
+                const rssUrl = encodeURIComponent(`https://news.google.com/rss/search?q=${finalQuery}&hl=en-IN&gl=IN&ceid=IN:en`);
+                
+                const res = await (await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`)).json();
+                
+                if(res.items) {
+                    const sorted = res.items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+                    let html = '';
+                    
+                    sorted.slice(0, 18).forEach(item => {
+                        const title = item.title.toLowerCase();
+                        let tag = '🛡️ Security', border = 'border-slate-700';
+                        
+                        // Categorization based on your exact keywords
+                        if (title.includes('police') || title.includes('crime') || title.includes('cyber') || title.includes('arrest')) {
+                            tag = '🛡️ Security'; border = 'border-red-900/50';
+                        } else if (title.includes('go ') || title.includes('govt') || title.includes('order') || title.includes('revanth')) {
+                            tag = '🏛️ Governance'; border = 'border-emerald-900/50';
+                        } else if (title.includes('metro') || title.includes('orr') || title.includes('rrr') || title.includes('ghmc')) {
+                            tag = '🏗️ Infra'; border = 'border-blue-900/50';
+                        } else if (title.includes('rythu') || title.includes('agri') || title.includes('kaleshwaram') || title.includes('reservoir')) {
+                            tag = '🌾 Agri/Water'; border = 'border-amber-900/50';
+                        } else if (title.includes('rain') || title.includes('imd') || title.includes('flood') || title.includes('fire')) {
+                            tag = '⚠️ Disaster'; border = 'border-orange-900/50';
+                        }
+
+                        html += `
+                            <div class="p-3 bg-slate-800/40 rounded-lg border-l-4 ${border} hover:bg-slate-800 transition-all mb-3">
+                                <div class="flex justify-between text-[10px] uppercase font-bold text-slate-500 mb-1">
+                                    <span>${tag}</span>
+                                    <span>${new Date(item.pubDate).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}</span>
+                                </div>
+                                <a href="${item.link}" target="_blank" class="text-slate-200 font-medium text-sm leading-snug hover:text-blue-400">${item.title}</a>
+                                <div class="text-[9px] text-slate-600 mt-2 italic">${item.source}</div>
+                            </div>`;
+                    });
+                    document.getElementById('news-data').innerHTML = html;
+                }
+            } catch (e) {
+                document.getElementById('news-data').innerHTML = '<p class="text-red-400 text-xs p-4 text-center">Intelligence Sync Interrupted. Retrying...</p>';
+            }
+        }
+
+        // 3. Environment Telemetry
         async function fetchTelemetryData() {
             try {
                 const lat = 17.5050, lon = 78.3040;
@@ -156,42 +208,9 @@
                 const aqi = await (await fetch(`https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${lat}&longitude=${lon}&current=european_aqi&timezone=auto`)).json();
                 
                 document.getElementById('weather-data').innerHTML = `
-                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Temperature</span> <span class="text-lg font-bold text-amber-400">${weather.current.temperature_2m}°C</span></div>
-                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Air Quality</span> <span class="text-md font-bold text-emerald-400">${aqi.current.european_aqi} AQI</span></div>
+                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Air Temperature</span> <span class="text-lg font-bold text-amber-400">${weather.current.temperature_2m}°C</span></div>
+                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Health Index</span> <span class="text-md font-bold text-emerald-400">${aqi.current.european_aqi} AQI</span></div>
                 `;
-            } catch (e) {}
-        }
-
-        // 3. Refined News Feed (Newest First)
-        async function fetchIntelligenceFeed() {
-            try {
-                const now = new Date();
-                document.getElementById('news-timestamp').innerText = `Sync: ${now.toLocaleTimeString('en-IN', { hour: '2-digit', minute:'2-digit' })}`;
-
-                // Intelligence-targeted keywords
-                const query = 'Telangana+(alert+OR+traffic+OR+weather+OR+government+OR+policy+OR+water)';
-                const rssUrl = encodeURIComponent(`https://news.google.com/rss/search?q=${query}+when:1d&hl=en-IN&gl=IN&ceid=IN:en`);
-                const res = await (await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`)).json();
-                
-                if(res.items) {
-                    const sorted = res.items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-                    let html = '';
-                    sorted.slice(0, 15).forEach(item => {
-                        const title = item.title.toLowerCase();
-                        let tag = '📰 News', border = 'border-slate-700';
-                        if (title.includes('weather') || title.includes('rain')) { tag='🌦️ Weather'; border='border-amber-900/50'; }
-                        else if (title.includes('traffic') || title.includes('metro')) { tag='🚦 Transit'; border='border-blue-900/50'; }
-                        else if (title.includes('govt') || title.includes('assembly')) { tag='🏛️ Policy'; border='border-emerald-900/50'; }
-                        else if (title.includes('alert') || title.includes('panic')) { tag='🚨 Alert'; border='border-red-900/50'; }
-
-                        html += `
-                            <div class="p-3 bg-slate-800/40 rounded-lg border-l-4 ${border} hover:bg-slate-800 transition-all mb-3">
-                                <div class="flex justify-between text-[10px] uppercase font-bold text-slate-500 mb-1"><span>${tag}</span><span>${new Date(item.pubDate).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}</span></div>
-                                <a href="${item.link}" target="_blank" class="text-slate-200 font-medium text-sm leading-snug hover:text-blue-400">${item.title}</a>
-                            </div>`;
-                    });
-                    document.getElementById('news-data').innerHTML = html;
-                }
             } catch (e) {}
         }
 
@@ -204,15 +223,18 @@
         function loadCulturalSpotlight() {
             const facts = [
                 { title: "Telugu Script Evolution", desc: "Evolved from ancient Bhattiprolu Brahmi (3rd c. BCE).", tag: "Linguistics" },
-                { title: "Ramappa Floating Bricks", desc: "UNESCO site with bricks light enough to float on water.", tag: "Architecture" }
+                { title: "Pochampally Ikat", desc: "India's first Silk City, known for geometric 'Ikat' weaves.", tag: "Heritage" }
             ];
             const fact = facts[new Date().getDate() % facts.length];
             document.getElementById('culture-title').innerText = fact.title;
             document.getElementById('culture-desc').innerText = fact.desc;
         }
 
+        // Initial Boot
         fetchTelemetryData(); fetchIntelligenceFeed(); loadCulturalSpotlight();
-        setInterval(fetchTelemetryData, 300000); setInterval(fetchIntelligenceFeed, 300000);
+        // Set sync intervals (5 mins)
+        setInterval(fetchTelemetryData, 300000); 
+        setInterval(fetchIntelligenceFeed, 300000);
     </script>
 </body>
 </html>
