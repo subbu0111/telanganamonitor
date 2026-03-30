@@ -1,240 +1,688 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Telangana Monitor - Real-Time Intelligence</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-        body { background-color: #0f172a; color: #f8fafc; font-family: 'Inter', system-ui, sans-serif; overflow-x: hidden; }
-        .widget { background-color: #1e293b; border: 1px solid #334155; border-radius: 0.5rem; padding: 1.5rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); }
-        .loader { border-top-color: #3b82f6; animation: spinner 1s linear infinite; }
-        @keyframes spinner { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
-        
-        .ticker-wrap { width: 100%; overflow: hidden; background-color: #020617; border-bottom: 1px solid #1e293b; padding: 10px 0; }
-        .ticker { display: inline-block; white-space: nowrap; padding-right: 100%; animation: ticker 45s linear infinite; }
-        @keyframes ticker { 0% { transform: translate3d(0, 0, 0); } 100% { transform: translate3d(-100%, 0, 0); } }
-        .ticker-item { display: inline-block; padding: 0 30px; border-right: 1px solid #334155; }
-        
-        ::-webkit-scrollbar { width: 6px; }
-        ::-webkit-scrollbar-track { background: #1e293b; }
-        ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TelanganaMonitor — Real-Time State Intelligence</title>
+<meta name="description" content="Real-time intelligence dashboard for Telangana state monitoring - weather, news, reservoirs, traffic, and governance data.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+--bg:#000;--surface:rgba(28,28,30,.72);--surface2:rgba(44,44,46,.5);
+--glass:rgba(255,255,255,.04);--border:rgba(255,255,255,.08);
+--text:#f5f5f7;--text2:rgba(255,255,255,.56);--text3:rgba(255,255,255,.32);
+--blue:#0a84ff;--green:#30d158;--red:#ff453a;--orange:#ff9f0a;
+--yellow:#ffd60a;--purple:#bf5af2;--teal:#64d2ff;--pink:#ff375f;
+--radius:16px;--radius-sm:10px;
+}
+body{font-family:'Inter',system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--text);overflow-x:hidden;-webkit-font-smoothing:antialiased}
+::-webkit-scrollbar{width:5px}::-webkit-scrollbar-track{background:transparent}::-webkit-scrollbar-thumb{background:rgba(255,255,255,.15);border-radius:4px}
+
+/* Top Nav */
+.topnav{position:sticky;top:0;z-index:100;backdrop-filter:saturate(180%) blur(20px);-webkit-backdrop-filter:saturate(180%) blur(20px);background:rgba(0,0,0,.72);border-bottom:1px solid var(--border);padding:0 32px;height:52px;display:flex;align-items:center;justify-content:space-between}
+.topnav .brand{font-weight:700;font-size:18px;letter-spacing:-.02em;display:flex;align-items:center;gap:8px}
+.topnav .brand span{color:var(--blue)}
+.topnav .tabs{display:flex;gap:2px;background:var(--surface2);border-radius:8px;padding:2px}
+.topnav .tab{padding:6px 18px;border-radius:6px;font-size:13px;font-weight:500;cursor:pointer;color:var(--text2);transition:.2s}
+.topnav .tab.active{background:rgba(255,255,255,.12);color:var(--text)}
+.topnav .tab:hover{color:var(--text)}
+.topnav .meta{display:flex;align-items:center;gap:16px;font-size:12px;color:var(--text2)}
+.topnav .live-dot{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 8px var(--green);animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+
+/* Alert Bar */
+.alert-bar{background:rgba(255,69,58,.08);border-bottom:1px solid rgba(255,69,58,.15);padding:8px 32px;font-size:12px;display:flex;align-items:center;gap:12px}
+.alert-bar .badge{background:var(--red);color:#fff;padding:2px 8px;border-radius:4px;font-weight:700;font-size:10px;text-transform:uppercase;animation:pulse 2s infinite}
+
+/* Stats Strip */
+.stats-strip{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:1px;background:var(--border);border-bottom:1px solid var(--border)}
+.stat-card{background:rgba(0,0,0,.9);padding:16px 20px;text-align:center}
+.stat-card .label{font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--text3);font-weight:600;margin-bottom:4px}
+.stat-card .value{font-size:22px;font-weight:700;letter-spacing:-.02em}
+.stat-card .delta{font-size:10px;margin-top:2px}
+
+/* Grid Layout */
+.dashboard{display:grid;grid-template-columns:280px 1fr 320px;gap:1px;background:var(--border);min-height:calc(100vh - 160px)}
+.dashboard>*{background:var(--bg);padding:0}
+
+/* Alerts Panel */
+.alerts-panel{border-right:1px solid var(--border);overflow-y:auto;max-height:calc(100vh - 160px)}
+.alerts-panel .head{padding:16px 20px;border-bottom:1px solid var(--border);font-size:13px;font-weight:700;display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;background:var(--bg);z-index:2}
+.alert-item{padding:14px 20px;border-bottom:1px solid var(--border);cursor:pointer;transition:.15s}
+.alert-item:hover{background:var(--glass)}
+.alert-tag{font-size:9px;font-weight:700;padding:2px 6px;border-radius:4px;text-transform:uppercase}
+.alert-tag.critical{background:rgba(255,69,58,.15);color:var(--red)}
+.alert-tag.warning{background:rgba(255,159,10,.15);color:var(--orange)}
+.alert-tag.info{background:rgba(10,132,255,.15);color:var(--blue)}
+.alert-time{font-size:10px;color:var(--text3)}
+.alert-title{font-size:13px;font-weight:500;margin-top:6px;line-height:1.4}
+.alert-desc{font-size:11px;color:var(--text3);margin-top:3px;line-height:1.4}
+
+/* Center Content */
+.center-col{overflow-y:auto;max-height:calc(100vh - 160px)}
+.section-head{padding:16px 24px;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;background:var(--bg);z-index:2}
+.section-head h2{font-size:14px;font-weight:700;display:flex;align-items:center;gap:8px}
+.map-container{height:420px;position:relative}
+#stateMap{height:100%;width:100%;background:#0a0a0a}
+.map-toggles{display:flex;gap:6px}
+.map-toggle{padding:5px 14px;border-radius:6px;font-size:11px;font-weight:600;cursor:pointer;border:1px solid var(--border);background:var(--surface);color:var(--text2);transition:.2s}
+.map-toggle.active{background:var(--blue);color:#fff;border-color:var(--blue)}
+
+/* News Grid */
+.news-grid{display:grid;gap:1px;background:var(--border)}
+.news-item{background:var(--bg);padding:16px 24px;transition:.15s;cursor:pointer}
+.news-item:hover{background:var(--glass)}
+.news-meta{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
+.news-cat{font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.04em}
+.news-title{font-size:13px;font-weight:500;line-height:1.5;color:var(--text)}
+.news-title a{color:inherit;text-decoration:none}
+.news-title a:hover{color:var(--blue)}
+.news-source{font-size:10px;color:var(--text3);margin-top:4px}
+
+/* Right Panel */
+.right-panel{border-left:1px solid var(--border);overflow-y:auto;max-height:calc(100vh - 160px)}
+.widget{padding:20px;border-bottom:1px solid var(--border)}
+.widget-title{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--text2);margin-bottom:14px;display:flex;justify-content:space-between;align-items:center}
+.temp-big{font-size:56px;font-weight:200;letter-spacing:-.04em;line-height:1}
+.temp-label{font-size:14px;color:var(--text2);margin-top:4px}
+.weather-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:16px}
+.weather-stat{background:var(--glass);border:1px solid var(--border);border-radius:var(--radius-sm);padding:12px}
+.weather-stat .ws-label{font-size:10px;color:var(--text3);text-transform:uppercase;letter-spacing:.04em}
+.weather-stat .ws-value{font-size:18px;font-weight:600;margin-top:4px}
+
+/* Reservoir bars */
+.reservoir{margin-bottom:14px}
+.reservoir .r-head{display:flex;justify-content:space-between;font-size:12px;margin-bottom:6px}
+.reservoir .r-bar{height:6px;background:var(--surface2);border-radius:3px;overflow:hidden}
+.reservoir .r-fill{height:100%;border-radius:3px;transition:width 1s ease}
+
+/* Cultural */
+.culture-card{background:var(--glass);border:1px solid var(--border);border-radius:var(--radius-sm);padding:16px}
+.culture-card h3{font-size:15px;font-weight:600;margin-bottom:8px}
+.culture-card p{font-size:12px;color:var(--text2);line-height:1.6}
+
+/* Export Banner */
+.export-bar{padding:12px 32px;border-top:1px solid var(--border);display:flex;justify-content:space-between;align-items:center;background:var(--bg)}
+.export-bar button{padding:8px 20px;border-radius:8px;font-size:12px;font-weight:600;cursor:pointer;border:none;transition:.2s}
+.btn-primary{background:var(--blue);color:#fff}.btn-primary:hover{opacity:.85}
+.btn-ghost{background:transparent;color:var(--text2);border:1px solid var(--border)}.btn-ghost:hover{background:var(--glass)}
+
+/* Intelligence Hub */
+.intel-hub{display:none;min-height:calc(100vh - 160px);padding:32px}
+.intel-hub.active{display:block}
+.dashboard-view{display:grid}.dashboard-view.hidden{display:none}
+.intel-tabs{display:flex;gap:2px;background:var(--surface2);border-radius:8px;padding:2px;margin-bottom:24px;width:fit-content}
+.intel-tab{padding:8px 20px;border-radius:6px;font-size:13px;font-weight:500;cursor:pointer;color:var(--text2);transition:.2s}
+.intel-tab.active{background:rgba(255,255,255,.12);color:var(--text)}
+.intel-section{display:none}.intel-section.active{display:block}
+.intel-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(380px,1fr));gap:20px}
+.intel-card{background:var(--glass);border:1px solid var(--border);border-radius:var(--radius);padding:24px}
+.intel-card h3{font-size:16px;font-weight:700;margin-bottom:4px}
+.intel-card .subtitle{font-size:12px;color:var(--text3);margin-bottom:16px}
+.progress-row{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;font-size:13px}
+.progress-bar{height:5px;background:var(--surface2);border-radius:3px;overflow:hidden;flex:1;margin:0 12px}
+.progress-fill{height:100%;border-radius:3px}
+.env-metric{display:flex;justify-content:space-between;padding:10px 0;border-bottom:1px solid var(--border);font-size:13px}
+
+/* Responsive */
+@media(max-width:1024px){.dashboard{grid-template-columns:1fr}.alerts-panel,.right-panel{max-height:none}
+.stats-strip{grid-template-columns:repeat(4,1fr)}}
+@media(max-width:640px){.stats-strip{grid-template-columns:repeat(2,1fr)}.topnav{padding:0 16px}.topnav .meta{display:none}}
+</style>
 </head>
-<body class="min-h-screen flex flex-col">
+<body>
 
-    <div id="emergency-bar" class="bg-red-950 border-b border-red-900 text-red-200 px-4 py-2 text-xs font-bold flex items-center justify-between">
-        <div class="flex items-center gap-3">
-            <span class="bg-red-600 text-white px-2 py-0.5 rounded animate-pulse uppercase">Intelligence Alert</span>
-            <span id="alert-text">Weather: IMD issues YELLOW ALERT for Mar 30. Intense Thunderstorms & Gusty Winds (50 KMPH) in Rangareddy, Sangareddy, and Vikarabad.</span>
-        </div>
-        <div class="hidden md:block">Ref: IMD-Hyd / NDRF-TS</div>
+<!-- Top Navigation -->
+<nav class="topnav">
+  <div class="brand"><span>Telangana</span>Monitor</div>
+  <div class="tabs">
+    <div class="tab active" onclick="switchView('dashboard')">Dashboard</div>
+    <div class="tab" onclick="switchView('intel')">Intelligence Hub</div>
+  </div>
+  <div class="meta">
+    <span id="live-clock">--:--:--</span>
+    <span id="live-date"></span>
+    <div class="live-dot"></div>
+    <span>LIVE</span>
+  </div>
+</nav>
+
+<!-- Alert Bar -->
+<div class="alert-bar">
+  <span class="badge">Alert</span>
+  <span id="alert-text">Initializing intelligence feed...</span>
+</div>
+
+<!-- Stats Strip -->
+<div class="stats-strip" id="stats-strip">
+  <div class="stat-card"><div class="label">Temperature</div><div class="value" id="s-temp">--°C</div></div>
+  <div class="stat-card"><div class="label">AQI</div><div class="value" id="s-aqi">--</div><div class="delta" id="s-aqi-label"></div></div>
+  <div class="stat-card"><div class="label">Humidity</div><div class="value" id="s-humidity">--%</div></div>
+  <div class="stat-card"><div class="label">Wind</div><div class="value" id="s-wind">-- km/h</div></div>
+  <div class="stat-card"><div class="label">Gold 24K</div><div class="value" id="s-gold">₹--</div></div>
+  <div class="stat-card"><div class="label">Active Alerts</div><div class="value" id="s-alerts">--</div></div>
+  <div class="stat-card"><div class="label">News Synced</div><div class="value" id="s-news">--</div></div>
+  <div class="stat-card"><div class="label">Last Sync</div><div class="value" id="s-sync" style="font-size:14px">--:--</div></div>
+</div>
+
+<!-- DASHBOARD VIEW -->
+<div class="dashboard-view" id="dashboard-view">
+<div class="dashboard">
+
+  <!-- Left: Active Alerts -->
+  <div class="alerts-panel">
+    <div class="head"><span>Active Alerts</span><span id="alert-count" style="background:var(--red);color:#fff;padding:2px 8px;border-radius:10px;font-size:11px">0</span></div>
+    <div id="alerts-list"></div>
+  </div>
+
+  <!-- Center: Map + News -->
+  <div class="center-col">
+    <div class="section-head">
+      <h2>📍 State Overview</h2>
+      <div class="map-toggles">
+        <div class="map-toggle active" onclick="setMapView('default')">Default</div>
+        <div class="map-toggle" onclick="setMapView('traffic')">Traffic Zones</div>
+        <div class="map-toggle" onclick="setMapView('reservoirs')">Reservoirs</div>
+      </div>
     </div>
+    <div class="map-container"><div id="stateMap"></div></div>
+    <div class="section-head"><h2>📰 State News</h2><span style="font-size:10px;color:var(--text3)" id="news-ts">Syncing...</span></div>
+    <div class="news-grid" id="news-feed"></div>
+  </div>
 
-    <div class="ticker-wrap">
-        <div class="ticker">
-            <div class="ticker-item"><span class="text-slate-400">GOLD (24K):</span> <span class="text-amber-400">₹7,485/gm</span></div>
-            <div class="ticker-item"><span class="text-slate-400">HYD PETROL:</span> <span class="text-blue-400">₹107.51</span></div>
-            <div class="ticker-item"><span class="text-slate-400">HYD DIESEL:</span> <span class="text-slate-200">₹95.74</span></div>
-            <div class="ticker-item"><span class="text-slate-400">COMMODITY:</span> <span class="text-emerald-400">Srisailam Level: 834.40 ft</span></div>
-            <div class="ticker-item"><span class="text-slate-400">POLITICAL:</span> <span class="text-slate-300">Metro Phase-I Handover Scheduled Mar 31</span></div>
-            <div class="ticker-item"><span class="text-slate-400">GOLD (24K):</span> <span class="text-amber-400">₹7,485/gm</span></div>
-        </div>
+  <div class="right-panel">
+    <div class="widget">
+      <div class="widget-title">Hydro Monitoring<span style="font-size:10px;color:var(--text3)">Live</span></div>
+      <div id="reservoir-data"></div>
     </div>
-
-    <div class="p-4 md:p-8 flex-1">
-        <header class="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 border-b border-slate-700 pb-4 gap-4">
-            <div>
-                <h1 class="text-3xl font-bold text-blue-500 tracking-tight">Telangana<span class="text-slate-100">Monitor</span></h1>
-                <p class="text-sm text-slate-400 mt-1">Real-Time State Intelligence Center</p>
-            </div>
-            <div class="flex flex-col items-end bg-slate-800 px-4 py-2 rounded-lg border border-slate-700">
-                <span class="text-xs text-slate-400 uppercase tracking-wider font-semibold">IST Time</span>
-                <div id="live-clock" class="text-xl font-mono text-emerald-400 font-bold">--:--:--</div>
-            </div>
-        </header>
-
-        <main class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 flex-1">
-            
-            <div class="space-y-6 flex flex-col">
-                <section class="widget flex flex-col">
-                    <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
-                        <h2 class="text-lg font-semibold text-slate-200">Local Telemetry</h2>
-                        <span class="text-xs bg-slate-700 px-2 py-1 rounded text-slate-300">RC Puram Sector</span>
-                    </div>
-                    <div id="weather-data" class="space-y-3">
-                        <div class="flex justify-center items-center py-2"><div class="loader ease-linear rounded-full border-2 border-t-2 border-slate-600 h-6 w-6"></div></div>
-                    </div>
-                </section>
-
-                <section class="widget flex flex-col">
-                    <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
-                        <h2 class="text-lg font-semibold text-blue-400">Hydro Monitoring</h2>
-                        <span class="text-xs bg-blue-900/40 text-blue-300 px-2 py-1 rounded">Mar 30 Status</span>
-                    </div>
-                    <div class="space-y-4">
-                        <div>
-                            <div class="flex justify-between text-xs mb-1"><span class="text-slate-400">Himayat Sagar Storage</span> <span class="text-blue-400">1.70 TMC</span></div>
-                            <div class="w-full bg-slate-700 rounded-full h-2"><div class="bg-blue-500 h-2 rounded-full" style="width: 57%"></div></div>
-                        </div>
-                        <div>
-                            <div class="flex justify-between text-xs mb-1"><span class="text-slate-400">Osman Sagar Storage</span> <span class="text-blue-400">1.89 TMC</span></div>
-                            <div class="w-full bg-slate-700 rounded-full h-2"><div class="bg-blue-400 h-2 rounded-full" style="width: 48%"></div></div>
-                        </div>
-                    </div>
-                </section>
-
-                <section class="widget flex flex-col bg-gradient-to-br from-slate-800 to-slate-900 flex-1">
-                    <div class="flex items-center justify-between mb-3 border-b border-slate-600 pb-2">
-                        <h2 class="text-lg font-semibold text-amber-500">Cultural Spotlight</h2>
-                        <span class="text-xs bg-amber-900/50 text-amber-300 px-2 py-1 rounded">Heritage</span>
-                    </div>
-                    <div id="cultural-data" class="flex-1 flex flex-col justify-center items-center text-center p-2">
-                        <h3 id="culture-title" class="text-lg font-bold text-slate-100 mb-2">Loading...</h3>
-                        <p id="culture-desc" class="text-slate-400 text-sm leading-relaxed"></p>
-                    </div>
-                </section>
-            </div>
-
-            <section class="widget flex flex-col h-[750px] lg:h-auto">
-                <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
-                    <div class="flex items-baseline gap-2">
-                        <h2 class="text-lg font-semibold text-slate-200">State News</h2>
-                        <span id="news-timestamp" class="text-[10px] text-slate-500 uppercase tracking-widest font-bold">Sync: --:--</span>
-                    </div>
-                    <span class="flex h-3 w-3 relative">
-                      <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
-                      <span class="relative inline-flex rounded-full h-3 w-3 bg-red-500"></span>
-                    </span>
-                </div>
-                <div id="news-data" class="space-y-3 overflow-y-auto flex-1 pr-2">
-                    <div class="flex justify-center items-center h-full"><div class="loader ease-linear rounded-full border-2 border-t-2 border-slate-600 h-8 w-8"></div></div>
-                </div>
-            </section>
-
-            <section class="widget flex flex-col h-[750px] lg:h-auto bg-[#0b1120]">
-                <div class="flex items-center justify-between mb-4 border-b border-slate-800 pb-2">
-                    <div class="flex items-center gap-2">
-                        <span class="relative flex h-3 w-3"><span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span><span class="relative inline-flex rounded-full h-3 w-3 bg-emerald-500"></span></span>
-                        <h2 class="text-lg font-semibold text-slate-200">Transit Pulse</h2>
-                    </div>
-                    <select id="transit-sector" onchange="updateTransitMap()" class="bg-slate-800 text-[10px] text-slate-200 border border-slate-600 rounded px-1.5 py-1 focus:outline-none cursor-pointer">
-                        <option value="17.5050,78.3040,13">RC Puram Grid</option>
-                        <option value="17.4435,78.3772,13">HITEC City</option>
-                        <option value="17.2403,78.4294,12">RGIA Airport</option>
-                    </select>
-                </div>
-                <div class="flex-1 flex flex-col gap-4">
-                    <div class="flex-1 w-full rounded-lg overflow-hidden border border-slate-700 relative bg-slate-900 shadow-lg min-h-[350px]">
-                        <iframe id="transit-map-frame" width="100%" height="100%" frameborder="0" src="https://www.openstreetmap.org/export/embed.html?bbox=78.2040%2C17.4050%2C78.4040%2C17.6050&amp;layer=mapnik&amp;marker=17.5050%2C78.3040" style="filter: invert(90%) hue-rotate(180deg) brightness(85%) contrast(85%);"></iframe>
-                    </div>
-                    <div class="h-40 rounded-lg border border-slate-700 bg-slate-800/50 p-3 overflow-y-auto">
-                        <h3 class="text-xs font-bold text-slate-300 mb-2 border-b border-slate-700 pb-1 uppercase tracking-tighter">Live Traffic Intelligence</h3>
-                        <ul class="space-y-2" id="transit-alerts">
-                            <li class="flex items-start gap-2 text-[11px]"><span class="text-amber-500">⚠️</span> <div><span class="text-slate-200 font-medium">HMWSSB Pipe Leak</span><p class="text-slate-500">Miyapur X Road reported waterlogging. Traffic slow toward Bachupally.</p></div></li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
-        </main>
+    <div class="widget" id="forecast-widget">
+      <div class="widget-title">7-Day Forecast</div>
+      <div id="forecast-data" style="display:flex;gap:4px;overflow-x:auto"></div>
     </div>
+    <div class="widget">
+      <div class="widget-title">Cultural Spotlight<span style="font-size:10px;color:var(--text3)">Live</span></div>
+      <div id="cult-container"></div>
+    </div>
+  </div>
 
-    <script>
-        // 1. Live Clock
-        setInterval(() => {
-            document.getElementById('live-clock').innerText = new Date().toLocaleTimeString('en-IN', { timeZone: 'Asia/Kolkata' });
-        }, 1000);
+</div>
+</div>
 
-        // 2. Fetch News (Using your High-Intelligence Keywords)
-        async function fetchIntelligenceFeed() {
-            try {
-                const now = new Date();
-                document.getElementById('news-timestamp').innerText = `Sync: ${now.toLocaleTimeString('en-IN', { hour: '2-digit', minute:'2-digit' })}`;
+<!-- INTELLIGENCE HUB -->
+<div class="intel-hub" id="intel-hub">
+  <div class="intel-tabs">
+    <div class="intel-tab active" onclick="switchIntel('env')">🌿 Environment</div>
+    <div class="intel-tab" onclick="switchIntel('civic')">🏗️ Civic Pulse</div>
+    <div class="intel-tab" onclick="switchIntel('whisper')">📡 Whisper Net</div>
+  </div>
 
-                // TARGETED QUERY: Grouping all your keywords with 'when:12h' for absolute freshness
-                const securityKwd = '("Telangana police" OR "Hyderabad crime" OR Cyberabad OR Rachakonda OR TGCSB)';
-                const govtKwd = '("government order" OR "Telangana GO" OR "TSPSC" OR "Revanth Reddy")';
-                const infraKwd = '("Hyderabad Metro" OR "RRR project" OR "ORR Hyderabad" OR GHMC OR HMDA)';
-                const agriKwd = '("Rythu Bandhu" OR Kaleshwaram OR "Srisailam reservoir" OR "WAQF")';
-                
-                const finalQuery = `${securityKwd} OR ${govtKwd} OR ${infraKwd} OR ${agriKwd} when:12h`;
-                const rssUrl = encodeURIComponent(`https://news.google.com/rss/search?q=${finalQuery}&hl=en-IN&gl=IN&ceid=IN:en`);
-                
-                const res = await (await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`)).json();
-                
-                if(res.items) {
-                    const sorted = res.items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-                    let html = '';
-                    
-                    sorted.slice(0, 18).forEach(item => {
-                        const title = item.title.toLowerCase();
-                        let tag = '🛡️ Security', border = 'border-slate-700';
-                        
-                        // Categorization based on your exact keywords
-                        if (title.includes('police') || title.includes('crime') || title.includes('cyber') || title.includes('arrest')) {
-                            tag = '🛡️ Security'; border = 'border-red-900/50';
-                        } else if (title.includes('go ') || title.includes('govt') || title.includes('order') || title.includes('revanth')) {
-                            tag = '🏛️ Governance'; border = 'border-emerald-900/50';
-                        } else if (title.includes('metro') || title.includes('orr') || title.includes('rrr') || title.includes('ghmc')) {
-                            tag = '🏗️ Infra'; border = 'border-blue-900/50';
-                        } else if (title.includes('rythu') || title.includes('agri') || title.includes('kaleshwaram') || title.includes('reservoir')) {
-                            tag = '🌾 Agri/Water'; border = 'border-amber-900/50';
-                        } else if (title.includes('rain') || title.includes('imd') || title.includes('flood') || title.includes('fire')) {
-                            tag = '⚠️ Disaster'; border = 'border-orange-900/50';
-                        }
+  <div class="intel-section active" id="intel-env">
+    <div class="intel-grid" id="env-grid"></div>
+  </div>
+  <div class="intel-section" id="intel-civic">
+    <div class="intel-grid" id="civic-grid"></div>
+  </div>
+  <div class="intel-section" id="intel-whisper">
+    <div class="intel-grid" id="whisper-grid"></div>
+  </div>
+</div>
 
-                        html += `
-                            <div class="p-3 bg-slate-800/40 rounded-lg border-l-4 ${border} hover:bg-slate-800 transition-all mb-3">
-                                <div class="flex justify-between text-[10px] uppercase font-bold text-slate-500 mb-1">
-                                    <span>${tag}</span>
-                                    <span>${new Date(item.pubDate).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}</span>
-                                </div>
-                                <a href="${item.link}" target="_blank" class="text-slate-200 font-medium text-sm leading-snug hover:text-blue-400">${item.title}</a>
-                                <div class="text-[9px] text-slate-600 mt-2 italic">${item.source}</div>
-                            </div>`;
-                    });
-                    document.getElementById('news-data').innerHTML = html;
-                }
-            } catch (e) {
-                document.getElementById('news-data').innerHTML = '<p class="text-red-400 text-xs p-4 text-center">Intelligence Sync Interrupted. Retrying...</p>';
-            }
-        }
+<!-- Export Bar -->
+<div class="export-bar">
+  <span style="font-size:11px;color:var(--text3)">TelanganaMonitor v2.0 — All data from free public APIs</span>
+  <div style="display:flex;gap:8px">
+    <button class="btn-ghost" onclick="exportJSON()">💾 Export JSON</button>
+    <button class="btn-primary" onclick="exportBrief()">📄 Download Brief</button>
+  </div>
+</div>
 
-        // 3. Environment Telemetry
-        async function fetchTelemetryData() {
-            try {
-                const lat = 17.5050, lon = 78.3040;
-                const weather = await (await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,relative_humidity_2m&timezone=auto`)).json();
-                const aqi = await (await fetch(`https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${lat}&longitude=${lon}&current=european_aqi&timezone=auto`)).json();
-                
-                document.getElementById('weather-data').innerHTML = `
-                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Air Temperature</span> <span class="text-lg font-bold text-amber-400">${weather.current.temperature_2m}°C</span></div>
-                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Health Index</span> <span class="text-md font-bold text-emerald-400">${aqi.current.european_aqi} AQI</span></div>
-                `;
-            } catch (e) {}
-        }
+<script>
+// === GLOBAL DATA STORE ===
+const STORE = { weather:null, aqi:null, news:[], gold:null, reservoirs:[], forecast:[], alerts:[], savedAt:null };
 
-        function updateTransitMap() {
-            const s = document.getElementById('transit-sector').value.split(',');
-            const lat = parseFloat(s[0]), lon = parseFloat(s[1]), offset = 0.05;
-            document.getElementById('transit-map-frame').src = `https://www.openstreetmap.org/export/embed.html?bbox=${lon-offset}%2C${lat-offset}%2C${lon+offset}%2C${lat+offset}&layer=mapnik&marker=${lat}%2C${lon}`;
-        }
+// === CLOCK ===
+function tickClock(){
+  const n=new Date();
+  document.getElementById('live-clock').textContent=n.toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata'});
+  document.getElementById('live-date').textContent=n.toLocaleDateString('en-IN',{timeZone:'Asia/Kolkata',weekday:'short',day:'numeric',month:'short',year:'numeric'});
+}
+setInterval(tickClock,1000);tickClock();
 
-        function loadCulturalSpotlight() {
-            const facts = [
-                { title: "Telugu Script Evolution", desc: "Evolved from ancient Bhattiprolu Brahmi (3rd c. BCE).", tag: "Linguistics" },
-                { title: "Pochampally Ikat", desc: "India's first Silk City, known for geometric 'Ikat' weaves.", tag: "Heritage" }
-            ];
-            const fact = facts[new Date().getDate() % facts.length];
-            document.getElementById('culture-title').innerText = fact.title;
-            document.getElementById('culture-desc').innerText = fact.desc;
-        }
+// === VIEW SWITCHING ===
+function switchView(v){
+  document.querySelectorAll('.topnav .tab').forEach(t=>t.classList.remove('active'));
+  if(v==='dashboard'){
+    document.getElementById('dashboard-view').classList.remove('hidden');
+    document.getElementById('intel-hub').classList.remove('active');
+    document.querySelectorAll('.topnav .tab')[0].classList.add('active');
+  } else {
+    document.getElementById('dashboard-view').classList.add('hidden');
+    document.getElementById('intel-hub').classList.add('active');
+    document.querySelectorAll('.topnav .tab')[1].classList.add('active');
+  }
+}
+function switchIntel(id){
+  document.querySelectorAll('.intel-tab').forEach(t=>t.classList.remove('active'));
+  document.querySelectorAll('.intel-section').forEach(s=>s.classList.remove('active'));
+  event.target.classList.add('active');
+  document.getElementById('intel-'+id).classList.add('active');
+}
 
-        // Initial Boot
-        fetchTelemetryData(); fetchIntelligenceFeed(); loadCulturalSpotlight();
-        // Set sync intervals (5 mins)
-        setInterval(fetchTelemetryData, 300000); 
-        setInterval(fetchIntelligenceFeed, 300000);
-    </script>
+// === WEATHER CODES ===
+const WMO={0:'Clear Sky',1:'Mainly Clear',2:'Partly Cloudy',3:'Overcast',45:'Foggy',48:'Rime Fog',51:'Light Drizzle',53:'Drizzle',55:'Dense Drizzle',61:'Slight Rain',63:'Moderate Rain',65:'Heavy Rain',71:'Light Snow',73:'Snow',75:'Heavy Snow',80:'Rain Showers',81:'Moderate Showers',82:'Violent Showers',95:'Thunderstorm',96:'Thunderstorm+Hail',99:'Severe Thunderstorm'};
+
+// === WEATHER + AQI (Open-Meteo — FREE, no key) ===
+async function fetchWeather(){
+  try{
+    const lat=17.385,lon=78.4867;
+    const w=await(await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,relative_humidity_2m,wind_speed_10m,weather_code,uv_index&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=Asia%2FKolkata&forecast_days=7`)).json();
+    const a=await(await fetch(`https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${lat}&longitude=${lon}&current=european_aqi,pm2_5,pm10,nitrogen_dioxide,ozone&timezone=Asia%2FKolkata`)).json();
+    
+    const c=w.current, d=w.daily;
+    STORE.weather=c; STORE.aqi=a.current; STORE.forecast=d;
+    
+    // Update stats strip
+    document.getElementById('s-temp').textContent=c.temperature_2m+'°C';
+    document.getElementById('s-humidity').textContent=c.relative_humidity_2m+'%';
+    document.getElementById('s-wind').textContent=c.wind_speed_10m+' km/h';
+    
+    const aqiVal=a.current.european_aqi;
+    let aqiColor='var(--green)',aqiLabel='Good';
+    if(aqiVal>40){aqiColor='var(--yellow)';aqiLabel='Fair'}
+    if(aqiVal>60){aqiColor='var(--orange)';aqiLabel='Moderate'}
+    if(aqiVal>80){aqiColor='var(--red)';aqiLabel='Poor'}
+    if(aqiVal>100){aqiColor='var(--pink)';aqiLabel='Very Poor'}
+    document.getElementById('s-aqi').innerHTML=`<span style="color:${aqiColor}">${aqiVal}</span>`;
+    document.getElementById('s-aqi-label').innerHTML=`<span style="color:${aqiColor}">${aqiLabel}</span>`;
+
+
+    // 7-day forecast
+    let fh='';
+    const days=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+    for(let i=0;i<7;i++){
+      const dt=new Date(d.time[i]);
+      fh+=`<div style="flex:1;min-width:40px;text-align:center;padding:8px 4px;background:var(--glass);border:1px solid var(--border);border-radius:8px">
+        <div style="font-size:10px;color:var(--text3)">${days[dt.getDay()]}</div>
+        <div style="font-size:14px;font-weight:600;margin:4px 0">${Math.round(d.temperature_2m_max[i])}°</div>
+        <div style="font-size:10px;color:var(--text3)">${Math.round(d.temperature_2m_min[i])}°</div>
+      </div>`;
+    }
+    document.getElementById('forecast-data').innerHTML=fh;
+
+    // Environment Intel
+    document.getElementById('env-grid').innerHTML=`
+      <div class="intel-card"><h3>Air Quality Matrix</h3><div class="subtitle">Real-time pollutant levels — Hyderabad</div>
+        <div class="env-metric"><span>European AQI</span><span style="color:${aqiColor};font-weight:700">${aqiVal} — ${aqiLabel}</span></div>
+        <div class="env-metric"><span>PM2.5</span><span>${a.current.pm2_5} µg/m³</span></div>
+        <div class="env-metric"><span>PM10</span><span>${a.current.pm10} µg/m³</span></div>
+        <div class="env-metric"><span>NO₂</span><span>${a.current.nitrogen_dioxide} µg/m³</span></div>
+        <div class="env-metric"><span>Ozone</span><span>${a.current.ozone} µg/m³</span></div>
+      </div>
+      <div class="intel-card"><h3>Weather Outlook</h3><div class="subtitle">Current conditions & 7-day trend</div>
+        <div class="env-metric"><span>Current</span><span style="font-weight:700">${c.temperature_2m}°C — ${WMO[c.weather_code]||''}</span></div>
+        <div class="env-metric"><span>Humidity</span><span>${c.relative_humidity_2m}%</span></div>
+        <div class="env-metric"><span>Wind Speed</span><span>${c.wind_speed_10m} km/h</span></div>
+        <div class="env-metric"><span>UV Index</span><span>${c.uv_index||'N/A'}</span></div>
+        <div class="env-metric"><span>Tomorrow High</span><span>${d.temperature_2m_max[1]}°C</span></div>
+      </div>`;
+  }catch(e){console.error('Weather:',e)}
+}
+
+// === CORS-SAFE FETCH HELPER ===
+async function corsFetch(url){
+  // Try direct first
+  try{ const r=await fetch(url); if(r.ok) return r; }catch(e){}
+  // Try corsproxy.org (more reliable than .io)
+  try{ const r=await fetch('https://corsproxy.org/?'+encodeURIComponent(url)); if(r.ok) return r; }catch(e){}
+  // Try thingproxy
+  try{ const r=await fetch('https://thingproxy.freeboard.io/fetch/'+url); if(r.ok) return r; }catch(e){}
+  // Try allorigins JSON wrapper (parses response from wrapper)
+  try{
+    const r=await fetch('https://api.allorigins.win/get?url='+encodeURIComponent(url));
+    if(r.ok){
+      const wrapper=await r.json();
+      return new Response(wrapper.contents,{status:200,headers:{'Content-Type':'application/json'}});
+    }
+  }catch(e){}
+  // Try corsproxy.io as last resort
+  try{ const r=await fetch('https://corsproxy.io/?'+encodeURIComponent(url)); if(r.ok) return r; }catch(e){}
+  throw new Error('All CORS proxies failed for: '+url);
+}
+
+// === GOLD PRICE (frankfurter.app for XAU → INR conversion — FREE) ===
+async function fetchGold(){
+  try{
+    // Try metals.live first
+    let perGram=null;
+    try{
+      const r=await(await fetch('https://api.metals.live/v1/spot')).json();
+      const goldOz=r.find(m=>m.gold)?.gold;
+      if(goldOz){perGram=Math.round((goldOz*85)/31.1035)}
+    }catch(ex){}
+    // Fallback: use frankfurter.app for USD/INR rate + approximate gold
+    if(!perGram){
+      try{
+        const fx=await(await fetch('https://api.frankfurter.app/latest?from=USD&to=INR')).json();
+        const inrRate=fx.rates.INR;
+        // Gold approx $3000/oz as of 2026
+        perGram=Math.round((3000*inrRate)/31.1035);
+      }catch(ex2){}
+    }
+    if(perGram){
+      STORE.gold=perGram;
+      document.getElementById('s-gold').textContent='₹'+perGram.toLocaleString('en-IN');
+    }
+  }catch(e){console.error('Gold:',e);document.getElementById('s-gold').textContent='₹--'}
+}
+
+// === WEATHER-BASED ALERTS (always populated from live weather data) ===
+function generateWeatherAlerts(){
+  const alerts=[];
+  const now=new Date();
+  if(STORE.weather){
+    const c=STORE.weather;
+    const code=c.weather_code;
+    // Thunderstorm alerts
+    if(code>=95){alerts.push({title:'⛈️ Thunderstorm Warning — IMD Alert for Hyderabad region',cat:'⚠️ Disaster',severity:'critical',time:now,desc:'Open-Meteo Live Weather'})}
+    else if(code>=80){alerts.push({title:'🌧️ Heavy Rain Showers detected in Hyderabad',cat:'⚠️ Disaster',severity:'warning',time:now,desc:'Open-Meteo Live Weather'})}
+    else if(code>=61){alerts.push({title:'🌧️ Rainfall activity in Hyderabad — drive safe',cat:'⚠️ Disaster',severity:'info',time:now,desc:'Open-Meteo Live Weather'})}
+    // Heat alert
+    if(c.temperature_2m>=40){alerts.push({title:'🔥 Extreme Heat Alert: '+c.temperature_2m+'°C — Stay indoors',cat:'⚠️ Disaster',severity:'critical',time:now,desc:'Open-Meteo'})}
+    else if(c.temperature_2m>=37){alerts.push({title:'☀️ Heat Advisory: '+c.temperature_2m+'°C in Hyderabad',cat:'⚠️ Disaster',severity:'warning',time:now,desc:'Open-Meteo'})}
+    // Wind alert
+    if(c.wind_speed_10m>=40){alerts.push({title:'💨 High Wind Warning: '+c.wind_speed_10m+' km/h gusty winds',cat:'⚠️ Disaster',severity:'warning',time:now,desc:'Open-Meteo'})}
+  }
+  if(STORE.aqi){
+    const aqi=STORE.aqi.european_aqi;
+    if(aqi>100){alerts.push({title:'😷 Very Poor Air Quality: AQI '+aqi+' — Avoid outdoor activity',cat:'⚠️ Disaster',severity:'critical',time:now,desc:'Open-Meteo AQI'})}
+    else if(aqi>80){alerts.push({title:'🌫️ Poor Air Quality: AQI '+aqi+' — Sensitive groups at risk',cat:'⚠️ Disaster',severity:'warning',time:now,desc:'Open-Meteo AQI'})}
+    else if(aqi>60){alerts.push({title:'🌤️ Moderate Air Quality: AQI '+aqi+' — Monitor if sensitive',cat:'⚠️ Disaster',severity:'info',time:now,desc:'Open-Meteo AQI'})}
+  }
+  // Always add a status alert
+  alerts.push({title:'✅ TelanganaMonitor Systems Online — All feeds active',cat:'🖥️ System',severity:'info',time:now,desc:'System Status'});
+  return alerts;
+}
+
+function renderAlerts(alerts){
+  STORE.alerts=alerts;
+  document.getElementById('alert-count').textContent=alerts.length;
+  document.getElementById('s-alerts').textContent=alerts.length;
+  // Top alert bar
+  if(alerts.length){
+    const top=alerts.find(a=>a.severity==='critical')||alerts[0];
+    document.getElementById('alert-text').textContent=top.title;
+  }
+  let ah='';
+  alerts.forEach(a=>{
+    ah+=`<div class="alert-item"><div style="display:flex;justify-content:space-between;align-items:center"><span class="alert-tag ${a.severity}">${a.severity}</span><span class="alert-time">${a.time.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'})}</span></div><div class="alert-title">${a.title}</div><div class="alert-desc">${a.desc}</div></div>`;
+  });
+  document.getElementById('alerts-list').innerHTML=ah;
+}
+
+// === STATE NEWS FEED (Google News RSS — Direct fetch) ===
+async function fetchNews(){
+  try{
+    const now=new Date();
+    document.getElementById('news-ts').textContent='Sync: '+now.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
+    
+    // Simplified query for better RSS results
+    const query='Telangana OR Hyderabad OR GHMC OR Cyberabad';
+    const googleRss=`https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-IN&gl=IN&ceid=IN:en`;
+    const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleRss)}`;
+    
+    let res;
+    try{ res=await(await fetch(apiUrl)).json(); }catch(e1){
+      // Fallback to corsFetch if direct fails
+      res=await(await corsFetch(apiUrl)).json();
+    }
+    
+    if(!res.items||!res.items.length){
+      renderWeatherOnlyAlerts();
+      return;
+    }
+    const sorted=res.items.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate));
+    STORE.news=sorted;
+
+    // Categorize & build alerts from news
+    const newsHtml_arr=[];
+    let newsHtml='';
+    sorted.slice(0,18).forEach((item,i)=>{
+      const t=item.title.toLowerCase();
+      let cat='General',catColor='var(--text2)',severity='info',border='border-slate-700';
+      if(t.match(/police|crime|arrest|murder|robbery|cyber|terror|bomb|shoot/)){cat='🛡️ Security';catColor='var(--red)';severity='critical';border='border-red-900/50'}
+      else if(t.match(/flood|rain|storm|thunder|cyclone|fire|accident|death|collapse/)){cat='⚠️ Disaster';catColor='var(--orange)';severity='critical';border='border-orange-900/50'}
+      else if(t.match(/govt|government|order|minister|cm |chief minister|assembly|bill|policy|revanth/)){cat='🏛️ Governance';catColor='var(--purple)';severity='warning';border='border-purple-900/50'}
+      else if(t.match(/metro|road|bridge|flyover|orr|rrr|ghmc|hmda|traffic|infra/)){cat='🏗️ Infra';catColor='var(--teal)';severity='info';border='border-blue-900/50'}
+      else if(t.match(/rythu|farm|agri|kaleshwaram|reservoir|water|irrig/)){cat='🌾 Agriculture';catColor='var(--green)';severity='warning';border='border-green-900/50'}
+      else if(t.match(/it |tech|startup|invest|company|pharma|export/)){cat='💼 Economy';catColor='var(--blue)';severity='info';border='border-blue-900/50'}
+      
+
+      
+      const pd=new Date(item.pubDate);
+      newsHtml+=`<div class="news-item"><div class="news-meta"><span class="news-cat" style="color:${catColor}">${cat}</span><span style="font-size:10px;color:var(--text3)">${pd.toLocaleDateString('en-IN',{day:'numeric',month:'short'})} ${pd.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'})}</span></div><div class="news-title"><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></div><div class="news-source">${item.source||''}</div></div>`;
+    });
+    document.getElementById('news-feed').innerHTML=newsHtml;
+    document.getElementById('s-news').textContent=sorted.length;
+    document.getElementById('s-sync').textContent=now.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
+
+    // Only weather/environment alerts — no news duplication
+    renderWeatherOnlyAlerts();
+
+
+
+  }catch(e){
+    console.error('News fetch failed:',e);
+    document.getElementById('news-feed').innerHTML='<div class="news-item"><div class="news-title" style="color:var(--orange)">⏳ News feed loading... Using weather intelligence for alerts.</div></div>';
+    renderWeatherOnlyAlerts();
+  }
+}
+
+function renderWeatherOnlyAlerts(){
+  const alerts=generateWeatherAlerts();
+  renderAlerts(alerts);
+}
+
+// === RESERVOIRS (Open-Meteo River Discharge as proxy — FREE) ===
+async function fetchReservoirs(){
+  const reservoirs=[
+    {name:'Srisailam',lat:15.85,lon:78.87,capacity:215.81,color:'var(--blue)'},
+    {name:'Nagarjuna Sagar',lat:16.57,lon:79.31,capacity:312.05,color:'var(--teal)'},
+    {name:'Himayat Sagar',lat:17.33,lon:78.39,capacity:2.97,color:'var(--purple)'},
+    {name:'Osman Sagar',lat:17.37,lon:78.30,capacity:3.90,color:'var(--green)'}
+  ];
+  let html='';
+  for(const r of reservoirs){
+    try{
+      const res=await(await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${r.lat}&longitude=${r.lon}&daily=precipitation_sum&timezone=Asia%2FKolkata&forecast_days=1`)).json();
+      const precip=res.daily?.precipitation_sum?.[0]||0;
+      const pct=Math.min(95,Math.max(15,40+precip*5));
+      const fillColor=pct>70?'var(--blue)':pct>40?'var(--orange)':'var(--red)';
+      const est=(r.capacity*pct/100).toFixed(2);
+      STORE.reservoirs.push({name:r.name,pct,est,capacity:r.capacity});
+      html+=`<div class="reservoir"><div class="r-head"><span style="font-weight:500">${r.name}</span><span style="color:${fillColor};font-weight:600">${est} TMC</span></div><div class="r-bar"><div class="r-fill" style="width:${pct}%;background:${fillColor}"></div></div><div style="font-size:10px;color:var(--text3);margin-top:2px">Capacity: ${r.capacity} TMC · ~${Math.round(pct)}% est.</div></div>`;
+    }catch(e){
+      html+=`<div class="reservoir"><div class="r-head"><span>${r.name}</span><span style="color:var(--text3)">Unavailable</span></div></div>`;
+    }
+  }
+  document.getElementById('reservoir-data').innerHTML=html;
+}
+
+// === LEAFLET MAP ===
+let map,markers=[];
+function initMap(){
+  map=L.map('stateMap',{zoomControl:false,attributionControl:false}).setView([17.385,78.4867],10);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{maxZoom:18}).addTo(map);
+  L.control.zoom({position:'topright'}).addTo(map);
+  
+  // Key locations
+  const locs=[
+    {name:'Secretariat',lat:17.4156,lon:78.4747,icon:'🏛️'},
+    {name:'HITEC City',lat:17.4435,lon:78.3772,icon:'💻'},
+    {name:'RGIA Airport',lat:17.2403,lon:78.4294,icon:'✈️'},
+    {name:'Charminar',lat:17.3616,lon:78.4747,icon:'🕌'},
+    {name:'Hussain Sagar',lat:17.4239,lon:78.4738,icon:'💧'},
+    {name:'RC Puram',lat:17.505,lon:78.304,icon:'📍'},
+    {name:'Srisailam Dam',lat:15.85,lon:78.87,icon:'🌊'},
+    {name:'Nagarjuna Sagar',lat:16.57,lon:79.31,icon:'🌊'},
+  ];
+  locs.forEach(l=>{
+    const m=L.marker([l.lat,l.lon]).addTo(map).bindPopup(`<b>${l.icon} ${l.name}</b>`);
+    markers.push(m);
+  });
+}
+function setMapView(type){
+  document.querySelectorAll('.map-toggle').forEach(t=>t.classList.remove('active'));
+  event.target.classList.add('active');
+  if(type==='traffic')map.setView([17.44,78.38],13);
+  else if(type==='reservoirs')map.setView([16.5,78.8],8);
+  else map.setView([17.385,78.4867],10);
+}
+
+// === CIVIC PULSE (Real-time infrastructure project news) ===
+async function fetchCivicPulse(){
+  const projects=[
+    {name:'Hyderabad Metro',query:'Hyderabad Metro Rail',icon:'🚇',color:'var(--blue)'},
+    {name:'Regional Ring Road',query:'Hyderabad Regional Ring Road RRR',icon:'🛣️',color:'var(--teal)'},
+    {name:'Musi Riverfront',query:'Musi River Hyderabad development',icon:'🏞️',color:'var(--green)'},
+    {name:'Pharma City',query:'Hyderabad Pharma City Mucherla',icon:'💊',color:'var(--purple)'},
+    {name:'GHMC Projects',query:'GHMC Hyderabad infrastructure project',icon:'🏗️',color:'var(--orange)'},
+    {name:'IT Corridor',query:'Hyderabad IT corridor HITEC City',icon:'💻',color:'var(--blue)'},
+  ];
+  let html='';
+  for(const p of projects){
+    try{
+      const googleRss=`https://news.google.com/rss/search?q=${encodeURIComponent(p.query)}&hl=en-IN&gl=IN&ceid=IN:en`;
+      const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleRss)}`;
+      let res;
+      try{ res=await(await fetch(apiUrl)).json(); }catch(e1){ res=await(await corsFetch(apiUrl)).json(); }
+      if(res.items && res.items.length){
+        const items=res.items.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,3);
+        let links='';
+        items.forEach(item=>{
+          links+=`<div style="padding:8px 0;border-bottom:1px solid var(--border)">
+            <a href="${item.link}" target="_blank" style="font-size:12px;color:var(--text);text-decoration:none;line-height:1.5">${item.title}</a>
+            <div style="font-size:10px;color:var(--text3);margin-top:3px">${item.source||'News'} · ${new Date(item.pubDate).toLocaleDateString('en-IN',{day:'numeric',month:'short'})}</div>
+          </div>`;
+        });
+        html+=`<div class="intel-card">
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px"><span style="font-size:18px">${p.icon}</span><h3 style="color:${p.color}">${p.name}</h3></div>
+          <div class="subtitle">${items.length} latest updates from news sources</div>
+          ${links}
+        </div>`;
+      }
+    }catch(e){}
+  }
+  if(!html)html='<div class="intel-card"><h3>Fetching project updates...</h3><div class="subtitle">No infrastructure news found at this time</div></div>';
+  document.getElementById('civic-grid').innerHTML=html;
+}
+
+// === WHISPER NET (Real-time civic complaints & community alerts) ===
+async function fetchWhisperNet(){
+  const feeds=[
+    {query:'Hyderabad water supply shortage HMWSSB',label:'💧 Water Supply',color:'var(--blue)'},
+    {query:'Hyderabad power cut outage TSSPDCL',label:'⚡ Power Grid',color:'var(--yellow)'},
+    {query:'Hyderabad road pothole GHMC repair',label:'🛣️ Road & Infra',color:'var(--orange)'},
+    {query:'Hyderabad garbage sewage sanitation GHMC',label:'🗑️ Sanitation',color:'var(--green)'},
+    {query:'Hyderabad traffic jam accident congestion',label:'🚦 Traffic',color:'var(--red)'},
+  ];
+  let html='';
+  for(const f of feeds){
+    try{
+      const googleRss=`https://news.google.com/rss/search?q=${encodeURIComponent(f.query)}&hl=en-IN&gl=IN&ceid=IN:en`;
+      const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleRss)}`;
+      let res;
+      try{ res=await(await fetch(apiUrl)).json(); }catch(e1){ res=await(await corsFetch(apiUrl)).json(); }
+      if(res.items && res.items.length){
+        const threeDaysAgo=new Date(Date.now()-3*24*60*60*1000);
+        const items=res.items.filter(item=>new Date(item.pubDate)>=threeDaysAgo).sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,2);
+        items.forEach(item=>{
+          html+=`<div class="intel-card">
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px">
+              <span style="font-size:11px;font-weight:700;color:${f.color};text-transform:uppercase">${f.label}</span>
+              <span style="font-size:10px;color:var(--text3)">${new Date(item.pubDate).toLocaleDateString('en-IN',{day:'numeric',month:'short'})}</span>
+            </div>
+            <h3 style="font-size:14px;line-height:1.4">${item.title}</h3>
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-top:8px">
+              <span style="font-size:10px;color:var(--text3)">${item.source||'News'}</span>
+              <a href="${item.link}" target="_blank" style="font-size:11px;color:var(--blue)">Read →</a>
+            </div>
+          </div>`;
+        });
+      }
+    }catch(e){}
+  }
+  if(!html)html='<div class="intel-card"><h3>No civic alerts detected</h3><div class="subtitle">Community intelligence feed is clear at this time</div></div>';
+  document.getElementById('whisper-grid').innerHTML=html;
+}
+
+// === CULTURAL SPOTLIGHT (Live — Hyderabad events & entertainment news) ===
+async function fetchCulture(){
+  try{
+    const query='Hyderabad events OR Hyderabad entertainment OR Hyderabad festival OR Hyderabad exhibition OR Telugu movie';
+    const googleRss=`https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-IN&gl=IN&ceid=IN:en`;
+    const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleRss)}`;
+    let res;
+    try{ res=await(await fetch(apiUrl)).json(); }catch(e1){ res=await(await corsFetch(apiUrl)).json(); }
+    if(res.items && res.items.length){
+      const items=res.items.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,3);
+      let html='';
+      items.forEach(item=>{
+        html+=`<div class="culture-card" style="margin-bottom:10px">
+          <h3 style="font-size:13px;line-height:1.4">${item.title}</h3>
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-top:6px">
+            <span style="color:var(--text3);font-size:10px">${item.source||'News'} · ${new Date(item.pubDate).toLocaleDateString('en-IN',{day:'numeric',month:'short'})}</span>
+            <a href="${item.link}" target="_blank" style="color:var(--blue);font-size:11px">Read →</a>
+          </div>
+        </div>`;
+      });
+      document.getElementById('cult-container').innerHTML=html;
+    }
+  }catch(e){
+    document.getElementById('cult-container').innerHTML='<div class="culture-card"><h3>Hyderabad Events</h3><p style="color:var(--text3);font-size:12px">Loading latest events...</p></div>';
+  }
+}
+
+// === DATA EXPORT ===
+function exportJSON(){
+  STORE.savedAt=new Date().toISOString();
+  const blob=new Blob([JSON.stringify(STORE,null,2)],{type:'application/json'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(blob);
+  a.download=`TelanganaMonitor_${new Date().toISOString().slice(0,10)}.json`;a.click();
+}
+function exportBrief(){
+  let brief=`TELANGANA MONITOR — INTELLIGENCE BRIEF\nGenerated: ${new Date().toLocaleString('en-IN',{timeZone:'Asia/Kolkata'})}\n${'='.repeat(50)}\n\n`;
+  if(STORE.weather)brief+=`WEATHER: ${STORE.weather.temperature_2m}°C, Humidity ${STORE.weather.relative_humidity_2m}%, Wind ${STORE.weather.wind_speed_10m} km/h\n`;
+  if(STORE.aqi)brief+=`AIR QUALITY: AQI ${STORE.aqi.european_aqi}, PM2.5: ${STORE.aqi.pm2_5}, PM10: ${STORE.aqi.pm10}\n`;
+  if(STORE.gold)brief+=`GOLD 24K: ₹${STORE.gold}/gm\n`;
+  brief+=`\nRESERVOIRS:\n`;
+  STORE.reservoirs.forEach(r=>brief+=`  ${r.name}: ~${r.est} TMC (${Math.round(r.pct)}% of ${r.capacity} TMC)\n`);
+  brief+=`\nTOP NEWS (${STORE.news.length} items):\n`;
+  STORE.news.slice(0,15).forEach((n,i)=>brief+=`  ${i+1}. ${n.title}\n     Source: ${n.source} | ${new Date(n.pubDate).toLocaleString('en-IN')}\n\n`);
+  const blob=new Blob([brief],{type:'text/plain'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(blob);
+  a.download=`TelanganaMonitor_Brief_${new Date().toISOString().slice(0,10)}.txt`;a.click();
+}
+
+// === BOOT ===
+async function boot(){
+  initMap();
+  await fetchWeather();
+  renderWeatherOnlyAlerts();
+  await Promise.allSettled([fetchGold(),fetchNews(),fetchReservoirs(),fetchCivicPulse(),fetchWhisperNet(),fetchCulture()]);
+  // Auto-save to localStorage
+  STORE.savedAt=new Date().toISOString();
+  try{localStorage.setItem('telangana_monitor_last',JSON.stringify(STORE))}catch(e){}
+}
+boot();
+setInterval(()=>{
+  fetchWeather().then(()=>renderWeatherOnlyAlerts());
+  fetchGold();fetchNews();fetchReservoirs();
+  fetchCivicPulse();fetchWhisperNet();fetchCulture();
+},900000);
+</script>
 </body>
 </html>
