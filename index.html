@@ -460,6 +460,38 @@ async function corsFetch(url){
   throw new Error('All CORS proxies failed for: '+url);
 }
 
+// === RSS HELPER (Bypass rss2json caching & fix dates) ===
+async function fetchRSS(query){
+  const googleRss=`https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-IN&gl=IN&ceid=IN:en`;
+  try {
+    const r = await corsFetch(googleRss);
+    const text = await r.text();
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(text, 'text/xml');
+    const items = Array.from(doc.querySelectorAll('item')).map(item => ({
+      title: item.querySelector('title')?.textContent || '',
+      link: item.querySelector('link')?.textContent || '',
+      pubDate: item.querySelector('pubDate')?.textContent || '',
+      source: item.querySelector('source')?.textContent || 'News'
+    }));
+    if(!items.length) throw new Error('Empty RSS');
+    return items;
+  } catch (e) {
+    const cb = Math.floor(Date.now() / (15*60*1000));
+    const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleRss)}&_cb=${cb}`;
+    let res;
+    try{ res = await(await fetch(apiUrl)).json(); }
+    catch(e2){ res = await(await corsFetch(apiUrl)).json(); }
+    const items = res.items || [];
+    items.forEach(i => {
+      if(i.pubDate && !i.pubDate.includes('Z') && !i.pubDate.includes('GMT') && !i.pubDate.includes('+')){
+        i.pubDate = i.pubDate.replace(' ', 'T') + 'Z';
+      }
+    });
+    return items;
+  }
+}
+
 // === GOLD PRICE (frankfurter.app for XAU → INR conversion — FREE) ===
 async function fetchGold(){
   try{
@@ -525,7 +557,7 @@ function renderAlerts(alerts){
   }
   let ah='';
   alerts.forEach(a=>{
-    ah+=`<div class="alert-item"><div style="display:flex;justify-content:space-between;align-items:center"><span class="alert-tag ${a.severity}">${a.severity}</span><span class="alert-time">${a.time.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'})}</span></div><div class="alert-title">${a.title}</div><div class="alert-desc">${a.desc}</div></div>`;
+    ah+=`<div class="alert-item"><div style="display:flex;justify-content:space-between;align-items:center"><span class="alert-tag ${a.severity}">${a.severity}</span><span class="alert-time">${a.time.toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit'})}</span></div><div class="alert-title">${a.title}</div><div class="alert-desc">${a.desc}</div></div>`;
   });
   document.getElementById('alerts-list').innerHTML=ah;
 }
@@ -534,7 +566,7 @@ function renderAlerts(alerts){
 async function fetchNews(){
   try{
     const now=new Date();
-    document.getElementById('news-ts').textContent='Sync: '+now.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
+    document.getElementById('news-ts').textContent='Sync: '+now.toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit'});
     
     // Multiple targeted queries for broader coverage (each returns up to 10)
     const queries=[
@@ -546,14 +578,7 @@ async function fetchNews(){
     
     // Fire all queries in parallel
     const fetchOne=async(q)=>{
-      const googleRss=`https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=en-IN&gl=IN&ceid=IN:en`;
-      const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleRss)}`;
-      try{
-        const r=await(await fetch(apiUrl)).json();
-        return r.items||[];
-      }catch(e){
-        try{return (await(await corsFetch(apiUrl)).json()).items||[];}catch(e2){return [];}
-      }
+      try { return await fetchRSS(q); } catch(e) { return []; }
     };
     
     const results=await Promise.allSettled(queries.map(q=>fetchOne(q)));
@@ -609,11 +634,11 @@ async function fetchNews(){
 
       
       const pd=new Date(item.pubDate);
-      newsHtml+=`<div class="news-item"><div class="news-meta"><span class="news-cat" style="color:${catColor}">${cat}</span><span style="font-size:10px;color:var(--text3)">${pd.toLocaleDateString('en-IN',{day:'numeric',month:'short'})} ${pd.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'})}</span></div><div class="news-title"><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></div><div class="news-source">${item.source||''}</div></div>`;
+      newsHtml+=`<div class="news-item"><div class="news-meta"><span class="news-cat" style="color:${catColor}">${cat}</span><span style="font-size:10px;color:var(--text3)">${pd.toLocaleDateString('en-IN',{timeZone:'Asia/Kolkata',day:'numeric',month:'short'})} ${pd.toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit'})}</span></div><div class="news-title"><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></div><div class="news-source">${item.source||''}</div></div>`;
     });
     document.getElementById('news-feed').innerHTML=newsHtml;
     document.getElementById('s-news').textContent=sorted.length;
-    document.getElementById('s-sync').textContent=now.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
+    document.getElementById('s-sync').textContent=now.toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit'});
 
     // Only weather/environment alerts — no news duplication
     renderWeatherOnlyAlerts();
@@ -815,17 +840,14 @@ async function fetchCivicPulse(){
   let html='';
   for(const p of projects){
     try{
-      const googleRss=`https://news.google.com/rss/search?q=${encodeURIComponent(p.query)}&hl=en-IN&gl=IN&ceid=IN:en`;
-      const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleRss)}`;
-      let res;
-      try{ res=await(await fetch(apiUrl)).json(); }catch(e1){ res=await(await corsFetch(apiUrl)).json(); }
-      if(res.items && res.items.length){
-        const items=res.items.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,3);
+      const allItems = await fetchRSS(p.query);
+      if(allItems && allItems.length){
+        const items=allItems.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,3);
         let links='';
         items.forEach(item=>{
           links+=`<div style="padding:8px 0;border-bottom:1px solid var(--border)">
             <a href="${item.link}" target="_blank" style="font-size:12px;color:var(--text);text-decoration:none;line-height:1.5">${item.title}</a>
-            <div style="font-size:10px;color:var(--text3);margin-top:3px">${item.source||'News'} · ${new Date(item.pubDate).toLocaleDateString('en-IN',{day:'numeric',month:'short'})}</div>
+            <div style="font-size:10px;color:var(--text3);margin-top:3px">${item.source||'News'} · ${new Date(item.pubDate).toLocaleDateString('en-IN',{timeZone:'Asia/Kolkata',day:'numeric',month:'short'})}</div>
           </div>`;
         });
         html+=`<div class="intel-card">
@@ -852,18 +874,15 @@ async function fetchWhisperNet(){
   let html='';
   for(const f of feeds){
     try{
-      const googleRss=`https://news.google.com/rss/search?q=${encodeURIComponent(f.query)}&hl=en-IN&gl=IN&ceid=IN:en`;
-      const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleRss)}`;
-      let res;
-      try{ res=await(await fetch(apiUrl)).json(); }catch(e1){ res=await(await corsFetch(apiUrl)).json(); }
-      if(res.items && res.items.length){
+      const allItems = await fetchRSS(f.query);
+      if(allItems && allItems.length){
         const threeDaysAgo=new Date(Date.now()-3*24*60*60*1000);
-        const items=res.items.filter(item=>new Date(item.pubDate)>=threeDaysAgo).sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,2);
+        const items=allItems.filter(item=>new Date(item.pubDate)>=threeDaysAgo).sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,2);
         items.forEach(item=>{
           html+=`<div class="intel-card">
             <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px">
               <span style="font-size:11px;font-weight:700;color:${f.color};text-transform:uppercase">${f.label}</span>
-              <span style="font-size:10px;color:var(--text3)">${new Date(item.pubDate).toLocaleDateString('en-IN',{day:'numeric',month:'short'})}</span>
+              <span style="font-size:10px;color:var(--text3)">${new Date(item.pubDate).toLocaleDateString('en-IN',{timeZone:'Asia/Kolkata',day:'numeric',month:'short'})}</span>
             </div>
             <h3 style="font-size:14px;line-height:1.4">${item.title}</h3>
             <div style="display:flex;justify-content:space-between;align-items:center;margin-top:8px">
@@ -883,18 +902,15 @@ async function fetchWhisperNet(){
 async function fetchCulture(){
   try{
     const query='Hyderabad events OR Hyderabad entertainment OR Hyderabad festival OR Hyderabad exhibition OR Telugu movie';
-    const googleRss=`https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-IN&gl=IN&ceid=IN:en`;
-    const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleRss)}`;
-    let res;
-    try{ res=await(await fetch(apiUrl)).json(); }catch(e1){ res=await(await corsFetch(apiUrl)).json(); }
-    if(res.items && res.items.length){
-      const items=res.items.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,3);
+    const allItems = await fetchRSS(query);
+    if(allItems && allItems.length){
+      const items=allItems.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,3);
       let html='';
       items.forEach(item=>{
         html+=`<div class="culture-card" style="margin-bottom:10px">
           <h3 style="font-size:13px;line-height:1.4">${item.title}</h3>
           <div style="display:flex;justify-content:space-between;align-items:center;margin-top:6px">
-            <span style="color:var(--text3);font-size:10px">${item.source||'News'} · ${new Date(item.pubDate).toLocaleDateString('en-IN',{day:'numeric',month:'short'})}</span>
+            <span style="color:var(--text3);font-size:10px">${item.source||'News'} · ${new Date(item.pubDate).toLocaleDateString('en-IN',{timeZone:'Asia/Kolkata',day:'numeric',month:'short'})}</span>
             <a href="${item.link}" target="_blank" style="color:var(--blue);font-size:11px">Read →</a>
           </div>
         </div>`;
@@ -921,7 +937,7 @@ function exportBrief(){
   brief+=`\nRESERVOIRS:\n`;
   STORE.reservoirs.forEach(r=>brief+=`  ${r.name}: ~${r.est} TMC (${Math.round(r.pct)}% of ${r.capacity} TMC)\n`);
   brief+=`\nTOP NEWS (${STORE.news.length} items):\n`;
-  STORE.news.slice(0,15).forEach((n,i)=>brief+=`  ${i+1}. ${n.title}\n     Source: ${n.source} | ${new Date(n.pubDate).toLocaleString('en-IN')}\n\n`);
+  STORE.news.slice(0,15).forEach((n,i)=>brief+=`  ${i+1}. ${n.title}\n     Source: ${n.source} | ${new Date(n.pubDate).toLocaleString('en-IN',{timeZone:'Asia/Kolkata'})}\n\n`);
   const blob=new Blob([brief],{type:'text/plain'});
   const a=document.createElement('a');a.href=URL.createObjectURL(blob);
   a.download=`TelanganaMonitor_Brief_${new Date().toISOString().slice(0,10)}.txt`;a.click();
@@ -975,7 +991,7 @@ function renderTrends(history){
     history.forEach(h=>{
       const val=h.counts[cat.key]||0;
       const pct=Math.max(4,(val/max)*100);
-      const time=new Date(h.time).toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
+      const time=new Date(h.time).toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit'});
       bars+=`<div class="trend-bar" style="height:${pct}%;background:${cat.color}" data-val="${val} @ ${time}"></div>`;
     });
     const latest=history[history.length-1].counts[cat.key]||0;
@@ -1136,7 +1152,7 @@ Keep the tone formal, concise, and actionable. This is for decision-makers, not 
     const text=data.choices?.[0]?.message?.content||'No analysis generated';
     
     // Render the AI response
-    const genTime=new Date().toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit',second:'2-digit'});
+    const genTime=new Date().toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit',second:'2-digit'});
     container.innerHTML=`
       <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:20px">
         <div>
