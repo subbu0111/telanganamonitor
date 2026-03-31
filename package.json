@@ -1,0 +1,15 @@
+{
+  "name": "telangana-monitor",
+  "version": "3.1.0",
+  "description": "TelanganaMonitor — Real-Time State Intelligence with automated AI analysis",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "node-cron": "^3.0.3",
+    "dotenv": "^16.4.5"
+  }
+}

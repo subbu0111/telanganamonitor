@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telangana Monitor - Real-Time Intelligence</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background-color: #0f172a; color: #f8fafc; font-family: 'Inter', system-ui, sans-serif; overflow-x: hidden; }
+        .widget { background-color: #1e293b; border: 1px solid #334155; border-radius: 0.5rem; padding: 1.5rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); }
+        .loader { border-top-color: #3b82f6; animation: spinner 1s linear infinite; }
+        @keyframes spinner { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        
+        /* Scrolling Ticker Animation */
+        .ticker-wrap { width: 100%; overflow: hidden; background-color: #020617; border-bottom: 1px solid #1e293b; padding: 10px 0; }
+        .ticker { display: inline-block; white-space: nowrap; padding-right: 100%; animation: ticker 40s linear infinite; }
+        @keyframes ticker { 0% { transform: translate3d(0, 0, 0); } 100% { transform: translate3d(-100%, 0, 0); } }
+        .ticker-item { display: inline-block; padding: 0 30px; border-right: 1px solid #334155; }
+        
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #1e293b; }
+        ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col">
+
+    <div id="emergency-bar" class="bg-red-950 border-b border-red-900 text-red-200 px-4 py-2 text-xs font-bold flex items-center justify-between">
+        <div class="flex items-center gap-3">
+            <span class="bg-red-600 text-white px-2 py-0.5 rounded animate-pulse">CRITICAL ALERT</span>
+            <span id="alert-text">Weather: 19 Districts on Yellow Alert for Thunderstorms & Lightning (March 29).</span>
+        </div>
+        <div class="hidden md:block">Ref: IMD-Hyderabad Center</div>
+    </div>
+
+    <div class="ticker-wrap">
+        <div class="ticker">
+            <div class="ticker-item"><span class="text-slate-400">GOLD (22K):</span> <span class="text-amber-400">₹13,575/gm</span></div>
+            <div class="ticker-item"><span class="text-slate-400">PETROL:</span> <span class="text-blue-400">₹107.50/L</span></div>
+            <div class="ticker-item"><span class="text-slate-400">DIESEL:</span> <span class="text-slate-200">₹95.70/L</span></div>
+            <div class="ticker-item"><span class="text-slate-400">SILVER:</span> <span class="text-slate-300">₹250/gm</span></div>
+            <div class="ticker-item"><span class="text-slate-400">SYSTEM STATUS:</span> <span class="text-emerald-400">LIVE FEED ACTIVE</span></div>
+            <div class="ticker-item"><span class="text-slate-400">GOLD (22K):</span> <span class="text-amber-400">₹13,575/gm</span></div>
+            <div class="ticker-item"><span class="text-slate-400">PETROL:</span> <span class="text-blue-400">₹107.50/L</span></div>
+        </div>
+    </div>
+
+    <div class="p-4 md:p-8 flex-1">
+        <header class="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 border-b border-slate-700 pb-4 gap-4">
+            <div>
+                <h1 class="text-3xl font-bold text-blue-500 tracking-tight">Telangana<span class="text-slate-100">Monitor</span></h1>
+                <p class="text-sm text-slate-400 mt-1">State Intelligence & Command Center</p>
+            </div>
+            <div class="flex flex-col items-end bg-slate-800 px-4 py-2 rounded-lg border border-slate-700">
+                <span class="text-xs text-slate-400 uppercase tracking-wider font-semibold">System Time</span>
+                <div id="live-clock" class="text-xl font-mono text-emerald-400 font-bold">--:--:--</div>
+            </div>
+        </header>
+
+        <main class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 flex-1">
+            
+            <div class="space-y-6 flex flex-col">
+                <section class="widget flex flex-col">
+                    <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
+                        <h2 class="text-lg font-semibold text-slate-200">Live Telemetry</h2>
+                        <span class="text-xs bg-slate-700 px-2 py-1 rounded text-slate-300">Ramachandrapuram</span>
+                    </div>
+                    <div id="weather-data" class="space-y-3">
+                        <div class="flex justify-center items-center py-2"><div class="loader ease-linear rounded-full border-2 border-t-2 border-slate-600 h-6 w-6"></div></div>
+                    </div>
+                </section>
+
+                <section class="widget flex flex-col">
+                    <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
+                        <h2 class="text-lg font-semibold text-blue-400">Hydro Intelligence</h2>
+                        <span class="text-xs bg-blue-900/40 text-blue-300 px-2 py-1 rounded">Storage TMC</span>
+                    </div>
+                    <div class="space-y-4">
+                        <div>
+                            <div class="flex justify-between text-xs mb-1"><span class="text-slate-400">Himayat Sagar (1.70 / 2.97)</span> <span class="text-blue-400">57%</span></div>
+                            <div class="w-full bg-slate-700 rounded-full h-2"><div class="bg-blue-500 h-2 rounded-full" style="width: 57%"></div></div>
+                        </div>
+                        <div>
+                            <div class="flex justify-between text-xs mb-1"><span class="text-slate-400">Osman Sagar (1.89 / 3.90)</span> <span class="text-blue-400">48%</span></div>
+                            <div class="w-full bg-slate-700 rounded-full h-2"><div class="bg-blue-400 h-2 rounded-full" style="width: 48%"></div></div>
+                        </div>
+                        <p class="text-[10px] text-slate-500 italic">Data ref: HMWSSB Grid Report (Mar 2026)</p>
+                    </div>
+                </section>
+
+                <section class="widget flex flex-col bg-gradient-to-br from-slate-800 to-slate-900 flex-1">
+                    <div class="flex items-center justify-between mb-3 border-b border-slate-600 pb-2">
+                        <h2 class="text-lg font-semibold text-amber-500">Cultural Spotlight</h2>
+                        <span class="text-xs bg-amber-900/50 text-amber-300 px-2 py-1 rounded">Heritage</span>
+                    </div>
+                    <div id="cultural-data" class="flex-1 flex flex-col justify-center items-center text-center p-2">
+                        <h3 id="culture-title" class="text-lg font-bold text-slate-100 mb-2">Loading...</h3>
+                        <p id="culture-desc" class="text-slate-400 text-sm leading-relaxed"></p>
+                    </div>
+                </section>
+            </div>
+
+            <section class="widget flex flex-col h-[750px] lg:h-auto">
+                <div class="flex items-center justify-between mb-4 border-b border-slate-600 pb-2">
+                    <div class="flex items-baseline gap-2">
+                        <h2 class="text-lg font-semibold text-slate-200">State News</h2>
+                        <span id="news-timestamp" class="text-[10px] text-slate-500 uppercase tracking-widest">Updating...</span>
+                    </div>
+                    <span class="flex h-3 w-3 relative">
+                      <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+                      <span class="relative inline-flex rounded-full h-3 w-3 bg-red-500"></span>
+                    </span>
+                </div>
+                <div id="news-data" class="space-y-3 overflow-y-auto flex-1 pr-2">
+                    <div class="flex justify-center items-center h-full"><div class="loader ease-linear rounded-full border-2 border-t-2 border-slate-600 h-8 w-8"></div></div>
+                </div>
+            </section>
+
+            <section class="widget flex flex-col h-[750px] lg:h-auto bg-[#0b1120]">
+                <div class="flex items-center justify-between mb-4 border-b border-slate-800 pb-2">
+                    <div class="flex items-center gap-2">
+                        <span class="relative flex h-3 w-3"><span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span><span class="relative inline-flex rounded-full h-3 w-3 bg-emerald-500"></span></span>
+                        <h2 class="text-lg font-semibold text-slate-200">Live Transit</h2>
+                    </div>
+                    <select id="transit-sector" onchange="updateTransitMap()" class="bg-slate-800 text-[10px] text-slate-200 border border-slate-600 rounded px-1.5 py-1 focus:outline-none cursor-pointer">
+                        <option value="17.5050,78.3040,13">RC Puram Grid</option>
+                        <option value="17.4435,78.3772,13">HITEC City</option>
+                        <option value="17.3850,78.4867,12">Hyd Central</option>
+                    </select>
+                </div>
+                <div class="flex-1 flex flex-col gap-4">
+                    <div class="flex-1 w-full rounded-lg overflow-hidden border border-slate-700 relative bg-slate-900 shadow-lg min-h-[350px]">
+                        <iframe id="transit-map-frame" width="100%" height="100%" frameborder="0" src="https://www.openstreetmap.org/export/embed.html?bbox=78.2040%2C17.4050%2C78.4040%2C17.6050&amp;layer=mapnik&amp;marker=17.5050%2C78.3040" style="filter: invert(90%) hue-rotate(180deg) brightness(85%) contrast(85%);"></iframe>
+                    </div>
+                    <div class="h-40 rounded-lg border border-slate-700 bg-slate-800/50 p-3 overflow-y-auto">
+                        <h3 class="text-xs font-bold text-slate-300 mb-2 border-b border-slate-700 pb-1 uppercase tracking-tighter">Automated Transit Intelligence</h3>
+                        <ul class="space-y-2" id="transit-alerts">
+                            <li class="flex items-start gap-2 text-[11px]"><span class="text-amber-500">⚠️</span> <div><span class="text-slate-200 font-medium">ORR Speed Warning</span><p class="text-slate-500">Gusty winds (40kmph) expected. Reduced speeds advised for heavy vehicles.</p></div></li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script>
+        // 1. Live Clock
+        setInterval(() => {
+            document.getElementById('live-clock').innerText = new Date().toLocaleTimeString('en-IN', { timeZone: 'Asia/Kolkata' });
+        }, 1000);
+
+        // 2. Fetch Telemetry & AQI
+        async function fetchTelemetryData() {
+            try {
+                const lat = 17.5050, lon = 78.3040;
+                const weather = await (await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,relative_humidity_2m&timezone=auto`)).json();
+                const aqi = await (await fetch(`https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${lat}&longitude=${lon}&current=european_aqi&timezone=auto`)).json();
+                
+                document.getElementById('weather-data').innerHTML = `
+                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Temperature</span> <span class="text-lg font-bold text-amber-400">${weather.current.temperature_2m}°C</span></div>
+                    <div class="flex justify-between items-center bg-slate-800 p-2.5 rounded"><span class="text-slate-400 text-sm">Air Quality</span> <span class="text-md font-bold text-emerald-400">${aqi.current.european_aqi} AQI</span></div>
+                `;
+            } catch (e) {}
+        }
+
+        // 3. Refined News Feed (Newest First)
+        async function fetchIntelligenceFeed() {
+            try {
+                const now = new Date();
+                document.getElementById('news-timestamp').innerText = `Sync: ${now.toLocaleTimeString('en-IN', { hour: '2-digit', minute:'2-digit' })}`;
+
+                // Intelligence-targeted keywords
+                const query = 'Telangana+(alert+OR+traffic+OR+weather+OR+government+OR+policy+OR+water)';
+                const rssUrl = encodeURIComponent(`https://news.google.com/rss/search?q=${query}+when:1d&hl=en-IN&gl=IN&ceid=IN:en`);
+                const res = await (await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`)).json();
+                
+                if(res.items) {
+                    const sorted = res.items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+                    let html = '';
+                    sorted.slice(0, 15).forEach(item => {
+                        const title = item.title.toLowerCase();
+                        let tag = '📰 News', border = 'border-slate-700';
+                        if (title.includes('weather') || title.includes('rain')) { tag='🌦️ Weather'; border='border-amber-900/50'; }
+                        else if (title.includes('traffic') || title.includes('metro')) { tag='🚦 Transit'; border='border-blue-900/50'; }
+                        else if (title.includes('govt') || title.includes('assembly')) { tag='🏛️ Policy'; border='border-emerald-900/50'; }
+                        else if (title.includes('alert') || title.includes('panic')) { tag='🚨 Alert'; border='border-red-900/50'; }
+
+                        html += `
+                            <div class="p-3 bg-slate-800/40 rounded-lg border-l-4 ${border} hover:bg-slate-800 transition-all mb-3">
+                                <div class="flex justify-between text-[10px] uppercase font-bold text-slate-500 mb-1"><span>${tag}</span><span>${new Date(item.pubDate).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}</span></div>
+                                <a href="${item.link}" target="_blank" class="text-slate-200 font-medium text-sm leading-snug hover:text-blue-400">${item.title}</a>
+                            </div>`;
+                    });
+                    document.getElementById('news-data').innerHTML = html;
+                }
+            } catch (e) {}
+        }
+
+        function updateTransitMap() {
+            const s = document.getElementById('transit-sector').value.split(',');
+            const lat = parseFloat(s[0]), lon = parseFloat(s[1]), offset = 0.05;
+            document.getElementById('transit-map-frame').src = `https://www.openstreetmap.org/export/embed.html?bbox=${lon-offset}%2C${lat-offset}%2C${lon+offset}%2C${lat+offset}&layer=mapnik&marker=${lat}%2C${lon}`;
+        }
+
+        function loadCulturalSpotlight() {
+            const facts = [
+                { title: "Telugu Script Evolution", desc: "Evolved from ancient Bhattiprolu Brahmi (3rd c. BCE).", tag: "Linguistics" },
+                { title: "Ramappa Floating Bricks", desc: "UNESCO site with bricks light enough to float on water.", tag: "Architecture" }
+            ];
+            const fact = facts[new Date().getDate() % facts.length];
+            document.getElementById('culture-title').innerText = fact.title;
+            document.getElementById('culture-desc').innerText = fact.desc;
+        }
+
+        fetchTelemetryData(); fetchIntelligenceFeed(); loadCulturalSpotlight();
+        setInterval(fetchTelemetryData, 300000); setInterval(fetchIntelligenceFeed, 300000);
+    </script>
+</body>
+</html>

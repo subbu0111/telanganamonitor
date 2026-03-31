@@ -1,0 +1,44 @@
+name: '🔄 AI Analysis (Every 2 Hours)'
+
+on:
+  schedule:
+    # Every 2 hours: 00:00, 02:00, 04:00, 06:00, 08:00, 10:00, 12:00, 14:00, 16:00, 18:00, 20:00, 22:00 UTC
+    # (IST = UTC + 5:30, so these run at 05:30, 07:30, 09:30, 11:30, 13:30, 15:30, 17:30, 19:30, 21:30, 23:30, 01:30, 03:30 IST)
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 🔄 Run AI Analysis
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: node scripts/run-analysis.js
+
+      - name: 📤 Commit & Push results
+        run: |
+          git config user.name "TelanganaMonitor Bot"
+          git config user.email "bot@telanganamonitor.local"
+          git add data/
+          # Only commit if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Auto: Executive Summary $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
+            git push
+          fi

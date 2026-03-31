@@ -158,34 +158,6 @@ body{font-family:'Inter',system-ui,-apple-system,sans-serif;background:var(--bg)
 .risk-medium{color:var(--orange);font-weight:600}
 .risk-low{color:var(--green);font-weight:600}
 
-/* Daily Report */
-.daily-header{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px;margin-bottom:24px}
-.daily-header h2{font-size:20px;font-weight:800;letter-spacing:-.02em}
-.daily-controls{display:flex;align-items:center;gap:12px}
-.daily-controls input[type=date]{padding:8px 14px;background:var(--surface2);border:1px solid var(--border);border-radius:8px;color:var(--text);font-size:13px;font-family:inherit;cursor:pointer}
-.daily-controls input[type=date]::-webkit-calendar-picker-indicator{filter:invert(.7)}
-.scheduler-badge{display:inline-flex;align-items:center;gap:6px;padding:5px 12px;border-radius:20px;font-size:11px;font-weight:600;border:1px solid}
-.scheduler-badge.online{background:rgba(48,209,88,.1);border-color:rgba(48,209,88,.3);color:var(--green)}
-.scheduler-badge.offline{background:rgba(255,69,58,.1);border-color:rgba(255,69,58,.3);color:var(--red)}
-.timeline{position:relative;padding-left:32px}
-.timeline::before{content:'';position:absolute;left:11px;top:0;bottom:0;width:2px;background:linear-gradient(to bottom,var(--blue),var(--purple))}
-.timeline-item{position:relative;margin-bottom:20px;animation:fadeSlideIn .4s ease forwards;opacity:0}
-@keyframes fadeSlideIn{to{opacity:1;transform:translateY(0)}}  
-.timeline-item{transform:translateY(12px)}
-.timeline-dot{position:absolute;left:-27px;top:8px;width:12px;height:12px;border-radius:50%;background:var(--blue);border:2px solid var(--bg);box-shadow:0 0 0 3px rgba(10,132,255,.25);z-index:1}
-.timeline-card{background:var(--glass);border:1px solid var(--border);border-radius:var(--radius);padding:20px;transition:.2s}
-.timeline-card:hover{border-color:rgba(10,132,255,.3);box-shadow:0 4px 24px rgba(10,132,255,.08)}
-.timeline-time{font-size:11px;font-weight:700;color:var(--blue);text-transform:uppercase;letter-spacing:.04em;margin-bottom:8px}
-.timeline-snapshot{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
-.snapshot-pill{padding:4px 10px;border-radius:12px;font-size:10px;font-weight:600;background:var(--surface2);color:var(--text2);border:1px solid var(--border)}
-.digest-card{background:linear-gradient(135deg,rgba(10,132,255,.06),rgba(191,90,242,.06));border:1px solid rgba(10,132,255,.2);border-radius:var(--radius);padding:28px;margin-bottom:24px}
-.digest-card h2{font-size:18px;font-weight:800;margin-bottom:4px;background:linear-gradient(135deg,var(--blue),var(--purple));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
-.digest-meta{font-size:11px;color:var(--text3);margin-bottom:16px}
-.no-data-card{text-align:center;padding:60px 40px;background:var(--glass);border:1px solid var(--border);border-radius:var(--radius)}
-.no-data-card .icon{font-size:48px;margin-bottom:16px}
-.no-data-card h3{font-size:16px;font-weight:700;margin-bottom:8px}
-.no-data-card p{font-size:13px;color:var(--text3);max-width:400px;margin:0 auto}
-
 /* Heatmap legend */
 .heatmap-legend{position:absolute;bottom:10px;left:10px;z-index:1000;background:var(--nav-bg);padding:8px 12px;border-radius:8px;font-size:10px;color:var(--text2);border:1px solid var(--border)}
 .heatmap-legend div{display:flex;align-items:center;gap:6px;margin:3px 0}
@@ -295,7 +267,6 @@ body{font-family:'Inter',system-ui,-apple-system,sans-serif;background:var(--bg)
     <div class="intel-tab" onclick="switchIntel('whisper')">📡 Whisper Net</div>
     <div class="intel-tab" onclick="switchIntel('trends')">📈 Trends</div>
     <div class="intel-tab" onclick="switchIntel('ai')">🤖 AI Analysis</div>
-    <div class="intel-tab" onclick="switchIntel('daily')">📊 Daily Report</div>
   </div>
 
   <div class="intel-section active" id="intel-env">
@@ -332,31 +303,11 @@ body{font-family:'Inter',system-ui,-apple-system,sans-serif;background:var(--bg)
       </div>
     </div>
   </div>
-
-  <!-- DAILY REPORT SECTION -->
-  <div class="intel-section" id="intel-daily">
-    <div class="daily-header">
-      <div>
-        <h2>📊 Daily Intelligence Report</h2>
-        <div style="font-size:12px;color:var(--text3);margin-top:4px">Automated 2-hourly Executive Summaries & 7 AM Daily Digest</div>
-      </div>
-      <div class="daily-controls">
-        <div id="scheduler-status" class="scheduler-badge offline">⏳ Checking...</div>
-        <input type="date" id="daily-date-picker" onchange="loadDailyReport(this.value)">
-        <button class="btn-primary" onclick="loadDailyReport()" style="font-size:11px;padding:6px 14px">🔄 Refresh</button>
-      </div>
-    </div>
-    <div id="daily-digest-container"></div>
-    <div style="margin-top:24px">
-      <h3 style="font-size:15px;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:8px">🕐 Executive Summary Timeline</h3>
-      <div id="daily-timeline" class="timeline"></div>
-    </div>
-  </div>
 </div>
 
 <!-- Export Bar -->
 <div class="export-bar">
-  <span style="font-size:11px;color:var(--text3)">TelanganaMonitor v3.1 — AI-Powered State Intelligence with Auto-Scheduler</span>
+  <span style="font-size:11px;color:var(--text3)">TelanganaMonitor v3.0 — AI-Powered State Intelligence</span>
   <div style="display:flex;gap:8px">
     <button class="btn-ghost" onclick="exportJSON()">💾 Export JSON</button>
     <button class="btn-primary" onclick="exportBrief()">📄 Download Brief</button>
@@ -509,38 +460,6 @@ async function corsFetch(url){
   throw new Error('All CORS proxies failed for: '+url);
 }
 
-// === RSS HELPER (Bypass rss2json caching & fix dates) ===
-async function fetchRSS(query){
-  const googleRss=`https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-IN&gl=IN&ceid=IN:en`;
-  try {
-    const r = await corsFetch(googleRss);
-    const text = await r.text();
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(text, 'text/xml');
-    const items = Array.from(doc.querySelectorAll('item')).map(item => ({
-      title: item.querySelector('title')?.textContent || '',
-      link: item.querySelector('link')?.textContent || '',
-      pubDate: item.querySelector('pubDate')?.textContent || '',
-      source: item.querySelector('source')?.textContent || 'News'
-    }));
-    if(!items.length) throw new Error('Empty RSS');
-    return items;
-  } catch (e) {
-    const cb = Math.floor(Date.now() / (15*60*1000));
-    const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleRss)}&_cb=${cb}`;
-    let res;
-    try{ res = await(await fetch(apiUrl)).json(); }
-    catch(e2){ res = await(await corsFetch(apiUrl)).json(); }
-    const items = res.items || [];
-    items.forEach(i => {
-      if(i.pubDate && !i.pubDate.includes('Z') && !i.pubDate.includes('GMT') && !i.pubDate.includes('+')){
-        i.pubDate = i.pubDate.replace(' ', 'T') + 'Z';
-      }
-    });
-    return items;
-  }
-}
-
 // === GOLD PRICE (frankfurter.app for XAU → INR conversion — FREE) ===
 async function fetchGold(){
   try{
@@ -606,7 +525,7 @@ function renderAlerts(alerts){
   }
   let ah='';
   alerts.forEach(a=>{
-    ah+=`<div class="alert-item"><div style="display:flex;justify-content:space-between;align-items:center"><span class="alert-tag ${a.severity}">${a.severity}</span><span class="alert-time">${a.time.toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit'})}</span></div><div class="alert-title">${a.title}</div><div class="alert-desc">${a.desc}</div></div>`;
+    ah+=`<div class="alert-item"><div style="display:flex;justify-content:space-between;align-items:center"><span class="alert-tag ${a.severity}">${a.severity}</span><span class="alert-time">${a.time.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'})}</span></div><div class="alert-title">${a.title}</div><div class="alert-desc">${a.desc}</div></div>`;
   });
   document.getElementById('alerts-list').innerHTML=ah;
 }
@@ -615,7 +534,7 @@ function renderAlerts(alerts){
 async function fetchNews(){
   try{
     const now=new Date();
-    document.getElementById('news-ts').textContent='Sync: '+now.toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit'});
+    document.getElementById('news-ts').textContent='Sync: '+now.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
     
     // Multiple targeted queries for broader coverage (each returns up to 10)
     const queries=[
@@ -627,7 +546,14 @@ async function fetchNews(){
     
     // Fire all queries in parallel
     const fetchOne=async(q)=>{
-      try { return await fetchRSS(q); } catch(e) { return []; }
+      const googleRss=`https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=en-IN&gl=IN&ceid=IN:en`;
+      const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleRss)}`;
+      try{
+        const r=await(await fetch(apiUrl)).json();
+        return r.items||[];
+      }catch(e){
+        try{return (await(await corsFetch(apiUrl)).json()).items||[];}catch(e2){return [];}
+      }
     };
     
     const results=await Promise.allSettled(queries.map(q=>fetchOne(q)));
@@ -683,11 +609,13 @@ async function fetchNews(){
 
       
       const pd=new Date(item.pubDate);
-      newsHtml+=`<div class="news-item"><div class="news-meta"><span class="news-cat" style="color:${catColor}">${cat}</span><span style="font-size:10px;color:var(--text3)">${pd.toLocaleDateString('en-IN',{timeZone:'Asia/Kolkata',day:'numeric',month:'short'})} ${pd.toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit'})}</span></div><div class="news-title"><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></div><div class="news-source">${item.source||''}</div></div>`;
+      const optionsDate = {day:'numeric',month:'short',timeZone:'Asia/Kolkata'};
+      const optionsTime = {hour:'2-digit',minute:'2-digit',timeZone:'Asia/Kolkata'};
+      newsHtml+=`<div class="news-item"><div class="news-meta"><span class="news-cat" style="color:${catColor}">${cat}</span><span style="font-size:10px;color:var(--text3)">${pd.toLocaleDateString('en-IN',optionsDate)} ${pd.toLocaleTimeString('en-IN',optionsTime)} IST</span></div><div class="news-title"><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></div><div class="news-source">${item.source||''}</div></div>`;
     });
     document.getElementById('news-feed').innerHTML=newsHtml;
     document.getElementById('s-news').textContent=sorted.length;
-    document.getElementById('s-sync').textContent=now.toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit'});
+    document.getElementById('s-sync').textContent=now.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
 
     // Only weather/environment alerts — no news duplication
     renderWeatherOnlyAlerts();
@@ -712,7 +640,11 @@ async function fetchReservoirs(){
     {name:'Srisailam',lat:15.85,lon:78.87,capacity:215.81,color:'var(--blue)'},
     {name:'Nagarjuna Sagar',lat:16.57,lon:79.31,capacity:312.05,color:'var(--teal)'},
     {name:'Himayat Sagar',lat:17.33,lon:78.39,capacity:2.97,color:'var(--purple)'},
-    {name:'Osman Sagar',lat:17.37,lon:78.30,capacity:3.90,color:'var(--green)'}
+    {name:'Osman Sagar',lat:17.37,lon:78.30,capacity:3.90,color:'var(--green)'},
+    {name:'Sriramsagar',lat:18.97,lon:78.34,capacity:90.31,color:'var(--blue)'},
+    {name:'Singur Dam',lat:17.75,lon:77.93,capacity:29.91,color:'var(--teal)'},
+    {name:'Nizamsagar',lat:18.17,lon:78.27,capacity:17.80,color:'var(--purple)'},
+    {name:'Kaddam Dam',lat:19.07,lon:78.87,capacity:7.60,color:'var(--green)'}
   ];
   let html='';
   for(const r of reservoirs){
@@ -723,7 +655,7 @@ async function fetchReservoirs(){
       const fillColor=pct>70?'var(--blue)':pct>40?'var(--orange)':'var(--red)';
       const est=(r.capacity*pct/100).toFixed(2);
       STORE.reservoirs.push({name:r.name,pct,est,capacity:r.capacity});
-      html+=`<div class="reservoir"><div class="r-head"><span style="font-weight:500">${r.name}</span><span style="color:${fillColor};font-weight:600">${est} TMC</span></div><div class="r-bar"><div class="r-fill" style="width:${pct}%;background:${fillColor}"></div></div><div style="font-size:10px;color:var(--text3);margin-top:2px">Capacity: ${r.capacity} TMC · ~${Math.round(pct)}% est.</div></div>`;
+      html+=`<div class="reservoir"><div class="r-head"><span style="font-weight:500">${r.name}</span><span style="color:${fillColor};font-weight:600">${est} TMC</span></div><div class="r-bar"><div class="r-fill" style="width:${pct}%;background:${fillColor}"></div></div><div style="font-size:10px;color:var(--text3);margin-top:2px">Capacity: ${r.capacity} TMC · ~${Math.round(pct)}% full (est.)</div></div>`;
     }catch(e){
       html+=`<div class="reservoir"><div class="r-head"><span>${r.name}</span><span style="color:var(--text3)">Unavailable</span></div></div>`;
     }
@@ -864,9 +796,11 @@ function setMapView(type){
       {name:'Kaddam Dam',lat:19.07,lon:78.87,icon:'🌊'},
     ];
     reservoirs.forEach(r=>{
+      const match=STORE.reservoirs.find(sr=>sr.name===r.name || r.name.includes(sr.name));
+      const details=match ? `<br><span style="font-weight:600;color:var(--blue)">${Math.round(match.pct)}% full</span><br><span style="font-size:10px;color:#888">~${match.est} / ${match.capacity} TMC</span>` : `<br><span style="font-size:11px;color:#888">Major Reservoir</span>`;
       const icon=L.divIcon({html:`<div style="font-size:20px;text-shadow:0 1px 4px rgba(0,0,0,.6)">${r.icon}</div>`,className:'',iconSize:[24,24],iconAnchor:[12,12]});
       const m=L.marker([r.lat,r.lon],{icon}).addTo(map)
-        .bindPopup(`<b>${r.icon} ${r.name}</b><br><span style="font-size:11px;color:#888">Major Reservoir</span>`);
+        .bindPopup(`<b>${r.icon} ${r.name}</b>${details}`);
       reservoirMarkers.push(m);
     });
   }
@@ -889,14 +823,17 @@ async function fetchCivicPulse(){
   let html='';
   for(const p of projects){
     try{
-      const allItems = await fetchRSS(p.query);
-      if(allItems && allItems.length){
-        const items=allItems.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,3);
+      const googleRss=`https://news.google.com/rss/search?q=${encodeURIComponent(p.query)}&hl=en-IN&gl=IN&ceid=IN:en`;
+      const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleRss)}`;
+      let res;
+      try{ res=await(await fetch(apiUrl)).json(); }catch(e1){ res=await(await corsFetch(apiUrl)).json(); }
+      if(res.items && res.items.length){
+        const items=res.items.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,3);
         let links='';
         items.forEach(item=>{
           links+=`<div style="padding:8px 0;border-bottom:1px solid var(--border)">
             <a href="${item.link}" target="_blank" style="font-size:12px;color:var(--text);text-decoration:none;line-height:1.5">${item.title}</a>
-            <div style="font-size:10px;color:var(--text3);margin-top:3px">${item.source||'News'} · ${new Date(item.pubDate).toLocaleDateString('en-IN',{timeZone:'Asia/Kolkata',day:'numeric',month:'short'})}</div>
+            <div style="font-size:10px;color:var(--text3);margin-top:3px">${item.source||'News'} · ${new Date(item.pubDate).toLocaleDateString('en-IN',{day:'numeric',month:'short'})}</div>
           </div>`;
         });
         html+=`<div class="intel-card">
@@ -923,15 +860,18 @@ async function fetchWhisperNet(){
   let html='';
   for(const f of feeds){
     try{
-      const allItems = await fetchRSS(f.query);
-      if(allItems && allItems.length){
+      const googleRss=`https://news.google.com/rss/search?q=${encodeURIComponent(f.query)}&hl=en-IN&gl=IN&ceid=IN:en`;
+      const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleRss)}`;
+      let res;
+      try{ res=await(await fetch(apiUrl)).json(); }catch(e1){ res=await(await corsFetch(apiUrl)).json(); }
+      if(res.items && res.items.length){
         const threeDaysAgo=new Date(Date.now()-3*24*60*60*1000);
-        const items=allItems.filter(item=>new Date(item.pubDate)>=threeDaysAgo).sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,2);
+        const items=res.items.filter(item=>new Date(item.pubDate)>=threeDaysAgo).sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,2);
         items.forEach(item=>{
           html+=`<div class="intel-card">
             <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px">
               <span style="font-size:11px;font-weight:700;color:${f.color};text-transform:uppercase">${f.label}</span>
-              <span style="font-size:10px;color:var(--text3)">${new Date(item.pubDate).toLocaleDateString('en-IN',{timeZone:'Asia/Kolkata',day:'numeric',month:'short'})}</span>
+              <span style="font-size:10px;color:var(--text3)">${new Date(item.pubDate).toLocaleDateString('en-IN',{day:'numeric',month:'short'})}</span>
             </div>
             <h3 style="font-size:14px;line-height:1.4">${item.title}</h3>
             <div style="display:flex;justify-content:space-between;align-items:center;margin-top:8px">
@@ -951,15 +891,18 @@ async function fetchWhisperNet(){
 async function fetchCulture(){
   try{
     const query='Hyderabad events OR Hyderabad entertainment OR Hyderabad festival OR Hyderabad exhibition OR Telugu movie';
-    const allItems = await fetchRSS(query);
-    if(allItems && allItems.length){
-      const items=allItems.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,3);
+    const googleRss=`https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-IN&gl=IN&ceid=IN:en`;
+    const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleRss)}`;
+    let res;
+    try{ res=await(await fetch(apiUrl)).json(); }catch(e1){ res=await(await corsFetch(apiUrl)).json(); }
+    if(res.items && res.items.length){
+      const items=res.items.sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,3);
       let html='';
       items.forEach(item=>{
         html+=`<div class="culture-card" style="margin-bottom:10px">
           <h3 style="font-size:13px;line-height:1.4">${item.title}</h3>
           <div style="display:flex;justify-content:space-between;align-items:center;margin-top:6px">
-            <span style="color:var(--text3);font-size:10px">${item.source||'News'} · ${new Date(item.pubDate).toLocaleDateString('en-IN',{timeZone:'Asia/Kolkata',day:'numeric',month:'short'})}</span>
+            <span style="color:var(--text3);font-size:10px">${item.source||'News'} · ${new Date(item.pubDate).toLocaleDateString('en-IN',{day:'numeric',month:'short'})}</span>
             <a href="${item.link}" target="_blank" style="color:var(--blue);font-size:11px">Read →</a>
           </div>
         </div>`;
@@ -986,7 +929,7 @@ function exportBrief(){
   brief+=`\nRESERVOIRS:\n`;
   STORE.reservoirs.forEach(r=>brief+=`  ${r.name}: ~${r.est} TMC (${Math.round(r.pct)}% of ${r.capacity} TMC)\n`);
   brief+=`\nTOP NEWS (${STORE.news.length} items):\n`;
-  STORE.news.slice(0,15).forEach((n,i)=>brief+=`  ${i+1}. ${n.title}\n     Source: ${n.source} | ${new Date(n.pubDate).toLocaleString('en-IN',{timeZone:'Asia/Kolkata'})}\n\n`);
+  STORE.news.slice(0,15).forEach((n,i)=>brief+=`  ${i+1}. ${n.title}\n     Source: ${n.source} | ${new Date(n.pubDate).toLocaleString('en-IN')}\n\n`);
   const blob=new Blob([brief],{type:'text/plain'});
   const a=document.createElement('a');a.href=URL.createObjectURL(blob);
   a.download=`TelanganaMonitor_Brief_${new Date().toISOString().slice(0,10)}.txt`;a.click();
@@ -1040,7 +983,7 @@ function renderTrends(history){
     history.forEach(h=>{
       const val=h.counts[cat.key]||0;
       const pct=Math.max(4,(val/max)*100);
-      const time=new Date(h.time).toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit'});
+      const time=new Date(h.time).toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
       bars+=`<div class="trend-bar" style="height:${pct}%;background:${cat.color}" data-val="${val} @ ${time}"></div>`;
     });
     const latest=history[history.length-1].counts[cat.key]||0;
@@ -1201,7 +1144,7 @@ Keep the tone formal, concise, and actionable. This is for decision-makers, not 
     const text=data.choices?.[0]?.message?.content||'No analysis generated';
     
     // Render the AI response
-    const genTime=new Date().toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit',second:'2-digit'});
+    const genTime=new Date().toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit',second:'2-digit'});
     container.innerHTML=`
       <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:20px">
         <div>
@@ -1226,166 +1169,6 @@ Keep the tone formal, concise, and actionable. This is for decision-makers, not 
   }
 }
 
-// === DAILY REPORT FUNCTIONS (GitHub Actions powered) ===
-
-// Cache for JSON data to avoid re-fetching
-let _summariesCache=null, _digestsCache=null, _cacheTime=0;
-
-async function fetchDataFile(filename){
-  // Try relative path first (works on GitHub Pages + local server)
-  const paths=['./data/'+filename, '/data/'+filename, 'data/'+filename];
-  for(const p of paths){
-    try{
-      const r=await fetch(p+'?_t='+Date.now());
-      if(r.ok) return await r.json();
-    }catch(e){}
-  }
-  // Try raw GitHub content (works when hosted anywhere)
-  try{
-    const r=await fetch('https://raw.githubusercontent.com/subbu0111/telanganamonitor/main/data/'+filename+'?_t='+Date.now());
-    if(r.ok) return await r.json();
-  }catch(e){}
-  return null;
-}
-
-async function loadAllData(forceRefresh){
-  const now=Date.now();
-  if(!forceRefresh && _summariesCache && _digestsCache && (now-_cacheTime)<60000) return;
-  const [s,d]=await Promise.all([
-    fetchDataFile('executive_summaries.json'),
-    fetchDataFile('daily_digests.json')
-  ]);
-  _summariesCache=s||[];
-  _digestsCache=d||[];
-  _cacheTime=now;
-}
-
-function filterByDateIST(items, dateStr){
-  const istOffset=5.5*60*60*1000;
-  return items.filter(s=>{
-    const sDate=new Date(new Date(s.timestamp||s.date).getTime()+istOffset);
-    return sDate.toISOString().split('T')[0]===dateStr;
-  });
-}
-
-async function checkSchedulerStatus(){
-  const badge=document.getElementById('scheduler-status');
-  if(!badge) return;
-  try{
-    await loadAllData();
-    if(_summariesCache && _summariesCache.length){
-      const latest=_summariesCache[_summariesCache.length-1];
-      const lastTime=latest.timestampIST||new Date(latest.timestamp).toLocaleString('en-IN',{timeZone:'Asia/Kolkata'});
-      badge.className='scheduler-badge online';
-      badge.innerHTML=`<span style="width:7px;height:7px;border-radius:50%;background:var(--green);display:inline-block;animation:pulse 2s infinite"></span> GitHub Actions Active · Last: ${lastTime} · ${_summariesCache.length} total`;
-    } else {
-      badge.className='scheduler-badge offline';
-      badge.innerHTML='⏳ No data yet — Waiting for first GitHub Actions run';
-    }
-  }catch(e){
-    badge.className='scheduler-badge offline';
-    badge.innerHTML='⏳ No data yet — Push to GitHub to start';
-  }
-}
-
-async function loadDailyReport(dateStr){
-  const picker=document.getElementById('daily-date-picker');
-  if(!dateStr){
-    const y=new Date(); y.setDate(y.getDate()-1);
-    dateStr=y.toISOString().split('T')[0];
-  }
-  picker.value=dateStr;
-
-  const digestContainer=document.getElementById('daily-digest-container');
-  const timelineContainer=document.getElementById('daily-timeline');
-
-  digestContainer.innerHTML='<div class="ai-loading"><div class="spinner"></div><h3>Loading Daily Report...</h3></div>';
-  timelineContainer.innerHTML='';
-
-  try{
-    await loadAllData(true);
-
-    // Filter digests for selected date
-    const matchDigests=(_digestsCache||[]).filter(d=>d.date===dateStr);
-
-    // Filter summaries for selected date (by IST)
-    const matchSummaries=filterByDateIST(_summariesCache||[], dateStr);
-
-    // Render Daily Digest
-    if(matchDigests.length){
-      const d=matchDigests[matchDigests.length-1];
-      digestContainer.innerHTML=`
-        <div class="digest-card">
-          <h2>🌅 Daily Intelligence Digest</h2>
-          <div class="digest-meta">Generated: ${d.generatedAtIST} · ${d.summaryCount} snapshots consolidated · Data: ${d.dataRange.firstSnapshot} → ${d.dataRange.lastSnapshot}</div>
-          <div class="ai-section" style="background:transparent;border:none;padding:0">${d.digest}</div>
-        </div>`;
-    } else {
-      digestContainer.innerHTML=`
-        <div class="no-data-card">
-          <div class="icon">📰</div>
-          <h3>No Daily Digest for ${dateStr}</h3>
-          <p>The daily digest is auto-generated at 7:00 AM IST via GitHub Actions. It consolidates previous day's executive summaries.</p>
-        </div>`;
-    }
-
-    // Render Executive Summary Timeline
-    if(matchSummaries.length){
-      let tlHtml='';
-      matchSummaries.forEach((s,i)=>{
-        const time=new Date(s.timestamp).toLocaleTimeString('en-IN',{timeZone:'Asia/Kolkata',hour:'2-digit',minute:'2-digit'});
-        const snap=s.dataSnapshot||{};
-        tlHtml+=`
-          <div class="timeline-item" style="animation-delay:${i*0.08}s">
-            <div class="timeline-dot"></div>
-            <div class="timeline-card">
-              <div class="timeline-time">${time} IST — Snapshot #${i+1}</div>
-              <div class="ai-section" style="background:transparent;border:none;padding:0;margin:0">${s.executiveSummary}</div>
-              <div class="timeline-snapshot">
-                ${snap.temperature?`<span class="snapshot-pill">🌡 ${snap.temperature}</span>`:''}
-                ${snap.aqi&&snap.aqi!=='N/A'?`<span class="snapshot-pill">💨 AQI ${snap.aqi}</span>`:''}
-                ${snap.goldPerGram&&snap.goldPerGram!=='N/A'?`<span class="snapshot-pill">🥇 ${snap.goldPerGram}</span>`:''}
-                ${snap.newsCount?`<span class="snapshot-pill">📰 ${snap.newsCount} articles</span>`:''}
-                ${snap.weatherDesc&&snap.weatherDesc!=='N/A'?`<span class="snapshot-pill">☁️ ${snap.weatherDesc}</span>`:''}
-              </div>
-              <details style="margin-top:12px">
-                <summary style="font-size:11px;color:var(--blue);cursor:pointer;font-weight:600">View Full Analysis</summary>
-                <div class="ai-section" style="margin-top:8px;background:var(--surface2);border:1px solid var(--border);padding:16px;border-radius:12px">${s.fullAnalysis}</div>
-              </details>
-            </div>
-          </div>`;
-      });
-      timelineContainer.innerHTML=tlHtml;
-    } else {
-      timelineContainer.innerHTML=`
-        <div class="no-data-card">
-          <div class="icon">🕐</div>
-          <h3>No Snapshots for ${dateStr}</h3>
-          <p>Executive summaries are captured every 2 hours via GitHub Actions and committed to data/executive_summaries.json.</p>
-        </div>`;
-    }
-
-  }catch(e){
-    console.error('Daily report error:',e);
-    digestContainer.innerHTML=`
-      <div class="no-data-card">
-        <div class="icon">⚠️</div>
-        <h3>Could Not Load Report Data</h3>
-        <p>Data is generated by GitHub Actions and stored in <code style="background:var(--surface2);padding:2px 8px;border-radius:4px;font-size:12px">data/</code> folder.</p>
-        <p style="margin-top:8px">Make sure the repo has the GitHub Actions workflows running and the OPENROUTER_API_KEY secret is set.</p>
-      </div>`;
-    timelineContainer.innerHTML='';
-  }
-}
-
-// Load daily report data when Daily Report tab is shown
-document.addEventListener('click',function(e){
-  if(e.target.classList.contains('intel-tab')&&e.target.textContent.includes('Daily Report')){
-    checkSchedulerStatus();
-    loadDailyReport();
-  }
-});
-
 // === BOOT ===
 async function boot(){
   initMap();
@@ -1398,8 +1181,6 @@ async function boot(){
   // Auto-save to localStorage
   STORE.savedAt=new Date().toISOString();
   try{localStorage.setItem('telangana_monitor_last',JSON.stringify(STORE))}catch(e){}
-  // Check scheduler status silently
-  checkSchedulerStatus();
 }
 boot();
 setInterval(()=>{
