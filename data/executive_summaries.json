@@ -82,5 +82,28 @@
         "Weather Forecast Today: Andhra, Telangana On High Alert As Strong Winds And Rain Move In - News18"
       ]
     }
+  },
+  {
+    "timestamp": "2026-03-31T18:05:14.589Z",
+    "timestampIST": "31/3/2026, 11:35:14 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy and Ministers will campaign for the Congress party in Kerala and Assam. (2) The Telangana government is seeking public suggestions for the Musi River Rejuvenation Project, starting March 31. (3, 4) The CID has issued a notice to BRS MLA Kaushik Reddy. (8) The government plans a Rs 70,000 crore road infrastructure push. (7, 19)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy and Ministers will campaign for the Congress party in Kerala and Assam. (2) The Telangana government is seeking public suggestions for the Musi River Rejuvenation Project, starting March 31. (3, 4) The CID has issued a notice to BRS MLA Kaushik Reddy. (8) The government plans a Rs 70,000 crore road infrastructure push. (7, 19)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS MLA Kaushik Reddy has received a CID notice. (8, 9)</li>\n    <li><span class=\"risk-medium\">Public Sentiment:</span> BRS's Ravula Sridhar Reddy criticizes the Hate Speech Bill, alleging it curbs free speech. (16, 18)</li>\n    <li><span class=\"risk-low\">Financial:</span> BJP alleges diversion of 15th Finance Commission funds in Telangana. (17)</li>\n    <li><span class=\"risk-low\">Environmental:</span> Weather forecast indicates strong winds and rain in Telangana. (20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Telangana government is seeking public opinion on the Musi River rejuvenation project (3, 4), which may be impacted by the upcoming weather conditions (20).</li>\n    <li>The government's focus on food adulteration (11, 12, 14, 15) could be linked to public health concerns.</li>\n    <li>The Rs 70,000 crore road push (7, 19) is a significant infrastructure project that may require close monitoring.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the CID investigation involving BRS MLA Kaushik Reddy and assess potential political fallout. (8, 9)</li>\n    <li>Assess public reaction to the Hate Speech Bill and address concerns raised by BRS. (16, 18)</li>\n    <li>Prepare for potential disruptions due to strong winds and rain. (20)</li>\n    <li>Ensure the Musi River Rejuvenation Project public consultation process is effectively managed. (3, 4)</li>\n    <li>Review and monitor the progress of the Rs 70,000 crore road infrastructure push. (7, 19)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>All Districts:</b> Monitor weather conditions and prepare for potential disruptions due to strong winds and rain. (20)</li>\n    <li><b>Hyderabad:</b> Closely monitor the CID investigation involving BRS MLA Kaushik Reddy. (8, 9)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "24.4°C",
+      "humidity": "81%",
+      "wind": "1 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 74,
+      "pm25": 35.5,
+      "goldPerGram": "₹9,050",
+      "newsCount": 22,
+      "topHeadlines": [
+        "‘Tank Bund Shiva’ receives Rs 5 lakh, 2BHK house from Telangana govt - The Siasat Daily",
+        "CM Revanth Reddy, Ministers to Campaign for Congress in Kerala, Assam - Deccan Chronicle",
+        "Telangana Govt Seeks Public Suggestions for Musi River Rejuvenation Project - Deccan Chronicle",
+        "Telangana govt to seek public opinion on Musi River rejuvenation starting March 31 - Telangana Today",
+        "Niranjan Reddy accuses govt of failing to protect irrigation interests - Telangana Today"
+      ]
+    }
   }
 ]
