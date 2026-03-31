@@ -63,5 +63,24 @@
         "Weather Forecast Today: Andhra, Telangana On High Alert As Strong Winds And Rain Move In - News18"
       ]
     }
+  },
+  {
+    "timestamp": "2026-03-31T18:00:11.379Z",
+    "timestampIST": "31/3/2026, 11:30:11 pm",
+    "executiveSummary": "<p>Telangana is on high alert due to an incoming weather system bringing strong winds and rain, as per News18. Andhra Pradesh is also under the same weather alert (1).</p>\n<p>No other significant events are reported in the last 24 hours.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Telangana is on high alert due to an incoming weather system bringing strong winds and rain, as per News18. Andhra Pradesh is also under the same weather alert (1).</p>\n<p>No other significant events are reported in the last 24 hours.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Weather-Related Disruptions:</span> Potential for disruptions due to strong winds and rain in Telangana (1).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The weather forecast (1) directly impacts public safety and potential for infrastructure damage.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Activate the State Disaster Management Authority and issue advisories to the public regarding the weather forecast (1).</li>\n  <li>Coordinate with Andhra Pradesh authorities for regional weather monitoring and response.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>All districts in Telangana should be monitored due to the widespread weather alert (1).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "24.4°C",
+      "humidity": "81%",
+      "wind": "1 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 74,
+      "pm25": 35.5,
+      "goldPerGram": "₹9,050",
+      "newsCount": 1,
+      "topHeadlines": [
+        "Weather Forecast Today: Andhra, Telangana On High Alert As Strong Winds And Rain Move In - News18"
+      ]
+    }
   }
 ]
