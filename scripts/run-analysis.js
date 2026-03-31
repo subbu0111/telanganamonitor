@@ -121,12 +121,20 @@ async function fetchNews() {
       }
     });
 
-    // Filter by last 24 hours
+    // Filter by last 24 hours + extra strict keyword check for old news
     const now24h = new Date(Date.now() - 24 * 60 * 60 * 1000);
+    const oldNewsKeywords = ['2 days ago', '3 days ago', '4 days ago', '5 days ago', 'week ago', 'month ago'];
+    
     const recentItems = uniqueItems.filter(item => {
       if (!item.pubDate) return false;
       const pd = new Date(item.pubDate);
-      return !isNaN(pd.getTime()) && pd >= now24h;
+      const isRecent = !isNaN(pd.getTime()) && pd >= now24h;
+      
+      // Secondary check: Does the title or source mention it's old?
+      const text = (item.title + ' ' + item.source).toLowerCase();
+      const mentionsOld = oldNewsKeywords.some(k => text.includes(k));
+      
+      return isRecent && !mentionsOld;
     });
     
     // Sort by most recent first
@@ -146,13 +154,10 @@ async function runAIAnalysis(weather, aqi, news, gold) {
 
   const prompt = `You are an intelligence analyst for the Government of Telangana, India. You serve senior IAS/IPS officers and the Chief Minister. Analyze the following real-time data and produce a structured intelligence briefing.
 
-CRITICAL RULES:
-- ONLY report facts that are EXPLICITLY mentioned in the data below.
-- FOCUS entirely on news from the LAST 24 HOURS and UPCOMING/NEAR-FUTURE events.
-- IGNORE old news, past events (e.g. things that happened 2+ days ago), or generic historical context.
-- DO NOT fabricate, infer, or assume any events (bandhs, strikes, protests, etc.) unless a specific headline mentions them.
-- If a headline is ambiguous, report it as-is without adding interpretation.
 - Every claim in your analysis must trace back to a specific headline number or data point provided below.
+- BE CONSERVATIVE: Do not imagine connections (like weather impacting an event) unless the connection is obvious and high-impact.
+- NO HALLUCINATIONS: Do not misattribute content. If headline #15 is about a fire, do not say #15 is about weather.
+- IGNORE metadata/LPG prices/generic items for the executive summary. Focus on Governance, Security, and Public Safety.
 
 CURRENT DATE/TIME: ${new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' })}
 
@@ -188,7 +193,7 @@ Keep the tone formal, concise, and actionable. This is for decision-makers, not 
       'X-Title': 'TelanganaMonitor'
     },
     body: JSON.stringify({
-      model: 'google/gemini-2.0-flash-lite-001',
+      model: 'google/gemini-2.0-flash-001',
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.3,
       max_tokens: 2048
