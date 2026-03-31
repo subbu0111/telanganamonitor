@@ -312,26 +312,30 @@ body{font-family:'Inter',system-ui,-apple-system,sans-serif;background:var(--bg)
   </div>
   <div class="intel-section" id="intel-ai">
     <div id="ai-container">
-      <div class="intel-card" style="text-align:center;padding:40px">
-        <div style="font-size:32px;margin-bottom:12px">🤖</div>
-        <h3>AI Intelligence Analysis</h3>
-        <div class="subtitle" style="margin:12px 0">Powered by OpenRouter AI — Analyzes all collected data to generate executive-level intelligence briefing</div>
-        <div id="ai-key-section" style="margin:20px auto;max-width:400px;text-align:left">
-          <label style="font-size:11px;color:var(--text3);display:block;margin-bottom:6px">🔑 OpenRouter API Key <span style="color:var(--text3)">(saved in your browser only)</span></label>
+      <div class="ai-loading">
+        <div class="spinner"></div>
+        <h3>Loading Latest AI Analysis...</h3>
+        <div class="subtitle">Fetching auto-generated intelligence briefing</div>
+      </div>
+    </div>
+    <details style="margin-top:16px;padding:0 4px">
+      <summary style="font-size:12px;color:var(--text3);cursor:pointer;font-weight:500">⚙️ Generate fresh analysis with your own API key (optional)</summary>
+      <div class="intel-card" style="margin-top:12px;padding:24px">
+        <div id="ai-key-section" style="max-width:400px">
+          <label style="font-size:11px;color:var(--text3);display:block;margin-bottom:6px">🔑 OpenRouter API Key</label>
           <div style="display:flex;gap:8px">
-            <input type="password" id="gemini-key-input" placeholder="Paste your OpenRouter API key here" 
+            <input type="password" id="gemini-key-input" placeholder="Paste your OpenRouter API key here"
               style="flex:1;padding:8px 12px;background:var(--surface2);border:1px solid var(--border);border-radius:6px;color:var(--text);font-size:12px;outline:none"
             />
             <button class="btn-primary" onclick="saveGeminiKey()" style="font-size:11px;padding:6px 14px">💾 Save</button>
           </div>
           <div id="key-status" style="font-size:10px;margin-top:6px;color:var(--text3)"></div>
-          <div style="font-size:10px;color:var(--text3);margin-top:8px">🔒 Key is stored in your browser’s localStorage only. Never sent to Git or any server except OpenRouter’s API.</div>
-          <div style="margin-top:6px"><a href="https://openrouter.ai/keys" target="_blank" style="font-size:11px;color:var(--blue)">Get API key from OpenRouter →</a></div>
         </div>
-        <button class="btn-primary" onclick="runGeminiAnalysis()" id="ai-btn" style="margin-top:12px">⚡ Generate Analysis</button>
+        <button class="btn-primary" onclick="runGeminiAnalysis()" id="ai-btn" style="margin-top:12px">⚡ Generate Fresh Analysis</button>
       </div>
-    </div>
+    </details>
   </div>
+
 
   <!-- DAILY REPORT SECTION -->
   <div class="intel-section" id="intel-daily">
@@ -1378,11 +1382,71 @@ async function loadDailyReport(dateStr){
   }
 }
 
-// Load daily report data when Daily Report tab is shown
+// === AUTO-LOAD AI ANALYSIS from GitHub Actions data ===
+
+async function autoLoadLatestAnalysis(){
+  const container=document.getElementById('ai-container');
+  if(!container) return;
+  try{
+    await loadAllData();
+    if(_summariesCache && _summariesCache.length){
+      const latest=_summariesCache[_summariesCache.length-1];
+      const genTime=latest.timestampIST||new Date(latest.timestamp).toLocaleString('en-IN',{timeZone:'Asia/Kolkata'});
+      const snap=latest.dataSnapshot||{};
+      container.innerHTML=`
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:20px">
+          <div>
+            <h2 style="font-size:18px;font-weight:700">🤖 AI Intelligence Briefing</h2>
+            <div style="font-size:11px;color:var(--text3);margin-top:4px">Auto-generated at ${genTime} via GitHub Actions · ${snap.newsCount||'--'} data points analyzed</div>
+          </div>
+          <div style="display:flex;gap:8px;align-items:center">
+            <div class="scheduler-badge online" style="font-size:10px">
+              <span style="width:6px;height:6px;border-radius:50%;background:var(--green);display:inline-block"></span> Auto · ${_summariesCache.length} runs
+            </div>
+            <button class="btn-primary" onclick="autoLoadLatestAnalysis()" style="font-size:11px;padding:6px 14px">🔄 Refresh</button>
+          </div>
+        </div>
+        <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px">
+          ${snap.temperature?'<span class="snapshot-pill">🌡 '+snap.temperature+'</span>':''}
+          ${snap.aqi&&snap.aqi!=='N/A'?'<span class="snapshot-pill">💨 AQI '+snap.aqi+'</span>':''}
+          ${snap.goldPerGram&&snap.goldPerGram!=='N/A'?'<span class="snapshot-pill">🥇 '+snap.goldPerGram+'</span>':''}
+          ${snap.newsCount?'<span class="snapshot-pill">📰 '+snap.newsCount+' articles</span>':''}
+          ${snap.weatherDesc&&snap.weatherDesc!=='N/A'?'<span class="snapshot-pill">☁️ '+snap.weatherDesc+'</span>':''}
+        </div>
+        <div class="ai-section">${latest.fullAnalysis}</div>
+        <div style="text-align:center;padding:12px;font-size:10px;color:var(--text3)">
+          ⚡ Auto-generated by GitHub Actions every 2 hours. No API key needed.
+        </div>`;
+    } else {
+      container.innerHTML=`
+        <div class="intel-card" style="text-align:center;padding:40px">
+          <div style="font-size:32px;margin-bottom:12px">🤖</div>
+          <h3>AI Intelligence Analysis</h3>
+          <div class="subtitle" style="margin:12px 0">No analysis data yet. Waiting for the first GitHub Actions run.</div>
+          <div style="font-size:12px;color:var(--text3);margin-top:12px">
+            <p>The analysis runs automatically every 2 hours via GitHub Actions.</p>
+            <p style="margin-top:6px">Or expand the option below to generate one manually with your own API key.</p>
+          </div>
+        </div>`;
+    }
+  }catch(e){
+    container.innerHTML=`
+      <div class="intel-card" style="text-align:center;padding:40px">
+        <div style="font-size:32px;margin-bottom:12px">🤖</div>
+        <h3>AI Intelligence Analysis</h3>
+        <div class="subtitle" style="margin:12px 0">Could not load auto-generated analysis. Use the option below to generate manually.</div>
+      </div>`;
+  }
+}
+
+// Load AI analysis and daily report data when tabs are shown
 document.addEventListener('click',function(e){
   if(e.target.classList.contains('intel-tab')&&e.target.textContent.includes('Daily Report')){
     checkSchedulerStatus();
     loadDailyReport();
+  }
+  if(e.target.classList.contains('intel-tab')&&e.target.textContent.includes('AI Analysis')){
+    autoLoadLatestAnalysis();
   }
 });
 
@@ -1400,6 +1464,8 @@ async function boot(){
   try{localStorage.setItem('telangana_monitor_last',JSON.stringify(STORE))}catch(e){}
   // Check scheduler status silently
   checkSchedulerStatus();
+  // Auto-load latest AI analysis from data files
+  autoLoadLatestAnalysis();
 }
 boot();
 setInterval(()=>{
