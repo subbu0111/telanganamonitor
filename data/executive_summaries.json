@@ -128,5 +128,28 @@
         "Niranjan Reddy accuses govt of failing to protect irrigation interests - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-03-31T19:04:55.280Z",
+    "timestampIST": "1/4/2026, 12:34:55 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy and ministers will campaign for the Congress in Kerala and Assam. The Telangana government is seeking public suggestions for the Musi River rejuvenation project. The government plans to establish a dedicated agency to combat food adulteration, implementing a HYDRAA-like model.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy and ministers will campaign for the Congress in Kerala and Assam. The Telangana government is seeking public suggestions for the Musi River rejuvenation project. The government plans to establish a dedicated agency to combat food adulteration, implementing a HYDRAA-like model.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS's Ravula Sridhar Reddy criticizes the Hate Speech Bill, alleging it curbs free speech and suppresses opposition voices (Headlines 18, 20).</li>\n    <li><span class=\"risk-medium\">Financial:</span> BJP alleges diversion of 15th Finance Commission funds in Telangana (Headline 19).</li>\n    <li><span class=\"risk-low\">Legal:</span> CID issued a notice to BRS MLA Kaushik Reddy (Headline 10).</li>\n    <li><span class=\"risk-low\">Political:</span> KTR accuses Telangana Minister Ponguleti Srinivas Reddy of illegal mining and land grabbing (Headline 15).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Telangana government's focus on food adulteration (Headlines 12, 14, 16, 17) and the HYDRAA-like model are directly linked.</li>\n    <li>The Musi River rejuvenation project (Headlines 3, 5, 6) is a key infrastructure initiative.</li>\n    <li>The upcoming Telangana inter first and second year results (Headline 11) are a significant event for students and parents.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review the Hate Speech Bill in light of the criticism from BRS (Headlines 18, 20).</li>\n    <li>Investigate the allegations of diversion of 15th Finance Commission funds (Headline 19).</li>\n    <li>Monitor the CID investigation involving BRS MLA Kaushik Reddy (Headline 10).</li>\n    <li>Assess the allegations of illegal mining and land grabbing against Minister Ponguleti Srinivas Reddy (Headline 15).</li>\n    <li>Prepare for the announcement of the Telangana inter first and second year results expected next week (Headline 11).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Shamshabad: Focus on the Hyderabad Bullet Train Project planning 500 acres near Shamshabad (Headline 9).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "24.2°C",
+      "humidity": "81%",
+      "wind": "1.8 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 74,
+      "pm25": 32.4,
+      "goldPerGram": "₹9,050",
+      "newsCount": 23,
+      "topHeadlines": [
+        "Revanth Reddy's Kerala Assembly Campaign: A Strategic Political Move - Devdiscourse",
+        "‘Tank Bund Shiva’ receives Rs 5 lakh, 2BHK house from Telangana govt - The Siasat Daily",
+        "Telangana govt invites public’s suggestions on Musi rejuvenation - The Siasat Daily",
+        "CM Revanth Reddy, Ministers to Campaign for Congress in Kerala, Assam - Deccan Chronicle",
+        "Telangana Govt Seeks Public Suggestions for Musi River Rejuvenation Project - Deccan Chronicle"
+      ]
+    }
   }
 ]
