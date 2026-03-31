@@ -68,9 +68,8 @@ async function fetchGold() {
   return null;
 }
 
-async function fetchNews() {
+async function fetchRSS(query) {
   try {
-    const query = 'Telangana OR Hyderabad latest news today';
     const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-IN&gl=IN&ceid=IN:en`;
     let text = '';
     try { text = await (await fetch(url)).text(); } catch(e) {
@@ -91,8 +90,40 @@ async function fetchNews() {
         source: ((x.match(/<source[^>]*>([\s\S]*?)<\/source>/) || [])[1] || 'News').replace(/<!\[CDATA\[|\]\]>/g, '').trim()
       });
     }
+    return items;
+  } catch(e) { return []; }
+}
+
+async function fetchNews() {
+  try {
+    const queries = [
+      'Telangana OR Hyderabad latest news today',
+      'GHMC OR Cyberabad OR Telangana government OR Revanth Reddy',
+      'Hyderabad police OR Telangana crime OR Telangana accident',
+      'Hyderabad metro OR Telangana infrastructure OR HMDA OR Musi river'
+    ];
+    
+    // Fetch all queries in parallel
+    const results = await Promise.allSettled(queries.map(q => fetchRSS(q)));
+    const allItems = [];
+    results.forEach(r => {
+      if (r.status === 'fulfilled') allItems.push(...r.value);
+    });
+
+    // Deduplicate by title
+    const seen = new Set();
+    const uniqueItems = [];
+    allItems.forEach(item => {
+      const key = (item.title || '').toLowerCase().trim();
+      if (!seen.has(key)) {
+        seen.add(key);
+        uniqueItems.push(item);
+      }
+    });
+
+    // Filter by last 24 hours
     const now24h = new Date(Date.now() - 24 * 60 * 60 * 1000);
-    const recentItems = items.filter(item => {
+    const recentItems = uniqueItems.filter(item => {
       if (!item.pubDate) return false;
       const pd = new Date(item.pubDate);
       return !isNaN(pd.getTime()) && pd >= now24h;
