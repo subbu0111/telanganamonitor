@@ -91,7 +91,15 @@ async function fetchNews() {
         source: ((x.match(/<source[^>]*>([\s\S]*?)<\/source>/) || [])[1] || 'News').replace(/<!\[CDATA\[|\]\]>/g, '').trim()
       });
     }
-    return items;
+    const now24h = new Date(Date.now() - 24 * 60 * 60 * 1000);
+    const recentItems = items.filter(item => {
+      if (!item.pubDate) return false;
+      const pd = new Date(item.pubDate);
+      return !isNaN(pd.getTime()) && pd >= now24h;
+    });
+    
+    // Sort by most recent first
+    return recentItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   } catch(e) { return []; }
 }
 
@@ -109,6 +117,8 @@ async function runAIAnalysis(weather, aqi, news, gold) {
 
 CRITICAL RULES:
 - ONLY report facts that are EXPLICITLY mentioned in the data below.
+- FOCUS entirely on news from the LAST 24 HOURS and UPCOMING/NEAR-FUTURE events.
+- IGNORE old news, past events (e.g. things that happened 2+ days ago), or generic historical context.
 - DO NOT fabricate, infer, or assume any events (bandhs, strikes, protests, etc.) unless a specific headline mentions them.
 - If a headline is ambiguous, report it as-is without adding interpretation.
 - Every claim in your analysis must trace back to a specific headline number or data point provided below.
@@ -119,7 +129,7 @@ WEATHER & ENVIRONMENT:
 ${wCtx}
 ${aCtx}
 
-LATEST NEWS HEADLINES:
+LATEST NEWS HEADLINES (Past 24 Hours Only):
 ${nCtx || 'No news available'}
 
 GOLD PRICE: ₹${gold || '--'}/gram
