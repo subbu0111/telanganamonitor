@@ -105,5 +105,28 @@
         "Niranjan Reddy accuses govt of failing to protect irrigation interests - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-03-31T18:13:45.616Z",
+    "timestampIST": "31/3/2026, 11:43:45 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy and Ministers will campaign for the Congress party in Kerala and Assam. (2) The Telangana government is seeking public suggestions for the Musi River Rejuvenation Project, with public opinion gathering starting March 31. (3, 4) The government plans a Rs 70,000 crore road infrastructure push. (7, 19) The government will set up a dedicated agency to check food adulteration, with CM Revanth Reddy vowing HYDRAA-like action. (10, 12, 14, 15)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy and Ministers will campaign for the Congress party in Kerala and Assam. (2) The Telangana government is seeking public suggestions for the Musi River Rejuvenation Project, with public opinion gathering starting March 31. (3, 4) The government plans a Rs 70,000 crore road infrastructure push. (7, 19) The government will set up a dedicated agency to check food adulteration, with CM Revanth Reddy vowing HYDRAA-like action. (10, 12, 14, 15)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political:</span> BRS and BJP are criticizing government actions, including the Hate Speech Bill and alleged diversion of funds. (16, 17, 18)</li>\n  <li><span class=\"risk-medium\">Public Health:</span> Potential for public concern regarding food adulteration, given the government's focus on this issue. (10, 12, 14, 15)</li>\n  <li><span class=\"risk-low\">Legal:</span> CID has issued a notice to BRS MLA Kaushik Reddy. (8)</li>\n  <li><span class=\"risk-low\">Environmental:</span> Weather forecast indicates strong winds and rain, requiring high alert in Telangana. (20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The government's focus on food adulteration (10, 12, 14, 15) could be linked to the CM's HYDRAA-like action. (14, 15)</li>\n  <li>The Musi River Rejuvenation Project (3, 4) and the Rs 70,000 crore road push (7, 19) indicate significant infrastructure development plans.</li>\n  <li>Criticism of the Hate Speech Bill by BRS (16, 18) and allegations of fund diversion by BJP (17) highlight potential political opposition.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor public sentiment regarding the Hate Speech Bill and allegations of fund diversion.</li>\n  <li>Assess the potential impact of the upcoming weather conditions and coordinate with relevant departments.</li>\n  <li>Prepare a public awareness campaign regarding the Musi River Rejuvenation Project and the government's efforts to combat food adulteration.</li>\n  <li>Review the progress of the Hyderabad Bullet Train Project and road infrastructure plans.</li>\n  <li>Monitor the CID investigation involving BRS MLA Kaushik Reddy.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>All Districts:</b> Monitor weather conditions and prepare for potential impacts from strong winds and rain. (20)</li>\n  <li><b>Hyderabad:</b> Focus on the Hyderabad Bullet Train Project and related infrastructure development. (7)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "24.4°C",
+      "humidity": "81%",
+      "wind": "1 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 74,
+      "pm25": 35.5,
+      "goldPerGram": "₹9,050",
+      "newsCount": 22,
+      "topHeadlines": [
+        "‘Tank Bund Shiva’ receives Rs 5 lakh, 2BHK house from Telangana govt - The Siasat Daily",
+        "CM Revanth Reddy, Ministers to Campaign for Congress in Kerala, Assam - Deccan Chronicle",
+        "Telangana Govt Seeks Public Suggestions for Musi River Rejuvenation Project - Deccan Chronicle",
+        "Telangana govt to seek public opinion on Musi River rejuvenation starting March 31 - Telangana Today",
+        "Niranjan Reddy accuses govt of failing to protect irrigation interests - Telangana Today"
+      ]
+    }
   }
 ]
