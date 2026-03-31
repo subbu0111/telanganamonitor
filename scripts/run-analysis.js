@@ -107,12 +107,17 @@ async function runAIAnalysis(weather, aqi, news, gold) {
 
   const prompt = `You are an intelligence analyst for the Government of Telangana, India. You serve senior IAS/IPS officers and the Chief Minister. Analyze the following real-time data and produce a structured intelligence briefing.
 
+CRITICAL RULES:
+- ONLY report facts that are EXPLICITLY mentioned in the data below.
+- DO NOT fabricate, infer, or assume any events (bandhs, strikes, protests, etc.) unless a specific headline mentions them.
+- If a headline is ambiguous, report it as-is without adding interpretation.
+- Every claim in your analysis must trace back to a specific headline number or data point provided below.
+
 CURRENT DATE/TIME: ${new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' })}
 
 WEATHER & ENVIRONMENT:
 ${wCtx}
 ${aCtx}
-
 
 LATEST NEWS HEADLINES:
 ${nCtx || 'No news available'}
@@ -121,9 +126,9 @@ GOLD PRICE: ₹${gold || '--'}/gram
 
 Produce the following sections in clean HTML (use <h3>, <p>, <ul>, <li> tags only, no markdown):
 
-1. <h3>📋 Executive Summary</h3> — 3-4 concise lines covering the most critical developments for the CM/DGP. Be specific with names, places, numbers.
+1. <h3>📋 Executive Summary</h3> — 3-4 concise lines covering the most critical developments for the CM/DGP. ONLY mention events from the headlines above. Be specific with names, places, numbers.
 
-2. <h3>🚨 Risk Assessment</h3> — List top 3-5 risks with severity (HIGH/MEDIUM/LOW). Use <span class="risk-high">, <span class="risk-medium">, or <span class="risk-low"> for severity tags.
+2. <h3>🚨 Risk Assessment</h3> — List top 3-5 risks with severity (HIGH/MEDIUM/LOW). Use <span class="risk-high">, <span class="risk-medium">, or <span class="risk-low"> for severity tags. Base risks ONLY on the data provided.
 
 3. <h3>🔗 Cross-Correlation</h3> — Identify 2-3 connections between different news items or data points.
 
@@ -131,7 +136,7 @@ Produce the following sections in clean HTML (use <h3>, <p>, <ul>, <li> tags onl
 
 5. <h3>🗺️ District Focus</h3> — Highlight which districts need immediate attention and why.
 
-Keep the tone formal, concise, and actionable. This is for decision-makers, not the public.`;
+Keep the tone formal, concise, and actionable. This is for decision-makers, not the public. DO NOT invent or assume any events not present in the headlines.`;
 
   const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
     method: 'POST',
@@ -144,7 +149,7 @@ Keep the tone formal, concise, and actionable. This is for decision-makers, not 
     body: JSON.stringify({
       model: 'google/gemini-2.0-flash-lite-001',
       messages: [{ role: 'user', content: prompt }],
-      temperature: 0.7,
+      temperature: 0.3,
       max_tokens: 2048
     })
   });
