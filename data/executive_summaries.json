@@ -243,5 +243,28 @@
         "Telangana CM Revanth Reddy begins two-day Kerala election campaign - Asianet Newsable"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-01T09:08:05.896Z",
+    "timestampIST": "1/4/2026, 2:38:05 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is currently campaigning in Kerala for two days, starting April 1st, for Congress candidates (9, 10, 13, 19). The CM announced ₹5 lakh, a job, and housing for 'Tank Bund Shiva' (15, 17). The government is seeking public suggestions for the Musi River rejuvenation project (18, 20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is currently campaigning in Kerala for two days, starting April 1st, for Congress candidates (9, 10, 13, 19). The CM announced ₹5 lakh, a job, and housing for 'Tank Bund Shiva' (15, 17). The government is seeking public suggestions for the Musi River rejuvenation project (18, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> Kaushik Reddy calls CID notice ‘political intimidation’ (5).</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> A student flagged exam bias to the CM (11).</li>\n    <li><span class=\"risk-low\">Weather:</span> IMD issued a Yellow Alert for thunderstorms across Telangana (6, 14). Orange alert for heavy rains in Telangana (12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is actively campaigning in Kerala (1, 2, 9, 10, 13, 16, 19), potentially impacting his availability for state matters.</li>\n    <li>The government's focus on Musi River rejuvenation (18, 20) could be linked to potential weather-related issues.</li>\n    <li>The CM is actively involved in both political campaigns and local initiatives like honoring 'Tank Bund Shiva' (8, 15, 17), indicating a dual focus.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political implications of Kaushik Reddy's statement regarding the CID notice (5).</li>\n    <li>Assess the student's concerns regarding exam bias (11).</li>\n    <li>Ensure adequate preparedness for potential thunderstorms and heavy rains, as per IMD alerts (6, 12, 14).</li>\n    <li>Monitor public feedback and suggestions for the Musi River rejuvenation project (18, 20).</li>\n    <li>Review the CM's schedule and ensure adequate support during his Kerala campaign (9, 10, 13, 19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>All districts are potentially at risk due to the weather alerts. Monitor all districts for potential impact from thunderstorms and heavy rains (6, 12, 14).</p>\n```",
+    "dataSnapshot": {
+      "temperature": "35.9°C",
+      "humidity": "31%",
+      "wind": "6.3 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 73,
+      "pm25": 27.1,
+      "goldPerGram": "₹9,050",
+      "newsCount": 23,
+      "topHeadlines": [
+        "\"Vote for LDF or Pinarayi Vijayan is going to reach PM Modi in Delhi\": Telangana CM during election campaign in Keralam - ANI News",
+        "Vijayan is shadow of Modi, says Telangana CM in Kerala poll campaign - The Siasat Daily",
+        "Telangana CM Reddy greets Telangana Governor on his birthday - UNITED NEWS OF INDIA",
+        "Revanth Reddy slams 'unfair' delimitation exercise, warns of 'northern dominance' - The Federal",
+        "Kaushik Reddy calls CID notice ‘political intimidation’ - The Hans India"
+      ]
+    }
   }
 ]
