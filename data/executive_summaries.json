@@ -312,5 +312,28 @@
         "Revanth Reddy extends support to Tank Bund rescuer Shiva - newsage.in"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-01T15:07:09.483Z",
+    "timestampIST": "1/4/2026, 8:37:09 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the LDF government and BJP (1, 3, 4, 5, 6, 9, 10, 11, 12). Chicken shops across Telangana are closed due to a protest over shrinking margins (16). The IMD has issued a Yellow Alert for thunderstorms across Telangana, and Hyderabad experienced a power cut (14, 18).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the LDF government and BJP (1, 3, 4, 5, 6, 9, 10, 11, 12). Chicken shops across Telangana are closed due to a protest over shrinking margins (16). The IMD has issued a Yellow Alert for thunderstorms across Telangana, and Hyderabad experienced a power cut (14, 18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> Telangana BJP is criticizing CM Revanth Reddy (1).</li>\n  <li><span class=\"risk-medium\">Public Discontent:</span> Chicken shops are closed across Telangana due to trader protests (16).</li>\n  <li><span class=\"risk-low\">Public Safety:</span> IMD has issued a Yellow Alert for thunderstorms across Telangana (18).</li>\n  <li><span class=\"risk-low\">Infrastructure Issues:</span> Hyderabad experienced a power cut (14).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy is campaigning in Kerala (3, 4, 5, 6, 9, 10, 11, 12), while the Telangana BJP is criticizing his actions (1).</li>\n  <li>The CM is extending support to a Tank Bund rescuer (8, 20).</li>\n  <li>The weather alert for thunderstorms (18) and the power cut in Hyderabad (14) may be related.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the political fallout from CM Revanth Reddy's campaign in Kerala and the BJP's response (1).</li>\n  <li>Assess the impact of the chicken shop closures and engage with the protesting traders (16).</li>\n  <li>Ensure adequate preparedness and response measures are in place for the predicted thunderstorms (18).</li>\n  <li>Investigate the cause of the Hyderabad power cut and take corrective action (14).</li>\n  <li>Review the implications of the new bill mandating salary deductions for neglecting parents' care (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Monitor power infrastructure and weather-related incidents due to the power cut and thunderstorm alert (14, 18).</li>\n  <li><b>All Districts:</b> Monitor the impact of chicken shop closures and any potential public unrest (16).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.5°C",
+      "humidity": "58%",
+      "wind": "7.6 km/h",
+      "weatherDesc": "Rain Showers",
+      "aqi": 68,
+      "pm25": 34.6,
+      "goldPerGram": "₹9,012",
+      "newsCount": 31,
+      "topHeadlines": [
+        "Telangana BJP Calls Out Revanth Reddy's 'Hypocrisy' For Anti-LDF Campaign in Kerala - Deccan Chronicle",
+        "Telangana government’s conspiracy to silence questioning voices! - The South First",
+        "Revanth Reddy Holds Roadshow in Kerala Capital, Galvanise Cadres - Deccan Chronicle",
+        "Kerala polls: Revanth Reddy takes on Pinarayi, with a Mohanlal punchline - The Federal",
+        "Revanth Reddy's Fiery Attack: ‘Nee po mone Vijaya’ at Kerala Campaign - Devdiscourse"
+      ]
+    }
   }
 ]
