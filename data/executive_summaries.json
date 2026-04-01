@@ -266,5 +266,28 @@
         "Kaushik Reddy calls CID notice ‘political intimidation’ - The Hans India"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-01T10:59:51.849Z",
+    "timestampIST": "1/4/2026, 4:29:51 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is currently campaigning in Kerala for two days, starting April 1st, for Congress candidates (13, 14, 17). He has announced ₹5 Lakh, a job, and housing for 'Tank Bund Shiva' (19). The IMD has issued a Yellow Alert for thunderstorms across Telangana and an Orange Alert for heavy rains in Telangana (11, 16, 18).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is currently campaigning in Kerala for two days, starting April 1st, for Congress candidates (13, 14, 17). He has announced ₹5 Lakh, a job, and housing for 'Tank Bund Shiva' (19). The IMD has issued a Yellow Alert for thunderstorms across Telangana and an Orange Alert for heavy rains in Telangana (11, 16, 18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political:</span> Kaushik Reddy has called a CID notice ‘political intimidation’ (10).</li>\n  <li><span class=\"risk-medium\">Weather:</span> IMD has issued a Yellow Alert for thunderstorms and an Orange Alert for heavy rains across Telangana, potentially impacting public safety and infrastructure (11, 16, 18).</li>\n  <li><span class=\"risk-low\">Public Sentiment:</span> CM Revanth Reddy's comments on delimitation and the Kerala election campaign may generate public discussion (9, 4, 5, 6, 7).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy is actively involved in the Kerala election campaign (13, 14, 17), while also addressing issues within Telangana (9, 15, 19).</li>\n  <li>The weather alerts (11, 16, 18) necessitate monitoring of potential impacts on public safety and infrastructure.</li>\n  <li>CM Revanth Reddy is supporting 'Tank Bund Shiva' (2, 3, 19), potentially indicating a focus on public image.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the Kerala election campaign for any potential repercussions within Telangana.</li>\n  <li>Activate disaster response protocols in districts under the IMD's weather alerts.</li>\n  <li>Assess the potential impact of the delimitation exercise on public sentiment.</li>\n  <li>Review the CID notice mentioned by Kaushik Reddy and assess the situation.</li>\n  <li>Ensure effective communication regarding the support provided to 'Tank Bund Shiva'.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>All districts are under potential threat due to the IMD's weather alerts for thunderstorms and heavy rains (11, 16, 18). Immediate attention should be given to monitoring weather conditions and preparing for potential emergencies.</p>\n```",
+    "dataSnapshot": {
+      "temperature": "34.8°C",
+      "humidity": "34%",
+      "wind": "5.6 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 71,
+      "pm25": 24.4,
+      "goldPerGram": "₹9,050",
+      "newsCount": 28,
+      "topHeadlines": [
+        "NAREDCO Telangana announces new Executive Committee for 2026–2028 - Telangana Today",
+        "Revanth Reddy extends support to Tank Bund rescuer Shiva - newsage.in",
+        "Who is ‘Tank Bund Shiva’, Hyderabad lifesaver honored by CM Revanth - NewsMeter",
+        "Telangana CM Revanth slams Pinarayi during UDF campaign; accuses him of backing communal forces in Kerala - The New Indian Express",
+        "Kerala Polls: Vote for LDF is a vote for Modi, says Revanth Reddy - Asianet Newsable"
+      ]
+    }
   }
 ]
