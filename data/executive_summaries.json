@@ -289,5 +289,28 @@
         "Kerala Polls: Vote for LDF is a vote for Modi, says Revanth Reddy - Asianet Newsable"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-01T13:27:06.065Z",
+    "timestampIST": "1/4/2026, 6:57:06 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is currently on a two-day campaign tour in Kerala for the upcoming elections. He has made several statements criticizing Pinarayi Vijayan and the LDF, while also extending support to Tank Bund rescuer Shiva. Chicken shops across Telangana have shut down today due to a protest.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is currently on a two-day campaign tour in Kerala for the upcoming elections. He has made several statements criticizing Pinarayi Vijayan and the LDF, while also extending support to Tank Bund rescuer Shiva. Chicken shops across Telangana have shut down today due to a protest.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> CM Revanth Reddy's campaign in Kerala could lead to increased political tensions, especially given his accusations against the LDF and BJP. (Headlines 1, 2, 3, 6, 7, 8, 9, 19)</li>\n    <li><span class=\"risk-medium\">Economic:</span> Chicken shop closures across Telangana could impact local businesses and potentially lead to public dissatisfaction. (Headline 13)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> IMD has issued a Yellow Alert for thunderstorms across Telangana. (Headline 15)</li>\n    <li><span class=\"risk-low\">Legal/Political:</span> Kaushik Reddy has called a CID notice ‘political intimidation’. (Headline 14)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is actively campaigning in Kerala (Headlines 1, 2, 3, 6, 7, 8, 9, 18, 19), while also addressing issues within Telangana (Headlines 5, 10, 12, 16, 20).</li>\n    <li>The CM's support for Tank Bund rescuer Shiva (Headline 5, 17) highlights a potential public relations opportunity, while also drawing attention to local issues.</li>\n    <li>The chicken shop closures (Headline 13) and the Hyderabad power cut (Headline 11) may be unrelated, but both could impact public sentiment.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political situation in Kerala closely, assessing the impact of CM Revanth Reddy's campaign.</li>\n    <li>Assess the economic impact of the chicken shop closures and engage with the traders to understand the situation.</li>\n    <li>Coordinate with the relevant departments to ensure public safety during the predicted thunderstorms.</li>\n    <li>Review the CID notice mentioned by Kaushik Reddy and assess the potential implications.</li>\n    <li>Prepare a public statement regarding the new bill mandating salary deduction for neglecting parents' care. (Headline 16)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor the impact of the power cut (Headline 11) and the weather alert (Headline 15).</li>\n    <li><b>All Telangana Districts:</b> Monitor the impact of chicken shop closures (Headline 13).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31.7°C",
+      "humidity": "44%",
+      "wind": "2.6 km/h",
+      "weatherDesc": "Rain Showers",
+      "aqi": 69,
+      "pm25": 29.9,
+      "goldPerGram": "₹9,050",
+      "newsCount": 28,
+      "topHeadlines": [
+        "Kerala polls: Revanth Reddy takes on Pinarayi, with a Mohanlal punchline - The Federal",
+        "Revanth Reddy's Fiery Attack: ‘Nee po mone Vijaya’ at Kerala Campaign - devdiscourse.com",
+        "Assembly Elections 2026 | Revanth Reddy Alleges 'Secret Deal' Between BJP, CPI(M); Campaigns For Congress in Kerala - etvbharat.com",
+        "NAREDCO Telangana announces new Executive Committee for 2026–2028 - Telangana Today",
+        "Revanth Reddy extends support to Tank Bund rescuer Shiva - newsage.in"
+      ]
+    }
   }
 ]
