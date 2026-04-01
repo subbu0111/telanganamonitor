@@ -404,5 +404,28 @@
         "'Nee Po Mone…': Revanth Reddy woos voters in Kerala's Nemom, targets BJP-LDF 'understanding' - lokmattimes.com"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-01T22:39:57.624Z",
+    "timestampIST": "2/4/2026, 4:09:57 am",
+    "executiveSummary": "<p>Telangana Chief Minister Revanth Reddy is actively campaigning in Kerala, targeting the LDF and BJP, and making accusations against Pinarayi Vijayan. (1, 3, 4, 11, 13, 14, 18, 19, 20) Several BRS MLAs are criticizing CM Revanth Reddy, alleging bias and raising concerns about the government's actions. (6, 7, 8, 17) A new Economic Offences Wing police station has opened in Neredmet. (9)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Telangana Chief Minister Revanth Reddy is actively campaigning in Kerala, targeting the LDF and BJP, and making accusations against Pinarayi Vijayan. (1, 3, 4, 11, 13, 14, 18, 19, 20) Several BRS MLAs are criticizing CM Revanth Reddy, alleging bias and raising concerns about the government's actions. (6, 7, 8, 17) A new Economic Offences Wing police station has opened in Neredmet. (9)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS MLAs are openly criticizing the CM and the government, potentially leading to increased political tension and challenges to the ruling party. (6, 7, 8, 17)</li>\n    <li><span class=\"risk-low\">Public Perception:</span> Accusations of bias and attempts to silence questioning voices could negatively impact the government's image. (6, 7, 8, 10)</li>\n    <li><span class=\"risk-low\">Legal Challenges:</span> The BRS's Ravula Sridhar Reddy criticizes the Telangana Hate Speech Bill, which could lead to legal challenges. (12)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's campaigning in Kerala (1, 3, 4, 11, 13, 14, 18, 19, 20) is directly linked to the upcoming Kerala polls and his criticism of the LDF and BJP.</li>\n    <li>The BRS MLAs' criticism of CM Revanth Reddy (6, 7, 8, 17) is likely fueled by the CM's actions and policies, potentially related to the ongoing political dynamics.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric from both the ruling party and the BRS MLAs to assess the level of political tension.</li>\n    <li>Assess the potential impact of the Hate Speech Bill on free speech and public discourse.</li>\n    <li>Review the operational readiness of the new Economic Offences Wing police station in Neredmet.</li>\n    <li>Monitor the public's reaction to CM Revanth Reddy's campaigning in Kerala.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Neredmet:</b> The opening of the new Economic Offences Wing police station in Neredmet requires monitoring to ensure its effective operation and resource allocation. (9)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "24.3°C",
+      "humidity": "66%",
+      "wind": "3.4 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 63,
+      "pm25": 14.6,
+      "goldPerGram": "₹9,012",
+      "newsCount": 34,
+      "topHeadlines": [
+        "Telangana CM Revanth Reddy's warning to Keralam voters on LDF - thenewsmill.com",
+        "Deadly Herbicide Paraquat Banned in Telangana - deccanchronicle.com",
+        "Revanth campaigns in Kerala, says LDF and BJP have secret pact - The Hindu",
+        "Kerala polls: Telangana CM Revanth Reddy takes a dig at Pinarayi Vijayan with film dialogue during UDF roadshow - The Hindu",
+        "Telangana mein Dosti Keralam mein Kusti: BJP calls out Revanth’s hypocrisy - The Siasat Daily"
+      ]
+    }
   }
 ]
