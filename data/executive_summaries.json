@@ -335,5 +335,28 @@
         "Revanth Reddy's Fiery Attack: ‘Nee po mone Vijaya’ at Kerala Campaign - Devdiscourse"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-01T16:58:42.613Z",
+    "timestampIST": "1/4/2026, 10:28:42 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala for the UDF, criticizing Pinarayi Vijayan and the LDF. (7, 9, 10, 14, 15, 16, 17) BRS MLAs are criticizing CM Revanth Reddy regarding various issues including a CID notice and the Assembly session. (2, 3, 4, 13) A new Economic Offences Wing police station has opened in Neredmet. (5)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala for the UDF, criticizing Pinarayi Vijayan and the LDF. (7, 9, 10, 14, 15, 16, 17) BRS MLAs are criticizing CM Revanth Reddy regarding various issues including a CID notice and the Assembly session. (2, 3, 4, 13) A new Economic Offences Wing police station has opened in Neredmet. (5)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS MLAs are publicly criticizing CM Revanth Reddy and the Congress government, potentially leading to increased political tension. (2, 3, 4, 13)</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> The CM's statements regarding delimitation could potentially incite regional tensions. (20)</li>\n    <li><span class=\"risk-low\">Power Outages:</span> A power cut is scheduled for Hyderabad today. (19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's campaigning in Kerala (7, 9, 10, 14, 15, 16, 17) is being criticized by the BJP (1).</li>\n    <li>BRS MLAs are criticizing the CM (2, 3, 4, 13) while the CM is campaigning in Kerala (7, 9, 10, 14, 15, 16, 17).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political reactions to CM Revanth Reddy's campaign in Kerala and the criticism from BRS MLAs.</li>\n    <li>Assess the impact of the power cut in Hyderabad and ensure essential services are maintained.</li>\n    <li>Review the operational readiness of the new Economic Offences Wing police station in Neredmet.</li>\n    <li>Monitor public sentiment regarding the delimitation exercise.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor the impact of the scheduled power cut. (19)</li>\n    <li><b>Neredmet:</b> Oversee the initial operations of the newly opened Economic Offences Wing police station. (5)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "26.5°C",
+      "humidity": "65%",
+      "wind": "6.4 km/h",
+      "weatherDesc": "Rain Showers",
+      "aqi": 68,
+      "pm25": 33.6,
+      "goldPerGram": "₹9,012",
+      "newsCount": 36,
+      "topHeadlines": [
+        "Telangana mein Dosti Keralam mein Kusti: BJP calls out Revanth’s hypocrisy - The Siasat Daily",
+        "BRS MLA Accuses Telangana CM of Personal Vendetta Amid Suspension Controversy - Devdiscourse",
+        "BRS MLA Padi Kaushik Reddy accuses CM Revanth Reddy of bias - thenewsmill.com",
+        "BRS MLA Slams Telangana CM Over 'Unfortunate' CID Notice - Devdiscourse",
+        "New Economic Offences Wing police station opens in Neredmet - Telangana Today"
+      ]
+    }
   }
 ]
