@@ -657,5 +657,28 @@
         "Revanth Asks UDF Critics To Visit Telangana To Check Poll Promises - Deccan Chronicle"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-02T22:33:42.290Z",
+    "timestampIST": "3/4/2026, 4:03:42 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, comparing Pinarayi Vijayan to KCR and PM Modi (1, 18, 20). He has challenged rivals to visit Telangana to witness the success of the \"Six Guarantees\" (7, 15).  Harish Rao and the BJP are criticizing Revanth Reddy's actions and comments related to Telangana (9, 10, 12, 17).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, comparing Pinarayi Vijayan to KCR and PM Modi (1, 18, 20). He has challenged rivals to visit Telangana to witness the success of the \"Six Guarantees\" (7, 15).  Harish Rao and the BJP are criticizing Revanth Reddy's actions and comments related to Telangana (9, 10, 12, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Criticism of CM Revanth Reddy's statements and actions by BJP and Harish Rao could escalate political tensions within Telangana (9, 10, 12, 17).</li>\n    <li><span class=\"risk-medium\">Public Perception:</span>  The unfulfilled \"Six Guarantees\" in Telangana, contrasted with promises in Kerala, could negatively impact public perception of the Congress government (3).</li>\n    <li><span class=\"risk-low\">Policy Disruption:</span>  The handloom orders row involving Kavitha targeting Revanth Reddy may lead to policy disruptions (13).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's Kerala campaign (1, 18, 20) is directly linked to criticism from the BJP and Harish Rao regarding his comments and actions (9, 10, 12, 17).</li>\n    <li>The focus on the \"Six Guarantees\" (3, 15) is a central theme in Revanth Reddy's campaign, but also a point of contention with critics.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor media coverage closely for further reactions to CM Revanth Reddy's Kerala campaign and any counter-narratives from the opposition.</li>\n    <li>Prepare a response strategy to address criticisms regarding the \"Six Guarantees\" and their implementation.</li>\n    <li>Assess the potential impact of the handloom orders row and Kavitha's statements on relevant government departments.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts require immediate attention based on the provided data.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "25.1°C",
+      "humidity": "68%",
+      "wind": "2 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 40,
+      "pm25": 21.9,
+      "goldPerGram": "₹8,980",
+      "newsCount": 39,
+      "topHeadlines": [
+        "‘High corruption, poor governance’: Telangana CM Revanth Reddy compares Pinarayi Vijayan to KCR - The Times of India",
+        "BJP Telangana questions CM Revanth Reddy “frivolous comparison” of Modi and Vijayan during Kerala elections campaign - Organiser",
+        "Six Guarantees unfulfilled in Telangana, but Congress promises five guarantees in Keralam. - en.etemaaddaily.com",
+        "Congress Govt. Works Tirelessly For People’s Welfare, Says Revanth - Deccan Chronicle",
+        "‘Come see Guarantees’ - metroindia.net"
+      ]
+    }
   }
 ]
