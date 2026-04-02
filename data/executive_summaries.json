@@ -565,5 +565,28 @@
         "Kaushik Reddy seeks mining row probe in Assembly - newsage.in"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-02T14:58:29.575Z",
+    "timestampIST": "2/4/2026, 8:28:29 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is campaigning in Kerala, criticizing PM Modi and Kerala CM Pinarayi Vijayan. (1, 2, 3) The CM outlined a 99-day plan in Grama Sabhas. (9)  IPL match between KKR and SRH is scheduled for today. (5, 6, 12, 19)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is campaigning in Kerala, criticizing PM Modi and Kerala CM Pinarayi Vijayan. (1, 2, 3) The CM outlined a 99-day plan in Grama Sabhas. (9)  IPL match between KKR and SRH is scheduled for today. (5, 6, 12, 19)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> Criticism of PM Modi and Kerala CM Pinarayi Vijayan by CM Revanth Reddy could escalate political tensions. (1, 2, 3, 13, 14)</li>\n    <li><span class=\"risk-low\">Legislative:</span> Kaushik Reddy seeks a mining row probe in the Assembly. (8)</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> Congress MPs and Minister Kishan clashed in Lok Sabha over bifurcation promises. (20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's statements in Kerala (1, 2, 3) are being criticized by CPI(M) (13, 14).</li>\n    <li>The UDF manifesto in Kerala promises welfare pensions (10, 16), which aligns with CM Reddy's focus on welfare schemes in Telangana (11, 15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor media coverage and public reactions to CM Revanth Reddy's statements regarding PM Modi and Kerala CM Pinarayi Vijayan.</li>\n    <li>Assess the potential impact of the mining row probe sought by Kaushik Reddy.</li>\n    <li>Review the progress of the 99-day plan outlined by CM Revanth Reddy in Grama Sabhas. (9)</li>\n    <li>Monitor the Lok Sabha proceedings related to bifurcation promises. (20)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts require immediate attention based on the provided data.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30.1°C",
+      "humidity": "41%",
+      "wind": "9.5 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 39,
+      "pm25": 25,
+      "goldPerGram": "₹9,012",
+      "newsCount": 34,
+      "topHeadlines": [
+        "PM Narendra Modi, Pinarayi Vijayan are like brothers, alleges Telangana CM Revanth Reddy - The Hindu",
+        "Nee po mone Dinesha: Telangana CM Revanth Reddy's punchlines light up Kerala poll campaign - The New Indian Express",
+        "'Modi Brothers': Revanth Reddy slams Pinarayi, Modi in Kerala speech - Asianet Newsable",
+        "Revanth Reddy challenges opposition to visit Telangana on six guarantees implementation - The News Mill",
+        "IPL 2026 Today's Match: KKR vs SRH playing 11, batters vs bowlers match-ups - Business Standard"
+      ]
+    }
   }
 ]
