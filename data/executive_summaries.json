@@ -427,5 +427,28 @@
         "Telangana mein Dosti Keralam mein Kusti: BJP calls out Revanth’s hypocrisy - The Siasat Daily"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-02T02:32:28.195Z",
+    "timestampIST": "2/4/2026, 8:02:28 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, targeting the LDF and BJP, and accusing them of a secret pact (Headlines 4, 6, 16, 20). BRS MLAs are criticizing the CM, alleging bias and personal vendetta, and slamming the Congress over Assembly session disruptions (Headlines 8, 9, 10, 19). A new Economic Offences Wing police station has opened in Neredmet (Headline 11).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, targeting the LDF and BJP, and accusing them of a secret pact (Headlines 4, 6, 16, 20). BRS MLAs are criticizing the CM, alleging bias and personal vendetta, and slamming the Congress over Assembly session disruptions (Headlines 8, 9, 10, 19). A new Economic Offences Wing police station has opened in Neredmet (Headline 11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> BRS MLAs are publicly criticizing the CM and accusing him of bias, potentially escalating tensions within the state (Headlines 8, 9, 10).</li>\n  <li><span class=\"risk-low\">Free Speech Concerns:</span> BRS's Ravula Sridhar Reddy criticises the Telangana Hate Speech Bill as curbing free speech (Headline 14).</li>\n  <li><span class=\"risk-low\">Public Perception:</span> Accusations of a \"conspiracy to silence questioning voices\" could damage the government's image (Headline 12).</li>\n  <li><span class=\"risk-low\">Kerala Elections:</span> CM Revanth Reddy's campaigning in Kerala and his comments on the LDF and BJP could have repercussions (Headlines 1, 2, 4, 5, 6, 13, 15, 16, 20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's campaigning in Kerala (Headlines 4, 5, 6, 13, 15, 16, 20) is directly linked to the criticism from BRS MLAs within Telangana (Headlines 8, 9, 10, 19), suggesting a potential political strategy.</li>\n  <li>The opening of the new Economic Offences Wing police station in Neredmet (Headline 11) could be related to the government's perceived efforts to silence questioning voices (Headline 12).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the BRS MLAs' statements and activities closely for any escalation of political tensions.</li>\n  <li>Assess the potential impact of the CM's Kerala campaign on the political landscape within Telangana.</li>\n  <li>Review the implementation of the Hate Speech Bill, considering the criticism from BRS.</li>\n  <li>Ensure the Economic Offences Wing is prepared to handle potential investigations and public scrutiny.</li>\n  <li>Prepare a response to the accusations of silencing questioning voices.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Neredmet:</b> Monitor the activities of the newly opened Economic Offences Wing police station (Headline 11).</li>\n  <li><b>All Districts:</b> Monitor for any public reaction or protests related to the CM's Kerala campaign and the criticism from BRS MLAs.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "25.7°C",
+      "humidity": "68%",
+      "wind": "6.2 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 51,
+      "pm25": 13.7,
+      "goldPerGram": "₹9,012",
+      "newsCount": 33,
+      "topHeadlines": [
+        "CM Revanth Reddy’s LDF Swipe Ignites BJP Attack, CPI Pushback - The Morning Voice",
+        "Telangana CM Revanth Reddy's warning to Keralam voters on LDF - The News Mill",
+        "Deadly Herbicide Paraquat Banned in Telangana - Deccan Chronicle",
+        "Revanth campaigns in Kerala, says LDF and BJP have secret pact - The Hindu",
+        "Kerala polls: Telangana CM Revanth Reddy takes a dig at Pinarayi Vijayan with film dialogue during UDF roadshow - The Hindu"
+      ]
+    }
   }
 ]
