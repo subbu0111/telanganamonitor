@@ -634,5 +634,28 @@
         "An insult to Telangana: Harish Rao slams Kishan Reddy’s mandals merger claims - The Siasat Daily"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-02T20:37:54.920Z",
+    "timestampIST": "3/4/2026, 2:07:54 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, drawing criticism for his remarks comparing Prime Minister Modi and Kerala CM Vijayan (Headlines 1, 16, 18). He is facing backlash from the BJP and allies in Telangana (Headlines 1, 10, 11). The CM is also challenging opposition parties to visit Telangana to assess the implementation of the \"Six Guarantees\" (Headlines 14, 19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, drawing criticism for his remarks comparing Prime Minister Modi and Kerala CM Vijayan (Headlines 1, 16, 18). He is facing backlash from the BJP and allies in Telangana (Headlines 1, 10, 11). The CM is also challenging opposition parties to visit Telangana to assess the implementation of the \"Six Guarantees\" (Headlines 14, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BJP Telangana is questioning CM Revanth Reddy's actions, potentially escalating political tensions within the state (Headline 1).</li>\n    <li><span class=\"risk-medium\">Public Perception:</span> Criticism of CM Revanth Reddy's Kerala campaign could negatively impact public perception of the government's performance (Headlines 1, 10, 11).</li>\n    <li><span class=\"risk-low\">Policy Scrutiny:</span> The opposition is likely to scrutinize the implementation of the \"Six Guarantees\" (Headlines 2, 14, 19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's Kerala campaign (Headlines 1, 5, 6, 7, 11, 15, 16, 17, 18) is directly linked to the criticism he is receiving from the BJP (Headlines 1, 10).</li>\n    <li>The debate over the \"Six Guarantees\" (Headlines 2, 14, 19) is intertwined with the CM's invitation to opposition parties to visit Telangana.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prepare a public statement addressing the criticism of the CM's Kerala campaign, clarifying the government's stance (Headlines 1, 10, 11).</li>\n    <li>Assess the current status of the \"Six Guarantees\" and prepare a detailed report for public dissemination (Headlines 2, 14, 19).</li>\n    <li>Monitor social media and news outlets for reactions to the CM's Kerala campaign and the \"Six Guarantees\" (Headlines 1, 2, 5, 6, 7, 11, 14, 19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts require immediate attention based on the provided headlines.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "25.7°C",
+      "humidity": "65%",
+      "wind": "2.1 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 37,
+      "pm25": 19.7,
+      "goldPerGram": "₹8,980",
+      "newsCount": 37,
+      "topHeadlines": [
+        "BJP Telangana questions CM Revanth Reddy “frivolous comparison” of Modi and Vijayan during Kerala elections campaign - Organiser",
+        "Six Guarantees unfulfilled in Telangana, but Congress promises five guarantees in Keralam. - en.etemaaddaily.com",
+        "Congress Govt. Works Tirelessly For People’s Welfare, Says Revanth - Deccan Chronicle",
+        "‘Come see Guarantees’ - metroindia.net",
+        "Revanth Asks UDF Critics To Visit Telangana To Check Poll Promises - Deccan Chronicle"
+      ]
+    }
   }
 ]
