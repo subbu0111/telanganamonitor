@@ -519,5 +519,28 @@
         "Spree of schemes launched to bring about transformation in people's lives, says CM Reddy - The Hindu"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-02T10:53:02.411Z",
+    "timestampIST": "2/4/2026, 4:23:02 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is currently on a two-day campaign tour in Keralam, where he made remarks about Kerala CM Pinarayi Vijayan, drawing criticism from CPI(M) and BJP.  A Lok Sabha clash occurred between Congress MPs and Minister Kishan Reddy regarding bifurcation promises. An IPL match between KKR and SRH is scheduled for today.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is currently on a two-day campaign tour in Keralam, where he made remarks about Kerala CM Pinarayi Vijayan, drawing criticism from CPI(M) and BJP.  A Lok Sabha clash occurred between Congress MPs and Minister Kishan Reddy regarding bifurcation promises. An IPL match between KKR and SRH is scheduled for today.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> CM Revanth Reddy's remarks on Pinarayi Vijayan have triggered criticism from CPI(M) and BJP, potentially escalating political tensions. (Headlines 8, 9, 15, 18, 19)</li>\n    <li><span class=\"risk-low\">Inter-State Relations:</span> CM Revanth Reddy's campaign in Keralam and his comments could strain relations with the Kerala government. (Headlines 16, 19, 20)</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> The Lok Sabha clash between Congress MPs and Minister Kishan Reddy over bifurcation promises could impact public perception. (Headline 14)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's campaign tour in Keralam (Headline 20) is directly linked to his remarks on Pinarayi Vijayan (Headlines 8, 9, 15, 16, 18, 19).</li>\n    <li>The political reactions from CPI(M) and BJP (Headlines 8, 9, 15, 18) are a direct consequence of CM Revanth Reddy's statements.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political fallout from CM Revanth Reddy's remarks in Keralam and assess potential impact on Telangana.</li>\n    <li>Assess public sentiment regarding the Lok Sabha clash over bifurcation promises.</li>\n    <li>Prepare a response to any potential criticism from the CPI(M) or BJP regarding the CM's statements.</li>\n    <li>Review the 99-day plan detailed by Revanth Reddy. (Headline 4)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts within Telangana require immediate attention based on the provided news headlines.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35°C",
+      "humidity": "29%",
+      "wind": "10.1 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 63,
+      "pm25": 16.1,
+      "goldPerGram": "₹9,012",
+      "newsCount": 35,
+      "topHeadlines": [
+        "KKR vs SRH, IPL 2026: 5 players to watch in today’s match - The Times of India",
+        "Kerala polls: Congress-led UDF manifesto promises ‘Indira guarantees’, five ‘dream’ projects and boost for health, higher education sectors - The Hindu",
+        "Kaushik Reddy seeks mining row probe in Assembly - newsage.in",
+        "Revanth Reddy details 99-day plan in Telangana - newsage.in",
+        "UDF promises high-speed rail, hike in welfare pensions and Rohith Vemula law - The News Minute"
+      ]
+    }
   }
 ]
