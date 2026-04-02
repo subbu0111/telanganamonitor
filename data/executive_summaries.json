@@ -450,5 +450,28 @@
         "Kerala polls: Telangana CM Revanth Reddy takes a dig at Pinarayi Vijayan with film dialogue during UDF roadshow - The Hindu"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-02T05:42:29.020Z",
+    "timestampIST": "2/4/2026, 11:12:29 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from CPI(M) and CPI regarding remarks about Pinarayi Vijayan and the LDF in Kerala (1, 7, 9, 10, 11, 13, 14). BRS MLAs are accusing the CM of personal vendetta and bias, specifically regarding a CID notice (16, 17, 18). A new Economic Offences Wing police station has opened in Neredmet (19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism from CPI(M) and CPI regarding remarks about Pinarayi Vijayan and the LDF in Kerala (1, 7, 9, 10, 11, 13, 14). BRS MLAs are accusing the CM of personal vendetta and bias, specifically regarding a CID notice (16, 17, 18). A new Economic Offences Wing police station has opened in Neredmet (19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Criticism of the CM by CPI(M), CPI, and BRS MLAs could escalate political tensions within the state (1, 7, 9, 16, 17, 18).</li>\n    <li><span class=\"risk-low\">Public Perception:</span> Accusations of bias and personal vendetta against the CM could negatively impact public perception (16, 17, 18).</li>\n    <li><span class=\"risk-low\">Legal Challenges:</span> The Telangana government is accused of a conspiracy to silence questioning voices (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's comments regarding Pinarayi Vijayan in Kerala (8, 10, 11, 13, 14) have drawn criticism from CPI and CPI(M) (1, 7).</li>\n    <li>BRS MLAs are accusing the CM of personal vendetta (16, 17, 18), potentially linked to the Telangana government's actions (20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political reactions to the CM's remarks on Kerala politics and the responses from CPI, CPI(M), and BJP.</li>\n    <li>Assess the validity of the BRS MLA's accusations of bias and personal vendetta.</li>\n    <li>Review the circumstances surrounding the CID notice mentioned by BRS MLAs.</li>\n    <li>Ensure transparency and due process in all government actions to counter accusations of silencing voices.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Neredmet:</b> Monitor the activities of the newly opened Economic Offences Wing police station (19).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.1°C",
+      "humidity": "35%",
+      "wind": "11.5 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 47,
+      "pm25": 10,
+      "goldPerGram": "₹9,012",
+      "newsCount": 31,
+      "topHeadlines": [
+        "Telangana CPI(M) secretary slams CM for remark on Vijayan - The Siasat Daily",
+        "Govt Balances Welfare, Development amid Challenges: Revanth Reddy - Deccan Chronicle",
+        "TGCHE chairman releases PMIS Round III brochure - thehansindia.com",
+        "Kishan Reddy expresses support for Amaravati as AP’s permanent capital - thehansindia.com",
+        "IPL match today, KKR vs SRH: Team prediction, head-to-head, pitch report, Kolkata weather update - The Times of India"
+      ]
+    }
   }
 ]
