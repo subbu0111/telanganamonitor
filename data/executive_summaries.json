@@ -611,5 +611,28 @@
         "An insult to Telangana: Harish Rao slams Kishan Reddy’s mandals merger claims - The Siasat Daily"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-02T19:00:01.389Z",
+    "timestampIST": "3/4/2026, 12:30:01 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing LDF and NDA leaders and challenging them to visit Telangana to assess the implementation of the 'Six Guarantees' (2, 3, 10, 16). He has also invited the Kerala CM to review Telangana's welfare model (11). Harish Rao has criticized Kishan Reddy's comments regarding Telangana (5, 6).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing LDF and NDA leaders and challenging them to visit Telangana to assess the implementation of the 'Six Guarantees' (2, 3, 10, 16). He has also invited the Kerala CM to review Telangana's welfare model (11). Harish Rao has criticized Kishan Reddy's comments regarding Telangana (5, 6).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political:</span> Revanth Reddy's comments in Kerala could draw flak from allies in Telangana (8).</li>\n  <li><span class=\"risk-low\">Political:</span> Criticism of Kishan Reddy by Harish Rao could escalate political tensions (5, 6).</li>\n  <li><span class=\"risk-low\">Political:</span> Kavitha targeting Revanth Reddy regarding a handloom orders row (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>Revanth Reddy's Kerala campaign (3, 4, 8, 11, 12, 14, 15, 16) is directly related to the upcoming Kerala polls (18).</li>\n  <li>Harish Rao's criticism of Kishan Reddy (5, 6) indicates potential political friction within the state.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the response from allies in Telangana regarding Revanth Reddy's Kerala campaign (8).</li>\n  <li>Assess the potential impact of Harish Rao's criticism of Kishan Reddy on state politics (5, 6).</li>\n  <li>Review the handloom orders row mentioned by Kavitha (9).</li>\n  <li>Monitor the implementation of the 99-day plan in Grama Sabhas (20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific districts require immediate attention based on the provided data.</p>\n```",
+    "dataSnapshot": {
+      "temperature": "27.2°C",
+      "humidity": "56%",
+      "wind": "1.6 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 37,
+      "pm25": 23.6,
+      "goldPerGram": "₹8,980",
+      "newsCount": 36,
+      "topHeadlines": [
+        "‘Come see Guarantees’ - metroindia.net",
+        "Revanth Asks UDF Critics To Visit Telangana To Check Poll Promises - Deccan Chronicle",
+        "Revanth Reddy slams LDF, NDA; challenges rivals to visit Telangana - Asianet Newsable",
+        "Revanth Reddy critiques Kerala leaders on UDF manifesto in Kochi - The News Mill",
+        "An insult to Telangana: Harish Rao slams Kishan Reddy’s mandals merger claims - The Siasat Daily"
+      ]
+    }
   }
 ]
