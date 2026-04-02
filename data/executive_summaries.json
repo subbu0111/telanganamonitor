@@ -588,5 +588,28 @@
         "IPL 2026 Today's Match: KKR vs SRH playing 11, batters vs bowlers match-ups - Business Standard"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-02T16:58:13.643Z",
+    "timestampIST": "2/4/2026, 10:28:13 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, drawing criticism for his remarks and challenging opposition parties to visit Telangana.  Kavitha has targeted Revanth Reddy regarding handloom orders. The NGT dismissed the Musi petition, providing relief to the Telangana government.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, drawing criticism for his remarks and challenging opposition parties to visit Telangana.  Kavitha has targeted Revanth Reddy regarding handloom orders. The NGT dismissed the Musi petition, providing relief to the Telangana government.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Fallout:</span> Revanth Reddy's comments in Kerala are drawing flak from allies and criticism from CPI(M) (Headlines 1, 20).</li>\n    <li><span class=\"risk-low\">Opposition Scrutiny:</span>  Kaushik Reddy is seeking a mining row probe in the Assembly (Headline 14).</li>\n    <li><span class=\"risk-low\">Public Perception:</span>  Kavitha's targeting of Revanth Reddy on handloom orders could impact public perception (Headline 2).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's Kerala campaign (Headlines 1, 6, 8, 9) is directly linked to his challenges to the opposition regarding the \"Six Guarantees\" in Telangana (Headlines 3, 10).</li>\n    <li>The ongoing IPL 2026 match between KKR and SRH (Headlines 7, 11, 12, 19) provides a distraction for the public.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor media coverage closely for reactions to Revanth Reddy's Kerala campaign remarks.</li>\n    <li>Prepare a response strategy to address potential questions regarding the handloom orders row.</li>\n    <li>Assess the potential impact of Kaushik Reddy's call for a mining probe.</li>\n    <li>Monitor public sentiment regarding the \"Six Guarantees\" implementation.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts require immediate attention based on the provided headlines.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.4°C",
+      "humidity": "49%",
+      "wind": "8.9 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 37,
+      "pm25": 27.1,
+      "goldPerGram": "₹8,980",
+      "newsCount": 36,
+      "topHeadlines": [
+        "Revanth Reddy attacks Left at Kerala campaign rally, draws flak from allies in Telangana - The South First",
+        "Handloom orders row: Kavitha targets Revanth Reddy - newsage.in",
+        "CM dares opposition parties to visit Telangana to witness success of ‘Six Guarantees’ - The Hindu",
+        "Revanth Reddy invites Kerala CM to review Telangana’s welfare model - BusinessLine",
+        "An insult to Telangana: Harish Rao slams Kishan Reddy’s mandals merger claims - The Siasat Daily"
+      ]
+    }
   }
 ]
