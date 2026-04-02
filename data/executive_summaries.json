@@ -542,5 +542,28 @@
         "UDF promises high-speed rail, hike in welfare pensions and Rohith Vemula law - The News Minute"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-02T13:19:23.024Z",
+    "timestampIST": "2/4/2026, 6:49:23 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from CPI(M) regarding remarks made about Kerala CM Pinarayi Vijayan. (10, 11, 18, 20) The CM is also detailing a 99-day plan for Telangana. (6)  An IPL match between KKR and SRH is scheduled for today. (2, 3, 9, 16)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism from CPI(M) regarding remarks made about Kerala CM Pinarayi Vijayan. (10, 11, 18, 20) The CM is also detailing a 99-day plan for Telangana. (6)  An IPL match between KKR and SRH is scheduled for today. (2, 3, 9, 16)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> Criticism from CPI(M) regarding CM Revanth Reddy's remarks on Kerala CM Pinarayi Vijayan could escalate political tensions. (10, 11, 18, 20)</li>\n    <li><span class=\"risk-low\">Public Perception:</span> Potential for negative public perception due to the ongoing debate surrounding the CM's statements. (10, 11, 18, 19, 20)</li>\n    <li><span class=\"risk-low\">Legislative:</span> Kaushik Reddy seeks a mining row probe in the Assembly. (5)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's remarks on Kerala CM Pinarayi Vijayan (10, 11, 18, 19, 20) have drawn criticism from CPI(M), indicating potential political friction.</li>\n    <li>The UDF manifesto in Kerala (4, 7, 13) highlights welfare schemes, which may be compared to the Telangana government's initiatives. (8, 12)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political fallout from CM Revanth Reddy's remarks on Kerala CM Pinarayi Vijayan and prepare a response strategy.</li>\n    <li>Assess the potential impact of the mining row probe sought by Kaushik Reddy. (5)</li>\n    <li>Review the 99-day plan detailed by CM Revanth Reddy to ensure effective implementation and communication. (6)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts require immediate attention based on the provided data.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.4°C",
+      "humidity": "34%",
+      "wind": "11.1 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 53,
+      "pm25": 19.5,
+      "goldPerGram": "₹9,012",
+      "newsCount": 35,
+      "topHeadlines": [
+        "Revanth Reddy challenges oppn parties to visit Telangana to witness implementation of 'six guarantees' - ANI News",
+        "IPL 2026 Today's Match: KKR vs SRH playing 11, batters vs bowlers match-ups - Business Standard",
+        "KKR vs SRH, IPL 2026: 5 players to watch in today’s match - The Times of India",
+        "Kerala polls: Congress-led UDF manifesto promises ‘Indira guarantees’, five ‘dream’ projects and boost for health, higher education sectors - The Hindu",
+        "Kaushik Reddy seeks mining row probe in Assembly - newsage.in"
+      ]
+    }
   }
 ]
