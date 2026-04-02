@@ -473,5 +473,28 @@
         "IPL match today, KKR vs SRH: Team prediction, head-to-head, pitch report, Kolkata weather update - The Times of India"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-02T07:16:40.077Z",
+    "timestampIST": "2/4/2026, 12:46:40 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is currently campaigning in Keralam for a two-day tour, making remarks about Kerala CM Pinarayi Vijayan and the LDF, drawing criticism from CPI(M) and CPI. (2, 3, 10, 11, 13, 14, 15, 16, 18, 20) Kishan Reddy expressed support for Amaravati as AP's permanent capital. (7) An IPL match between KKR and SRH is scheduled for today. (8, 12)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is currently campaigning in Keralam for a two-day tour, making remarks about Kerala CM Pinarayi Vijayan and the LDF, drawing criticism from CPI(M) and CPI. (2, 3, 10, 11, 13, 14, 15, 16, 18, 20) Kishan Reddy expressed support for Amaravati as AP's permanent capital. (7) An IPL match between KKR and SRH is scheduled for today. (8, 12)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Criticism from CPI(M) and CPI regarding CM Revanth Reddy's remarks on Kerala's CM could potentially escalate tensions. (2, 3, 10, 13)</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> CM Revanth Reddy's campaign in Kerala and his comments on the LDF and BJP could influence public perception. (15, 16, 18)</li>\n    <li><span class=\"risk-low\">Potential for Disruptions:</span> The ongoing political discourse and the IPL match could create opportunities for disruptions. (8, 12)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's campaign in Keralam (15) is directly related to his remarks on Pinarayi Vijayan and the LDF (2, 3, 10, 11, 13, 14, 16, 18, 20).</li>\n    <li>The upcoming IPL match between KKR and SRH (8, 12) presents a potential area for increased public gatherings and associated security considerations.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor social media and news outlets for reactions to CM Revanth Reddy's comments in Keralam and any potential repercussions.</li>\n    <li>Assess the security implications of the IPL match today, coordinating with relevant departments.</li>\n    <li>Review the current security protocols in place for the CM's campaign tour in Keralam.</li>\n    <li>Prepare a response strategy to address any potential backlash from the CPI(M) and CPI regarding the CM's remarks.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Keralam:</b> Due to CM Revanth Reddy's campaign tour and related political statements, heightened monitoring of the situation in Keralam is recommended. (15, 16, 18)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34.1°C",
+      "humidity": "30%",
+      "wind": "12.3 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 60,
+      "pm25": 14.2,
+      "goldPerGram": "₹9,012",
+      "newsCount": 34,
+      "topHeadlines": [
+        "Spree of schemes launched to bring about transformation in people's lives, says CM Reddy - The Hindu",
+        "CPI(M) slams Revanth Reddy over remarks on Keralam CM Pinarayi Vijayan - Telangana Today",
+        "Telangana CPI(M) secretary slams CM for remark on Vijayan - The Siasat Daily",
+        "Govt Balances Welfare, Development amid Challenges: Revanth Reddy - Deccan Chronicle",
+        "UDF unveils election manifesto, promises ₹3,000 welfare pension - Onmanorama"
+      ]
+    }
   }
 ]
