@@ -772,5 +772,28 @@
         "Telangana High Court allows Navy’s Vikarabad VLF station, to monitor afforestation - The South First"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-03T10:45:35.522Z",
+    "timestampIST": "3/4/2026, 4:15:35 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is involved in a governance narrative clash with Kerala's CM Pinarayi Vijayan, with Vijayan criticizing Reddy's remarks. (1, 2, 3, 4, 17, 20) The Supreme Court rejected a plea regarding TGPSC Group 1 posts, which the CM welcomed. (5, 13, 14) A BRS MLA criticized Revanth Reddy's decisions on the Hyderabad Metro. (6) Three intermediate students died in an accident in Jagtial. (18)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is involved in a governance narrative clash with Kerala's CM Pinarayi Vijayan, with Vijayan criticizing Reddy's remarks. (1, 2, 3, 4, 17, 20) The Supreme Court rejected a plea regarding TGPSC Group 1 posts, which the CM welcomed. (5, 13, 14) A BRS MLA criticized Revanth Reddy's decisions on the Hyderabad Metro. (6) Three intermediate students died in an accident in Jagtial. (18)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> Ongoing public disagreement between CM Revanth Reddy and Kerala's CM Pinarayi Vijayan could escalate tensions and impact public perception. (1, 2, 3, 4, 17, 20)</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> The death of three intermediate students in Jagtial requires immediate attention and investigation. (18)</li>\n    <li><span class=\"risk-low\">Infrastructure:</span> Criticism of CM Revanth Reddy's decisions on the Hyderabad Metro by a BRS MLA could lead to public debate and scrutiny of ongoing projects. (6)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Supreme Court's decision on the TGPSC Group 1 posts (5, 13, 14) is directly related to the CM's public statements and affirmation of the government's transparency.</li>\n    <li>The CM's involvement in Kerala's assembly polls (20) and his criticism of Kerala's CM (1, 2, 3, 4, 17) indicates a potential for political friction.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Issue a statement addressing the criticism regarding the Hyderabad Metro decisions to clarify the government's position.</li>\n    <li>Direct the relevant authorities to investigate the accident in Jagtial and provide support to the affected families.</li>\n    <li>Monitor the public discourse surrounding the governance narrative clash with Kerala's CM and prepare a response strategy.</li>\n    <li>Ensure the timely implementation of the Textile Vision unveiled at the ATEXCON Summit 2026. (11)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Jagtial:</b> Immediate attention is required due to the tragic accident involving intermediate students. (18)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36°C",
+      "humidity": "25%",
+      "wind": "7.7 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 64,
+      "pm25": 17.8,
+      "goldPerGram": "₹8,980",
+      "newsCount": 46,
+      "topHeadlines": [
+        "Pinarayi hits back at Revanth Reddy’s ‘misinformed’ viral jibe - The Federal",
+        "Kerala CM Vijayan counters Revanth Reddy remarks - Awaz The Voice",
+        "Kerala vs Telangana: A Battle of Governance Narratives - devdiscourse.com",
+        "Kerala Assembly elections: Pinarayi Vijayan slams Telangana CM Revanth Reddy for ‘disparaging’ State - The Hindu",
+        "SC rejects plea on TGPSC Group 1 posts; CM welcomes ruling - The Siasat Daily"
+      ]
+    }
   }
 ]
