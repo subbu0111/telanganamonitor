@@ -749,5 +749,28 @@
         "Minister Kishan, BRS leader Suresh Reddy clash over Andhra Pradesh Reorganisation Bill in RS - The New Indian Express"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-03T08:57:40.216Z",
+    "timestampIST": "3/4/2026, 2:27:40 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the Vijayan government and unveiling the UDF manifesto (15, 18, 19).  A BRS MLA protested a mosquito menace (17). The CM also commented on the SC order upholding Group I recruitment (8, 9).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the Vijayan government and unveiling the UDF manifesto (15, 18, 19).  A BRS MLA protested a mosquito menace (17). The CM also commented on the SC order upholding Group I recruitment (8, 9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Minister Kishan and BRS leader Suresh Reddy clashed over the Andhra Pradesh Reorganisation Bill (10), potentially escalating political tensions.</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> A BRS MLA protested a mosquito menace (17), indicating potential public health concerns.</li>\n    <li><span class=\"risk-medium\">Accident:</span> Three intermediate students died in an accident in Jagtial (14).</li>\n    <li><span class=\"risk-low\">Negative Press:</span> BJP Telangana questioned CM Revanth Reddy's comparison of Modi and Vijayan (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's comments on the Vijayan government in Kerala (18, 19) are likely to be criticized by the BJP (20).</li>\n    <li>The CM is focused on the textile industry (3, 4, 6), while also dealing with political issues (1, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20).</li>\n    <li>The CM is focused on the textile industry (3, 4, 6), while also dealing with public health concerns (17).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political fallout from the clash between Minister Kishan and BRS leader Suresh Reddy (10).</li>\n    <li>Assess the public health situation in areas affected by mosquito menace, as highlighted by the BRS MLA's protest (17).</li>\n    <li>Review security protocols in Jagtial following the student accident (14).</li>\n    <li>Prepare a response to potential criticism from the BJP regarding the CM's comments on the Kerala elections (20).</li>\n    <li>Monitor the progress of the Textile Vision unveiled by the CM (6).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Jagtial:</b> Immediate attention is needed due to the reported student accident (14).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36°C",
+      "humidity": "28%",
+      "wind": "7.9 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 63,
+      "pm25": 18.1,
+      "goldPerGram": "₹8,980",
+      "newsCount": 40,
+      "topHeadlines": [
+        "BRS MLA accuses Revanth of ‘wrong decisions’ on Hyderabad Metro - The Siasat Daily",
+        "Revanth Reddy, Chandrababu Naidu lead Good Friday messages of peace and compassion - Telangana Today",
+        "Telangana: Textile Capital of South Asia by 2047 - Rediff MoneyWiz",
+        "Telangana Aims to Become South Asia's Textile Leader by 2047 - Devdiscourse",
+        "Telangana High Court allows Navy’s Vikarabad VLF station, to monitor afforestation - The South First"
+      ]
+    }
   }
 ]
