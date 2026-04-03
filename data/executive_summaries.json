@@ -726,5 +726,28 @@
         "Telangana: Three intermediate students die in accident in Jagtial - The Siasat Daily"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-03T07:13:36.452Z",
+    "timestampIST": "3/4/2026, 12:43:36 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy unveiled the UDF manifesto in Kochi, Kerala (9, 19). He also criticized Kerala's leaders and compared Pinarayi Vijayan to KCR (7, 13). The CM declared the \"dark era\" of the Vijayan government ending (12).</p>\n<p>The DGP B. Shivadhar Reddy offered prayers at the Tirumala Tirupati Devasthanam temple (2).</p>\n<p>Three intermediate students died in an accident in Jagtial (8).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy unveiled the UDF manifesto in Kochi, Kerala (9, 19). He also criticized Kerala's leaders and compared Pinarayi Vijayan to KCR (7, 13). The CM declared the \"dark era\" of the Vijayan government ending (12).</p>\n<p>The DGP B. Shivadhar Reddy offered prayers at the Tirumala Tirupati Devasthanam temple (2).</p>\n<p>Three intermediate students died in an accident in Jagtial (8).</p>\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political:</span> The CM's strong criticism of Kerala leaders and involvement in Kerala elections (7, 9, 12, 13, 19) could lead to negative reactions or political repercussions.</li>\n  <li><span class=\"risk-low\">Public Safety:</span> The death of three intermediate students in Jagtial (8) may cause public concern and require immediate attention.</li>\n  <li><span class=\"risk-low\">Political:</span> Clash between Minister Kishan and BRS leader Suresh Reddy over the Andhra Pradesh Reorganisation Bill in RS (5) may lead to political tensions.</li>\n</ul>\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's statements regarding Kerala politics (7, 9, 12, 13, 19) are directly related to the upcoming Kerala assembly polls (9).</li>\n  <li>Harish Rao's criticism of Kishan Reddy (10, 20) highlights ongoing political tensions.</li>\n  <li>The CM's focus on Kerala politics (7, 9, 12, 13, 19) contrasts with the unfulfilled guarantees in Telangana (15).</li>\n</ul>\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor public sentiment in Jagtial following the student deaths (8).</li>\n  <li>Assess potential political fallout from the CM's statements regarding Kerala (7, 9, 12, 13, 19).</li>\n  <li>Prepare a response to BJP's criticism of the CM's comments (14).</li>\n  <li>Monitor the political discourse surrounding the Andhra Pradesh Reorganisation Bill (5).</li>\n</ul>\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Jagtial:</b> Immediate attention is needed due to the reported deaths of three intermediate students in an accident (8). Assess the situation and provide necessary support.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35°C",
+      "humidity": "32%",
+      "wind": "5.8 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 62,
+      "pm25": 17.5,
+      "goldPerGram": "₹8,980",
+      "newsCount": 39,
+      "topHeadlines": [
+        "Telangana CM unveils Textile Vision at ATEXCON Summit 2026 - The Hans India",
+        "Telangana DGP B. Shivadhar Reddy offers prayers at Tirumala Tirupati Devasthanam temple - ANI News",
+        "‘Affirmation of govt’s transparency’: Telangana CM on SC order upholding Group I recruitment - The Statesman",
+        "SC dismisses petitions challenging Group-1 officers' recruitment; CM Revanth hails verdict - NewsMeter",
+        "Minister Kishan, BRS leader Suresh Reddy clash over Andhra Pradesh Reorganisation Bill in RS - The New Indian Express"
+      ]
+    }
   }
 ]
