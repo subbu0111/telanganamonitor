@@ -703,5 +703,28 @@
         "Congress Govt. Works Tirelessly For People’s Welfare, Says Revanth - Deccan Chronicle"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-03T05:42:43.648Z",
+    "timestampIST": "3/4/2026, 11:12:43 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the Vijayan government and unveiling the UDF manifesto.  Minister Kishan and BRS leaders are clashing over the Andhra Pradesh Reorganisation Bill and comments on the Kaleshwaram project and Telangana history. Three intermediate students died in an accident in Jagtial.</p>",
+    "fullAnalysis": "```html\n<html>\n<head>\n<style>\n.risk-high { color: red; font-weight: bold; }\n.risk-medium { color: orange; }\n.risk-low { color: green; }\n</style>\n</head>\n<body>\n\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the Vijayan government and unveiling the UDF manifesto.  Minister Kishan and BRS leaders are clashing over the Andhra Pradesh Reorganisation Bill and comments on the Kaleshwaram project and Telangana history. Three intermediate students died in an accident in Jagtial.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> Clashes between BRS and BJP leaders, including Minister Kishan and Harish Rao, over comments in Parliament and on the Kaleshwaram project, could escalate tensions. (1, 2, 7, 18)</li>\n  <li><span class=\"risk-medium\">Public Perception:</span> Criticism of the Telangana government's performance by BJP and the comparison of Modi and Vijayan by CM Revanth Reddy during Kerala elections campaign may impact public opinion. (12, 19)</li>\n  <li><span class=\"risk-low\">Public Safety:</span>  An accident in Jagtial resulted in the deaths of three intermediate students. (5)</li>\n  <li><span class=\"risk-low\">Political Criticism:</span> Revanth Reddy's remarks in Kerala campaign draw flak from allies in Telangana. (20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy's campaign in Kerala (6, 9, 10, 11, 16, 17, 19, 20) is directly linked to criticism of the Vijayan government and comparisons to KCR.</li>\n  <li>Harish Rao's criticism of Kishan Reddy (7, 18) relates to comments made in Parliament regarding Telangana history and the Andhra Pradesh Reorganisation Bill (1).</li>\n  <li>The focus on unfulfilled guarantees in Telangana (13) is juxtaposed with promises made in the Kerala campaign.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the political fallout from CM Revanth Reddy's Kerala campaign and the reactions from allies within Telangana.</li>\n  <li>Assess the impact of the BJP's criticism of the CM's remarks on public perception.</li>\n  <li>Review and address the concerns raised by BRS leaders regarding comments on the Kaleshwaram project and Telangana history.</li>\n  <li>Provide support and resources to the families affected by the accident in Jagtial.</li>\n  <li>Prepare a response to the BJP's criticism of the CM's comparison of Modi and Vijayan.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Jagtial:</b> Immediate attention is required due to the reported accident involving three intermediate students. (5)</li>\n</ul>\n\n</body>\n</html>\n```",
+    "dataSnapshot": {
+      "temperature": "33.2°C",
+      "humidity": "39%",
+      "wind": "4.5 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 54,
+      "pm25": 15,
+      "goldPerGram": "₹8,980",
+      "newsCount": 39,
+      "topHeadlines": [
+        "Minister Kishan, BRS leader Suresh Reddy clash over Andhra Pradesh Reorganisation Bill in RS - The New Indian Express",
+        "\"Spreading venom against Telangana...\": BRS's Ravula Sridhar Reddy slams CR Patil's statement on Kaleshwaram irrigation project - India's News.Net",
+        "CM Revanth reiterates his resolve to transform Telangana into No. 1 state - The New Indian Express",
+        "Pinarayi Vijayan as big a failure as KCR: CM Revanth - The New Indian Express",
+        "Telangana: Three intermediate students die in accident in Jagtial - The Siasat Daily"
+      ]
+    }
   }
 ]
