@@ -680,5 +680,28 @@
         "‘Come see Guarantees’ - metroindia.net"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-03T02:34:00.364Z",
+    "timestampIST": "3/4/2026, 8:04:00 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the LDF and NDA governments and comparing them to the previous KCR administration in Telangana (1, 2, 7, 8, 11, 18). He is promoting Telangana's welfare model and challenging critics to visit the state (5, 6, 15, 16).  BJP leaders, including Kishan Reddy, are criticizing Revanth Reddy's remarks, drawing counter-criticism from Harish Rao and Kavitha (3, 9, 10, 12, 13, 17).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the LDF and NDA governments and comparing them to the previous KCR administration in Telangana (1, 2, 7, 8, 11, 18). He is promoting Telangana's welfare model and challenging critics to visit the state (5, 6, 15, 16).  BJP leaders, including Kishan Reddy, are criticizing Revanth Reddy's remarks, drawing counter-criticism from Harish Rao and Kavitha (3, 9, 10, 12, 13, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Fallout:</span> Criticism of CM Revanth Reddy's remarks in Kerala by BJP leaders could escalate political tensions within Telangana (3, 9, 10, 12, 17).</li>\n    <li><span class=\"risk-medium\">Public Perception:</span>  Unfulfilled promises of the \"Six Guarantees\" in Telangana, as mentioned in the news, could lead to public dissatisfaction (4, 15).</li>\n    <li><span class=\"risk-low\">Legislative Scrutiny:</span> Harish Rao's criticism of Kishan Reddy's comments in the Rajya Sabha suggests potential for parliamentary debate and scrutiny of Telangana affairs (9, 12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's campaign in Kerala (1, 2, 7, 8, 11, 18) is directly linked to the criticism he is receiving from BJP leaders (3, 9, 10, 12, 17).</li>\n    <li>The focus on Telangana's \"Six Guarantees\" (4, 15) is intertwined with the CM's invitation to Kerala leaders to review Telangana's welfare model (16).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prepare a detailed rebuttal to BJP criticisms of the CM's Kerala campaign, highlighting Telangana's achievements.</li>\n    <li>Assess the status of the \"Six Guarantees\" and prepare a public communication strategy to address any unfulfilled promises.</li>\n    <li>Monitor parliamentary proceedings for any developments related to Kishan Reddy's comments on Telangana.</li>\n    <li>Prepare a briefing for the CM on the handloom orders row involving Kavitha (13).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific district requires immediate attention based on the provided news headlines.</p>\n```",
+    "dataSnapshot": {
+      "temperature": "26°C",
+      "humidity": "70%",
+      "wind": "2.2 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 44,
+      "pm25": 29.5,
+      "goldPerGram": "₹8,980",
+      "newsCount": 39,
+      "topHeadlines": [
+        "Telangana CM Reddy declares ‘dark era’ of Vijayan government ending in Kerala - The News Mill",
+        "‘High corruption, poor governance’: Telangana CM Revanth Reddy compares Pinarayi Vijayan to KCR - The Times of India",
+        "BJP Telangana questions CM Revanth Reddy “frivolous comparison” of Modi and Vijayan during Kerala elections campaign - Organiser",
+        "Six Guarantees unfulfilled in Telangana, but Congress promises five guarantees in Keralam. - en.etemaaddaily.com",
+        "Congress Govt. Works Tirelessly For People’s Welfare, Says Revanth - Deccan Chronicle"
+      ]
+    }
   }
 ]
