@@ -1163,5 +1163,28 @@
         "CJI Surya Kant to lay foundation stone for new Telangana High Court building - The Siasat Daily"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-04T22:32:39.731Z",
+    "timestampIST": "5/4/2026, 4:02:39 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from BRS regarding an attack on KCR's office (1). He is scheduled to launch Basara Temple development works on April 6 (5) and lay foundation stones for the temple ahead of Godavari Pushkaralu (2). The CM is also proposing regulations to prevent political activities near temples (10, 14, 20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism from BRS regarding an attack on KCR's office (1). He is scheduled to launch Basara Temple development works on April 6 (5) and lay foundation stones for the temple ahead of Godavari Pushkaralu (2). The CM is also proposing regulations to prevent political activities near temples (10, 14, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS is criticizing CM Revanth Reddy and blaming him for an attack on KCR's office (1, 16).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A schoolgirl was killed in a bus accident in Jubilee Hills, Hyderabad (13).</li>\n    <li><span class=\"risk-low\">Labor Unrest:</span> One Singareni mines labourer died, and three were injured in a car crash (19).</li>\n    <li><span class=\"risk-low\">Fraud:</span> New WhatsApp fraud targets corporate officials in Hyderabad (12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's focus on Basara Temple development (2, 5, 10, 15) and proposed temple regulations (7, 11, 14, 20) suggests a strategic initiative to consolidate support.</li>\n    <li>The BRS's criticism of CM Revanth Reddy (1, 16) and Bandi Sanjay's challenge (3) indicates heightened political tensions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review security protocols at KCR's office and other potential targets to mitigate political violence.</li>\n    <li>Assess the circumstances surrounding the bus accident in Jubilee Hills and implement necessary safety measures.</li>\n    <li>Monitor the situation at Singareni mines and provide support to the injured and the deceased's family.</li>\n    <li>Alert corporate officials about the new WhatsApp fraud and issue advisories.</li>\n    <li>Prepare for the CM's Basara Temple visit and associated events on April 6.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the bus accident in Jubilee Hills (13) and the WhatsApp fraud targeting corporate officials (12).</li>\n    <li><b>Adilabad:</b> Focus on Basara Temple development and associated events (2, 5, 10, 15).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "26.4°C",
+      "humidity": "70%",
+      "wind": "3.2 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 70,
+      "pm25": 51.6,
+      "goldPerGram": "₹8,980",
+      "newsCount": 41,
+      "topHeadlines": [
+        "'Hooliganism': BRS slams attack on KCR's office, blames CM Revanth Reddy - aninews.in",
+        "CM Revanth Reddy to Lay Basara Temple Foundation Stones Ahead of Godavari Pushkaralu - The Morning Voice",
+        "Bandi Sanjay resignation challenge to CM over six guarantees - newsage.in",
+        "Neta’s Natter Telangana | KTR Gets ‘Cagged’ In Trying To Flog Govt - Deccan Chronicle",
+        "CM Revanth to Launch Rs 225cr Basara Temple Development Works on April 6 - Deccan Chronicle"
+      ]
+    }
   }
 ]
