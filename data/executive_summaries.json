@@ -1117,5 +1117,28 @@
         "New WhatsApp fraud targets corporate officials in Hyderabad - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-04T18:46:24.575Z",
+    "timestampIST": "5/4/2026, 12:16:24 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy will launch Rs 225 crore Basara Temple development works on April 6th (Headline 3). The Chief Justice of India, Surya Kant, will lay the foundation stone for the new Telangana High Court building (Headline 4). There are reports of a new WhatsApp fraud targeting corporate officials in Hyderabad (Headline 10) and a schoolgirl was killed in a bus accident in Jubilee Hills (Headline 12).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will launch Rs 225 crore Basara Temple development works on April 6th (Headline 3). The Chief Justice of India, Surya Kant, will lay the foundation stone for the new Telangana High Court building (Headline 4). There are reports of a new WhatsApp fraud targeting corporate officials in Hyderabad (Headline 10) and a schoolgirl was killed in a bus accident in Jubilee Hills (Headline 12).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public Safety:</span> A schoolgirl was killed in a bus accident in Jubilee Hills (Headline 12).</li>\n  <li><span class=\"risk-medium\">Financial Crime:</span> New WhatsApp fraud targets corporate officials in Hyderabad (Headline 10).</li>\n  <li><span class=\"risk-low\">Labor Safety:</span> One Singareni mines labourer died and three were injured in a car crash (Headline 18).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The Chief Minister is focusing on temple development (Headline 3, 8, 9, 13, 19, 20) and also proposing new temple guidelines (Headline 5, 9).</li>\n  <li>The Chief Justice of India is laying the foundation stone for the new Telangana High Court building (Headline 4, 6).</li>\n  <li>Hyderabad police are promoting defensive driving skills (Headline 11) while a schoolgirl died in a bus accident in Jubilee Hills (Headline 12).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Direct the Hyderabad Police to increase vigilance and public awareness regarding the new WhatsApp fraud targeting corporate officials (Headline 10).</li>\n  <li>Review and strengthen road safety measures in Jubilee Hills following the schoolgirl's death in a bus accident (Headline 12).</li>\n  <li>Ensure adequate security and logistical support for the Chief Justice of India's visit for the foundation stone laying ceremony (Headline 4, 6).</li>\n  <li>Monitor the Basara Temple development launch on April 6th (Headline 3) and ensure smooth execution.</li>\n  <li>Review safety protocols at Singareni mines following the car crash that resulted in a fatality (Headline 18).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Due to the reported WhatsApp fraud targeting corporate officials (Headline 10) and the bus accident in Jubilee Hills (Headline 12).</li>\n  <li><b>Adilabad:</b> Monitor the Basara Temple development launch (Headline 3, 8, 14).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "25.4°C",
+      "humidity": "72%",
+      "wind": "4.3 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 66,
+      "pm25": 54.1,
+      "goldPerGram": "₹8,980",
+      "newsCount": 47,
+      "topHeadlines": [
+        "Bandi Sanjay resignation challenge to CM over six guarantees - newsage.in",
+        "Neta’s Natter Telangana | KTR Gets ‘Cagged’ In Trying To Flog Govt - Deccan Chronicle",
+        "CM Revanth to Launch Rs 225cr Basara Temple Development Works on April 6 - Deccan Chronicle",
+        "CJI Surya Kant to lay foundation stone for new Telangana High Court building - The Siasat Daily",
+        "Revanth Reddy orders Tirumala-style rules for Telangana temples - Telangana Today"
+      ]
+    }
   }
 ]
