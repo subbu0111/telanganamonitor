@@ -979,5 +979,28 @@
         "Medigadda delay could affect 18 lakh acres and city water supply: Jeevan Reddy - The Hans India"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-04T07:04:33.281Z",
+    "timestampIST": "4/4/2026, 12:34:33 pm",
+    "executiveSummary": "<p>BRS cadres have been house-arrested in Adilabad and Nirmal due to the Chief Minister's tour. (1) The Telangana government is considering a CBI probe into the Kaleshwaram case. (2) Political tensions are escalating, with BRS leaders criticizing the government's actions and the CM's visit to Kerala. (3, 5, 9, 11, 16)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>BRS cadres have been house-arrested in Adilabad and Nirmal due to the Chief Minister's tour. (1) The Telangana government is considering a CBI probe into the Kaleshwaram case. (2) Political tensions are escalating, with BRS leaders criticizing the government's actions and the CM's visit to Kerala. (3, 5, 9, 11, 16)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Potential for unrest:</span> BRS cadres are house-arrested in Adilabad and Nirmal, indicating possible protests or disruptions related to the CM's tour. (1)</li>\n  <li><span class=\"risk-medium\">Political instability:</span> Ongoing criticism from BRS leaders regarding unfulfilled promises and the CM's actions in Kerala could escalate political tensions. (3, 5, 9, 11, 16)</li>\n  <li><span class=\"risk-low\">Public perception:</span> Allegations of false claims made by the CM could negatively impact public trust. (16)</li>\n  <li><span class=\"risk-low\">Legal challenges:</span> The government is weighing a CBI probe in the Kaleshwaram case, which could lead to legal and political ramifications. (2)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's visit to Kerala (9) is directly linked to political funding allegations, which aligns with BRS's criticism of the government. (3, 5, 16)</li>\n  <li>The focus on quality education reform (7, 17) and the introduction of LKG/UKG in government schools (15) are both related to the CM's stated goals for education.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the situation in Adilabad and Nirmal closely, given the house arrests of BRS cadres. (1)</li>\n  <li>Assess the potential impact of the proposed CBI probe into the Kaleshwaram case. (2)</li>\n  <li>Prepare a response to the criticisms leveled by BRS leaders regarding the government's actions and the CM's statements. (3, 5, 9, 11, 16)</li>\n  <li>Review security protocols for the CM's upcoming tour. (1)</li>\n  <li>Prepare a public statement addressing the allegations of false claims made by the CM. (16)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Adilabad and Nirmal:</b> These districts require immediate attention due to the house arrest of BRS cadres in anticipation of the CM's tour. (1) Monitor for potential protests or disruptions.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34.2°C",
+      "humidity": "35%",
+      "wind": "6.1 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 65,
+      "pm25": 19.3,
+      "goldPerGram": "₹8,980",
+      "newsCount": 70,
+      "topHeadlines": [
+        "BRS cadres house-arrested in Adilabad, Nirmal in view of CM’s tour - Telangana Today",
+        "Telangana weighs CBI probe in Kaleshwaram case - Hyderabad Mail",
+        "BRS criticises Telangana government’s unfulfilled promises amid Kerala poll campaign - The News Mill",
+        "Now Hyderabad shines as a global city, Telangana BC State Finance Corporation Chairman Nuthi Srikanth Goud - The Hans India",
+        "Govt that failed in Telangana, trying to transform Keralam: BRS's Ravula Sridhar Targets CM Revanth Reddy - ANI News"
+      ]
+    }
   }
 ]
