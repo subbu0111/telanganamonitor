@@ -956,5 +956,28 @@
         "\"Response from Pinarayi Vijayan shows impact of Revanth Reddy on Kerala polls\": Congress leader Sama Ram Mohan Reddy - India's News.Net"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-04T05:22:09.647Z",
+    "timestampIST": "4/4/2026, 10:52:09 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from multiple sources regarding his statements and actions, particularly concerning the Kerala elections. Former minister Jeevan Reddy has called for a leadership change in Telangana. The Chief Minister inaugurated a private school in Hyderabad. The state aims to become South Asia's textile capital by 2047.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism from multiple sources regarding his statements and actions, particularly concerning the Kerala elections. Former minister Jeevan Reddy has called for a leadership change in Telangana. The Chief Minister inaugurated a private school in Hyderabad. The state aims to become South Asia's textile capital by 2047.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> Former minister Jeevan Reddy calls for leadership change in Telangana (2).</li>\n  <li><span class=\"risk-medium\">Inter-State Relations:</span> Ongoing spat between Telangana CM Revanth Reddy and Kerala CM Pinarayi Vijayan, potentially impacting the INDIA bloc (3, 10, 20).</li>\n  <li><span class=\"risk-low\">Public Perception:</span> Criticism of CM Revanth Reddy's claims and actions by Union Minister Kishan Reddy and others (8, 14, 16).</li>\n  <li><span class=\"risk-low\">Infrastructure Concerns:</span> Medigadda delay could affect 18 lakh acres and city water supply (5).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>Criticism of CM Revanth Reddy's statements in Kerala (3, 8, 14, 19, 20) is linked to potential impacts on the INDIA bloc (10).</li>\n  <li>The focus on becoming South Asia's textile capital (1, 6, 13, 15, 18) is a key policy goal for the Revanth Reddy government.</li>\n  <li>Harish Rao's challenge to CM Revanth Reddy regarding loan waiver implementation (4) highlights internal political tensions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the political fallout from the Kerala campaign and the ongoing dispute with Kerala's CM.</li>\n  <li>Assess the potential impact of the Medigadda delay on water supply and agricultural lands.</li>\n  <li>Prepare a response to the criticisms leveled against the CM by various political figures.</li>\n  <li>Review and communicate the government's textile industry plans to the public.</li>\n  <li>Address concerns regarding the implementation of loan waivers in Kodangal.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Kodangal:</b> Due to Harish Rao's challenge to verify loan waiver implementation (4).</li>\n  <li><b>Hyderabad:</b> Given the inauguration of a private school (9).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.2°C",
+      "humidity": "44%",
+      "wind": "8.5 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 58,
+      "pm25": 13.6,
+      "goldPerGram": "₹8,980",
+      "newsCount": 68,
+      "topHeadlines": [
+        "Telangana Targets Global Textile Hub by 2047 Focus on Green Textile Growth - The South India Times",
+        "Former minister Jeevan Reddy calls for leadership change in Telangana - newindianexpress.com",
+        "Kerala CM slams Revanth: ‘‘Bulldozers at home, lectures for Kerala’’ - The Hans India",
+        "Harish Rao dares CM Revanth to verify loan waiver implementation in Kodangal - The Hans India",
+        "Medigadda delay could affect 18 lakh acres and city water supply: Jeevan Reddy - The Hans India"
+      ]
+    }
   }
 ]
