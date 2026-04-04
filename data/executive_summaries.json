@@ -1071,5 +1071,28 @@
         "ATEXCON 2026 Sets Roadmap For A Resilient, Future-ready Global Textile Industry - IFAB MEDIA"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-04T14:35:12.970Z",
+    "timestampIST": "4/4/2026, 8:05:12 pm",
+    "executiveSummary": "<p>A schoolgirl was killed in a bus accident in Jubilee Hills, Hyderabad (2). CM Revanth Reddy is facing criticism from BRS regarding unfulfilled promises and the Kerala poll campaign (6, 16). BRS cadres have been placed under house arrest ahead of CM Revanth Reddy’s Adilabad tour (14).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A schoolgirl was killed in a bus accident in Jubilee Hills, Hyderabad (2). CM Revanth Reddy is facing criticism from BRS regarding unfulfilled promises and the Kerala poll campaign (6, 16). BRS cadres have been placed under house arrest ahead of CM Revanth Reddy’s Adilabad tour (14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public Safety:</span> Schoolgirl death in Hyderabad bus accident (2).</li>\n  <li><span class=\"risk-medium\">Political Instability:</span> BRS criticism of the government and house arrests of BRS cadres (6, 14, 16).</li>\n  <li><span class=\"risk-low\">Financial Risk:</span> Telangana weighing a CBI probe in the Kaleshwaram case (15).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy's focus on education reform (19) and blue-collar jobs (12) may be linked to the government's spending on each student (18).</li>\n  <li>BRS criticism (6, 16) and the house arrest of BRS cadres (14) suggest heightened political tensions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Review and enhance school bus safety protocols in Hyderabad, particularly in Jubilee Hills (2).</li>\n  <li>Monitor the political situation in Adilabad closely, given the CM's upcoming tour and the house arrests of BRS cadres (14).</li>\n  <li>Assess the potential impact of the CBI probe in the Kaleshwaram case (15).</li>\n  <li>Prepare a response to BRS criticism regarding unfulfilled promises (6, 16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Immediate attention needed due to the school bus accident in Jubilee Hills (2).</li>\n  <li><b>Adilabad:</b> Increased monitoring is required due to the CM's tour and the house arrest of BRS cadres (14).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "27.8°C",
+      "humidity": "61%",
+      "wind": "6.3 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 64,
+      "pm25": 43,
+      "goldPerGram": "₹8,980",
+      "newsCount": 53,
+      "topHeadlines": [
+        "New WhatsApp fraud targets corporate officials in Hyderabad - Telangana Today",
+        "Hyderabad: Schoolgirl killed in bus accident in Jubilee Hills - Telangana Today",
+        "No politics near temples: Telangana CM Revanth proposes regulations - The Siasat Daily",
+        "\"What stops CM Revantha Reddy from doing the same?\": K Kavitha demands special Assembly session on School Fee Regulation in Telangana - ANI News",
+        "Revanth Reddy Reviews Basara Temple Development Plan - The Hans India"
+      ]
+    }
   }
 ]
