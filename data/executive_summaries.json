@@ -1002,5 +1002,28 @@
         "Govt that failed in Telangana, trying to transform Keralam: BRS's Ravula Sridhar Targets CM Revanth Reddy - ANI News"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-04T08:43:49.613Z",
+    "timestampIST": "4/4/2026, 2:13:49 pm",
+    "executiveSummary": "<p>BRS cadres were house-arrested in Adilabad and Nirmal in anticipation of the Chief Minister's tour. (1) The Telangana government is facing criticism from BRS regarding unfulfilled promises and the Chief Minister's visit to Kerala. (3, 9) The Chief Minister inaugurated a private school in Hyderabad and called for quality education. (17)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>BRS cadres were house-arrested in Adilabad and Nirmal in anticipation of the Chief Minister's tour. (1) The Telangana government is facing criticism from BRS regarding unfulfilled promises and the Chief Minister's visit to Kerala. (3, 9) The Chief Minister inaugurated a private school in Hyderabad and called for quality education. (17)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS is criticizing the Telangana government and the Chief Minister's actions, including his visit to Kerala, potentially fueling political tensions. (3, 5, 9, 16)</li>\n    <li><span class=\"risk-low\">Public Perception:</span> Allegations of false claims made by the Chief Minister and criticism regarding unfulfilled promises could negatively impact public perception of the government. (3, 16)</li>\n    <li><span class=\"risk-low\">Legal Challenges:</span> The Kaleshwaram case is potentially facing a CBI probe. (2)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's focus on quality education (7, 17) is linked to the government's initiative to introduce LKG and UKG in Telangana government schools. (15)</li>\n    <li>Criticism from BRS regarding the Chief Minister's actions in Kerala (5, 9, 16) is intertwined with the ongoing political discourse. (3)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric from BRS and assess its potential impact on public sentiment and law and order. (3, 5, 9, 16)</li>\n    <li>Review the implementation of the loan waiver program in Kodangal, as challenged by Harish Rao. (12)</li>\n    <li>Assess the implications of the potential CBI probe in the Kaleshwaram case. (2)</li>\n    <li>Prepare a response to the criticisms regarding unfulfilled promises. (3)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad and Nirmal:</b> Increased vigilance is required due to the house arrest of BRS cadres in anticipation of the Chief Minister's tour. (1)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35.1°C",
+      "humidity": "31%",
+      "wind": "6.7 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 66,
+      "pm25": 20.7,
+      "goldPerGram": "₹8,980",
+      "newsCount": 66,
+      "topHeadlines": [
+        "BRS cadres house-arrested in Adilabad, Nirmal in view of CM’s tour - Telangana Today",
+        "Telangana weighs CBI probe in Kaleshwaram case - Hyderabad Mail",
+        "BRS criticises Telangana government’s unfulfilled promises amid Kerala poll campaign - The News Mill",
+        "Now Hyderabad shines as a global city, Telangana BC State Finance Corporation Chairman Nuthi Srikanth Goud - The Hans India",
+        "Govt that failed in Telangana, trying to transform Keralam: BRS's Ravula Sridhar Targets CM Revanth Reddy - ANI News"
+      ]
+    }
   }
 ]
