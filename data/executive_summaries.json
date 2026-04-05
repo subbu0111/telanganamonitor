@@ -1416,5 +1416,28 @@
         "Time to bring youth back to sports from drugs: CM Revanth Reddy - The Hindu"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-05T22:34:16.357Z",
+    "timestampIST": "6/4/2026, 4:04:16 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy laid the foundation for the new Telangana High Court building in Rajendranagar. A fruit trader was arrested in Hyderabad after 200 kg of artificially ripened mangoes were seized. The CM will tour Adilabad and Nirmal districts on Monday.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy laid the foundation for the new Telangana High Court building in Rajendranagar. A fruit trader was arrested in Hyderabad after 200 kg of artificially ripened mangoes were seized. The CM will tour Adilabad and Nirmal districts on Monday.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public Health:</span> Seizure of artificially ripened mangoes in Hyderabad raises concerns about food safety. (Headline 1)</li>\n  <li><span class=\"risk-low\">Public Safety:</span> A pedestrian died after being hit by a two-wheeler in Chanchalguda. (Headline 10)</li>\n  <li><span class=\"risk-low\">Law Enforcement:</span> Pharmacies are required to install CCTV systems under new drug rules. (Headline 13)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The Chief Minister is actively promoting sports initiatives (Headlines 2, 3, 5) which could be linked to efforts to combat substance abuse.</li>\n  <li>The CM's focus on the new High Court complex (Headlines 4, 8, 11, 12, 14, 15, 16) highlights the government's commitment to the judiciary.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Direct the Health Department to investigate the source and distribution of the artificially ripened mangoes and ensure public safety.</li>\n  <li>Instruct the Police Department to increase patrols in Chanchalguda and other areas to improve pedestrian safety.</li>\n  <li>Monitor the implementation of the new drug rules requiring CCTV installation in pharmacies.</li>\n  <li>Prepare security arrangements for the CM's upcoming tour of Adilabad and Nirmal districts on Monday.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Focus on food safety inspections following the seizure of artificially ripened mangoes. (Headline 1)</li>\n  <li><b>Adilabad and Nirmal:</b> Prepare for the Chief Minister's visit on Monday, ensuring adequate security and logistical support. (Headline 20)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "26.5°C",
+      "humidity": "66%",
+      "wind": "3.8 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 76,
+      "pm25": 54.8,
+      "goldPerGram": "₹8,980",
+      "newsCount": 37,
+      "topHeadlines": [
+        "Video | Telangana News | 200 kg Of Artificially Ripened Mangoes Seized In Hyderabad, Fruit Trader Arrested - ndtv.com",
+        "CM Revanth Promises Jobs For Sporting Youth - Deccan Chronicle",
+        "Chief Minister Reddy Advocates Sports Over Substance: Telangana's Youth Initiative - Devdiscourse",
+        "Telangana High Court New Building Foundation Laid by Revanth Reddy at Rajendranagar - The South India Times",
+        "Time to bring youth back to sports from drugs: CM Revanth Reddy - The Hindu"
+      ]
+    }
   }
 ]
