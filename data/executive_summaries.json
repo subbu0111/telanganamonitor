@@ -1301,5 +1301,28 @@
         "Chief Minister Revanth Reddy to tour Adilabad, Nirmal districts on Monday - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-05T13:02:41.803Z",
+    "timestampIST": "5/4/2026, 6:32:41 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy will tour Adilabad and Nirmal districts on Monday (Headline 11). The Chief Minister has ordered TTD-style temple rules and banned political meetings in Telangana temples (Headlines 17, 20). A young woman died in a road accident in Hyderabad (Headline 16), and two people died in a refrigerator fire in Nirmal (Headline 18).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will tour Adilabad and Nirmal districts on Monday (Headline 11). The Chief Minister has ordered TTD-style temple rules and banned political meetings in Telangana temples (Headlines 17, 20). A young woman died in a road accident in Hyderabad (Headline 16), and two people died in a refrigerator fire in Nirmal (Headline 18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public Safety:</span> Two fatalities in Nirmal due to a refrigerator fire (Headline 18) and one road accident fatality in Hyderabad (Headline 16) indicate potential public safety concerns.</li>\n  <li><span class=\"risk-low\">Political Discontent:</span> The ban on political meetings in temples (Headlines 17, 20) could potentially lead to minor political reactions.</li>\n  <li><span class=\"risk-low\">Infrastructure Delays:</span> While not a direct risk, the completion of the new High Court complex by December 2027 (Headline 1) presents a long-term project with potential for delays.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The Chief Minister's tour of Adilabad and Nirmal districts (Headline 11) coincides with the recent fire incident in Nirmal (Headline 18), potentially requiring immediate attention.</li>\n  <li>The CM's statements on mutual respect among democratic pillars (Headlines 2, 3) are concurrent with the ongoing construction of the new High Court complex (Headlines 1, 5, 6, 7).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Direct immediate investigation into the refrigerator fire in Nirmal and the road accident in Hyderabad.</li>\n  <li>Ensure adequate security and traffic management during the Chief Minister's upcoming tour of Adilabad and Nirmal districts.</li>\n  <li>Monitor public sentiment regarding the new temple rules and political meeting ban.</li>\n  <li>Assess the current status of the new High Court complex construction and any potential roadblocks.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Nirmal:</b> Requires immediate attention due to the refrigerator fire incident (Headline 18) and the CM's upcoming visit.</li>\n  <li><b>Adilabad:</b> Requires attention due to the CM's upcoming visit.</li>\n  <li><b>Hyderabad:</b> Requires attention due to the road accident (Headline 16).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "33.5°C",
+      "humidity": "34%",
+      "wind": "9.2 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 76,
+      "pm25": 42.1,
+      "goldPerGram": "₹8,980",
+      "newsCount": 40,
+      "topHeadlines": [
+        "Telangana to complete new High Court complex by Dec 2027: CM Revanth - NewsMeter",
+        "All pillars of democracy must work with mutual respect, says Telangana CM - Social News XYZ",
+        "Telangana CM Reddy Calls For Mutual Respect Among Democratic Pillars - Deccan Chronicle",
+        "Pharmacies to install CCTV systems under new drug rules - Telangana Today",
+        "Building the Future of Justice: Telangana's Commitment to a New High Court Complex - Devdiscourse"
+      ]
+    }
   }
 ]
