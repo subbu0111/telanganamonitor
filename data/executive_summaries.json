@@ -1393,5 +1393,28 @@
         "Gold Rate Today in Hyderabad: Latest 18K, 22K &amp; 24K Gold Prices on 05 April 2026 - ET Now"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-05T20:36:49.398Z",
+    "timestampIST": "6/4/2026, 2:06:49 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy laid the foundation for the new Telangana High Court building in Rajendranagar. A fruit trader was arrested in Hyderabad for possessing 200 kg of artificially ripened mangoes. The CM will tour Adilabad and Nirmal districts on Monday.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy laid the foundation for the new Telangana High Court building in Rajendranagar. A fruit trader was arrested in Hyderabad for possessing 200 kg of artificially ripened mangoes. The CM will tour Adilabad and Nirmal districts on Monday.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public Health:</span> Seizure of 200 kg of artificially ripened mangoes in Hyderabad indicates potential health risks from unsafe food practices. (Headline 1)</li>\n  <li><span class=\"risk-low\">Traffic Safety:</span> A pedestrian died after being hit by a two-wheeler in Chanchalguda. (Headline 10)</li>\n  <li><span class=\"risk-low\">Security:</span> Pharmacies will install CCTV systems under new drug rules. (Headline 13)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The Chief Minister is actively promoting sports initiatives (Headlines 2, 3, 5, 12) while also advocating for the construction of the new High Court complex (Headlines 4, 8, 11, 14, 15, 16).</li>\n  <li>The CM's tour of Adilabad and Nirmal districts on Monday (Headline 20) requires coordination with local authorities.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Direct the Police to investigate and monitor the distribution of artificially ripened fruits in Hyderabad and other districts. (Headline 1)</li>\n  <li>Review and reinforce traffic safety measures in Chanchalguda and other areas prone to accidents. (Headline 10)</li>\n  <li>Ensure the effective implementation of the new drug rules requiring CCTV installation in pharmacies. (Headline 13)</li>\n  <li>Prepare security and logistical arrangements for the Chief Minister's upcoming tour of Adilabad and Nirmal districts. (Headline 20)</li>\n  <li>Monitor the progress of the new High Court complex project. (Headlines 4, 8, 11, 14, 15, 16)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Focus on food safety enforcement following the seizure of artificially ripened mangoes. (Headline 1)</li>\n  <li><b>Adilabad and Nirmal:</b> Prepare for the Chief Minister's visit on Monday. (Headline 20)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "26.8°C",
+      "humidity": "67%",
+      "wind": "3.6 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 77,
+      "pm25": 56.3,
+      "goldPerGram": "₹8,980",
+      "newsCount": 39,
+      "topHeadlines": [
+        "Video | Telangana News | 200 kg Of Artificially Ripened Mangoes Seized In Hyderabad, Fruit Trader Arrested - NDTV",
+        "CM Revanth Promises Jobs For Sporting Youth - Deccan Chronicle",
+        "Chief Minister Reddy Advocates Sports Over Substance: Telangana's Youth Initiative - Devdiscourse",
+        "Telangana High Court New Building Foundation Laid by Revanth Reddy at Rajendranagar - The South India Times",
+        "Time to bring youth back to sports from drugs: CM Revanth Reddy - The Hindu"
+      ]
+    }
   }
 ]
