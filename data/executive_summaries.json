@@ -1186,5 +1186,28 @@
         "CM Revanth to Launch Rs 225cr Basara Temple Development Works on April 6 - Deccan Chronicle"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-05T02:41:55.805Z",
+    "timestampIST": "5/4/2026, 8:11:55 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy will launch Rs 225 crore Basara Temple development works on April 6 (9). The CM is facing criticism from multiple sources regarding the six guarantees (1, 5, 6, 7). There are reports of an attack on KCR's office (3) and a new WhatsApp fraud targeting corporate officials in Hyderabad (16).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will launch Rs 225 crore Basara Temple development works on April 6 (9). The CM is facing criticism from multiple sources regarding the six guarantees (1, 5, 6, 7). There are reports of an attack on KCR's office (3) and a new WhatsApp fraud targeting corporate officials in Hyderabad (16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> BRS has slammed an attack on KCR's office, blaming CM Revanth Reddy (3).</li>\n  <li><span class=\"risk-medium\">Public Criticism:</span> TPCC Spokesperson and Bandi Sanjay are criticizing CM Revanth Reddy over the six guarantees (1, 6, 7).</li>\n  <li><span class=\"risk-low\">Cybersecurity Threat:</span> New WhatsApp fraud targets corporate officials in Hyderabad (16).</li>\n  <li><span class=\"risk-low\">Public Safety:</span> Schoolgirl killed in bus accident in Jubilee Hills, Hyderabad (17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy is facing criticism over the six guarantees (1, 5, 6, 7), which could be related to the upcoming elections.</li>\n  <li>The CM is focused on temple development (9, 11, 14, 15, 18, 19) while also facing political challenges (3, 1, 5, 6, 7).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Assess the security situation around KCR's office and potential for further incidents (3).</li>\n  <li>Monitor public sentiment regarding the six guarantees and the criticisms leveled against the CM (1, 5, 6, 7).</li>\n  <li>Issue a public advisory regarding the new WhatsApp fraud targeting corporate officials (16).</li>\n  <li>Review and strengthen safety regulations for school buses, particularly in areas like Jubilee Hills (17).</li>\n  <li>Prepare for the launch of the Basara Temple development works on April 6 (9).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Due to the reported WhatsApp fraud targeting corporate officials (16) and the bus accident in Jubilee Hills (17).</li>\n  <li><b>Adilabad:</b> Focus on the upcoming Basara Temple development works (9, 19).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "26.7°C",
+      "humidity": "68%",
+      "wind": "9.8 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 76,
+      "pm25": 71.5,
+      "goldPerGram": "₹8,980",
+      "newsCount": 37,
+      "topHeadlines": [
+        "TPCC Spokesperson Bandi Sudhakar Goud Criticizes Union Minister Kishan Reddy Over Six Guarantees - Daily Pioneer",
+        "CM hails Babu Jagjivan Ram as beacon of social justice - The Hans India",
+        "'Hooliganism': BRS slams attack on KCR's office, blames CM Revanth Reddy - ANI News",
+        "Nursery to UKG in govt schools from 2026-27 academic year: Telangana CM - Indiatimes",
+        "Kishan Reddy slams CM Revanth Reddy’s Kerala Elections campaign over false claims on Congress guarantees in Telangana - Organiser"
+      ]
+    }
   }
 ]
