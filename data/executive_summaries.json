@@ -1232,5 +1232,28 @@
         "CM Reddy extends Easter greetings, calls for peace and unity - UNITED NEWS OF INDIA"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-05T07:10:43.713Z",
+    "timestampIST": "5/4/2026, 12:40:43 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered TTD-style temple rules, banning political meetings in Telangana temples (2, 6). A young woman died in a road accident in Hyderabad (1), and a teen girl was killed in Jubilee Hills after being hit by a TGSRTC bus (9). The CJI Surya Kant will lay the foundation stone for the new Telangana High Court building (20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has ordered TTD-style temple rules, banning political meetings in Telangana temples (2, 6). A young woman died in a road accident in Hyderabad (1), and a teen girl was killed in Jubilee Hills after being hit by a TGSRTC bus (9). The CJI Surya Kant will lay the foundation stone for the new Telangana High Court building (20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Safety:</span> Two fatalities in a refrigerator fire in Nirmal (3) and two road accident fatalities in Hyderabad and Jubilee Hills (1, 9).</li>\n    <li><span class=\"risk-low\">Political Tension:</span> BRS condemns attack on KCR’s office, holding CM Revanth Reddy responsible (14).</li>\n    <li><span class=\"risk-low\">Political Criticism:</span> Kishan Reddy criticizes CM Revanth Reddy's Kerala Elections campaign (16), and TPCC Spokesperson Bandi Sudhakar Goud criticizes Union Minister Kishan Reddy (12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is facing criticism from both the BRS and Union Minister Kishan Reddy (14, 16).</li>\n    <li>The CM is focused on temple management (2, 6, 19) while also dealing with public safety issues related to accidents and fires (1, 3, 9).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review and enhance safety protocols in public spaces, particularly regarding fire hazards and road safety, in light of recent incidents (1, 3, 9).</li>\n    <li>Monitor political discourse and potential for unrest following the BRS condemnation of the attack on KCR’s office (14).</li>\n    <li>Ensure adequate security and logistical support for the CJI's foundation stone laying ceremony for the new Telangana High Court building (20).</li>\n    <li>Assess the implementation plan for the new temple rules and the ban on political meetings in temples (2, 6).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Nirmal:</b> Immediate attention is required due to the reported refrigerator fire resulting in two fatalities (3).</li>\n    <li><b>Hyderabad:</b> Increased focus on road safety and accident prevention, given the reported road accident fatalities in the city and Jubilee Hills (1, 9).</li>\n    <li><b>Basara:</b> Monitor the implementation of the ₹225 crore development plan for the Basara Temple (19).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34.4°C",
+      "humidity": "37%",
+      "wind": "11.6 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 78,
+      "pm25": 34.8,
+      "goldPerGram": "₹8,980",
+      "newsCount": 36,
+      "topHeadlines": [
+        "Hyderabad: Young woman dies in road accident - Telangana Today",
+        "Revanth Reddy orders TTD-style temple rules, bans political meetings in Telangana temples - The New Indian Express",
+        "Telangana: Two killed in refrigerator fire at Nirmal - The Siasat Daily",
+        "CM Reddy pays tribute to Babu Jagjivan Ram, reaffirms commitment to social justice - UNITED NEWS OF INDIA",
+        "CM Reddy extends Easter greetings, calls for peace and unity - UNITED NEWS OF INDIA"
+      ]
+    }
   }
 ]
