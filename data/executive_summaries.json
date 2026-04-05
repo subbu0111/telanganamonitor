@@ -1278,5 +1278,28 @@
         "Revanth Reddy orders TTD-style temple rules, bans political meetings in Telangana temples - The New Indian Express"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-05T10:36:42.794Z",
+    "timestampIST": "5/4/2026, 4:06:42 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy will tour Adilabad and Nirmal districts on Monday (Headline 5).  Two fatalities occurred in Nirmal due to a refrigerator fire (Headline 11).  A young woman died in a road accident in Hyderabad (Headline 9), and a teen girl was killed in Jubilee Hills after being hit by a TGSRTC bus (Headline 19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will tour Adilabad and Nirmal districts on Monday (Headline 5).  Two fatalities occurred in Nirmal due to a refrigerator fire (Headline 11).  A young woman died in a road accident in Hyderabad (Headline 9), and a teen girl was killed in Jubilee Hills after being hit by a TGSRTC bus (Headline 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Safety:</span> Two fatalities in Nirmal due to a refrigerator fire (Headline 11) and two road accident fatalities in Hyderabad (Headlines 9, 19) indicate potential safety concerns.</li>\n    <li><span class=\"risk-low\">Political Instability:</span> Damage to KCR’s Gajwel camp office by Congress workers (Headline 16) suggests potential for escalating political tensions.</li>\n    <li><span class=\"risk-low\">Public Order:</span>  Bandi Sanjay challenges Revanth Reddy over ‘6 guarantees’ claim (Headline 15) which could lead to public discourse.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister is scheduled to tour Adilabad and Nirmal districts (Headline 5), the same district where a refrigerator fire resulted in two deaths (Headline 11).</li>\n    <li>Multiple news reports highlight road accidents in Hyderabad (Headlines 9, 19), indicating a potential rise in traffic incidents.</li>\n    <li>The Chief Minister's directives regarding temple rules (Headlines 10, 14) and the DGP's visit to Tirupati (Headline 20) suggest a focus on religious institutions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct immediate investigation into the refrigerator fire incident in Nirmal to determine the cause and prevent further incidents.</li>\n    <li>Review and enhance road safety measures in Hyderabad, particularly in Jubilee Hills, given the recent accidents.</li>\n    <li>Assess the security situation in Gajwel following the damage to KCR’s camp office.</li>\n    <li>Ensure adequate security and logistical support for the Chief Minister's upcoming tour of Adilabad and Nirmal districts.</li>\n    <li>Review and clarify the implementation guidelines for the new temple rules.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Nirmal:</b> Requires immediate attention due to the refrigerator fire incident resulting in two fatalities (Headline 11). The CM is scheduled to visit this district.</li>\n    <li><b>Hyderabad:</b> Requires attention due to the recent road accidents (Headlines 9, 19).</li>\n    <li><b>Adilabad:</b> Requires attention due to the CM's visit (Headline 5).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35.5°C",
+      "humidity": "31%",
+      "wind": "12 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 75,
+      "pm25": 42,
+      "goldPerGram": "₹8,980",
+      "newsCount": 40,
+      "topHeadlines": [
+        "Pharmacies to install CCTV systems under new drug rules - Telangana Today",
+        "CJI Surya Kant lays foundation for new Telangana HC building in Rajendernagar - The Siasat Daily",
+        "Telangana CM Reddy calls for mutual respect among democratic pillars - ThePrint",
+        "IPL 2026 Today's Match: SRH vs LSG playing 11, batters vs bowlers match-up - Business Standard",
+        "Chief Minister Revanth Reddy to tour Adilabad, Nirmal districts on Monday - Telangana Today"
+      ]
+    }
   }
 ]
