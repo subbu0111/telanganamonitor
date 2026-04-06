@@ -1623,5 +1623,28 @@
         "War of words: Telangana CM disputes Pinarayi Vijayan’s claims on Keralam growth - The Siasat Daily"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-06T19:04:28.581Z",
+    "timestampIST": "7/4/2026, 12:34:28 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is engaged in a public dispute with Kerala's Chief Minister Pinarayi Vijayan regarding development claims (2, 5, 6, 7, 8, 11). The CM launched development and welfare works worth over ₹900 crore in Adilabad (19). A thunderstorm is forecast in 11 Telangana districts today (14).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is engaged in a public dispute with Kerala's Chief Minister Pinarayi Vijayan regarding development claims (2, 5, 6, 7, 8, 11). The CM launched development and welfare works worth over ₹900 crore in Adilabad (19). A thunderstorm is forecast in 11 Telangana districts today (14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS is accused of creating trouble and misleading people (10).</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> 1,535 black spots on National Highways in Telangana highlight a road safety crisis (20).</li>\n    <li><span class=\"risk-low\">Weather:</span> Thunderstorm forecast in 11 Telangana districts today (14).</li>\n    <li><span class=\"risk-low\">Land Disputes:</span> Allegations of land grab at the Koheda fruit market (4).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on irrigation projects (13) could be linked to the need for crop diversification and farmer support (16).</li>\n    <li>The CM's presence in Adilabad (15, 19) is coupled with the announcement of development works, indicating a strategic focus on the region.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review and address the road safety crisis highlighted by the black spot data on National Highways (20).</li>\n    <li>Monitor the weather forecast and prepare for potential impacts of the thunderstorm in the 11 affected districts (14).</li>\n    <li>Address the allegations of land grab at the Koheda fruit market (4).</li>\n    <li>Assess the impact of the Musi project feedback process (17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad:</b> Requires immediate attention due to the CM's recent visit and the launch of development and welfare works (15, 19).</li>\n    <li><b>11 Districts (unspecified):</b> Monitor for potential impacts of the forecasted thunderstorm (14).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "26.9°C",
+      "humidity": "77%",
+      "wind": "4.6 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 65,
+      "pm25": 25.2,
+      "goldPerGram": "₹8,980",
+      "newsCount": 40,
+      "topHeadlines": [
+        "BJP celebrates 47th Foundation Day with hope to claim power in Telangana, southern states - The Siasat Daily",
+        "Revanth Dares Vijayan for Debate on Development - Deccan Chronicle",
+        "Judicial Panel to Scrutinise Requests to Redraw District Maps After March 2027, Says Revanth - Deccan Chronicle",
+        "Koheda fruit market land grab allegations by BRS - newsage.in",
+        "Revanth takes full credit for Telangana’s growth, but faults Vijayan for relying on legacy gains - Telangana Today"
+      ]
+    }
   }
 ]
