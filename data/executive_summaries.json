@@ -1462,5 +1462,28 @@
         "Video | Telangana News | 200 kg Of Artificially Ripened Mangoes Seized In Hyderabad, Fruit Trader Arrested - NDTV"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-06T06:00:11.790Z",
+    "timestampIST": "6/4/2026, 11:30:11 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy addressed drug and cybercrime issues, vowing to combat the drug menace and promote sports culture in Telangana (1, 2, 12, 19). He announced a major sports hub plan for Gachibowli, including a world-class stadium (7, 8, 9, 13).  The CM will launch the Rs 225-crore Basara temple redevelopment project today (10).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy addressed drug and cybercrime issues, vowing to combat the drug menace and promote sports culture in Telangana (1, 2, 12, 19). He announced a major sports hub plan for Gachibowli, including a world-class stadium (7, 8, 9, 13).  The CM will launch the Rs 225-crore Basara temple redevelopment project today (10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> The CM explicitly stated concerns about drugs and cybercrime, indicating these are significant threats (2, 12).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span>  Seizure of 200 kg of artificially ripened mangoes in Hyderabad suggests potential food safety issues or illegal activities (17).</li>\n    <li><span class=\"risk-low\">LOW:</span>  The CM's focus on sports and job creation for youth may create expectations that need to be managed (18, 19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on combating drugs (1, 2, 12) and promoting sports (1, 7, 8, 9, 13, 18, 19) suggests a strategy to address social issues and provide opportunities for youth.</li>\n    <li>The CM's statements on drugs and cybercrime (2, 12) are linked to his commitment to prevent Telangana from becoming like Punjab (4).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize law enforcement efforts to address drug and cybercrime threats, as highlighted by the CM (2, 12).</li>\n    <li>Ensure the successful launch of the Basara temple redevelopment project (10).</li>\n    <li>Develop a comprehensive plan for the Gachibowli sports hub, including funding and timelines (7, 8, 9, 13).</li>\n    <li>Monitor the situation regarding artificially ripened mangoes and other potential food safety violations (17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b>  Focus on addressing drug and cybercrime issues, as well as the implementation of the Gachibowli sports hub plan (2, 7, 8, 9, 12, 13). Also, investigate the seizure of artificially ripened mangoes (17).</li>\n    <li><b>Adilabad:</b> Monitor the launch of the Basara temple redevelopment project (10).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "N/A",
+      "humidity": "N/A",
+      "wind": "N/A",
+      "weatherDesc": "N/A",
+      "aqi": 78,
+      "pm25": 32.4,
+      "goldPerGram": "₹8,980",
+      "newsCount": 36,
+      "topHeadlines": [
+        "Telangana CM Vows to Combat Drug Menace, Foster Sports Culture - Devdiscourse",
+        "Telangana CM Revanth Reddy addresses drug and cybercrime issues - The News Mill",
+        "New Telangana HC complex to be among finest: CJI - The New Indian Express",
+        "Won’t allow Telangana to become another Punjab: Revanth - The New Indian Express",
+        "When will Telangana TSBIE Class 11, 12 results be declared? Check latest updates - India Today"
+      ]
+    }
   }
 ]
