@@ -1554,5 +1554,28 @@
         "India: Telangana to Frame New Temple Rules, CM Revanth Reddy Issues Order - WION"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-06T13:15:57.887Z",
+    "timestampIST": "6/4/2026, 6:45:57 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy launched development and welfare works worth over ₹900 crore in erstwhile Adilabad (5). He also performed 'bhoomi puja' for the ₹225-crore Gnana Saraswati temple redevelopment works in Basar (9, 10). The BRS has called for a bandh (8).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy launched development and welfare works worth over ₹900 crore in erstwhile Adilabad (5). He also performed 'bhoomi puja' for the ₹225-crore Gnana Saraswati temple redevelopment works in Basar (9, 10). The BRS has called for a bandh (8).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> BRS has called for a bandh over CM Revanth’s photo in KCR’s Gajwel office (8).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> The CM has voiced concern over drug abuse among educated youth (12) and the drug menace in general (15, 16).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> 1,535 black spots on National Highways in Telangana highlight a road safety crisis (7).</li>\n    <li><span class=\"risk-low\">LOW:</span> Environmentalists are critical of the Musi project feedback process (3).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM is addressing both drug and cybercrime issues (6, 16), indicating a focus on law and order.</li>\n    <li>The CM is launching development works in Adilabad (5) and also addressing the drug menace (15, 16), suggesting a multi-pronged approach to governance.</li>\n    <li>The CM is involved in temple redevelopment works (9, 10), and also framing new temple rules (11), indicating a focus on religious institutions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the BRS bandh call and assess potential impact on public order and infrastructure (8).</li>\n    <li>Increase police presence and surveillance in areas with high drug abuse, particularly among educated youth (12, 15, 16).</li>\n    <li>Review and address the road safety crisis highlighted by the 1,535 black spots on National Highways (7).</li>\n    <li>Ensure adequate security and logistical support for the Gnana Saraswati temple redevelopment works in Basar (9, 10).</li>\n    <li>Prepare a public awareness campaign regarding the dangers of drug abuse (12, 15, 16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad:</b> Requires immediate attention due to the CM's recent development initiatives (5) and the potential for unrest related to the BRS bandh (8).</li>\n    <li><b>Basar:</b> Requires attention due to the ongoing temple redevelopment works (9, 10).</li>\n    <li><b>Gajwel:</b> Requires monitoring due to the BRS bandh call (8).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "33.8°C",
+      "humidity": "25%",
+      "wind": "8.8 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 71,
+      "pm25": 12.6,
+      "goldPerGram": "₹8,980",
+      "newsCount": 33,
+      "topHeadlines": [
+        "At Adilabad, Telangana CM says Congress will stay in power till 2034 - The Siasat Daily",
+        "Expert Calls for Crop Diversification in Telangana, Seeks Base Price Support for Farmers - Hyderabad Mail",
+        "Musi project feedback process ‘Symbolic’, say Hyderabad environmentalists - Hyderabad Mail",
+        "Revanth graph on the rise in GHMC? - Great Andhra",
+        "Telangana CM launches over ₹900 crore development, welfare works in erstwhile Adilabad - The Hindu"
+      ]
+    }
   }
 ]
