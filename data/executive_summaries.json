@@ -1485,5 +1485,28 @@
         "When will Telangana TSBIE Class 11, 12 results be declared? Check latest updates - India Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-06T07:58:20.023Z",
+    "timestampIST": "6/4/2026, 1:28:20 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is focusing on combating drug menaces and cybercrimes, identifying them as the biggest challenges facing the state. He is also launching a Rs 225-crore Basara temple redevelopment project today. Furthermore, the CM announced plans for a world-class sports hub in Gachibowli.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focusing on combating drug menaces and cybercrimes, identifying them as the biggest challenges facing the state. He is also launching a Rs 225-crore Basara temple redevelopment project today. Furthermore, the CM announced plans for a world-class sports hub in Gachibowli.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> The CM has explicitly stated the drug menace is a significant challenge, indicating a potential for increased drug-related activities. (Headlines 1, 2, 3, 12)</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Cybercrimes are identified as a major threat, suggesting a need for increased vigilance and resources in this area. (Headlines 1, 3, 12)</li>\n    <li><span class=\"risk-low\">LOW:</span> The seizure of 200 kg of artificially ripened mangoes in Hyderabad indicates potential food safety concerns. (Headline 17)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on combating drugs (Headlines 1, 2, 3, 12) is linked to his initiative to foster a sports culture (Headlines 2, 8, 9, 18, 19), potentially as a preventative measure.</li>\n    <li>The CM's emphasis on sports infrastructure in Gachibowli (Headlines 7, 8, 9, 13) aligns with his broader goal of positioning Hyderabad as a sports hub (Headlines 8, 9).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to intensify efforts to combat drug-related activities and cybercrimes across the state. (Headlines 1, 3, 12)</li>\n    <li>Review and allocate resources for the Basara temple redevelopment project. (Headline 10)</li>\n    <li>Assess the feasibility and timeline for the Gachibowli sports hub plan. (Headlines 7, 8, 9, 13)</li>\n    <li>Initiate a public awareness campaign on the dangers of drug abuse, as suggested by the CM's statements. (Headlines 1, 2, 3, 12)</li>\n    <li>Review food safety protocols in Hyderabad following the seizure of artificially ripened mangoes. (Headline 17)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the CM's focus on sports infrastructure in Gachibowli (Headlines 7, 8, 9, 13) and the mango seizure (Headline 17), Hyderabad requires immediate attention.</li>\n    <li><b>Statewide:</b> Given the CM's emphasis on combating drugs and cybercrimes (Headlines 1, 3, 12), all districts require increased vigilance and resource allocation.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36.1°C",
+      "humidity": "24%",
+      "wind": "9.9 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 78,
+      "pm25": 31.3,
+      "goldPerGram": "₹8,980",
+      "newsCount": 31,
+      "topHeadlines": [
+        "Drugs, cybercrimes are biggest challenges before police: Telangana CM Revanth Reddy - India's News.Net",
+        "Telangana CM Vows to Combat Drug Menace, Foster Sports Culture - Devdiscourse",
+        "Telangana CM Revanth Reddy addresses drug and cybercrime issues - The News Mill",
+        "New Telangana HC complex to be among finest: CJI - The New Indian Express",
+        "Won’t allow Telangana to become another Punjab: Revanth - The New Indian Express"
+      ]
+    }
   }
 ]
