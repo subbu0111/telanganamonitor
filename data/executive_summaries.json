@@ -1646,5 +1646,28 @@
         "Revanth takes full credit for Telangana’s growth, but faults Vijayan for relying on legacy gains - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-06T20:39:52.584Z",
+    "timestampIST": "7/4/2026, 2:09:52 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is engaged in a political dispute with Kerala's Chief Minister Pinarayi Vijayan, with multiple news outlets reporting on rebuttals and counter-claims regarding development and governance. (4, 7, 8, 9, 10, 11, 14) The Chief Minister also addressed challenges in Adilabad, where the Congress aims to remain in power until 2034. (12, 19) A thunderstorm is forecast for 11 Telangana districts today. (18)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is engaged in a political dispute with Kerala's Chief Minister Pinarayi Vijayan, with multiple news outlets reporting on rebuttals and counter-claims regarding development and governance. (4, 7, 8, 9, 10, 11, 14) The Chief Minister also addressed challenges in Adilabad, where the Congress aims to remain in power until 2034. (12, 19) A thunderstorm is forecast for 11 Telangana districts today. (18)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> The ongoing public debate between the Telangana and Kerala Chief Ministers could escalate tensions and require monitoring. (4, 7, 8, 9, 10, 11, 14)</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Allegations of land grab in the Koheda fruit market could lead to public dissatisfaction. (6)</li>\n    <li><span class=\"risk-low\">Adverse Weather:</span> Thunderstorm forecast in 11 districts today may cause disruption. (18)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The political debate between Revanth Reddy and Pinarayi Vijayan (4, 7, 8, 9, 10, 11, 14) is linked to the Congress's focus on development in Adilabad (12, 19).</li>\n    <li>The Chief Minister's focus on completing irrigation projects (17) aligns with the broader discussion on development and governance. (4, 7, 8, 9, 10, 11, 14)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the public discourse surrounding the Telangana-Kerala political exchange for potential escalation and public sentiment shifts.</li>\n    <li>Assess the allegations of land grab in the Koheda fruit market and take necessary action.</li>\n    <li>Issue advisories and preparedness guidelines for the 11 districts expecting thunderstorms.</li>\n    <li>Review and address the challenges highlighted by MLA Anil Jadav. (16)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad:</b> Requires attention due to the Congress's focus on development and the Chief Minister's statements regarding long-term governance. (12, 19)</li>\n    <li><b>11 Districts (unspecified):</b> Monitor for potential disruptions due to the forecasted thunderstorms. (18)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "25.9°C",
+      "humidity": "79%",
+      "wind": "2.3 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 64,
+      "pm25": 26.8,
+      "goldPerGram": "₹8,980",
+      "newsCount": 45,
+      "topHeadlines": [
+        "Hyderabad House in Delhi is Telangana’s Pride, Says Nizam’s Kin - Deccan Chronicle",
+        "Musi river project consultation flawed, Hyderabad activists tell Deputy CM - The Siasat Daily",
+        "BJP celebrates 47th Foundation Day with hope to claim power in Telangana, southern states - The Siasat Daily",
+        "Revanth Dares Vijayan for Debate on Development - Deccan Chronicle",
+        "Judicial Panel to Scrutinise Requests to Redraw District Maps After March 2027, Says Revanth - Deccan Chronicle"
+      ]
+    }
   }
 ]
