@@ -1600,5 +1600,28 @@
         "Expert Calls for Crop Diversification in Telangana, Seeks Base Price Support for Farmers - Hyderabad Mail"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-06T16:52:46.736Z",
+    "timestampIST": "6/4/2026, 10:22:46 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is engaged in a public dispute with Kerala's Chief Minister Pinarayi Vijayan, issuing a six-page rebuttal and taking credit for Telangana's growth. (1, 2, 3, 4, 5) A BRS-led bandh has been called over the CM's presence in KCR's Gajwel office. (18) The CM launched development and welfare works in Adilabad, and performed a 'bhoomi puja' for temple redevelopment in Basar. (15, 19, 20)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is engaged in a public dispute with Kerala's Chief Minister Pinarayi Vijayan, issuing a six-page rebuttal and taking credit for Telangana's growth. (1, 2, 3, 4, 5) A BRS-led bandh has been called over the CM's presence in KCR's Gajwel office. (18) The CM launched development and welfare works in Adilabad, and performed a 'bhoomi puja' for temple redevelopment in Basar. (15, 19, 20)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS has called for a bandh in response to the CM's actions. (18)</li>\n    <li><span class=\"risk-low\">Public Criticism:</span> Environmentalists are criticizing the Musi project feedback process. (13)</li>\n    <li><span class=\"risk-low\">Road Safety:</span> 1,535 black spots on National Highways in Telangana highlight a road safety crisis. (17)</li>\n    <li><span class=\"risk-low\">Weather Disruptions:</span> Thunderstorm forecast in 11 Telangana districts today. (10)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on irrigation projects (9) and development works in Adilabad (15) suggests a focus on infrastructure and rural development.</li>\n    <li>The CM's public dispute with the Kerala CM (1, 2, 3, 4, 5) and criticism of BRS (7) indicate a heightened political environment.</li>\n    <li>The CM's focus on drugs and cybercrimes (16) and the road safety crisis (17) highlight key challenges for the police.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the BRS-led bandh and assess potential for escalation. (18)</li>\n    <li>Prepare for potential disruptions in the 11 districts under thunderstorm forecast. (10)</li>\n    <li>Address the concerns raised by environmentalists regarding the Musi project. (13)</li>\n    <li>Prioritize road safety improvements, given the high number of black spots on National Highways. (17)</li>\n    <li>Ensure adequate security and law enforcement presence in Adilabad during the CM's visit. (15)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad:</b> The CM is currently in Adilabad launching development works, requiring heightened security and monitoring. (15)</li>\n    <li><b>11 Districts (unspecified):</b> Monitor for potential disruptions due to the thunderstorm forecast. (10)</li>\n    <li><b>Gajwel:</b> Monitor for any potential unrest related to the BRS-led bandh. (18)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.9°C",
+      "humidity": "48%",
+      "wind": "6.8 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 68,
+      "pm25": 25.2,
+      "goldPerGram": "₹8,980",
+      "newsCount": 40,
+      "topHeadlines": [
+        "Revanth takes full credit for Telangana’s growth, but faults Vijayan for relying on legacy gains - Telangana Today",
+        "'Telangana Governance Model Delivering Faster Results': Revanth Reddy Responds To Keralam Counterpart - ETV Bharat",
+        "Telangana CM’s point-by-point rebuttal to his Kerala counterpart - tennews.in",
+        "Revanth Reddy counters Pinarayi Vijayan with six-page letter, flags ‘outdated data’ and governance gaps in Kerala - Onmanorama",
+        "War of words: Telangana CM disputes Pinarayi Vijayan’s claims on Keralam growth - The Siasat Daily"
+      ]
+    }
   }
 ]
