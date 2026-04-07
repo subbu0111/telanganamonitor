@@ -1922,5 +1922,28 @@
         "UDF Will Win Three-fourths Majority, Says Revanth - Deccan Chronicle"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-07T22:40:14.080Z",
+    "timestampIST": "8/4/2026, 4:10:14 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy and Kerala Chief Minister Pinarayi Vijayan engaged in a verbal exchange as campaigning concluded for the Kerala Assembly Elections 2026. The exchange included personal insults and accusations regarding development. Revanth Reddy cited RBI data on Telangana's growth in response to Vijayan's charges.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy and Kerala Chief Minister Pinarayi Vijayan engaged in a verbal exchange as campaigning concluded for the Kerala Assembly Elections 2026. The exchange included personal insults and accusations regarding development. Revanth Reddy cited RBI data on Telangana's growth in response to Vijayan's charges.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Escalation of Verbal Duel:</span> The ongoing war of words between the Chief Ministers of Telangana and Kerala could potentially escalate, requiring careful monitoring. (Headlines 1, 3, 4, 6, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20)</li>\n    <li><span class=\"risk-low\">Political Fallout:</span> The exchange of barbs could lead to negative political repercussions, requiring proactive communication strategies. (Headlines 1, 3, 4, 6, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20)</li>\n    <li><span class=\"risk-low\">Misinformation:</span> The public may be exposed to misinformation or biased reporting related to the political exchange. (Headlines 1, 3, 4, 6, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The verbal exchange between Revanth Reddy and Pinarayi Vijayan (Headlines 1, 3, 4, 6, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20) is directly linked to the end of campaigning for the Kerala Assembly Elections 2026 (Headlines 3, 6, 9, 10, 12).</li>\n    <li>Revanth Reddy's response to Vijayan (Headlines 17, 19, 20) indicates a direct reaction to Vijayan's comments or criticisms.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor media coverage closely for any further developments in the verbal exchange between the Chief Ministers.</li>\n    <li>Prepare a communication strategy to address any potential negative impacts from the political exchange.</li>\n    <li>Review the Telangana trauma care policy launch and ensure effective implementation to reduce road accident deaths. (Headline 2)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific district requires immediate attention based on the provided news headlines.</p>\n```",
+    "dataSnapshot": {
+      "temperature": "27°C",
+      "humidity": "49%",
+      "wind": "1.5 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 62,
+      "pm25": 36.6,
+      "goldPerGram": "₹8,971",
+      "newsCount": 64,
+      "topHeadlines": [
+        "Pinarayi Vijayan, Revanth Reddy Trade Barbs Ahead of Kerala Assembly Polls 2026 - Daily Pioneer",
+        "Telangana launches trauma care policy to reduce road accident deaths - The Times of India",
+        "CM vs CM: Pinarayi-Revanth slugfest on last campaign day - The Times of India",
+        "Kerala, Telangana CMs engage in verbal duel - The Times of India",
+        "Personal insults unacceptable, Vijayan hits back at Revanth Reddy. - en.etemaaddaily.com"
+      ]
+    }
   }
 ]
