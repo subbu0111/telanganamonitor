@@ -1807,5 +1807,28 @@
         "Kerala vs Telangana: Chief Ministers Clash in War of Words - devdiscourse.com"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-07T13:23:52.121Z",
+    "timestampIST": "7/4/2026, 6:53:52 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is engaged in a public war of words with Kerala Chief Minister Pinarayi Vijayan, with multiple headlines detailing a heated exchange of remarks. (2, 3, 5, 6, 7, 8, 10, 12, 14, 15, 16, 17, 18, 19) The CM, along with Bhatti and Uttam, are star campaigners for the upcoming Tamil Nadu elections. (9) There is speculation regarding a possible cabinet reshuffle in Telangana. (20)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is engaged in a public war of words with Kerala Chief Minister Pinarayi Vijayan, with multiple headlines detailing a heated exchange of remarks. (2, 3, 5, 6, 7, 8, 10, 12, 14, 15, 16, 17, 18, 19) The CM, along with Bhatti and Uttam, are star campaigners for the upcoming Tamil Nadu elections. (9) There is speculation regarding a possible cabinet reshuffle in Telangana. (20)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Escalation of the public feud between CM Revanth Reddy and Kerala CM Pinarayi Vijayan, potentially impacting inter-state relations. (2, 3, 5, 6, 7, 8, 10, 12, 14, 15, 16, 17, 18, 19)</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Potential for political instability due to speculation surrounding a cabinet reshuffle. (20)</li>\n    <li><span class=\"risk-low\">LOW:</span> Disappointment among RGUKT-Basar students due to CM Revanth Reddy's silence. (1)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The ongoing exchange between CM Revanth Reddy and CM Pinarayi Vijayan is a central theme, with multiple news outlets reporting on the \"letter war\" and derogatory remarks. (2, 3, 5, 6, 7, 8, 10, 12, 14, 15, 16, 17, 18, 19)</li>\n    <li>The CM's involvement in the Tamil Nadu elections (9) may be impacted by the ongoing public dispute.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the public discourse between CM Revanth Reddy and CM Pinarayi Vijayan for any further escalation.</li>\n    <li>Prepare a communication strategy to address any negative impacts from the ongoing political exchange.</li>\n    <li>Assess the potential implications of a cabinet reshuffle and prepare contingency plans.</li>\n    <li>Review the scope for entertainment tax levy by local bodies. (13)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts require immediate attention based on the provided data.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34.3°C",
+      "humidity": "21%",
+      "wind": "8.9 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 61,
+      "pm25": 21.1,
+      "goldPerGram": "₹8,980",
+      "newsCount": 61,
+      "topHeadlines": [
+        "Revanth Reddy’s silence on RGUKT-Basar leaves students disheartened - telanganatoday.com",
+        "Telangana CM Revanth Reddy questions CM Pinarayi Vijayan over poverty, corruption and development in Keralam - lokmattimes.com",
+        "Telangana CM questions Kerala CM on poverty, corruption and development record - The News Mill",
+        "Revanth seeks to end face-off with Pinarayi, says won't respond rashly to dash comment - Onmanorama",
+        "Revanth Responds to Pinarayi's Controversial Comments - Deccan Chronicle"
+      ]
+    }
   }
 ]
