@@ -1692,5 +1692,28 @@
         "BJP celebrates 47th Foundation Day with hope to claim power in Telangana, southern states - The Siasat Daily"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-07T02:37:09.065Z",
+    "timestampIST": "7/4/2026, 8:07:09 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy launched Basara temple work and performed Bhoomi Pooja. (1, 2) He is engaged in a public dispute with Kerala's Chief Minister Pinarayi Vijayan, issuing rebuttals and a six-page letter regarding development claims. (6, 9, 10, 11, 12, 14, 15, 18) The CM also announced a foundation stone laying for Adilabad Airport on June 2. (20)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy launched Basara temple work and performed Bhoomi Pooja. (1, 2) He is engaged in a public dispute with Kerala's Chief Minister Pinarayi Vijayan, issuing rebuttals and a six-page letter regarding development claims. (6, 9, 10, 11, 12, 14, 15, 18) The CM also announced a foundation stone laying for Adilabad Airport on June 2. (20)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Tension:</span> The ongoing public dispute between CM Revanth Reddy and Kerala CM Pinarayi Vijayan could escalate and impact inter-state relations. (6, 9, 10, 11, 12, 14, 15, 18)</li>\n  <li><span class=\"risk-low\">Land Disputes:</span> BRS alleges land grab over Koheda fruit market. (8)</li>\n  <li><span class=\"risk-low\">Opposition Criticism:</span> BRS is accused of creating trouble and misleading people. (19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's focus on Adilabad, including a promise of development and the airport foundation stone, suggests a strategic focus on the district. (13, 16, 20)</li>\n  <li>The CM's public dispute with the Kerala CM is likely related to the upcoming elections and the BJP's aim to claim power in Telangana. (5, 9, 10, 11, 12, 14, 15, 18)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the public discourse between Telangana and Kerala CMs for potential escalation and impact on inter-state relations.</li>\n  <li>Assess the allegations of land grab at the Koheda fruit market.</li>\n  <li>Prepare a response to the BRS allegations of creating trouble and misleading people.</li>\n  <li>Prepare for the foundation stone laying for Adilabad Airport on June 2. (20)</li>\n  <li>Review the policy shift on districts reorganisation. (17)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Adilabad:</b> Requires immediate attention due to the CM's promises of development, the upcoming airport foundation stone laying, and Congress pledges for development in the area. (13, 16, 20)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "26.9°C",
+      "humidity": "37%",
+      "wind": "10.3 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 41,
+      "pm25": 36.1,
+      "goldPerGram": "₹8,980",
+      "newsCount": 46,
+      "topHeadlines": [
+        "Telangana CM Revanth Reddy offers prayers, launches Basara temple work - Asianet Newsable",
+        "Telangana CM Revanth Reddy performs Bhoomi Pooja for Basara temple expansion - The News Mill",
+        "Hyderabad House in Delhi is Telangana’s Pride, Says Nizam’s Kin - Deccan Chronicle",
+        "Musi river project consultation flawed, Hyderabad activists tell Deputy CM - The Siasat Daily",
+        "BJP celebrates 47th Foundation Day with hope to claim power in Telangana, southern states - The Siasat Daily"
+      ]
+    }
   }
 ]
