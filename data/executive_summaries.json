@@ -1899,5 +1899,28 @@
         "Kerala polls: Vijayan, Revanth Reddy trade barbs as campaigning ends - Vartha Bharati"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-07T20:51:12.352Z",
+    "timestampIST": "8/4/2026, 2:21:12 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy and Kerala CM Pinarayi Vijayan engaged in a verbal duel as campaigning for the Kerala polls ended. (1, 2, 4, 7, 8, 9, 10, 11, 12) The exchange included personal insults and focused on development records. (3, 13, 15, 17, 20) Revanth Reddy's silence on RGUKT-Basar has reportedly disheartened students. (19)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy and Kerala CM Pinarayi Vijayan engaged in a verbal duel as campaigning for the Kerala polls ended. (1, 2, 4, 7, 8, 9, 10, 11, 12) The exchange included personal insults and focused on development records. (3, 13, 15, 17, 20) Revanth Reddy's silence on RGUKT-Basar has reportedly disheartened students. (19)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Escalation of Verbal Duel:</span> The ongoing war of words between CM Revanth Reddy and CM Vijayan could escalate, potentially impacting inter-state relations. (1, 2, 3, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20)</li>\n    <li><span class=\"risk-low\">Student Discontent:</span> Revanth Reddy's silence on RGUKT-Basar may lead to student unrest. (19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The verbal duel between Revanth Reddy and Vijayan is directly linked to the end of campaigning for the Kerala polls. (4, 7, 8, 10)</li>\n    <li>Revanth Reddy's responses to Vijayan's remarks include citing RBI data on Telangana's growth. (17, 18)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the ongoing verbal exchange between CM Revanth Reddy and CM Vijayan for any further escalation.</li>\n    <li>Assess the potential impact of Revanth Reddy's silence on RGUKT-Basar students.</li>\n    <li>Prepare a response to address the concerns of RGUKT-Basar students.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>RGUKT-Basar:</b> Monitor the situation at RGUKT-Basar due to student discontent. (19)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "27.6°C",
+      "humidity": "41%",
+      "wind": "3.5 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 55,
+      "pm25": 31,
+      "goldPerGram": "₹8,971",
+      "newsCount": 64,
+      "topHeadlines": [
+        "CM vs CM: Pinarayi-Revanth slugfest on last campaign day - The Times of India",
+        "Kerala, Telangana CMs engage in verbal duel - The Times of India",
+        "Personal insults unacceptable, Vijayan hits back at Revanth Reddy. - en.etemaaddaily.com",
+        "War of words escalates between Revanth Reddy and Vijayan as Keralam campaign ends - Telangana Today",
+        "UDF Will Win Three-fourths Majority, Says Revanth - Deccan Chronicle"
+      ]
+    }
   }
 ]
