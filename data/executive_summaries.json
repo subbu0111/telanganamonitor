@@ -1830,5 +1830,28 @@
         "Revanth Responds to Pinarayi's Controversial Comments - Deccan Chronicle"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-07T15:11:38.061Z",
+    "timestampIST": "7/4/2026, 8:41:38 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy and Kerala Chief Minister Pinarayi Vijayan are engaged in a heated political exchange, with personal insults exchanged ahead of the April 9th assembly polls. (1, 2, 3, 4, 7, 8, 10, 11, 13, 14, 16, 18, 20) BRS is demanding the withdrawal of the Parigi land acquisition notification. (12) Telangana leaders are campaigning in Tamil Nadu elections. (15)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy and Kerala Chief Minister Pinarayi Vijayan are engaged in a heated political exchange, with personal insults exchanged ahead of the April 9th assembly polls. (1, 2, 3, 4, 7, 8, 10, 11, 13, 14, 16, 18, 20) BRS is demanding the withdrawal of the Parigi land acquisition notification. (12) Telangana leaders are campaigning in Tamil Nadu elections. (15)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Escalation of Political Tensions:</span> The ongoing exchange between CM Revanth Reddy and Kerala CM Vijayan could escalate, potentially impacting inter-state relations. (1, 2, 3, 4, 7, 8, 10, 11, 13, 14, 16, 18, 20)</li>\n    <li><span class=\"risk-low\">BRS Opposition:</span> BRS's demand regarding the Parigi land acquisition notification could lead to localized protests or political pressure. (12)</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Revanth Reddy's silence on RGUKT-Basar has left students disheartened. (6)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The political clash between Revanth Reddy and Pinarayi Vijayan is a recurring theme across multiple news sources. (1, 2, 3, 4, 7, 8, 10, 11, 13, 14, 16, 18, 20)</li>\n    <li>The upcoming assembly polls in Kerala (8, 20) are directly linked to the heated exchange between the two CMs. (1, 2, 3, 4, 7, 10, 11, 13, 14, 16, 18)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the ongoing political exchange between CM Reddy and CM Vijayan for potential impacts on Telangana.</li>\n    <li>Assess the situation regarding the Parigi land acquisition notification and engage with BRS to understand their concerns.</li>\n    <li>Address the concerns of the students of RGUKT-Basar.</li>\n    <li>Review the scope for the levy of entertainment tax by local bodies. (19)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Parigi:</b> Monitor the situation in Parigi due to the BRS's demand regarding the land acquisition notification. (12)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.2°C",
+      "humidity": "25%",
+      "wind": "6.1 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 40,
+      "pm25": 33.9,
+      "goldPerGram": "₹8,971",
+      "newsCount": 61,
+      "topHeadlines": [
+        "Clash of Visions: Telangana's Reddy and Kerala's Vijayan Spar Ahead of Assembly Polls - Devdiscourse",
+        "‘Dash Mone’ remark by Pinarayi Vijayan triggers political row with Revanth Reddy - thestatesman.com",
+        "Personal insults unacceptable, Vijayan hits back at Revanth Reddy - telanganatoday.com",
+        "Revanth rejects Vijayan’s charges on Telangana development, foresees change in Kerala - The Hindu",
+        "Reddy counters Vijayan, cites RBI data on Telangana's growth - Asianet Newsable"
+      ]
+    }
   }
 ]
