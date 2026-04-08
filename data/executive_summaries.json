@@ -1991,5 +1991,28 @@
         "'Nee po mone' meets 'Dash mone Revanth' as two CMs trade barbs across state line - The News Minute"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-08T07:24:10.812Z",
+    "timestampIST": "8/4/2026, 12:54:10 pm",
+    "executiveSummary": "<p>Eight fatalities were reported in three separate road accidents across Telangana. (1) A car crash in Hyderabad claimed two lives. (4) The Chief Ministers of Telangana and Kerala are engaged in a public exchange of insults ahead of the Kerala Assembly polls. (6, 13, 15, 16, 18, 19, 20) The NGT refused to stay the Telangana government’s Bharat Future City project. (14)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Eight fatalities were reported in three separate road accidents across Telangana. (1) A car crash in Hyderabad claimed two lives. (4) The Chief Ministers of Telangana and Kerala are engaged in a public exchange of insults ahead of the Kerala Assembly polls. (6, 13, 15, 16, 18, 19, 20) The NGT refused to stay the Telangana government’s Bharat Future City project. (14)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH</span>: Increased road accident fatalities across Telangana, with eight deaths reported. (1, 4, 5, 17)</li>\n  <li><span class=\"risk-medium\">MEDIUM</span>: Public exchange of insults between the Chief Ministers of Telangana and Kerala could escalate tensions. (6, 13, 15, 16, 18, 19, 20)</li>\n  <li><span class=\"risk-low\">LOW</span>: Potential for political fallout from the ongoing verbal duel between the CMs. (6, 13, 15, 16, 18, 19, 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>Road safety concerns are heightened due to the reported road accident fatalities. (1, 4, 5, 17)</li>\n  <li>The political exchange between the CMs of Telangana and Kerala is occurring in the context of the upcoming Kerala Assembly polls. (6, 7, 8, 11, 16, 18)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Direct the Transport Department to review and enhance road safety measures, focusing on accident-prone areas. (1, 17)</li>\n  <li>Monitor the public discourse and media coverage regarding the CMs' exchange to assess potential impact on public sentiment. (6, 13, 15, 16, 18, 19, 20)</li>\n  <li>Review the status of the Bharat Future City project and any potential environmental concerns. (14)</li>\n  <li>Ensure the trauma care policy is effectively implemented to reduce road accident deaths. (17)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Immediate attention is needed due to a reported car crash resulting in fatalities. (4)</li>\n  <li><b>Suryapet:</b> Monitor the situation following the road accident that resulted in two deaths. (5)</li>\n  <li><b>All Districts:</b> Implement enhanced road safety measures and monitor accident data across all districts. (1, 17)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36.9°C",
+      "humidity": "21%",
+      "wind": "7.3 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 67,
+      "pm25": 23.3,
+      "goldPerGram": "₹8,971",
+      "newsCount": 54,
+      "topHeadlines": [
+        "Eight killed in three separate road accidents in Telangana - english.punjabkesari.com",
+        "‘CM upheld Kerala’s dignity”; Maala Parvathi steps forward supporting CM - keralakaumudi.com",
+        "Trump says moment could mark new ‘Golden Age’ for Mideast - Telangana Today",
+        "Car crash claims two lives in Hyderabad - lokmattimes.com",
+        "Telangana: Two killed in road accident in Suryapet - The Siasat Daily"
+      ]
+    }
   }
 ]
