@@ -2037,5 +2037,28 @@
         "Hyderabad: Three youths killed in road crash on Sagar Road - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-08T10:59:16.747Z",
+    "timestampIST": "8/4/2026, 4:29:16 pm",
+    "executiveSummary": "<p>The Chief Minister met with the Ghana High Commissioner to strengthen ties (1, 3).  Political tensions are escalating between CM Revanth Reddy and Kerala CM Pinarayi Vijayan, with criticism exchanged regarding development models and language used (2, 4, 7, 8, 9, 10, 11, 19).  Multiple road accidents in Telangana resulted in at least eight fatalities (12, 14).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Chief Minister met with the Ghana High Commissioner to strengthen ties (1, 3).  Political tensions are escalating between CM Revanth Reddy and Kerala CM Pinarayi Vijayan, with criticism exchanged regarding development models and language used (2, 4, 7, 8, 9, 10, 11, 19).  Multiple road accidents in Telangana resulted in at least eight fatalities (12, 14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span>  Multiple fatal road accidents across Telangana, with at least eight deaths reported (12, 14).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span>  Escalating political tensions between Telangana CM Revanth Reddy and Kerala CM Pinarayi Vijayan, potentially impacting inter-state relations (2, 4, 7, 8, 9, 10, 11, 19).</li>\n    <li><span class=\"risk-low\">LOW:</span>  Criticism of CM Revanth Reddy's remarks in the Kerala campaign from BRS and other sources (2, 5, 7, 8).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Road accidents in Hyderabad and Suryapet (13, 17, 18) contribute to the overall death toll reported across Telangana (12, 14).</li>\n    <li>The political skirmish between CM Revanth Reddy and Kerala CM Pinarayi Vijayan is being reported by multiple news outlets (4, 9, 10, 19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to investigate the recent road accidents and implement immediate safety measures (12, 13, 14, 17, 18).</li>\n    <li>Monitor the evolving political situation and rhetoric between CM Revanth Reddy and Kerala CM Pinarayi Vijayan (2, 4, 7, 8, 9, 10, 11, 19).</li>\n    <li>Assess the potential impact of the new LPG allocation formula on Telangana (6).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b>  Focus on road safety due to reported fatal accidents (13, 17).</li>\n    <li><b>Suryapet:</b>  Focus on road safety due to reported fatal accident (18).</li>\n    <li><b>All Districts:</b>  Review road safety protocols in all districts in light of the reported accidents across Telangana (12, 14).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37°C",
+      "humidity": "20%",
+      "wind": "10.7 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 64,
+      "pm25": 22.7,
+      "goldPerGram": "₹8,971",
+      "newsCount": 57,
+      "topHeadlines": [
+        "Ghana diplomat meets Telangana CM, wishes to strengthen ties - The Siasat Daily",
+        "BRS slams CM Reddy's 'contradictory' claims in Kerala campaign - Asianet Newsable",
+        "Ghana High Commissioner Obiri-Danso Meets Revanth Reddy - Deccan Chronicle",
+        "Kerala Assembly Election 2026: War Of Words Escalates As Pinarayi And Revanth Clash Over 'Development Model' - ETV Bharat",
+        "Revanth Reddy’s selective diatribes put Congress in a bind - Telangana Today"
+      ]
+    }
   }
 ]
