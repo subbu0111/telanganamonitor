@@ -2014,5 +2014,28 @@
         "Telangana: Two killed in road accident in Suryapet - The Siasat Daily"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-08T09:04:17.707Z",
+    "timestampIST": "8/4/2026, 2:34:17 pm",
+    "executiveSummary": "<p>Multiple road accidents in Telangana have resulted in at least eight fatalities. [4, 6] Political tensions are escalating between Telangana CM Revanth Reddy and Kerala CM Pinarayi Vijayan, with both leaders exchanging criticisms ahead of the Kerala Assembly elections. [1, 2, 3, 11, 17, 19, 20] Revanth Reddy has moved the HC regarding 2019 Huzurnagar by-poll cases. [14]</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Multiple road accidents in Telangana have resulted in at least eight fatalities. [4, 6] Political tensions are escalating between Telangana CM Revanth Reddy and Kerala CM Pinarayi Vijayan, with both leaders exchanging criticisms ahead of the Kerala Assembly elections. [1, 2, 3, 11, 17, 19, 20] Revanth Reddy has moved the HC regarding 2019 Huzurnagar by-poll cases. [14]</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Multiple road accidents resulting in fatalities indicate a potential public safety concern. [4, 5, 6, 9, 10]</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Escalating political tensions between CM Revanth Reddy and Kerala CM Vijayan could potentially impact inter-state relations. [1, 2, 3, 11, 17, 19, 20]</li>\n    <li><span class=\"risk-low\">LOW</span>: Revanth Reddy's legal action regarding the 2019 Huzurnagar by-poll cases may attract media attention. [14]</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Road accidents in Telangana are a recurring issue, with multiple incidents reported. [4, 5, 6, 9, 10]</li>\n    <li>Political discourse involving Revanth Reddy is linked to both Telangana and Kerala politics, with the Kerala Assembly elections as a focal point. [1, 2, 3, 11, 15, 16, 17, 19, 20]</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Transport Department to investigate the recent road accidents and implement immediate safety measures.</li>\n    <li>Monitor the political rhetoric between CM Revanth Reddy and CM Vijayan to assess potential impacts on inter-state relations.</li>\n    <li>Review the legal proceedings related to the 2019 Huzurnagar by-poll cases and prepare a response strategy.</li>\n    <li>Issue a public statement on road safety to reassure the public.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad</b>: Focus on Hyderabad due to reported road accidents resulting in fatalities. [5, 9]</li>\n    <li><b>Suryapet</b>: Focus on Suryapet due to a reported road accident resulting in fatalities. [10]</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37.7°C",
+      "humidity": "19%",
+      "wind": "8.2 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 67,
+      "pm25": 22.4,
+      "goldPerGram": "₹8,971",
+      "newsCount": 53,
+      "topHeadlines": [
+        "Kerala Assembly polls: Congress leaders criticise Pinarayi Vijayan’s remarks against Revanth Reddy - The Hindu",
+        "Kerala Assembly Elections 2026: Pinarayi Vijayan and Revanth Reddy skirmish on X over use of coarse language in politics - The Hindu",
+        "Cong Leaders Criticize Kerala CM's Remarks against Revanth Reddy - Deccan Chronicle",
+        "Eight killed in three separate road accidents in Telangana - Punjab News Express",
+        "Hyderabad: Three youths killed in road crash on Sagar Road - Telangana Today"
+      ]
+    }
   }
 ]
