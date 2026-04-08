@@ -1968,5 +1968,28 @@
         "Telangana launches trauma care policy to reduce road accident deaths - The Times of India"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-08T05:48:11.713Z",
+    "timestampIST": "8/4/2026, 11:18:11 am",
+    "executiveSummary": "<p>A verbal exchange has escalated between Telangana CM Revanth Reddy and Kerala CM Pinarayi Vijayan, with both trading insults ahead of the Kerala Assembly Polls 2026 (headlines 5, 12, 14, 15, 17, 18, 19, 20). Two fatal road accidents occurred in Hyderabad (3) and Suryapet (4). The Telangana government launched a trauma care policy to reduce road accident deaths (16).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A verbal exchange has escalated between Telangana CM Revanth Reddy and Kerala CM Pinarayi Vijayan, with both trading insults ahead of the Kerala Assembly Polls 2026 (headlines 5, 12, 14, 15, 17, 18, 19, 20). Two fatal road accidents occurred in Hyderabad (3) and Suryapet (4). The Telangana government launched a trauma care policy to reduce road accident deaths (16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Escalation of Verbal Duel:</span> The ongoing exchange between CMs Revanth Reddy and Pinarayi Vijayan could potentially escalate tensions (5, 12, 14, 15, 17, 18, 19, 20).</li>\n    <li><span class=\"risk-medium\">Public Perception:</span> The CM's involvement in a public spat could negatively impact public perception (5, 12, 14, 15, 17, 18, 19, 20).</li>\n    <li><span class=\"risk-low\">Road Safety Concerns:</span> Two fatal road accidents in Hyderabad and Suryapet highlight ongoing road safety concerns, despite the launch of a new trauma care policy (3, 4, 16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The verbal exchange between CMs Revanth Reddy and Pinarayi Vijayan is directly linked to the upcoming Kerala Assembly Polls 2026 (5, 7, 10, 15, 20).</li>\n    <li>The launch of the trauma care policy (16) is directly relevant to the reported road accident fatalities in Hyderabad and Suryapet (3, 4).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the ongoing verbal exchange between CM Revanth Reddy and CM Vijayan for any further escalation and potential impact on public sentiment.</li>\n    <li>Assess the effectiveness of the newly launched trauma care policy in reducing road accident fatalities.</li>\n    <li>Review the Huzurnagar by-poll cases, as Revanth Reddy has moved the HC to quash them (9).</li>\n    <li>Prepare a statement addressing the public perception of the CM's involvement in the political spat.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on immediate implementation of the trauma care policy to address road safety concerns following the reported fatal car crash (3, 16).</li>\n    <li><b>Suryapet:</b> Implement the trauma care policy and investigate the road accident (4, 16).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35°C",
+      "humidity": "27%",
+      "wind": "9.4 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 66,
+      "pm25": 25.6,
+      "goldPerGram": "₹8,971",
+      "newsCount": 58,
+      "topHeadlines": [
+        "‘CM upheld Kerala’s dignity”; Maala Parvathi steps forward supporting CM - Kerala Kaumudi",
+        "Trump says moment could mark new ‘Golden Age’ for Mideast - Telangana Today",
+        "Car crash claims two lives in Hyderabad - lokmattimes.com",
+        "Telangana: Two killed in road accident in Suryapet - The Siasat Daily",
+        "'Nee po mone' meets 'Dash mone Revanth' as two CMs trade barbs across state line - The News Minute"
+      ]
+    }
   }
 ]
