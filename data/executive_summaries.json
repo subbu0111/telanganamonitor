@@ -2267,5 +2267,28 @@
         "CM Revanth Reddy asks corporates to prioritise CSR spending - The New Indian Express"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-09T09:11:10.194Z",
+    "timestampIST": "9/4/2026, 2:41:10 pm",
+    "executiveSummary": "<p>A GHMC worker died in a bus accident in Amberpet (1). The Chief Minister is focusing on leveraging Corporate Social Responsibility (CSR) funds for state development, particularly in education and healthcare (7, 11, 16, 17, 18, 19). The CM announced the Adilabad Airport foundation and revived an irrigation project, targeting development by 2034 (12, 14). The High Court will hear Khera’s anticipatory bail application today (13).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A GHMC worker died in a bus accident in Amberpet (1). The Chief Minister is focusing on leveraging Corporate Social Responsibility (CSR) funds for state development, particularly in education and healthcare (7, 11, 16, 17, 18, 19). The CM announced the Adilabad Airport foundation and revived an irrigation project, targeting development by 2034 (12, 14). The High Court will hear Khera’s anticipatory bail application today (13).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> Jeevan Reddy is likely to join BRS (2).</li>\n    <li><span class=\"risk-medium\">Financial:</span> Congress government is turning to CSR as fiscal strain deepens (19).</li>\n    <li><span class=\"risk-low\">Cybersecurity:</span> Cyber fraud targeted an MLA using a fake Central scheme loan promise (5).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A GHMC worker died in a bus accident in Amberpet (1).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on CSR spending (7, 8, 11, 16, 17, 18) is linked to the Congress government's fiscal situation (19).</li>\n    <li>The CM's meetings with corporates (15) are likely related to the push for increased CSR spending (7, 8, 11, 16, 17, 18).</li>\n    <li>The CM is targeting Adilabad development (12, 14) which may require CSR funding.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Assess the circumstances surrounding the GHMC worker's death in Amberpet (1).</li>\n    <li>Review the financial implications of relying on CSR funds (19).</li>\n    <li>Investigate the cyber fraud targeting the MLA (5) and enhance cybersecurity protocols.</li>\n    <li>Prepare a briefing on the CM's meetings with Tata Lockheed Martin (15, 20) and potential investment opportunities.</li>\n    <li>Monitor the High Court hearing regarding Khera's anticipatory bail application (13).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad:</b> The CM has announced plans for Adilabad, including an airport foundation and an irrigation project (12, 14). Monitor progress and resource allocation.</li>\n    <li><b>Amberpet:</b> Address the incident involving the GHMC worker's death (1).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37.9°C",
+      "humidity": "20%",
+      "wind": "10 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 68,
+      "pm25": 24.3,
+      "goldPerGram": "₹8,895",
+      "newsCount": 31,
+      "topHeadlines": [
+        "Amberpet: GHMC worker dies in bus accident - Hyderabad Mail",
+        "Jeevan Reddy likely to join BRS, flays Congress govt - The Hans India",
+        "CM Revanth, Pinarayi war of words peaks - The New Indian Express",
+        "Raheja Group, Ramky Group, Yashoda Foundation pledge ₹110 Cr for Telangana under CSR - NewsMeter",
+        "Cyber Fraud Targets MLA in Telangana Using Fake Central Scheme Loan Promise - The South India Times"
+      ]
+    }
   }
 ]
