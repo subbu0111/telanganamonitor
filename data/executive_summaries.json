@@ -2290,5 +2290,28 @@
         "Cyber Fraud Targets MLA in Telangana Using Fake Central Scheme Loan Promise - The South India Times"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-09T11:01:21.573Z",
+    "timestampIST": "9/4/2026, 4:31:21 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy met with the COO of Tata Lockheed Martin (19). The CM unveiled the IGBC Green Property Show 2026 and announced the Adilabad Airport foundation and revival of an irrigation project (4, 18). Several news sources report criticism of CM Revanth Reddy from Jeevan Reddy and Dasoju Sravan (2, 3, 5, 13).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with the COO of Tata Lockheed Martin (19). The CM unveiled the IGBC Green Property Show 2026 and announced the Adilabad Airport foundation and revival of an irrigation project (4, 18). Several news sources report criticism of CM Revanth Reddy from Jeevan Reddy and Dasoju Sravan (2, 3, 5, 13).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Jeevan Reddy's criticism of the CM and reports of his potential move to BRS could destabilize the political landscape. (2, 5, 7)</li>\n    <li><span class=\"risk-low\">Cybersecurity Threat:</span> An MLA in Telangana was targeted by cyber fraud using a fake Central scheme loan promise. (9)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A GHMC worker died in a bus accident in Amberpet. (6)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM is actively engaging with corporates, urging them to prioritize CSR spending for state development, particularly in education and healthcare (11, 12, 15, 20).</li>\n    <li>Jeevan Reddy's criticism of CM Revanth Reddy is a recurring theme across multiple news outlets (2, 3, 5, 7).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political situation closely, particularly regarding Jeevan Reddy's activities and any potential shifts in party affiliations.</li>\n    <li>Assess the cyber security threat landscape and brief all MLAs on the current threats.</li>\n    <li>Review safety protocols for GHMC workers and other government employees.</li>\n    <li>Prepare a detailed plan for the Adilabad development project, including timelines and resource allocation (16, 18).</li>\n    <li>Prepare a press release to highlight the CM's initiatives to boost CSR spending.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad:</b> Requires immediate attention due to the CM's focus on development, including the airport foundation and irrigation project (16, 18).</li>\n    <li><b>Amberpet:</b> Requires attention due to the recent bus accident involving a GHMC worker (6).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36.8°C",
+      "humidity": "21%",
+      "wind": "13.8 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 68,
+      "pm25": 18.7,
+      "goldPerGram": "₹8,895",
+      "newsCount": 28,
+      "topHeadlines": [
+        "Tata Lockheed eyes Telangana - EdexLive",
+        "Jeevan Reddy’s criticism of Telangana CM unwarranted: TPCC president - The Hindu",
+        "Telangana: KCR’s rule better than Revanth, says Jeevan Reddy - The Siasat Daily",
+        "CM Revanth Reddy Unveils IGBC Green Property Show 2026, Boosting Telangana’s Net Zero Vision - SolarQuarter",
+        "Defeat of Revanth Reddy inevitable: Jeevan Reddy - Telangana Today"
+      ]
+    }
   }
 ]
