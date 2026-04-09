@@ -2198,5 +2198,28 @@
         "Congress govt turns to CSR as fiscal strain deepens - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-09T02:33:00.577Z",
+    "timestampIST": "9/4/2026, 8:03:00 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy met with the Ghana High Commissioner and Lockheed Martin officials. (2, 3, 13, 14) The CM is also facing criticism from BRS regarding his campaigning in Kerala and remarks made there. (9, 10, 11, 18, 19) The Telangana High Court will hear Khera's anticipatory bail application today. (1)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with the Ghana High Commissioner and Lockheed Martin officials. (2, 3, 13, 14) The CM is also facing criticism from BRS regarding his campaigning in Kerala and remarks made there. (9, 10, 11, 18, 19) The Telangana High Court will hear Khera's anticipatory bail application today. (1)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS criticism of CM Revanth Reddy's Kerala campaign and allegations of unfulfilled promises and corruption could escalate political tensions. (9, 10)</li>\n    <li><span class=\"risk-low\">Legal:</span> The Telangana High Court will hear Khera's anticipatory bail application today. (1)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A teen was killed in Hyderabad after a bike crashed into a pole. (12)</li>\n    <li><span class=\"risk-low\">Economic:</span> The Centre introduced a new LPG allocation formula amid Middle East tensions. (17)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's meetings with Lockheed Martin officials (2, 3) coincide with Lockheed Martin expressing interest in investing in Telangana (7, 8).</li>\n    <li>The CM's campaigning in Kerala (9, 10, 15) has led to a war of words with Pinarayi Vijayan (11, 15, 20) and criticism from BRS (9, 10, 18, 19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the Telangana High Court proceedings regarding Khera's anticipatory bail application. (1)</li>\n    <li>Assess the potential impact of the new LPG allocation formula on Telangana. (17)</li>\n    <li>Prepare a response to the BRS criticisms regarding the CM's Kerala campaign and allegations of unfulfilled promises. (9, 10)</li>\n    <li>Review the details of the meetings with Lockheed Martin and Ghana High Commissioner to understand the potential benefits for the state. (2, 3, 13, 14)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor the situation following the bike accident that resulted in a fatality. (12)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "27.7°C",
+      "humidity": "52%",
+      "wind": "7.8 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 67,
+      "pm25": 44.8,
+      "goldPerGram": "₹8,895",
+      "newsCount": 34,
+      "topHeadlines": [
+        "Telangana HC to hear Khera’s anticipatory bail application today - The Indian Express",
+        "CM Revanth Reddy Meets Ghana High Commissioner, Lockheed Martin Officials - The Morning Voice",
+        "Hyderabad: Revanth Reddy Meets Tata Lockheed Martin COO #Gallery - Social News XYZ",
+        "Telangana CM urges corporates to maximise CSR impact for state development - BusinessLine",
+        "Telangana CM A Revanth Reddy on maximizing CSR spending impact - The News Mill"
+      ]
+    }
   }
 ]
