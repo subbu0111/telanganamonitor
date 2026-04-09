@@ -2382,5 +2382,28 @@
         "GHMC worker killed in RTC bus accident in Amberpet, protest erupts - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-09T19:10:51.990Z",
+    "timestampIST": "10/4/2026, 12:40:51 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered immediate repairs to the Kaleshwaram barrages (1, 2). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to a protest (8). The CM finalized 650 acres near Shamshabad Airport for a Hyderabad Bullet Train Hub (16).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has ordered immediate repairs to the Kaleshwaram barrages (1, 2). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to a protest (8). The CM finalized 650 acres near Shamshabad Airport for a Hyderabad Bullet Train Hub (16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for public unrest</span>: A protest erupted in Amberpet following the death of a GHMC worker in an RTC bus accident (8).</li>\n    <li><span class=\"risk-low\">Political Instability</span>: Ongoing political discourse between BRS and Congress, with Jeevan Reddy being invited to join BRS and criticism of CM Revanth Reddy (4, 5, 6, 7, 10, 11, 13, 14, 19).</li>\n    <li><span class=\"risk-low\">Infrastructure vulnerability</span>: CM ordered speedy repairs of Kaleshwaram barrages (1, 2).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM is focused on infrastructure, ordering repairs to Kaleshwaram barrages (1, 2) and finalizing land for the Bullet Train Hub (16).</li>\n    <li>Political activity is high, with BRS inviting Jeevan Reddy to join the party (4, 5, 6, 11, 14) and criticism of CM Revanth Reddy (7, 10, 13, 19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in Amberpet closely and assess the potential for escalation following the RTC bus accident and protest (8).</li>\n    <li>Ensure swift action and resource allocation for the Kaleshwaram barrage repairs, as per CM's orders (1, 2).</li>\n    <li>Review road safety measures following the Chief Secretary's directive to Collectors (3).</li>\n    <li>Monitor political developments and public statements related to Jeevan Reddy's potential party affiliation (4, 5, 6, 7, 10, 11, 13, 14).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad</b>: Monitor Amberpet due to the RTC bus accident and resulting protest (8).</li>\n    <li><b>Multiple Districts</b>: The Chief Secretary's directive to all Collectors regarding road safety solutions requires attention across all districts (3).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.6°C",
+      "humidity": "57%",
+      "wind": "3.6 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 66,
+      "pm25": 34.3,
+      "goldPerGram": "₹8,937",
+      "newsCount": 23,
+      "topHeadlines": [
+        "Telangana CM orders speedy repairs of Kaleshwaram barrages - The Siasat Daily",
+        "Kaleshwaram project repairs: TG CM A Revanth Reddy orders immediate restoration - Hyderabad Mail",
+        "Telangana Chief Secy asks Collectors to find innovative road safety solutions - The Siasat Daily",
+        "'Experienced leaders essential for rebuilding Telangana’s growth trajectory': KTR invites Jeevan Reddy to join BRS - Deccan Herald",
+        "BRS invites Jeevan Reddy to join party in Telangana - The News Mill"
+      ]
+    }
   }
 ]
