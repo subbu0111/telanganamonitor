@@ -2221,5 +2221,28 @@
         "Telangana CM A Revanth Reddy on maximizing CSR spending impact - The News Mill"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-09T05:49:53.238Z",
+    "timestampIST": "9/4/2026, 11:19:53 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is focusing on leveraging Corporate Social Responsibility (CSR) funds for Telangana's development, particularly in education and healthcare. Raheja Group, Ramky Group, and Yashoda Foundation have pledged ₹110 Cr for Telangana under CSR (1). The CM is facing criticism from BRS regarding his campaigning in Kerala and allegations of unfulfilled promises (17, 18).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focusing on leveraging Corporate Social Responsibility (CSR) funds for Telangana's development, particularly in education and healthcare. Raheja Group, Ramky Group, and Yashoda Foundation have pledged ₹110 Cr for Telangana under CSR (1). The CM is facing criticism from BRS regarding his campaigning in Kerala and allegations of unfulfilled promises (17, 18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> Criticism from BRS regarding CM Revanth Reddy's campaigning in Kerala and allegations of unfulfilled promises could escalate political tensions. (17, 18)</li>\n    <li><span class=\"risk-low\">Legal:</span> The Telangana High Court will hear Khera’s anticipatory bail application today. (8)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A teen was killed in Hyderabad after a bike crashed into a pole. (20)</li>\n    <li><span class=\"risk-low\">Financial:</span> Congress government turns to CSR as fiscal strain deepens. (14)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is actively engaging with corporates to secure CSR funding (3, 4, 6, 11, 12, 13).</li>\n    <li>The CM is focused on Adilabad development (7, 9).</li>\n    <li>Tata Lockheed Martin is keen on investing more in Telangana (10, 15, 16).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the High Court proceedings regarding Khera's anticipatory bail application. (8)</li>\n    <li>Assess the potential impact of BRS criticism on public perception and political stability. (17, 18, 19)</li>\n    <li>Prioritize the implementation of the milk provision program for students. (2)</li>\n    <li>Review and expedite the Adilabad development plan, including the airport foundation and irrigation project. (7, 9)</li>\n    <li>Monitor the progress of CSR fund utilization and ensure transparency. (1, 3, 4, 6, 11, 12, 13)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad:</b> The CM has targeted Adilabad for development and announced an airport foundation and irrigation project, requiring immediate attention and resource allocation. (7, 9)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35.3°C",
+      "humidity": "26%",
+      "wind": "12.6 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 68,
+      "pm25": 29.3,
+      "goldPerGram": "₹8,895",
+      "newsCount": 32,
+      "topHeadlines": [
+        "Raheja Group, Ramky Group, Yashoda Foundation pledge ₹110 Cr for Telangana under CSR - NewsMeter",
+        "Telangana Government to Provide Milk to Students from Class 1 to Intermediate Across State - The South India Times",
+        "CM Revanth Reddy asks corporates to prioritise CSR spending - The New Indian Express",
+        "Pitch in as partners in devpt with CSR funds: Revanth to corporates - The Hans India",
+        "Dasoju Sravan criticism of Revanth Reddy over Kerala - newsage.in"
+      ]
+    }
   }
 ]
