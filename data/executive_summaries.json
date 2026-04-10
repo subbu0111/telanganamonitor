@@ -2566,5 +2566,28 @@
         "Lady Gaga, Doechii release new track ‘Runway’ - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-10T13:16:20.653Z",
+    "timestampIST": "10/4/2026, 6:46:20 pm",
+    "executiveSummary": "<p>Kavitha has alleged a Rs 1,148 Cr GHMC contract scam, targeting the Revanth Reddy government (1). The Chief Minister is in Delhi for a CWC meet today (12). The CM has ordered swift repairs of the Kaleshwaram barrages (13, 14, 15, 16).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Kavitha has alleged a Rs 1,148 Cr GHMC contract scam, targeting the Revanth Reddy government (1). The Chief Minister is in Delhi for a CWC meet today (12). The CM has ordered swift repairs of the Kaleshwaram barrages (13, 14, 15, 16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Allegations of a Rs 1,148 Cr GHMC contract scam by Kavitha against the current government could lead to political tensions and scrutiny (1).</li>\n    <li><span class=\"risk-medium\">Infrastructure Failure:</span> The CM's orders for swift repairs of the Kaleshwaram barrages indicate a critical need for infrastructure restoration, potentially due to damage or failure (13, 14, 15, 16).</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Telangana students may start the school year without new uniforms (4).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on Kaleshwaram project repairs (13, 14, 15, 16) highlights a potential infrastructure crisis, demanding immediate attention and resources.</li>\n    <li>The Telangana Chief Secretary's directive to Collectors to find innovative road safety solutions (17) suggests a growing concern regarding road safety issues within the state.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political fallout from Kavitha's allegations of a GHMC contract scam (1).</li>\n    <li>Expedite the Kaleshwaram barrage repair work, ensuring adequate resources and oversight (13, 14, 15, 16).</li>\n    <li>Assess the impact of potential uniform delays on students and schools (4).</li>\n    <li>Brief the CM on the progress of Kaleshwaram repairs and the political situation upon his return from Delhi (12).</li>\n    <li>Ensure Collectors are actively implementing road safety solutions (17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Medak and surrounding districts:</b> Given the focus on Kaleshwaram project repairs, districts impacted by the project require immediate attention to ensure the swift and effective restoration of the barrages (7, 13, 14, 15, 16).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35.4°C",
+      "humidity": "25%",
+      "wind": "6.8 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 67,
+      "pm25": 30.3,
+      "goldPerGram": "₹8,937",
+      "newsCount": 19,
+      "topHeadlines": [
+        "Kavitha alleges Rs 1,148 Cr GHMC contract scam, targets Revanth Reddy govt - Hyderabad Mail",
+        "Telangana TS Class 11, 12 Result 2026 to be out tomorrow? Check latest updates - India Today",
+        "Telangana: BRS leader RS Praveen Kumar demands rollback of GO 17 - The Siasat Daily",
+        "Telangana students may start school year without new uniforms - Telangana Today",
+        "Lady Gaga, Doechii release new track ‘Runway’ - Telangana Today"
+      ]
+    }
   }
 ]
