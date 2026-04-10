@@ -2497,5 +2497,28 @@
         "CM heads to Delhi for CWC meet today - The Times of India"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-10T07:55:17.970Z",
+    "timestampIST": "10/4/2026, 1:25:17 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi for a CWC meeting today (9). The CM has ordered swift repairs of the Kaleshwaram barrages (10, 11, 12, 13). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to protests (20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is in Delhi for a CWC meeting today (9). The CM has ordered swift repairs of the Kaleshwaram barrages (10, 11, 12, 13). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to protests (20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for unrest:</span> Protests have erupted in Amberpet following the death of a GHMC worker in an RTC bus accident (20).</li>\n    <li><span class=\"risk-medium\">Infrastructure Failure:</span> The CM has ordered swift repairs of the Kaleshwaram barrages (10, 11, 12, 13), indicating potential structural issues.</li>\n    <li><span class=\"risk-low\">Political Instability:</span> TPCC Chief slams Jeevan Reddy over demand to oust Revanth Reddy (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on Kaleshwaram barrage repairs (10, 11, 12, 13) highlights a critical infrastructure concern.</li>\n    <li>The Telangana HRF urging the CM to pardon prisoners (4) may be related to the upcoming Ambedkar Jayanti.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in Amberpet closely and ensure law and order are maintained following the RTC bus accident (20).</li>\n    <li>Expedite the repair work of the Kaleshwaram barrages as per the CM's orders (10, 11, 12, 13).</li>\n    <li>Assess the potential impact of the Centre's policy on Telangana's excess stocks (8).</li>\n    <li>Review the road safety solutions being developed by the Collectors (14).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the car crash in Gachibowli (5) and the RTC bus accident and protests in Amberpet (20).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "38.2°C",
+      "humidity": "20%",
+      "wind": "7.9 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 67,
+      "pm25": 27.6,
+      "goldPerGram": "₹8,937",
+      "newsCount": 25,
+      "topHeadlines": [
+        "Lady Gaga, Doechii release new track ‘Runway’ - Telangana Today",
+        "TG Inter Results 2026 Likely on April 12 as CM Revanth Reddy May Announce Results - The South India Times",
+        "Gold, Silver Rate Today (10 April 2026): Gold Slips to Rs 1.52 Lakh, Silver Falls to Rs 2.42 Lakh on MCX Amid US-Iran Ceasefire Jitters; Check Gold Price In Chennai, Hyderabad, Delhi, Mumbai and Dubai - NewsX",
+        "Telangana HRF urges CM to pardon prisoners ahead of Ambedkar Jayanti - The Siasat Daily",
+        "Car crash in Hyderabad’s Gachibowli, occupants injured - The Hans India"
+      ]
+    }
   }
 ]
