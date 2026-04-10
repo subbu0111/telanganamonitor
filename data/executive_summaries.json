@@ -2543,5 +2543,28 @@
         "Telangana HRF urges CM to pardon prisoners ahead of Ambedkar Jayanti - The Siasat Daily"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-10T10:57:45.191Z",
+    "timestampIST": "10/4/2026, 4:27:45 pm",
+    "executiveSummary": "<p>Kavitha has alleged a Rs 1,148 crore GHMC contract scam, targeting the Revanth Reddy government (1). The Chief Minister is in Delhi for a CWC meet today (13). The CM has ordered swift repairs of three Kaleshwaram barrages (14, 15, 16, 17).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Kavitha has alleged a Rs 1,148 crore GHMC contract scam, targeting the Revanth Reddy government (1). The Chief Minister is in Delhi for a CWC meet today (13). The CM has ordered swift repairs of three Kaleshwaram barrages (14, 15, 16, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Allegations of a Rs 1,148 crore GHMC contract scam could lead to political tensions and scrutiny of the Revanth Reddy government (1).</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Potential delays in the start of the school year due to a lack of new uniforms could cause public dissatisfaction (3).</li>\n    <li><span class=\"risk-medium\">Infrastructure Failure:</span> The need for swift repairs of Kaleshwaram barrages indicates potential infrastructure vulnerabilities (14, 15, 16, 17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on Kaleshwaram barrage repairs (14, 15, 16, 17) and the Minister's statement on excess stocks due to the Centre’s policy (12) may indicate strain on state resources.</li>\n    <li>The CM's travel to Delhi (13) and the invitation to Jeevan Reddy to join BRS (4, 19, 20) suggest ongoing political maneuvering.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the relevant departments to investigate the GHMC contract scam allegations and prepare a public statement (1).</li>\n    <li>Monitor the progress of the Kaleshwaram barrage repairs and ensure adequate resources are allocated (14, 15, 16, 17).</li>\n    <li>Assess the impact of the Centre's policy on Telangana's excess stocks and develop mitigation strategies (12).</li>\n    <li>Prepare a contingency plan for potential delays in the school year due to uniform shortages (3).</li>\n    <li>Review and implement road safety solutions as directed by the Chief Secretary (18).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the car crash in Gachibowli (9) and the GHMC contract scam allegations (1).</li>\n    <li><b>Districts with Kaleshwaram Project Infrastructure:</b> Monitor the progress of repairs in districts where the barrages are located (14, 15, 16, 17).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "38.1°C",
+      "humidity": "21%",
+      "wind": "9.1 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 69,
+      "pm25": 26.1,
+      "goldPerGram": "₹8,937",
+      "newsCount": 24,
+      "topHeadlines": [
+        "Kavitha alleges Rs 1,148 Cr GHMC contract scam, targets Revanth Reddy govt - Hyderabad Mail",
+        "Telangana TS Class 11, 12 Result 2026 to be out tomorrow? Check latest updates - India Today",
+        "Telangana students may start school year without new uniforms - Telangana Today",
+        "Telangana: Switch to BRS? Ex-Congress leader Jeevan Reddy set to meet KCR - The Siasat Daily",
+        "Lady Gaga, Doechii release new track ‘Runway’ - Telangana Today"
+      ]
+    }
   }
 ]
