@@ -2727,5 +2727,28 @@
         "‘Revanth Reddy must go, KCR must return,’ says T Jeevan Reddy - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-11T05:25:42.333Z",
+    "timestampIST": "11/4/2026, 10:55:42 am",
+    "executiveSummary": "<p>Ten individuals were injured in Suryapet when a bus collided with a lorry (1). CM Revanth Reddy warned of \"serious damage\" to southern states due to the delimitation proposal (3). Former Minister Jeevan Reddy met with KCR and is set to join BRS (8, 14).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Ten individuals were injured in Suryapet when a bus collided with a lorry (1). CM Revanth Reddy warned of \"serious damage\" to southern states due to the delimitation proposal (3). Former Minister Jeevan Reddy met with KCR and is set to join BRS (8, 14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public agitation</span>: Revanth Reddy warned of public agitation over the Lok Sabha seat increase proposal (2).</li>\n    <li><span class=\"risk-medium\">Political Instability</span>: Jeevan Reddy's meeting with KCR and potential BRS joining, coupled with calls for CM Revanth Reddy's removal, indicates potential political shifts (8, 9).</li>\n    <li><span class=\"risk-low\">Allegations of Corruption</span>: Kavitha alleges large-scale corruption in GHMC, targeting the Revanth Reddy government (5, 16).</li>\n    <li><span class=\"risk-low\">Student Unrest</span>: Students may start the school year without new uniforms (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The delimitation issue (3) and the warning of public agitation (2) are related, as the former is the cause of the latter.</li>\n    <li>Jeevan Reddy's meeting with KCR (8, 14) and the call for Revanth Reddy's removal (9) suggest a coordinated political opposition.</li>\n    <li>The upcoming Inter Results announcement on April 12 (11, 15) and the potential lack of new uniforms (20) could create a negative environment for students.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in Suryapet following the bus-lorry collision and provide necessary support to the injured (1).</li>\n    <li>Assess the potential for public agitation related to the Lok Sabha seat increase proposal and prepare accordingly (2, 3).</li>\n    <li>Monitor the political landscape closely, particularly the activities of Jeevan Reddy and the BRS (8, 9, 14).</li>\n    <li>Investigate the allegations of corruption in GHMC (5, 16).</li>\n    <li>Address the uniform issue to avoid student unrest (20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Suryapet:</b> Immediate attention is required due to the bus-lorry accident (1).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35.9°C",
+      "humidity": "33%",
+      "wind": "4.5 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 70,
+      "pm25": 27.5,
+      "goldPerGram": "₹8,959",
+      "newsCount": 22,
+      "topHeadlines": [
+        "Telangana: 10 injured as bus rams lorry in Suryapet - The Siasat Daily",
+        "Revanth Reddy Warns of Public Agitation Over Lok Sabha Seat Increase Proposal - The South India Times",
+        "Delimitation: CM Revanth warns of ‘serious damage’ to southern states, calls it a regional issue - The New Indian Express",
+        "Game changer projects planned for TG growth: Kishan Reddy - The Hans India",
+        "Kavitha alleges large-scale corruption in GHMC - The Hans India"
+      ]
+    }
   }
 ]
