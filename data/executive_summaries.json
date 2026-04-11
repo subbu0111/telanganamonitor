@@ -2819,5 +2819,28 @@
         "IPL match today, PBKS vs SRH: Predicted playing XI, head-to-head, pitch report, New Chandigarh weather update - Yahoo Sports"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-11T13:03:22.316Z",
+    "timestampIST": "11/4/2026, 6:33:22 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism regarding delimitation proposals and the Kaleshwaram project. Former Congress leader Jeevan Reddy is likely to join BRS on April 20. A bus accident in Suryapet resulted in 10 injuries.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism regarding delimitation proposals and the Kaleshwaram project. Former Congress leader Jeevan Reddy is likely to join BRS on April 20. A bus accident in Suryapet resulted in 10 injuries.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public agitation</span>: Revanth Reddy has warned of public agitation over the Lok Sabha seat increase proposal. (12)</li>\n    <li><span class=\"risk-medium\">Political Instability</span>: Criticism of Revanth Reddy from KTR and Jeevan Reddy's potential BRS joining could destabilize the political landscape. (3, 19, 18)</li>\n    <li><span class=\"risk-low\">Public Safety</span>: A bus accident in Suryapet resulted in 10 injuries. (11)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's stance on delimitation (12, 13, 17) is a key topic of discussion, with potential for public unrest.</li>\n    <li>Jeevan Reddy's meetings with KCR and his likely shift to BRS (18) are directly related to the ongoing political dynamics and criticism of the current government (3, 19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment and potential for protests related to the delimitation proposal.</li>\n    <li>Assess the political implications of Jeevan Reddy's potential move to BRS.</li>\n    <li>Ensure adequate medical support and investigation into the bus accident in Suryapet.</li>\n    <li>Prepare a communication strategy to address criticisms regarding the Kaleshwaram project.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Suryapet:</b> Immediate attention is needed to address the aftermath of the bus accident and provide necessary support to the injured. (11)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36.9°C",
+      "humidity": "24%",
+      "wind": "7.6 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 68,
+      "pm25": 32,
+      "goldPerGram": "₹8,959",
+      "newsCount": 25,
+      "topHeadlines": [
+        "TS Inter Results 2026 LIVE: TSBIE confirms 1st, 2nd year result date for over 9 lakh; pass percentage - Careers360",
+        "Why Revanth Reddy matters the most for Congress - The South First",
+        "Revanth Reddy will be remembered as leader who deceived people: KTR - Telangana Today",
+        "IPL 2026: Why Pat Cummins Is Not Playing in Today’s Punjab Kings vs Sunrisers Hyderabad Match? EXPLAINED - lokmattimes.com",
+        "Telangana: Ex-Congress leader Jeevan Reddy likely to join BRS on April 20 - The Siasat Daily"
+      ]
+    }
   }
 ]
