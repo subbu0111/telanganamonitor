@@ -2865,5 +2865,28 @@
         "Revanth Reddy will be remembered as leader who deceived people: KTR - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-11T16:40:09.582Z",
+    "timestampIST": "11/4/2026, 10:10:09 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from KTR regarding his leadership. A bus accident in Suryapet resulted in 10 injuries. The CM has warned of public agitation and \"serious damage\" related to the Lok Sabha seat increase proposal and delimitation.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism from KTR regarding his leadership. A bus accident in Suryapet resulted in 10 injuries. The CM has warned of public agitation and \"serious damage\" related to the Lok Sabha seat increase proposal and delimitation.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public unrest</span>: Revanth Reddy warns of public agitation over the Lok Sabha seat increase proposal (17).</li>\n  <li><span class=\"risk-low\">Political tension</span>: KTR criticizes Revanth Reddy (2, 8).</li>\n  <li><span class=\"risk-low\">Potential for protests</span>: CM Revanth Reddy calls delimitation a regional issue (18).</li>\n  <li><span class=\"risk-low\">Public Safety</span>: 10 injured in a bus accident in Suryapet (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>KTR's criticism of Revanth Reddy (2, 8) suggests potential political instability.</li>\n  <li>Revanth Reddy's warning of public agitation (17) and concerns about delimitation (18) indicate potential for public demonstrations or unrest.</li>\n  <li>The bus accident in Suryapet (16) highlights a need for immediate attention to public safety.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor public sentiment and social media for reactions to the Lok Sabha seat increase proposal and delimitation plans.</li>\n  <li>Assess the political implications of KTR's statements and potential impact on governance.</li>\n  <li>Ensure adequate medical support and investigation into the bus accident in Suryapet.</li>\n  <li>Prepare a contingency plan to address potential public agitations related to the delimitation issue.</li>\n  <li>Review and analyze the delimitation proposal's impact on Telangana.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Suryapet</b>: Immediate attention needed due to the bus accident (16). Ensure proper medical care and investigation.</li>\n  <li><b>Erstwhile Adilabad</b>: Monitor developments related to the five new Assembly constituencies under the 2029 delimitation (5).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.4°C",
+      "humidity": "43%",
+      "wind": "6.5 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 69,
+      "pm25": 40.7,
+      "goldPerGram": "₹8,959",
+      "newsCount": 22,
+      "topHeadlines": [
+        "Congress govt education priority: Shabbir Ali - newsage.in",
+        "Revanth Reddy a ‘leader who deceived all sections’ of society: KTR - Telangana Today",
+        "Hyderabad advocate dies in tanker crash near Keesara in AP - Telangana Today",
+        "TS Inter Results 2026 LIVE: TSBIE confirms 1st, 2nd year result date for over 9 lakh; pass percentage - Careers360",
+        "Erstwhile Adilabad set for five new Assembly constituencies under 2029 delimitation - Telangana Today"
+      ]
+    }
   }
 ]
