@@ -3072,5 +3072,28 @@
         "TS Inter Results 2026 LIVE: TSBIE confirms 1st, 2nd year result date for over 9 lakh; pass percentage - Careers360"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-12T13:06:01.318Z",
+    "timestampIST": "12/4/2026, 6:36:01 pm",
+    "executiveSummary": "<p>KTR has made multiple accusations of corruption and deception against Revanth Reddy's government. TS Inter Class 11 and 12 results have been declared. An advocate from Hyderabad was killed in Andhra Pradesh when a tanker overturned on their car.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>KTR has made multiple accusations of corruption and deception against Revanth Reddy's government. TS Inter Class 11 and 12 results have been declared. An advocate from Hyderabad was killed in Andhra Pradesh when a tanker overturned on their car.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> KTR's repeated accusations against Revanth Reddy's government could escalate political tensions. (Headlines 1, 2, 3, 13, 16, 17)</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> Two girls were critically injured by a speeding car in Meerpet; police are investigating. (Headline 9)</li>\n    <li><span class=\"risk-low\">Public Outrage:</span> Excise Commissioner row sparks outrage in Telangana. (Headline 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>KTR's accusations of corruption against Revanth Reddy (Headlines 1, 2, 3, 13, 16, 17) are likely to be amplified by the Excise Commissioner row (Headline 20), potentially fueling public discontent.</li>\n    <li>The declaration of TS Inter results (Headlines 10, 12, 14, 15) may lead to increased public scrutiny of the education system and government policies.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric from KTR and the BRS party for further escalation.</li>\n    <li>Ensure a swift and thorough investigation into the Meerpet car accident, providing support to the injured girls and their families.</li>\n    <li>Assess the public sentiment regarding the Excise Commissioner row and prepare a response strategy.</li>\n    <li>Monitor social media and news outlets for reactions to the TS Inter results.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor for any potential fallout from the advocate's death in Andhra Pradesh (Headline 18) and the Excise Commissioner row (Headline 20).</li>\n    <li><b>Meerpet:</b> Prioritize the investigation and support for the victims of the car accident (Headline 9).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37.4°C",
+      "humidity": "23%",
+      "wind": "4.8 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 64,
+      "pm25": 26.2,
+      "goldPerGram": "₹8,959",
+      "newsCount": 25,
+      "topHeadlines": [
+        "Congress leaders busy with ‘loot-and-stash’ operation across Telangana: KTR - Telangana Today",
+        "KTR alleges ‘Loot-and-Hide’ corruption by Revanth Reddy govt - Hyderabad Mail",
+        "Congress running ‘loot-and-hide’ scheme in Telangana: KTR - The Siasat Daily",
+        "Kalyan Jewellers opens new showroom in Medipally, Sreeleela inaugurates - Telangana Today",
+        "Telangana, Andhra Pradesh CMs condole death of Asha Bhosle - english.punjabkesari.com"
+      ]
+    }
   }
 ]
