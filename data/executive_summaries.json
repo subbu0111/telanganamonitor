@@ -3141,5 +3141,28 @@
         "Congress running ‘loot-and-hide’ scheme in Telangana: KTR - The Siasat Daily"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-12T18:54:21.002Z",
+    "timestampIST": "13/4/2026, 12:24:21 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy mourned the death of Asha Bhosle (1, 7, 10). KTR has made multiple accusations against the Revanth Reddy government, alleging corruption and deceptive leadership (3, 4, 5, 17, 18). TS Inter Results 2026 have been released (2, 12, 15, 16), and a speeding car critically injured two girls in Meerpet (11).</p>",
+    "fullAnalysis": "```html\n<!DOCTYPE html>\n<html>\n<head>\n<title>Telangana Intelligence Briefing</title>\n<style>\n.risk-high { color: red; font-weight: bold; }\n.risk-medium { color: orange; }\n.risk-low { color: green; }\n</style>\n</head>\n<body>\n\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy mourned the death of Asha Bhosle (1, 7, 10). KTR has made multiple accusations against the Revanth Reddy government, alleging corruption and deceptive leadership (3, 4, 5, 17, 18). TS Inter Results 2026 have been released (2, 12, 15, 16), and a speeding car critically injured two girls in Meerpet (11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> KTR's repeated accusations of corruption and deceptive leadership against CM Revanth Reddy could escalate political tensions (3, 4, 5, 17, 18).</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> Two girls were critically injured by a speeding car in Meerpet; this requires immediate police investigation and public safety measures (11).</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> Negative statements from KTR regarding CM Revanth Reddy could influence public opinion (14).</li>\n    <li><span class=\"risk-low\">Grievances:</span> A widow is seeking a government job for her son after her husband's killing in Dubai (8).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The death of Asha Bhosle is mourned by both CM Revanth Reddy and the Andhra Pradesh CM (1, 7, 10).</li>\n    <li>KTR's accusations against Revanth Reddy are consistent across multiple news outlets (3, 4, 5, 17, 18).</li>\n    <li>The TS Inter Results 2026 release is reported by multiple sources (2, 12, 15, 16).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor KTR's statements and public appearances for further escalation of political rhetoric.</li>\n    <li>Direct the police to expedite the investigation into the car accident in Meerpet and ensure appropriate medical care for the injured girls (11).</li>\n    <li>Assess the public's reaction to KTR's statements through social media and public sentiment analysis.</li>\n    <li>Review and address the widow's request for a government job for her son (8).</li>\n    <li>Monitor the release of TS Inter Results 2026 for any potential issues or protests (2, 12, 15, 16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on the investigation of the car accident in Meerpet (11) and monitor any fallout from KTR's statements (3, 4, 5, 17, 18).</li>\n</ul>\n\n</body>\n</html>\n```",
+    "dataSnapshot": {
+      "temperature": "29.7°C",
+      "humidity": "53%",
+      "wind": "6.4 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 62,
+      "pm25": 24,
+      "goldPerGram": "₹8,959",
+      "newsCount": 22,
+      "topHeadlines": [
+        "Telangana CM Revanth Reddy mourns Asha Bhosle's death - The News Mill",
+        "TS Inter Results 2026 Out: Check Telangana 1st &amp; 2nd Year Results at tgbie.cgg.gov.in, Topper List available - sainikschoolsambalpur.in",
+        "Congress leaders busy with ‘loot-and-stash’ operation across Telangana: KTR - Telangana Today",
+        "KTR alleges ‘Loot-and-Hide’ corruption by Revanth Reddy govt - Hyderabad Mail",
+        "Congress running ‘loot-and-hide’ scheme in Telangana: KTR - The Siasat Daily"
+      ]
+    }
   }
 ]
