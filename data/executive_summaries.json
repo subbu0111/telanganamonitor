@@ -3095,5 +3095,28 @@
         "Telangana, Andhra Pradesh CMs condole death of Asha Bhosle - english.punjabkesari.com"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-12T14:41:17.811Z",
+    "timestampIST": "12/4/2026, 8:11:17 pm",
+    "executiveSummary": "<p>TS Inter Results for 2026 have been released today, accessible at tgbie.cgg.gov.in (1, 11, 14, 15). KTR has made multiple allegations of corruption against the Revanth Reddy government (2, 3, 4, 16, 17). A speeding car in Meerpet critically injured two girls, prompting a police investigation (10).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>TS Inter Results for 2026 have been released today, accessible at tgbie.cgg.gov.in (1, 11, 14, 15). KTR has made multiple allegations of corruption against the Revanth Reddy government (2, 3, 4, 16, 17). A speeding car in Meerpet critically injured two girls, prompting a police investigation (10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> KTR's repeated accusations of corruption against the Revanth Reddy government could escalate political tensions (2, 3, 4, 13, 16, 17).</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> Two girls were critically injured in a speeding car incident in Meerpet, indicating a potential public safety concern (10).</li>\n    <li><span class=\"risk-low\">Social Unrest:</span> The Excise Commissioner row has sparked outrage in Telangana (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>KTR's statements criticizing Revanth Reddy (2, 3, 4, 13, 16, 17) are directly related to the current political climate in Telangana.</li>\n    <li>The release of the TS Inter Results (1, 11, 14, 15) is a significant event that may generate public interest and scrutiny.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric from KTR and the BRS party closely for any escalation of accusations or potential actions.</li>\n    <li>Direct the police to expedite the investigation into the Meerpet speeding car incident and increase patrols in the area.</li>\n    <li>Assess the public sentiment regarding the Excise Commissioner row and prepare a response strategy.</li>\n    <li>Monitor social media for reactions to the TS Inter Results.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Meerpet:</b> Due to the critical injuries sustained by two girls in a speeding car incident (10).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34.6°C",
+      "humidity": "31%",
+      "wind": "6.8 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 64,
+      "pm25": 31.2,
+      "goldPerGram": "₹8,959",
+      "newsCount": 24,
+      "topHeadlines": [
+        "TS Inter Results 2026 Out: Check Telangana 1st &amp; 2nd Year Results at tgbie.cgg.gov.in, Topper List available - sainikschoolsambalpur.in",
+        "Congress leaders busy with ‘loot-and-stash’ operation across Telangana: KTR - Telangana Today",
+        "KTR alleges ‘Loot-and-Hide’ corruption by Revanth Reddy govt - Hyderabad Mail",
+        "Congress running ‘loot-and-hide’ scheme in Telangana: KTR - The Siasat Daily",
+        "Kalyan Jewellers opens new showroom in Medipally, Sreeleela inaugurates - Telangana Today"
+      ]
+    }
   }
 ]
