@@ -3210,5 +3210,28 @@
         "Congress running ‘loot-and-hide’ scheme in Telangana: KTR - The Siasat Daily"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-13T02:53:03.915Z",
+    "timestampIST": "13/4/2026, 8:23:03 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy mourned the death of Asha Bhosle. KTR has accused the Revanth Reddy government of corruption. TS Inter Results for 2026 have been released.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy mourned the death of Asha Bhosle. KTR has accused the Revanth Reddy government of corruption. TS Inter Results for 2026 have been released.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> KTR has accused the Revanth Reddy government of corruption, potentially leading to increased political tension. (6, 7, 8)</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> KTR stated that people will soon reject Revanth. (16)</li>\n    <li><span class=\"risk-low\">Potential RTC Strike:</span> A CPI MLA urged the government to avert an RTC strike. (2)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>KTR's accusations of corruption against the Revanth Reddy government (6, 7, 8) are likely to be amplified by the political opposition.</li>\n    <li>The CM's mourning of Asha Bhosle's death (4, 10, 13) is a shared event across Telangana and Andhra Pradesh.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric and public statements made by KTR and other opposition leaders.</li>\n    <li>Assess the potential impact of the accusations of corruption on public perception.</li>\n    <li>Monitor the situation regarding the potential RTC strike.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts require immediate attention based on the provided news.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31.3°C",
+      "humidity": "44%",
+      "wind": "13.4 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 63,
+      "pm25": 32.7,
+      "goldPerGram": "₹8,959",
+      "newsCount": 17,
+      "topHeadlines": [
+        "SRH Vs RR, IPL Match Today: Predicted Playing XIs, Head-To-Head, Pitch Report, Hyderabad Weather Update - News18",
+        "CPI MLA urges govt to avert RTC strike - The Hans India",
+        "Revanth To Select Team 2028 With Cabinet Rejig - Deccan Chronicle",
+        "Telangana CM Revanth Reddy mourns Asha Bhosle's death - The News Mill",
+        "TS Inter Results 2026 Out: Check Telangana 1st &amp; 2nd Year Results at tgbie.cgg.gov.in, Topper List available - sainikschoolsambalpur.in"
+      ]
+    }
   }
 ]
