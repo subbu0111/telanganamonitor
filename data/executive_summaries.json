@@ -3256,5 +3256,28 @@
         "IPL match today, SRH vs RR: Predicted playing XI, head-to-head, pitch report, Hyderabad weather update - The Times of India"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-13T09:57:47.761Z",
+    "timestampIST": "13/4/2026, 3:27:47 pm",
+    "executiveSummary": "<p>Several political figures are engaged in public disputes, with BRS and Congress leaders trading accusations (2, 6, 9, 11, 20). Delimitation and women's reservation are key topics of discussion (1, 3, 4, 5, 7). Four fatalities were reported in separate accidents in Vikarabad (8).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Several political figures are engaged in public disputes, with BRS and Congress leaders trading accusations (2, 6, 9, 11, 20). Delimitation and women's reservation are key topics of discussion (1, 3, 4, 5, 7). Four fatalities were reported in separate accidents in Vikarabad (8).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Ongoing accusations between BRS and Congress leaders could escalate tensions. (2, 6, 9, 11, 20)</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Discussions around delimitation and women's reservation may generate public debate and potential unrest. (1, 3, 4, 5, 7)</li>\n    <li><span class=\"risk-low\">Potential Labor Unrest:</span> A CPI MLA urges the government to avert an RTC strike. (16)</li>\n    <li><span class=\"risk-low\">Traffic and Public Safety:</span> Four fatalities in Vikarabad indicate a need for increased vigilance. (8)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Political discourse is heavily focused on delimitation and women's reservation, indicating a potential legislative focus. (1, 3, 4, 5, 7)</li>\n    <li>Accusations between KTR and Congress leaders (6, 9, 11, 20) suggest a deepening political rift.</li>\n    <li>The upcoming IPL match (12, 14, 15) may impact traffic and public gatherings in Hyderabad.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor political rhetoric closely for escalation and potential public order implications.</li>\n    <li>Assess the potential for labor unrest related to the RTC.</li>\n    <li>Review road safety measures in Vikarabad, given the recent fatalities.</li>\n    <li>Monitor public sentiment regarding delimitation and women's reservation.</li>\n    <li>Ensure adequate security and traffic management for the IPL match in Hyderabad.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Vikarabad:</b> Increased police presence and road safety checks are needed due to the reported accidents. (8)</li>\n    <li><b>Hyderabad:</b> Monitor traffic and public gatherings due to the IPL match. (12, 14, 15)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "39.4°C",
+      "humidity": "22%",
+      "wind": "4 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 66,
+      "pm25": 33.2,
+      "goldPerGram": "₹8,959",
+      "newsCount": 24,
+      "topHeadlines": [
+        "Population-based delimitation unjust to South, smaller states; put nation above party interest: Telangana ... - The Hans India",
+        "BRS turncoat MLA Pocharam Srinivas Reddy slams Congress government - Telangana Today",
+        "Telangana MP Seats Proposal by Revanth Reddy Suggests 13 Additional Seats Based on Economy - The South India Times",
+        "Build National Consensus on Delimitation: Revanth Reddy - Deccan Chronicle",
+        "Revanth Reddy urges PM Modi to separate women's quota, delimitation - Asianet Newsable"
+      ]
+    }
   }
 ]
