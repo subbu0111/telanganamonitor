@@ -3371,5 +3371,28 @@
         "Shabbir Ali Assures Support To Haj Pilgrims In Kamareddy - INDToday"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-13T19:17:29.420Z",
+    "timestampIST": "14/4/2026, 12:47:29 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is advocating for a \"hybrid model\" for delimitation of Lok Sabha seats, opposing a population-based model and raising concerns about potential bias against Southern states. (1, 2, 4, 5, 6, 8, 9, 13, 16, 18, 20) Bandi Sanjay has rejected the CM's proposal. (3, 14) Public input for Telangana Fire Services Act amendments is open until May 13. (12)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is advocating for a \"hybrid model\" for delimitation of Lok Sabha seats, opposing a population-based model and raising concerns about potential bias against Southern states. (1, 2, 4, 5, 6, 8, 9, 13, 16, 18, 20) Bandi Sanjay has rejected the CM's proposal. (3, 14) Public input for Telangana Fire Services Act amendments is open until May 13. (12)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> The ongoing debate over delimitation, with differing proposals from the Chief Minister and Bandi Sanjay, could escalate political tensions. (1, 2, 3, 4, 5, 6, 8, 9, 13, 14, 16, 18, 20)</li>\n  <li><span class=\"risk-low\">Public Discontent:</span> The CM's concerns about potential injustice to Southern states regarding delimitation could potentially lead to public discontent if not addressed effectively. (13)</li>\n  <li><span class=\"risk-low\">Legislative Delay:</span> Public input is being sought for Telangana Fire Services Act amendments until May 13. Any significant public opposition could delay the legislative process. (12)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The delimitation debate (1, 2, 3, 4, 5, 6, 8, 9, 13, 14, 16, 18, 20) is directly linked to the Chief Minister's actions and statements, and the opposition's response.</li>\n  <li>The CM's proposal for a \"hybrid model\" (2, 5, 8, 9, 16, 18, 20) is directly contrasted by Bandi Sanjay's rejection of the same. (3, 14)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor public and political reactions to the delimitation proposals closely.</li>\n  <li>Prepare a detailed response to address concerns about potential injustice to Southern states.</li>\n  <li>Assess the potential impact of the proposed amendments to the Telangana Fire Services Act, and monitor public feedback.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>No specific districts are highlighted in the provided news.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.9°C",
+      "humidity": "47%",
+      "wind": "8.1 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 69,
+      "pm25": 29.9,
+      "goldPerGram": "₹9,002",
+      "newsCount": 45,
+      "topHeadlines": [
+        "Revanth Reddy seeks all-party meet on delimitation, opposes population-based model. - en.etemaaddaily.com",
+        "Reddy pitches hybrid model for Lok Sabha seat increase amid row - Asianet Newsable",
+        "Bandi Sanjay rejects Telangana CM’s ‘hybrid model’ proposal for delimitation - The Siasat Daily",
+        "Revanth flags Delimitation ‘Bias’ - metroindia.net",
+        "Hybrid delimitation model proposed by Revanth Reddy seeks national debate - newsage.in"
+      ]
+    }
   }
 ]
