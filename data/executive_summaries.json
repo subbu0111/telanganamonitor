@@ -3233,5 +3233,28 @@
         "TS Inter Results 2026 Out: Check Telangana 1st &amp; 2nd Year Results at tgbie.cgg.gov.in, Topper List available - sainikschoolsambalpur.in"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-13T06:16:57.920Z",
+    "timestampIST": "13/4/2026, 11:46:57 am",
+    "executiveSummary": "<p>Four fatalities were reported in separate accidents in Vikarabad. (1) KTR has made allegations of corruption against the Revanth Reddy government, specifically mentioning a \"loot-and-hide\" scheme. (11, 12, 13) The CPI MLA urged the government to avert an RTC strike. (7) The CM Revanth Reddy mourned Asha Bhosle's death. (9, 17)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Four fatalities were reported in separate accidents in Vikarabad. (1) KTR has made allegations of corruption against the Revanth Reddy government, specifically mentioning a \"loot-and-hide\" scheme. (11, 12, 13) The CPI MLA urged the government to avert an RTC strike. (7) The CM Revanth Reddy mourned Asha Bhosle's death. (9, 17)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Potential for public unrest</span>: KTR's allegations of corruption against the Revanth Reddy government could lead to public dissatisfaction. (11, 12, 13)</li>\n  <li><span class=\"risk-medium\">Labor unrest</span>: The CPI MLA's call to avert an RTC strike indicates a potential disruption to public transport. (7)</li>\n  <li><span class=\"risk-low\">Road Safety Concerns</span>: Four deaths in accidents in Vikarabad highlight road safety issues. (1)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>KTR's allegations of corruption (11, 12, 13) and the Congress MP Chamala Kumar Reddy rejecting KTR's allegations (2) suggest a developing political conflict.</li>\n  <li>The CM's mourning of Asha Bhosle's death (9, 17) reflects a public figure's response to a significant event.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the situation in Vikarabad and assess the causes of the accidents. (1)</li>\n  <li>Assess the validity of KTR's allegations and prepare a response. (11, 12, 13)</li>\n  <li>Engage with the CPI MLA and RTC representatives to prevent a potential strike. (7)</li>\n  <li>Review and address road safety measures in Vikarabad. (1)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Vikarabad</b>: Immediate attention is required due to the reported fatalities from accidents. (1)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37.9°C",
+      "humidity": "27%",
+      "wind": "11.6 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 65,
+      "pm25": 32.9,
+      "goldPerGram": "₹8,959",
+      "newsCount": 17,
+      "topHeadlines": [
+        "Telangana: Four killed in separate accidents in Vikarabad - The Siasat Daily",
+        "Congress MP Chamala Kumar Reddy rejects KTR's allegations in Telangana - The News Mill",
+        "Allocation for NH projects in Telangana down by Rs 634 crore - The New Indian Express",
+        "KTR dares CM Revanth to order probe into Srujan-Singareni nexus - The Hans India",
+        "IPL match today, SRH vs RR: Predicted playing XI, head-to-head, pitch report, Hyderabad weather update - The Times of India"
+      ]
+    }
   }
 ]
