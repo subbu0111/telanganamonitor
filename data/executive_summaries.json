@@ -3601,5 +3601,28 @@
         "Hyderabad Gets University of London Campus - Deccan Chronicle"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-14T19:19:44.940Z",
+    "timestampIST": "15/4/2026, 12:49:44 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaging with other Southern state CMs and the Prime Minister regarding the delimitation process, proposing a 'Hybrid Model' and seeking an all-party meet (2, 6, 9, 10, 11).  He is also facing criticism from the BJP regarding his stance on the Women's Reservation Bill and delimitation (4, 5).  The CM is also addressing the exit of leaders in Jagtial (3, 14).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaging with other Southern state CMs and the Prime Minister regarding the delimitation process, proposing a 'Hybrid Model' and seeking an all-party meet (2, 6, 9, 10, 11).  He is also facing criticism from the BJP regarding his stance on the Women's Reservation Bill and delimitation (4, 5).  The CM is also addressing the exit of leaders in Jagtial (3, 14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span>  The BJP is actively criticizing CM Revanth Reddy's stance on the Women's Reservation Bill and delimitation, potentially escalating political tensions (4, 5).</li>\n    <li><span class=\"risk-medium\">Inter-State Relations:</span>  CM Revanth Reddy's call for a united Southern states' resistance to the Union Government's delimitation drive could strain relations with the central government (7, 8, 12, 13).</li>\n    <li><span class=\"risk-low\">Public Discontent:</span>  Stalin threatens mass agitation over the Centre’s delimitation push (17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is simultaneously addressing the delimitation issue with the Prime Minister (6, 9, 10, 11, 15) and coordinating a united Southern states' response (7, 8, 12, 13).</li>\n    <li>The BJP's criticism of Revanth Reddy is focused on both the Women's Reservation Bill and the delimitation process (4, 5).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prepare a detailed briefing for the CM on the proposed 'Hybrid Model' for delimitation and its implications.</li>\n    <li>Assess the potential impact of the BJP's criticisms and prepare a proactive communication strategy.</li>\n    <li>Monitor the evolving situation regarding the delimitation process and any potential public response.</li>\n    <li>Prepare a response to Stalin's threat of mass agitation.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Jagtial: Monitor the situation following the meetings with local leaders and the exit of Jeevan Reddy (3, 14).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.2°C",
+      "humidity": "48%",
+      "wind": "3.4 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 67,
+      "pm25": 33.2,
+      "goldPerGram": "₹8,979",
+      "newsCount": 74,
+      "topHeadlines": [
+        "Harvey Weinstein faces retrial in New York rape case - Telangana Today",
+        "Women's Reservation Bill: Revanth Reddy calls for support for 'Hybrid Model' from 5 southern states CM - ANI News",
+        "Revanth Reddy meets Jagtial leaders, slams Jeevan Reddy’s exit - Telangana Today",
+        "BJP slams Revanth Reddy's 'opposition' to women's reservation bill - Asianet Newsable",
+        "BJP accuses Telangana CM Revanth Reddy of opposing women’s empowerment and politicising delimitation - The News Mill"
+      ]
+    }
   }
 ]
