@@ -3555,5 +3555,28 @@
         "CMs Stalin, Revanth Reddy sharpen attack against Centre over delimitation, warn of agitations - MillenniumPost"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-14T15:15:47.032Z",
+    "timestampIST": "14/4/2026, 8:45:47 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively opposing the Centre's proposed increase in Lok Sabha seats, particularly the \"pro-rata\" model, and advocating for a \"hybrid model\" to protect Southern states' interests. He has written to Prime Minister Modi and other Southern CMs, including Stalin, to garner support. Concerns have been raised regarding potential political marginalization of Southern states due to delimitation.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively opposing the Centre's proposed increase in Lok Sabha seats, particularly the \"pro-rata\" model, and advocating for a \"hybrid model\" to protect Southern states' interests. He has written to Prime Minister Modi and other Southern CMs, including Stalin, to garner support. Concerns have been raised regarding potential political marginalization of Southern states due to delimitation.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH:</span> Potential for increased political tension and agitation due to the delimitation issue. (Headlines 14, 20)</li>\n  <li><span class=\"risk-medium\">MEDIUM:</span> Risk of escalating political conflict between the Telangana government and the BJP, as CM Revanth Reddy has directly accused the BJP of a \"conspiracy\". (Headlines 11, 18)</li>\n  <li><span class=\"risk-low\">LOW:</span> Public unrest or protests may arise depending on the Centre's response to the delimitation issue. (Headline 14)</li>\n  <li><span class=\"risk-low\">LOW:</span> Possible political fallout from the ongoing debate surrounding the targeting of a Dalit professor. (Headline 16)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy's actions regarding the delimitation issue are consistently reported across multiple news outlets, indicating a coordinated effort to raise awareness and build opposition. (Headlines 1-6, 8-9, 11-15, 17-20)</li>\n  <li>The delimitation debate is directly linked to the potential for political marginalization of Southern states, as highlighted by CM Revanth Reddy. (Headlines 1, 3, 6, 15, 18)</li>\n  <li>The death of a teen girl in Hyderabad due to a house fire is unrelated to the delimitation issue. (Headline 7)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Prepare a detailed briefing for the CM on the proposed \"hybrid model\" and its implications.</li>\n  <li>Monitor the Centre's response to CM Revanth Reddy's communications and the reactions of other Southern states.</li>\n  <li>Assess the potential for public demonstrations or protests related to the delimitation issue.</li>\n  <li>Prepare a media strategy to counter any negative narratives or accusations from the BJP.</li>\n  <li>Monitor the situation regarding the Dalit professor and any related public sentiment.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Monitor for any potential public demonstrations or protests related to the delimitation issue. Also, monitor the situation regarding the house fire. (Headline 7)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "33.6°C",
+      "humidity": "38%",
+      "wind": "5.2 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 67,
+      "pm25": 56.6,
+      "goldPerGram": "₹9,002",
+      "newsCount": 63,
+      "topHeadlines": [
+        "Delimitation aimed at boosting northern states' influence, undermine South: Revanth Reddy - Onmanorama",
+        "Telangana CM Revanth Reddy urges PM Modi to convene all party meet on delimitation issue - Deccan Herald",
+        "Revanth writes to Modi urging hybrid model to save Southern States’ interests in delimitation - The Hindu",
+        "Revanth Reddy proposes hybrid model to reform Lok Sabha seat expansion - The News Mill",
+        "CM Revanth writes to PM and south CMs, seeks united stand against ‘pro-rata’ increase of Lok Sabha seats - NewsMeter"
+      ]
+    }
   }
 ]
