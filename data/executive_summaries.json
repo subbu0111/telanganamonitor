@@ -3670,5 +3670,28 @@
         "BRS Betrayed Dalits, Says Revanth - Deccan Chronicle"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-15T02:42:51.952Z",
+    "timestampIST": "15/4/2026, 8:12:51 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in the delimitation debate, writing to the Prime Minister and other Southern CMs, and seeking an all-party dialogue (5, 6, 8, 18). He is also scheduled to visit Sangareddy soon (10). The BJP has criticized Revanth Reddy's stance on delimitation and the Women's Reservation Bill (16, 17).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaged in the delimitation debate, writing to the Prime Minister and other Southern CMs, and seeking an all-party dialogue (5, 6, 8, 18). He is also scheduled to visit Sangareddy soon (10). The BJP has criticized Revanth Reddy's stance on delimitation and the Women's Reservation Bill (16, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> The delimitation debate and accusations of discrimination against southern states could escalate tensions and lead to political friction (3, 4, 8, 11).</li>\n    <li><span class=\"risk-medium\">Inter-Party Conflict:</span> The BJP's criticism of CM Revanth Reddy's actions regarding delimitation and the Women's Reservation Bill could intensify political opposition (16, 17).</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> The ongoing delimitation debate and concerns about seat allocation could potentially generate public discontent if not addressed effectively (5, 7, 9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's focus on delimitation (5, 6, 7, 8, 9, 11, 18) is directly linked to his efforts to unite southern states (3, 4, 20).</li>\n    <li>The BJP's criticism of Revanth Reddy (16, 17) is centered on his stance on delimitation and the Women's Reservation Bill.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>The Chief Minister should expedite the planned all-party dialogue to address delimitation concerns (5).</li>\n    <li>Prepare a detailed response to the BJP's accusations regarding the Women's Reservation Bill and delimitation (16, 17).</li>\n    <li>Monitor public sentiment regarding the delimitation debate and proactively communicate the government's position (5, 7, 9).</li>\n    <li>Prepare for CM Revanth Reddy's visit to Sangareddy (10).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Sangareddy:</b> Immediate attention is required due to the upcoming visit of CM Revanth Reddy (10).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30.7°C",
+      "humidity": "50%",
+      "wind": "11.3 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 65,
+      "pm25": 19.1,
+      "goldPerGram": "₹8,979",
+      "newsCount": 81,
+      "topHeadlines": [
+        "Pocharam Srinivas set to lift veil soon; plans ghar wapsi to BRS like Gudem - The Hans India",
+        "Revanth for Delhi tonight; to discuss key issues with India leaders - The Hans India",
+        "Revanth is right in saying delimitations unjust to south India, says Jagga Reddy - The Hans India",
+        "Delimitation debate heats up as Revanth seeks southern unity - The Hans India",
+        "Telangana CM Seeks All Party Dialogue on Lok Sabha Seat Expansion and Delimitation Concerns - The South India Times"
+      ]
+    }
   }
 ]
