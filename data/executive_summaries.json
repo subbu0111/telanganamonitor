@@ -3762,5 +3762,28 @@
         "Telangana Congress turned into Revanth’s private company: Jeevan Reddy - The Siasat Daily"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-15T13:42:19.774Z",
+    "timestampIST": "15/4/2026, 7:12:19 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively opposing the delimitation plan, writing to both Prime Minister Modi and Tamil Nadu Chief Minister Stalin, who has extended support.  KTR has criticized the Revanth Reddy government regarding a student's death and the delimitation issue. Road safety remains a critical concern, with a 20% rise in road accidents over two years and 82 deaths in Hyderabad in the last three months.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively opposing the delimitation plan, writing to both Prime Minister Modi and Tamil Nadu Chief Minister Stalin, who has extended support.  KTR has criticized the Revanth Reddy government regarding a student's death and the delimitation issue. Road safety remains a critical concern, with a 20% rise in road accidents over two years and 82 deaths in Hyderabad in the last three months.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Rising road accident fatalities. 7,500 deaths in 2025 and 82 deaths in Hyderabad in the last three months. (Headline 4, 16)</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Political tensions surrounding delimitation. CM Revanth Reddy and KTR are in disagreement. (Headline 2, 3, 5, 10, 12, 15, 17, 18, 19, 20)</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Potential for political instability due to internal conflicts within the Congress party, as indicated by Jeevan Reddy's comments. (Headline 14)</li>\n    <li><span class=\"risk-low\">LOW</span>:  A senior Congress leader from Khammam died in a road accident in Suryapet. (Headline 7)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Road safety concerns are highlighted by both the rise in road accidents and the example set by Nandagokul village. (Headline 4, 6, 16)</li>\n    <li>The delimitation issue is a point of contention between the Telangana government and the Centre, with CM Revanth Reddy actively opposing the plan. (Headline 3, 15, 20)</li>\n    <li>KTR's criticism of the Revanth Reddy government on the student's death and the delimitation issue reveals political friction. (Headline 10, 18)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Initiate an immediate review of road safety measures and enforcement across the state, focusing on Hyderabad.</li>\n    <li>Monitor the political discourse surrounding delimitation and its potential impact on inter-state relations.</li>\n    <li>Assess the internal dynamics within the Congress party and address any emerging conflicts.</li>\n    <li>Review the High Court's refusal to issue a passport to Minister Adluri Lakshman. (Headline 8)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the high number of road accident fatalities (82 deaths in 3 months) (Headline 16).</li>\n    <li><b>Suryapet:</b> Following the death of a senior Congress leader in a road accident. (Headline 7)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36.5°C",
+      "humidity": "24%",
+      "wind": "4.3 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 63,
+      "pm25": 33.1,
+      "goldPerGram": "₹8,979",
+      "newsCount": 67,
+      "topHeadlines": [
+        "Congress to fast-track nominated posts in Telangana - Telangana Today",
+        "KTR warns Centre against ‘injustice’ to southern states in delimitation - The New Indian Express",
+        "CM Stalin sharpens attack on delimitation plan; Telangana CM writes to him sharing concerns - The New Indian Express",
+        "Telangana Road Accidents Rise By 20% In 2 Years, 7,500 Lives Lost In 2025 Alone - News18",
+        "CM Revanth False Campaign On Delimitation: Ramchandra Rao - INDToday"
+      ]
+    }
   }
 ]
