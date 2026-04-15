@@ -3785,5 +3785,28 @@
         "CM Revanth False Campaign On Delimitation: Ramchandra Rao - INDToday"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-15T15:06:27.292Z",
+    "timestampIST": "15/4/2026, 8:36:27 pm",
+    "executiveSummary": "<p>Vehicle registrations are halted due to a glitch in the Vaahan portal. (1) Road accidents in Telangana have risen by 20% in two years, with 7,500 lives lost in 2025. (9) The Chief Minister Revanth Reddy is facing criticism from BJP leaders and KTR regarding delimitation and other issues. (2, 4, 7, 10, 15, 17, 20)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Vehicle registrations are halted due to a glitch in the Vaahan portal. (1) Road accidents in Telangana have risen by 20% in two years, with 7,500 lives lost in 2025. (9) The Chief Minister Revanth Reddy is facing criticism from BJP leaders and KTR regarding delimitation and other issues. (2, 4, 7, 10, 15, 17, 20)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Road Safety:</span> A 20% increase in road accidents over two years, with 7,500 fatalities in 2025, indicates a critical public safety issue. (9)</li>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Ongoing criticism of CM Revanth Reddy from BJP and other political figures regarding delimitation and other matters could escalate political tensions. (2, 3, 4, 7, 10, 15, 17, 19, 20)</li>\n    <li><span class=\"risk-medium\">Administrative Disruption:</span>  A glitch in the Vaahan portal is halting new vehicle registrations, potentially impacting revenue and citizen services. (1)</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span>  Activists are urging the Telangana government to pass a resolution against the Transgender Amendment Act. (5)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The delimitation issue is a recurring theme, with multiple news sources reporting on CM Revanth Reddy's concerns and opposition from BJP leaders and KTR. (2, 4, 7, 10, 17, 20)</li>\n    <li>Road safety concerns are highlighted by the rise in accidents and fatalities. (9, 11)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Transport Department to immediately address and resolve the Vaahan portal glitch to resume vehicle registrations. (1)</li>\n    <li>Initiate an immediate review of road safety measures and enforcement strategies to address the rising number of accidents and fatalities. (9)</li>\n    <li>Monitor political discourse surrounding delimitation and proactively engage with relevant stakeholders to mitigate potential unrest. (2, 4, 7, 10, 17, 20)</li>\n    <li>Review the status of the Transgender Amendment Act and assess the potential impact of activist demands. (5)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Suryapet:</b>  Focus on this district due to the recent road accident resulting in the death of a senior Congress leader. (12)</li>\n    <li><b>Hyderabad:</b> Monitor political developments and public sentiment, particularly in light of the BJP's women's scooty rally. (18)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34.4°C",
+      "humidity": "32%",
+      "wind": "2.4 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 62,
+      "pm25": 58.9,
+      "goldPerGram": "₹8,979",
+      "newsCount": 66,
+      "topHeadlines": [
+        "Vaahan portal glitch halts new vehicle registrations in Telangana - Telangana Today",
+        "No injustice in delimitation, says Telangana BJP chief, slams CM Reddy - The New Indian Express",
+        "Mallu Ravi Condemns Kishan Reddy Remarks On CM Revanth - INDToday",
+        "BJP MP K Laxman Targets CM Revanth Reddy Over Remarks - INDToday",
+        "Activists urge Telangana to pass resolution against Transgender Amendment Act - The South First"
+      ]
+    }
   }
 ]
