@@ -3739,5 +3739,28 @@
         "Revanth Reddy Writes To PM Modi On Delimitation, Opposes Seat Increase Based On Population - News18"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-15T11:01:14.423Z",
+    "timestampIST": "15/4/2026, 4:31:14 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in the delimitation issue, opposing seat increases based on population and advocating for a \"hybrid model\" (3, 6, 11, 12, 14, 15, 16). KTR has criticized the Revanth Reddy government regarding a student's death (1, 9). Road accidents in Hyderabad have surged, with 82 deaths in the last three months (7).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaged in the delimitation issue, opposing seat increases based on population and advocating for a \"hybrid model\" (3, 6, 11, 12, 14, 15, 16). KTR has criticized the Revanth Reddy government regarding a student's death (1, 9). Road accidents in Hyderabad have surged, with 82 deaths in the last three months (7).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> KTR's criticism of the Revanth Reddy government (1, 9) and Jeevan Reddy's actions (5, 13, 19) indicate potential political friction.</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span> The surge in Hyderabad road accident fatalities (7) could lead to public dissatisfaction and calls for government action.</li>\n    <li><span class=\"risk-low\">Delimitation Disputes:</span> The ongoing debate over delimitation and seat allocation (3, 6, 8, 10, 11, 12, 15, 16) could escalate tensions with other states and political parties.</li>\n    <li><span class=\"risk-low\">Social Unrest:</span> Kavitha alleges anti-Ambedkar stance against Revanth Reddy (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The delimitation issue (3, 6, 8, 10, 11, 12, 15, 16) is a central focus for CM Revanth Reddy, and he is actively engaging with other states and the central government.</li>\n    <li>Political opposition is evident, with KTR criticizing the government (1, 9) and Jeevan Reddy's actions being condemned by the CM (5, 13, 19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric surrounding the delimitation issue and the government's response.</li>\n    <li>Initiate a review of road safety measures in Hyderabad to address the rising number of accidents.</li>\n    <li>Prepare a detailed briefing for the CM on the proposed \"hybrid model\" for delimitation.</li>\n    <li>Assess the potential impact of Kavitha's allegations on public sentiment.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the surge in road accidents (7) and the ongoing political activity (1, 2, 4, 5, 7, 9, 13, 18, 20).</li>\n    <li><b>Ranga Reddy:</b> As it is reported to gain the most seats in Telangana due to delimitation (18).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "39.8°C",
+      "humidity": "18%",
+      "wind": "4.3 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 69,
+      "pm25": 26,
+      "goldPerGram": "₹8,979",
+      "newsCount": 72,
+      "topHeadlines": [
+        "KTR blames Revanth Reddy Govt. Over Student’s Death - INDToday",
+        "Revanth Reddy Meets Meenakshi Natarajan Over Political Developments in Hyderabad - INDToday",
+        "Delimitation row: Telangana CM Revanth Reddy flags power shift in letter to TN's Stalin - The News Minute",
+        "BJP organises women’s scooty rally in Hyderabad supporting 33% Women’s Reservation Bill - The News Mill",
+        "Telangana Congress turned into Revanth’s private company: Jeevan Reddy - The Siasat Daily"
+      ]
+    }
   }
 ]
