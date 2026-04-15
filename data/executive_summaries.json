@@ -3716,5 +3716,28 @@
         "Fragmented fight won’t work, CM Revanth Reddy tells southern counterparts on delimitation exercise - The New Indian Express"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-15T09:22:34.387Z",
+    "timestampIST": "15/4/2026, 2:52:34 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively opposing the proposed delimitation exercise, writing to both Tamil Nadu's Stalin and Prime Minister Modi, and advocating for a 'hybrid model' (1, 5, 10, 14). The BJP organized women's scooty rallies in Hyderabad in support of the Women's Reservation Bill (2, 3). KTR has criticized the Revanth Reddy government following a student's death (8).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively opposing the proposed delimitation exercise, writing to both Tamil Nadu's Stalin and Prime Minister Modi, and advocating for a 'hybrid model' (1, 5, 10, 14). The BJP organized women's scooty rallies in Hyderabad in support of the Women's Reservation Bill (2, 3). KTR has criticized the Revanth Reddy government following a student's death (8).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Criticism of CM Revanth Reddy from KTR (8), Jeevan Reddy (4, 12, 18), and Kavitha (19), along with the delimitation debate, could lead to increased political tension.</li>\n    <li><span class=\"risk-medium\">Public Safety:</span>  A surge in Hyderabad road accidents has resulted in 82 deaths in the last 3 months (6).</li>\n    <li><span class=\"risk-low\">Delimitation Concerns:</span> The delimitation issue, with the CM's opposition and upcoming parliamentary discussions, could potentially lead to unrest or legal challenges (1, 5, 7, 9, 10, 11, 13, 14, 15, 16, 20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The delimitation issue is a central focus, with CM Revanth Reddy actively engaging with both the Prime Minister and other state leaders (1, 5, 7, 9, 10, 11, 13, 14, 15, 16, 20).</li>\n    <li>The BJP's women's scooty rallies (2, 3) are directly related to the upcoming parliamentary discussion on the Women's Reservation Bill (16).</li>\n    <li>The CM's actions on delimitation are being directly criticized by multiple political opponents (4, 8, 12, 18, 19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review and enhance road safety measures in Hyderabad to address the surge in accidents (6).</li>\n    <li>Monitor public sentiment and political discourse surrounding the delimitation issue and the CM's stance (1, 5, 7, 9, 10, 11, 13, 14, 15, 16, 20).</li>\n    <li>Prepare a communication strategy to address criticisms leveled against the government by opposition leaders (4, 8, 12, 18, 19).</li>\n    <li>Assess the potential impact of the Women's Reservation Bill and the BJP's rallies on public opinion (2, 3, 16).</li>\n    <li>Prepare for the upcoming parliamentary discussion on delimitation and the Women's Reservation Bill (16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the high number of road fatalities (6) and the location of the BJP rallies (2, 3).</li>\n    <li><b>Ranga Reddy:</b> As it is expected to gain the most in the Telangana seat increase (17).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "40°C",
+      "humidity": "18%",
+      "wind": "5.2 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 68,
+      "pm25": 25.5,
+      "goldPerGram": "₹8,979",
+      "newsCount": 77,
+      "topHeadlines": [
+        "Delimitation row: Telangana CM Revanth Reddy flags power shift in letter to TN's Stalin - The News Minute",
+        "BJP organises women’s scooty rally in Hyderabad supporting 33% Women’s Reservation Bill - The News Mill",
+        "BJP holds women's scooty rally in Hyderabad backing Women's Reservation Bill - ANI News",
+        "Telangana Congress turned into Revanth’s private company: Jeevan Reddy - The Siasat Daily",
+        "Revanth Reddy Writes To PM Modi On Delimitation, Opposes Seat Increase Based On Population - News18"
+      ]
+    }
   }
 ]
