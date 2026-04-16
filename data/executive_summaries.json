@@ -4078,5 +4078,28 @@
         "Former Minister Motkupalli Narsimhulu says Revanth’s government ready to collapse - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-16T20:51:59.454Z",
+    "timestampIST": "17/4/2026, 2:21:59 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy will inaugurate the Shastripuram Flyover on April 17, a ₹71 crore project.  Political tensions are rising due to comments made by Tejaswi Surya regarding the AP-Telangana bifurcation and CM Reddy's remarks on delimitation, drawing criticism from multiple parties and BJP leaders.  The CM is scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will inaugurate the Shastripuram Flyover on April 17, a ₹71 crore project.  Political tensions are rising due to comments made by Tejaswi Surya regarding the AP-Telangana bifurcation and CM Reddy's remarks on delimitation, drawing criticism from multiple parties and BJP leaders.  The CM is scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Row over Tejaswi Surya's comments and CM Revanth Reddy's remarks on delimitation are triggering political backlash and criticism. (Headlines 4, 8, 11, 12, 15, 16, 18)</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span>  Former Minister Motkupalli Narsimhulu claims Revanth Reddy's government is ready to collapse. (Headline 6)</li>\n    <li><span class=\"risk-low\">Public Safety:</span>  A road accident in Kurnool (Andhra Pradesh) resulted in eight deaths and 12 injuries. (Headline 10)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's remarks on delimitation (Headline 11, 18) are directly linked to criticism from BRS (Headline 12) and BJP leaders (Headlines 15, 16).</li>\n    <li>Tejaswi Surya's comments (Headline 4, 8) are causing political reactions.</li>\n    <li>The CM's upcoming visit to the Kaleshwaram Project (Headline 17) and the inauguration of the Shastripuram Flyover (Headlines 2, 3) highlight the government's focus on infrastructure and project management.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political fallout from the delimitation and Tejaswi Surya comments, and prepare a response strategy.</li>\n    <li>Ensure adequate security and traffic management for the Shastripuram Flyover inauguration.</li>\n    <li>Prepare a detailed briefing for the CM regarding the Kaleshwaram Project and Medigadda Barrage damage assessment.</li>\n    <li>Assess the potential impact of the \"hybrid delimitation\" proposal on the state's political landscape.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b>  Focus on security and traffic management for the Shastripuram Flyover inauguration. (Headlines 2, 3)</li>\n    <li><b>Suryapet:</b> Monitor the situation following the death of a Congress leader. (Headline 19)</li>\n    <li><b>Kurnool (Andhra Pradesh):</b> Monitor the situation following the road accident. (Headline 10)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.4°C",
+      "humidity": "61%",
+      "wind": "2.9 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 63,
+      "pm25": 22.5,
+      "goldPerGram": "₹8,993",
+      "newsCount": 26,
+      "topHeadlines": [
+        "Pic Talk: Revanth Reddy Meets Dynamic TDP Mahilas! - Gulte",
+        "CM Revanth Reddy to inaugurate Shastripuram Flyover on April 17 - The Siasat Daily",
+        "CM Revanth Reddy to Inaugurate ₹71 Crore Grade Separator at Shastripuram Hyderabad - Telangana Tribune",
+        "Row Over Tejaswi Surya's Comments On Telangana In Lok Sabha, Parties Demand Apology - ETV Bharat",
+        "Vem Narender Reddy, Singhvi Take Oath as Rajya Sabha MPs - Deccan Chronicle"
+      ]
+    }
   }
 ]
