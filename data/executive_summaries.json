@@ -4285,5 +4285,28 @@
         "Mohammad Ghazi Appointed as Member of Telangana University Governing Body - Deccan Chronicle"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-17T19:04:25.127Z",
+    "timestampIST": "18/4/2026, 12:34:25 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is urging the Centre to procure 30 lakh metric tonnes of boiled rice from Telangana (14, 17, 18, 19, 20).</p>\n<p>The CM is praising the Opposition for rejecting the Women's Reservation Bill and Delimitation Bills (3, 4, 5).</p>\n<p>There is political activity, including a meeting between CM Reddy and Prahlad Joshi in New Delhi (6), and criticism from Harish Rao regarding compensation for Sigachi victims (13).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is urging the Centre to procure 30 lakh metric tonnes of boiled rice from Telangana (14, 17, 18, 19, 20).</p>\n<p>The CM is praising the Opposition for rejecting the Women's Reservation Bill and Delimitation Bills (3, 4, 5).</p>\n<p>There is political activity, including a meeting between CM Reddy and Prahlad Joshi in New Delhi (6), and criticism from Harish Rao regarding compensation for Sigachi victims (13).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> Protests erupted following remarks by Tejasvi Surya (15).</li>\n  <li><span class=\"risk-low\">Farmer Unrest:</span> Prashanth Reddy condemns cases against farmers protesting for farm loan waivers (9).</li>\n  <li><span class=\"risk-low\">Rice Procurement Issues:</span> The CM is repeatedly requesting the Centre to procure rice, indicating potential challenges (8, 14, 17, 18, 19, 20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's repeated requests to the Centre for rice procurement (8, 14, 17, 18, 19, 20) could be linked to potential agricultural distress or budgetary concerns.</li>\n  <li>The CM's praise for the opposition (4, 5) regarding the rejection of the Women's Reservation Bill and Delimitation Bills could be a strategic move to garner political support.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Assess the status of the rice procurement request to the Centre and identify any roadblocks.</li>\n  <li>Monitor the political fallout from Tejasvi Surya's remarks and the ensuing protests (15).</li>\n  <li>Review the situation regarding farmer loan waivers and any associated protests (9).</li>\n  <li>Prepare a response to Harish Rao's criticism regarding compensation for Sigachi victims (13).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>No specific districts are mentioned in the provided news headlines. However, monitoring districts with significant agricultural activity is recommended due to the rice procurement issue.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.6°C",
+      "humidity": "63%",
+      "wind": "4.5 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 63,
+      "pm25": 25.4,
+      "goldPerGram": "₹8,953",
+      "newsCount": 37,
+      "topHeadlines": [
+        "‘Red-letter day in Indian history’, says Telangana CM Revanth Reddy - english.punjabkesari.com",
+        "Telangana to hold public hearing on new power distribution licence on May 28 - Telangana Today",
+        "Averted national disaster: CM Reddy on defeat of women’s quota, delimitation Bills - The Siasat Daily",
+        "Telangana CM Revanth Reddy praises Opposition for rejecting Women’s Reservation Bill - The Hans India",
+        "Red-Letter Day: Telangana CM Revanth Reddy Hails Opposition Unity for Defeating Black Bills - Deccan Chronicle"
+      ]
+    }
   }
 ]
