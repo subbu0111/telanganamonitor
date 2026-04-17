@@ -4193,5 +4193,28 @@
         "Telangana urges Centre to procure 30 LMT parboiled rice for 2025-26 crop season - ANI News"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-17T10:58:48.527Z",
+    "timestampIST": "17/4/2026, 4:28:48 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is urging the Centre to procure 30 LMT of boiled rice and has requested support from the Union Minister. Harish Rao criticized CM Reddy regarding compensation for Sigachi victims. Protests erupted following remarks by Tejasvi Surya, prompting a response from Kishan Reddy.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is urging the Centre to procure 30 LMT of boiled rice and has requested support from the Union Minister. Harish Rao criticized CM Reddy regarding compensation for Sigachi victims. Protests erupted following remarks by Tejasvi Surya, prompting a response from Kishan Reddy.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> Criticism from Harish Rao regarding compensation for Sigachi victims (Headline 1).</li>\n    <li><span class=\"risk-medium\">Political:</span> Protests erupting due to remarks made by Tejasvi Surya (Headline 3).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> Two deaths and four injuries reported in an accident in Kothagudem (Headline 13).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> Fire accident in Begumpet resulting in the death of a retired principal (Headline 14).</li>\n    <li><span class=\"risk-low\">Weather:</span> Peak heatwave to continue on April 17, with thunderstorms likely from April 19 (Headline 17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM is simultaneously requesting rice procurement from the Centre (Headlines 2, 5, 6, 7, 8, 10, 11, 12) and urging the INDIA bloc to oppose the delimitation process (Headline 19).</li>\n    <li>Multiple news outlets report on the CM's request for rice procurement (Headlines 2, 5, 6, 7, 8, 10, 11, 12), indicating a high priority issue.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in Kothagudem following the accident; provide necessary support to the injured and investigate the cause (Headline 13).</li>\n    <li>Assess the situation in Begumpet following the fire accident and provide support (Headline 14).</li>\n    <li>Prepare for potential public reaction to the delimitation process, as the CM is urging opposition (Headline 19).</li>\n    <li>Monitor the weather forecast and issue necessary advisories regarding the heatwave and potential thunderstorms (Headlines 16, 17).</li>\n    <li>Address the criticism from Harish Rao regarding compensation for Sigachi victims (Headline 1).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Kothagudem:</b> Immediate attention is required due to the reported accident (Headline 13).</li>\n    <li><b>Hyderabad (Begumpet):</b> Immediate attention is required due to the fire accident (Headline 14).</li>\n</ul>\n```\n",
+    "dataSnapshot": {
+      "temperature": "36.9°C",
+      "humidity": "32%",
+      "wind": "16.1 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 70,
+      "pm25": 27.6,
+      "goldPerGram": "₹8,993",
+      "newsCount": 33,
+      "topHeadlines": [
+        "Harish Rao slams CM Reddy for failing to provide compensation to Sigachi victims - The Siasat Daily",
+        "Telangana CM urges Centre to procure 30 LMT boiled rice from state - Asianet Newsable",
+        "Kishan Reddy takes u-turn on Tejasvi Surya’s Telangana remarks as protests erupt - The Siasat Daily",
+        "Parliament Laughed On Revanth Reddy Hybird Proposal On Delimination Which Was Backifres - INDToday",
+        "Telangana CM Demands Rice Procurement from Centre - Rediff MoneyWiz"
+      ]
+    }
   }
 ]
