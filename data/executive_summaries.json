@@ -4239,5 +4239,28 @@
         "SCs, STs three times more backward than general castes: Telangana survey findings - The News Minute"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-17T14:57:27.112Z",
+    "timestampIST": "17/4/2026, 8:27:27 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has repeatedly urged the Centre to procure 30 lakh metric tonnes of parboiled rice from Telangana.  There are reports of an accident in Kothagudem resulting in two deaths and four injuries. A retired principal died in a fire accident in Hyderabad.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has repeatedly urged the Centre to procure 30 lakh metric tonnes of parboiled rice from Telangana.  There are reports of an accident in Kothagudem resulting in two deaths and four injuries. A retired principal died in a fire accident in Hyderabad.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Potential for public unrest:</span> Protests erupted following remarks by Tejasvi Surya, as reported by The Siasat Daily (Headline 9).</li>\n  <li><span class=\"risk-low\">Public safety concerns:</span> An accident in Kothagudem resulted in two deaths and four injuries (Headline 19).</li>\n  <li><span class=\"risk-low\">Fire Hazard:</span> A retired principal died in a fire accident in Hyderabad (Headline 20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The Chief Minister's repeated requests to the Centre for rice procurement (Headlines 2, 8, 11, 12, 13, 14, 16, 17, 18) indicate a critical need or concern regarding agricultural policy and state finances.</li>\n  <li>The condemnation of cases against protesting farmers (Headline 3) and the CM's rice procurement demands (multiple headlines) may indicate underlying agricultural sector issues.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor public sentiment and potential for protests related to Tejasvi Surya's remarks and the farmers' loan waiver.</li>\n  <li>Assess the situation in Kothagudem and provide necessary support to the injured and the families of the deceased.</li>\n  <li>Review fire safety protocols and investigate the cause of the fire accident in Begumpet.</li>\n  <li>Prioritize and expedite the Centre's response to the CM's rice procurement requests.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Kothagudem:</b> Immediate attention is required due to the reported accident (Headline 19).  Assess the situation, provide aid, and investigate the cause.</li>\n  <li><b>Hyderabad:</b> Monitor the situation in Begumpet following the fire accident (Headline 20).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31.2°C",
+      "humidity": "49%",
+      "wind": "12.4 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 64,
+      "pm25": 39.3,
+      "goldPerGram": "₹8,953",
+      "newsCount": 37,
+      "topHeadlines": [
+        "Mohammad Ghazi Appointed as Member of Telangana University Governing Body - Deccan Chronicle",
+        "Telangana CM urges Centre to procure 30 lakh tonnes parboiled rice - english.punjabkesari.com",
+        "Prashanth Reddy condemns cases against farmers protesting for farm loan waiver - Telangana Today",
+        "Telangana Minister Uttam Kumar Reddy says no other intention on Kaleshwaram project - The Hans India",
+        "Candescent launches new tech centre in Hyderabad - Telangana Today"
+      ]
+    }
   }
 ]
