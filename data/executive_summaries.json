@@ -4492,5 +4492,28 @@
         "Revanth Reddy Remarks on Women’s Reservation Bill Spark Row - INDToday"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-18T16:43:25.622Z",
+    "timestampIST": "18/4/2026, 10:13:25 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy met with NDA leaders in Delhi, sparking criticism from BRS (3, 5). The government will release ₹5,653 crore in Rythu Bharosa benefits to Telangana farmers on April 20 (1). A BJP Mahila Morcha protest occurred at the Chief Minister's residence in Hyderabad (20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with NDA leaders in Delhi, sparking criticism from BRS (3, 5). The government will release ₹5,653 crore in Rythu Bharosa benefits to Telangana farmers on April 20 (1). A BJP Mahila Morcha protest occurred at the Chief Minister's residence in Hyderabad (20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS criticism of CM Revanth Reddy's meeting with NDA leaders (3, 5, 9).</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span> CM Revanth Reddy's remarks on the Women's Reservation Bill have sparked controversy (8, 18).</li>\n    <li><span class=\"risk-low\">Protest Activity:</span> BJP Mahila Morcha protest at the Chief Minister's residence in Hyderabad (20).</li>\n    <li><span class=\"risk-low\">Potential for Misinformation:</span> Allegations of attempts to create a North-South divide (17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's meeting with NDA leaders (3, 5) is directly linked to criticism from BRS (3, 9).</li>\n    <li>The CM's remarks on the Women's Reservation Bill (8, 11, 14, 17) are linked to political debate and criticism (5, 9).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor BRS reactions and public sentiment regarding the CM's Delhi meeting and the Women's Reservation Bill comments.</li>\n    <li>Assess the potential impact of the BJP Mahila Morcha protest and ensure adequate security measures.</li>\n    <li>Prepare a communication strategy to address the allegations of creating a North-South divide.</li>\n    <li>Ensure smooth and transparent distribution of the Rythu Bharosa benefits on April 20 (1).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the BJP Mahila Morcha protest at the CM's residence (20).</li>\n    <li><b>Jagtial:</b> Due to the BRS meeting (6).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30.2°C",
+      "humidity": "49%",
+      "wind": "4.3 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 66,
+      "pm25": 50.5,
+      "goldPerGram": "₹8,953",
+      "newsCount": 73,
+      "topHeadlines": [
+        "Govt to release 5,653 cr Rythu Bharosa benefit to Telangana farmers on April 20 - The Siasat Daily",
+        "Green steel plant sought by CM Revanth Reddy - newsage.in",
+        "Revanth Reddy’s Delhi breakfast meet with NDA leaders triggers BRS criticism - Hyderabad Mail",
+        "SRH vs CSK IPL match tickets meant for Telangana CM end up in actress’ hands - The Siasat Daily",
+        "Revanth targets Naidu after breakfast meet with rivals fuels political buzz - Telangana Today"
+      ]
+    }
   }
 ]
