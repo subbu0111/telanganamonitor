@@ -4469,5 +4469,28 @@
         "BJP wanted to hike seats in guise of women's quota: Revanth Reddy - Asianet Newsable"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-18T14:41:59.328Z",
+    "timestampIST": "18/4/2026, 8:11:59 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism and political attacks, with the BJP Mahila Morcha protesting at his residence (16). He is also in the news regarding the Women's Reservation Bill and the upcoming Medigadda visit (3, 5, 8, 11, 13, 17, 20). The CM is seeking a steel plant and EV hub for Telangana from the Centre (18, 19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism and political attacks, with the BJP Mahila Morcha protesting at his residence (16). He is also in the news regarding the Women's Reservation Bill and the upcoming Medigadda visit (3, 5, 8, 11, 13, 17, 20). The CM is seeking a steel plant and EV hub for Telangana from the Centre (18, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Revanth Reddy is facing criticism from multiple sources, including the BJP, regarding the Women's Reservation Bill and other issues (2, 3, 4, 5, 6, 8, 11, 13, 15, 16, 17, 20).</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> The CM's remarks on the Women's Reservation Bill have sparked controversy (5).</li>\n    <li><span class=\"risk-low\">Potential for Protest:</span> The BJP Mahila Morcha protested at Revanth Reddy's residence in Hyderabad (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's statements on the Women's Reservation Bill are being criticized by the BJP (5, 8, 11, 16, 17).</li>\n    <li>KTR is criticizing Revanth Reddy's Medigadda visit (3, 6).</li>\n    <li>Revanth Reddy is seeking a steel plant from the Centre, potentially impacting economic development (18, 19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation at the Chief Minister's residence and assess the potential for escalation of protests (16).</li>\n    <li>Prepare a response to the criticism regarding the Women's Reservation Bill (5, 8, 11, 13, 14, 17, 20).</li>\n    <li>Assess the political implications of the upcoming Medigadda visit (3, 6).</li>\n    <li>Track the progress of Revanth Reddy's meetings with the Centre regarding the steel plant and EV hub (18, 19).</li>\n    <li>Review security protocols for the CM, given the BJP Mahila Morcha protest (16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the BJP Mahila Morcha protest at the CM's residence (16).</li>\n    <li><b>Jagtial:</b> Due to the BRS meeting and Revanth Reddy's Medigadda visit (3, 6).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31.1°C",
+      "humidity": "43%",
+      "wind": "13 km/h",
+      "weatherDesc": "Rain Showers",
+      "aqi": 66,
+      "pm25": 43,
+      "goldPerGram": "₹8,953",
+      "newsCount": 73,
+      "topHeadlines": [
+        "SRH vs CSK IPL match tickets meant for Telangana CM end up in actress’ hands - The Siasat Daily",
+        "Revanth targets Naidu after breakfast meet with rivals fuels political buzz - Telangana Today",
+        "Revanth Reddy trying to divert public attention from BRS Jagtial meeting with his Medigadda visit in April 20: Dayakar Rao - Telangana Today",
+        "Congress Party Has Committed A Historic Mistake: Kishan Reddy - INDToday",
+        "Revanth Reddy Remarks on Women’s Reservation Bill Spark Row - INDToday"
+      ]
+    }
   }
 ]
