@@ -4377,5 +4377,28 @@
         "New Delhi: Revanth Reddy Meets Prahlad Joshi #Gallery - Social News XYZ"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-18T05:42:02.609Z",
+    "timestampIST": "18/4/2026, 11:12:02 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in rice procurement discussions with the central government, requesting the procurement of 30 LMT of boiled rice (3, 17, 18). The CM is also celebrating the defeat of the delimitation bill in the Lok Sabha, praising opposition unity (9, 12, 14).  The BJP alleges their chief was placed under house arrest before a women’s bill protest (2).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaged in rice procurement discussions with the central government, requesting the procurement of 30 LMT of boiled rice (3, 17, 18). The CM is also celebrating the defeat of the delimitation bill in the Lok Sabha, praising opposition unity (9, 12, 14).  The BJP alleges their chief was placed under house arrest before a women’s bill protest (2).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> The BJP's claim of house arrest for their chief before a protest could escalate tensions (2).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A private bus caught fire in KPHB, though passengers escaped unhurt (19).</li>\n    <li><span class=\"risk-low\">Labor:</span> The BJP chief flays the government for ignoring RTC and Secretariat staff demands (8).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is actively involved in both rice procurement efforts (3, 11, 17, 18) and political matters, including the defeat of the delimitation bill (9, 12, 14).</li>\n    <li>The CM's interactions with central government figures, specifically Pralhad Joshi (3, 16), are directly related to rice procurement.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor BJP's response to the alleged house arrest of their chief and any potential protests (2).</li>\n    <li>Assess the situation regarding RTC and Secretariat staff demands (8).</li>\n    <li>Follow up on the progress of rice procurement with the central government (3, 17, 18).</li>\n    <li>Review the status of repairs to the KLIS barrages (4).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>KPHB: Monitor the area due to the private bus fire incident (19).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37.4°C",
+      "humidity": "25%",
+      "wind": "6.4 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 65,
+      "pm25": 31.9,
+      "goldPerGram": "₹8,953",
+      "newsCount": 41,
+      "topHeadlines": [
+        "Historic Win: Open letter to Telangana CM Revanth Reddy - NewsMeter",
+        "Telangana BJP says chief placed under house arrest before women’s bill protest - The Siasat Daily",
+        "Procure 30 LMT boiled rice: CM Revanth Reddy to Pralhad Joshi - The New Indian Express",
+        "Telangana government constitutes committee to expedite repairs to KLIS barrages - The New Indian Express",
+        "IPL 2026: Will MS Dhoni play today against SRH? Latest update on CSK legend's return - The Times of India"
+      ]
+    }
   }
 ]
