@@ -4400,5 +4400,28 @@
         "IPL 2026: Will MS Dhoni play today against SRH? Latest update on CSK legend's return - The Times of India"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-18T07:12:19.606Z",
+    "timestampIST": "18/4/2026, 12:42:19 pm",
+    "executiveSummary": "<p>BJP Telangana Chief Ramchander was detained/placed under house arrest before a planned protest at CM Revanth Reddy's residence regarding the Women's Bill (4, 5). CM Revanth Reddy met with Pralhad Joshi (19) and requested the procurement of 30 lakh metric tonnes of boiled rice (6, 20). The CM is also facing criticism from the BJP regarding RTC and Secretariat staff demands (11).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>BJP Telangana Chief Ramchander was detained/placed under house arrest before a planned protest at CM Revanth Reddy's residence regarding the Women's Bill (4, 5). CM Revanth Reddy met with Pralhad Joshi (19) and requested the procurement of 30 lakh metric tonnes of boiled rice (6, 20). The CM is also facing criticism from the BJP regarding RTC and Secretariat staff demands (11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for unrest:</span> BJP's planned protest at the CM's residence was disrupted by the detention of the BJP chief (4, 5).</li>\n    <li><span class=\"risk-low\">Political tensions:</span> BJP is criticizing the government regarding RTC and Secretariat staff demands (11).</li>\n    <li><span class=\"risk-low\">Rice procurement issues:</span> The CM is requesting the procurement of 30 lakh metric tonnes of boiled rice from the Centre (6, 20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is actively engaging with the central government, meeting with Pralhad Joshi (19) and requesting rice procurement (6, 20).</li>\n    <li>The BJP is protesting against the government (4, 5) while also criticizing the government on other issues (11).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation surrounding the BJP chief's detention and any potential fallout.</li>\n    <li>Assess the demands of the RTC and Secretariat staff to mitigate potential unrest.</li>\n    <li>Expedite the process of rice procurement with the central government.</li>\n    <li>Review the security protocols at the CM's residence in light of the planned protest.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the news headlines that require immediate attention.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "39°C",
+      "humidity": "22%",
+      "wind": "4.7 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 68,
+      "pm25": 30.6,
+      "goldPerGram": "₹8,953",
+      "newsCount": 40,
+      "topHeadlines": [
+        "Priyanka Gandhi praises Revanth’s alternative suggestions on delimitation - The Hindu",
+        "Establish Green Steel Plant in Bayyaram: Revanth Reddy to Centre - Deccan Chronicle",
+        "Historic Win: Open letter to Telangana CM Revanth Reddy - NewsMeter",
+        "BJP Telangana Chief Ramchander Detained Ahead Of Protest At CM Reddy’s Residence Over Women’s Bill - ABP News",
+        "Telangana BJP says chief placed under house arrest before women’s bill protest - The Siasat Daily"
+      ]
+    }
   }
 ]
