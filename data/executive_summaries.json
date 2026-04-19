@@ -4722,5 +4722,28 @@
         "Telangana CM Revanth meets Governor, seeking clearance of Kodandaram and Azharuddin’s nomination as MLCs - The Hindu"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-19T14:41:58.361Z",
+    "timestampIST": "19/4/2026, 8:11:58 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy met with the Governor to discuss narcotics control in educational hubs (2, 3) and seek approval for MLC nominations, specifically for Azharuddin (5, 7, 8, 10, 15, 19, 20). The CM is scheduled to release the 2nd installment of 'Rythu Bharosa' on Monday (14). The BJP has criticized the CM for comparing PM Modi to a demon and for his stance on the Women's Reservation Bill (4, 6, 12, 16).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with the Governor to discuss narcotics control in educational hubs (2, 3) and seek approval for MLC nominations, specifically for Azharuddin (5, 7, 8, 10, 15, 19, 20). The CM is scheduled to release the 2nd installment of 'Rythu Bharosa' on Monday (14). The BJP has criticized the CM for comparing PM Modi to a demon and for his stance on the Women's Reservation Bill (4, 6, 12, 16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BJP criticism of the CM's remarks regarding the PM and the Women's Reservation Bill could escalate political tensions. (4, 6, 12, 16)</li>\n    <li><span class=\"risk-low\">Administrative Disruption:</span> The recent transfer of nine IPS officers may cause short-term disruption. (11)</li>\n    <li><span class=\"risk-low\">Public Perception:</span> Potential negative public perception stemming from the ongoing debate about MLC nominations. (5, 7, 8, 10, 15, 19, 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's meetings with the Governor are consistently focused on narcotics control and MLC nominations, indicating these are key priorities. (2, 3, 5, 7, 8, 10, 15, 19, 20)</li>\n    <li>The BJP's criticism of the CM is centered on his comments regarding the Prime Minister and the Women's Reservation Bill, suggesting a coordinated political strategy. (4, 6, 12, 16)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor BJP's response to the CM's statements regarding the PM and Women's Reservation Bill for potential escalation. (4, 6, 12, 16)</li>\n    <li>Assess the impact of the IPS officer transfers on ongoing operations and ensure continuity of services. (11)</li>\n    <li>Prepare a communication strategy to address any public concerns regarding the MLC nomination process. (5, 7, 8, 10, 15, 19, 20)</li>\n    <li>Review and expedite the implementation of the government's plan to end human trafficking and bonded labour. (9)</li>\n    <li>Prepare for the release of the 2nd installment of 'Rythu Bharosa' on Monday. (14)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the news headlines that require immediate attention.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29°C",
+      "humidity": "62%",
+      "wind": "1.1 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 72,
+      "pm25": 47.3,
+      "goldPerGram": "₹8,953",
+      "newsCount": 45,
+      "topHeadlines": [
+        "Students should take anti-drug pledge at admission: Telangana Governor - The Siasat Daily",
+        "Telangana CM, Governor discuss narcotics control in educational hubs - Asianet Newsable",
+        "Telangana CM Revanth Reddy meets Governor Shiv Pratap Shukla to discuss narcotics control in schools - The News Mill",
+        "BJP slams Revanth Reddy for comparing PM Modi to demon - Telangana Today",
+        "CM Revanth Reddy Urges Governor to Approve MLC Nominations - The Hans India"
+      ]
+    }
   }
 ]
