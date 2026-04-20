@@ -4929,5 +4929,28 @@
         "Telangana: MLC Nomination Row Heats Up As Deadline Looms For Azharuddin, CM Meets Governor - ETV Bharat"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-20T13:47:21.753Z",
+    "timestampIST": "20/4/2026, 7:17:21 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively involved in Kaleshwaram, inaugurating and laying foundation stones for temple development works. The CM is also scheduled to inspect the Medigadda barrage today. A fire broke out in the TNGO Colony cellar in Hyderabad, resulting in vehicle damage. The Governor and CM discussed an anti-drug awareness drive.</p>",
+    "fullAnalysis": "```html\n<!DOCTYPE html>\n<html>\n<head>\n<title>Telangana Intelligence Briefing</title>\n<style>\n.risk-high { color: red; font-weight: bold; }\n.risk-medium { color: orange; font-weight: bold; }\n.risk-low { color: green; }\n</style>\n</head>\n<body>\n\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively involved in Kaleshwaram, inaugurating and laying foundation stones for temple development works. The CM is also scheduled to inspect the Medigadda barrage today. A fire broke out in the TNGO Colony cellar in Hyderabad, resulting in vehicle damage. The Governor and CM discussed an anti-drug awareness drive.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> Harish Rao made statements against the current government, including the phrase \"Revanth must go\" (13).</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> A fire occurred in the TNGO Colony cellar in Hyderabad, causing damage (14).</li>\n    <li><span class=\"risk-low\">Political:</span> Azharuddin's ministerial seat nomination is delayed, creating political uncertainty (10, 11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is focusing on Kaleshwaram, with multiple events related to temple development (2, 3, 4, 6, 16, 18).</li>\n    <li>The CM met with the Governor to discuss an anti-drug awareness drive (20), indicating a focus on this issue.</li>\n    <li>The CM is scheduled to inspect the Medigadda barrage today (15), and has already laid foundation stones for Kaleshwaram temple development (3, 4, 6, 16, 18).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure adequate security and crowd control measures at Kaleshwaram and Bhupalpally, given the CM's visits and Bhoomi puja events (2, 3, 4, 6, 16, 17, 18).</li>\n    <li>Assess the damage and investigate the cause of the fire in the TNGO Colony cellar in Hyderabad (14).</li>\n    <li>Monitor the political situation surrounding Azharuddin's nomination and its potential impact (10, 11).</li>\n    <li>Prepare a briefing for the CM regarding the anti-drug awareness drive discussed with the Governor (20).</li>\n    <li>Provide an update on the CM's inspection of the Medigadda barrage (15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Jayashankar Bhupalpally:</b> Due to the CM's visit for bhoomi pujan at the Kaleshwaram temple development works (17, 18).</li>\n    <li><b>Hyderabad:</b> Due to the fire incident in the TNGO Colony cellar (14) and the meeting between the Norway Envoy and the CM (5).</li>\n</ul>\n\n</body>\n</html>\n```",
+    "dataSnapshot": {
+      "temperature": "33.4°C",
+      "humidity": "34%",
+      "wind": "4.8 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 74,
+      "pm25": 45.5,
+      "goldPerGram": "₹8,953",
+      "newsCount": 41,
+      "topHeadlines": [
+        "Norway’s Ambassador to India Meets Telangana CM, Discusses Cooperation - Deccan Chronicle",
+        "Kaleshwaram: Revanth Reddy launches temple, bus station works - Hyderabad Mail",
+        "Telangana CM Revanth lays foundation stone for redevelopment of Kaleshwaram temple, inspects Medigadda - The Hindu",
+        "Telangana CM performs Bhoomi puja for Kaleshwaram temple’s development works - Social News XYZ",
+        "Hyderabad: Norway Envoy Meets Revanth Reddy #Gallery - Social News XYZ"
+      ]
+    }
   }
 ]
