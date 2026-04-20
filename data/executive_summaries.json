@@ -5044,5 +5044,28 @@
         "Kaleshwaram temple redevelopment launched by Revanth - newsage.in"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-20T22:47:13.053Z",
+    "timestampIST": "21/4/2026, 4:17:13 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy and KCR are engaging in a political rivalry, with both holding public rallies. (1) Revanth Reddy inspected the Medigadda barrage and criticized KCR. (19) Jeevan Reddy joined the BRS and was welcomed by KCR. (11, 13, 14)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy and KCR are engaging in a political rivalry, with both holding public rallies. (1) Revanth Reddy inspected the Medigadda barrage and criticized KCR. (19) Jeevan Reddy joined the BRS and was welcomed by KCR. (11, 13, 14)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> The ongoing public challenges and accusations between KCR and Revanth Reddy could escalate political tensions. (1, 10)</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span> The focus on the Kaleshwaram project and related allegations could lead to public dissatisfaction. (7, 9, 17, 18)</li>\n    <li><span class=\"risk-low\">Potential for Disruptions:</span> The political showdown between KCR and Revanth Reddy may lead to rallies or events that could disrupt public order. (1, 2)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Kaleshwaram project is a central point of contention, with both Revanth Reddy and KCR making statements and accusations related to it. (4, 7, 8, 9, 16, 17, 18, 19)</li>\n    <li>Jeevan Reddy's joining of the BRS is directly linked to KCR's political strategy and the ongoing political rivalry. (2, 11, 13, 14, 15, 20)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the public rallies and political events organized by KCR and Revanth Reddy for any potential law and order issues. (1, 2)</li>\n    <li>Assess the public sentiment regarding the Kaleshwaram project and its related allegations. (7, 9, 17, 18)</li>\n    <li>Review security protocols for any public appearances by CM Revanth Reddy, given the heightened political climate. (1, 10)</li>\n    <li>Prepare a communication strategy to address public concerns regarding the Kaleshwaram project. (4, 5, 7, 8, 9, 16, 17, 18, 19)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Jagtial:</b> Due to KCR's speech and presence. (2)</li>\n    <li><b>Medigadda:</b> Given the CM's inspection and focus on the barrage. (19)</li>\n    <li><b>Areas where public rallies are planned:</b> Monitor these areas for potential law and order issues. (1, 2)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "26°C",
+      "humidity": "65%",
+      "wind": "4 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 72,
+      "pm25": 22,
+      "goldPerGram": "₹8,977",
+      "newsCount": 60,
+      "topHeadlines": [
+        "'KCR, Revanth Reddy challenge each other with rival public rallies' - The Morning Voice",
+        "KCR in Jagtial: Powerful Speech, Jeevan Reddy’s Entry, Telangana Narrative &amp; Sharp Attack on Congress - Telangana Tribune",
+        "Hyderabad: Norway Envoy Meets Revanth Reddy #Gallery - Social News XYZ",
+        "Revanth Reddy vows Kaleshwaram repair, targets Harish Rao's Delhi visit - Asianet Newsable",
+        "Clarity on The Way Forward For Barrage Repairs: Revanth - Deccan Chronicle"
+      ]
+    }
   }
 ]
