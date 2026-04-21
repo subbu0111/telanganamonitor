@@ -5182,5 +5182,28 @@
         "AIADMK expands manifesto with 10 new welfare promises - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-21T15:15:43.651Z",
+    "timestampIST": "21/4/2026, 8:45:43 pm",
+    "executiveSummary": "<p>Political tensions remain high in Telangana, with significant criticism directed at Chief Minister Revanth Reddy from multiple sources, including Jeevan Reddy, Harish Rao, and Kavitha (Headlines 1, 2, 4).  Discussions regarding the Kaleshwaram project and alleged corruption are central to the political discourse (Headlines 1, 2, 6, 9, 11, 15).  An IPL match between Sunrisers Hyderabad and Delhi Capitals is scheduled today, with potential rain in Hyderabad (Headlines 3, 14).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions remain high in Telangana, with significant criticism directed at Chief Minister Revanth Reddy from multiple sources, including Jeevan Reddy, Harish Rao, and Kavitha (Headlines 1, 2, 4).  Discussions regarding the Kaleshwaram project and alleged corruption are central to the political discourse (Headlines 1, 2, 6, 9, 11, 15).  An IPL match between Sunrisers Hyderabad and Delhi Capitals is scheduled today, with potential rain in Hyderabad (Headlines 3, 14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Escalation of political rhetoric and potential for public unrest due to the ongoing war of words between CM Revanth Reddy and various political figures regarding the Kaleshwaram project and corruption allegations (Headlines 1, 2, 4, 6, 8, 9, 11, 15).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Public sentiment may be affected by the criticism of CM Revanth Reddy's comments and actions (Headlines 1, 2, 4, 5, 9, 11, 15, 19, 20).</li>\n    <li><span class=\"risk-low\">LOW:</span> Potential for disruption related to the IPL match between Sunrisers Hyderabad and Delhi Capitals due to weather conditions (Headlines 3, 14).</li>\n    <li><span class=\"risk-low\">LOW:</span> Public concern regarding a fatal accident in Hyderabad (Headline 17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Criticism of CM Revanth Reddy regarding the Kaleshwaram project is a recurring theme, with multiple political figures (Harish Rao, Bandi Sanjay Kumar, Union Minister) raising concerns (Headlines 2, 6, 9, 15).</li>\n    <li>The upcoming IPL match between Sunrisers Hyderabad and Delhi Capitals is generating interest, with injury updates and weather forecasts being reported (Headlines 3, 10, 12, 14, 18).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public statements from key political figures, including Jeevan Reddy, Harish Rao, Kavitha, and Bandi Sanjay Kumar, for potential escalation of political tensions (Headlines 1, 2, 4, 9, 15).</li>\n    <li>Assess the potential for public demonstrations or protests related to the Kaleshwaram project allegations (Headlines 1, 2, 6, 8, 9, 11, 15).</li>\n    <li>Ensure adequate security and traffic management for the IPL match in Hyderabad, considering the weather forecast (Headlines 3, 14).</li>\n    <li>Prepare a public statement addressing the criticisms leveled against the Chief Minister. (Headlines 1, 2, 4, 5, 9, 11, 15, 19, 20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the IPL match and the accident reported in the city (Headlines 14, 17, 18).</li>\n    <li><b>All Districts:</b> Monitor political activity and public sentiment regarding the Kaleshwaram project, as the issue has statewide implications (Headlines 1, 2, 6, 8, 9, 11, 15).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.7°C",
+      "humidity": "55%",
+      "wind": "6.6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 65,
+      "pm25": 46,
+      "goldPerGram": "₹9,019",
+      "newsCount": 54,
+      "topHeadlines": [
+        "Jeevan Reddy flays CM Revanth for his comments against KCR - Telangana Today",
+        "Harish Rao slams Revanth Reddy over Kaleshwaram remarks - Telangana Today",
+        "IPL 2026: Match 31, SRH vs DC Match Prediction – Who will win today’s IPL match between Sunrisers Hyderabad vs Delhi Capitals? - CricTracker",
+        "Kavitha Slams Revanth Reddy in Telangana Politics - INDToday",
+        "Naidu Breaks The Silence On Revanth’s ‘GDP’ Proposal - Gulte"
+      ]
+    }
   }
 ]
