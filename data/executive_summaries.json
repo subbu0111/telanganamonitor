@@ -5274,5 +5274,28 @@
         "KCR dignity contrast: Harish Rao targets Revanth Reddy - newsage.in"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-21T22:39:31.691Z",
+    "timestampIST": "22/4/2026, 4:09:31 am",
+    "executiveSummary": "<p>Political tensions are escalating in Telangana, with significant verbal exchanges between current and former political figures. Accusations of corruption related to the Kaleshwaram project are being leveled against both sides. The Sunrisers Hyderabad won against the Delhi Capitals in IPL 2026, breaking into the top three.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions are escalating in Telangana, with significant verbal exchanges between current and former political figures. Accusations of corruption related to the Kaleshwaram project are being leveled against both sides. The Sunrisers Hyderabad won against the Delhi Capitals in IPL 2026, breaking into the top three.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">HIGH:</span> Escalating political rhetoric between Revanth Reddy, KCR, and other political figures, potentially leading to increased public unrest and instability.</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Accusations of corruption related to the Kaleshwaram project could lead to public scrutiny and demands for investigations.</li>\n    <li><span class=\"risk-low\">LOW:</span> Potential for disruption due to the ongoing IPL 2026 season, specifically the Sunrisers Hyderabad matches.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Accusations of corruption related to the Kaleshwaram project (headlines 6, 8, 15, 19) are a central theme, with multiple political figures involved.</li>\n    <li>The ongoing war of words between Revanth Reddy and KCR (headlines 5, 9, 11, 12, 17) is a recurring theme, indicating a high level of political tension.</li>\n    <li>The Sunrisers Hyderabad's success in IPL 2026 (headlines 4, 10, 13, 18) could be a point of public interest.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public statements by key political figures for inflammatory language or calls for action.</li>\n    <li>Assess the potential for protests or demonstrations related to the Kaleshwaram project allegations.</li>\n    <li>Prepare for potential media inquiries regarding the political disputes and corruption allegations.</li>\n    <li>Review security protocols for any public events related to the IPL 2026 matches.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific districts are mentioned in the headlines. Therefore, no immediate district-specific focus is required based on the provided data.</p>\n```",
+    "dataSnapshot": {
+      "temperature": "27°C",
+      "humidity": "66%",
+      "wind": "5.7 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 70,
+      "pm25": 48.5,
+      "goldPerGram": "₹9,019",
+      "newsCount": 47,
+      "topHeadlines": [
+        "‘Telangana was in the top position during KCR’s tenure’ - metroindia.net",
+        "A clash of the titans in Telangana - The Hindu",
+        "New badminton body elected as Telangana eyes sports growth - Telangana Today",
+        "IPL 2026 Points Table Today: Sunrisers Hyderabad Beat Delhi Capitals To Break Into Top Three | Check Latest IPL Standings on April 21 - NewsX",
+        "KCR dignity contrast: Harish Rao targets Revanth Reddy - newsage.in"
+      ]
+    }
   }
 ]
