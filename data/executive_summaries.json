@@ -5067,5 +5067,28 @@
         "Clarity on The Way Forward For Barrage Repairs: Revanth - Deccan Chronicle"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-21T02:46:57.868Z",
+    "timestampIST": "21/4/2026, 8:16:57 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on the Kaleshwaram project, launching works and vowing repairs, while also questioning CBI silence on the inquiry.  Political tensions are high, with Revanth Reddy and KCR engaging in a public challenge ahead of the 2028 elections. Harish Rao's Delhi visit is drawing scrutiny, with allegations of a rift within the BRS.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focused on the Kaleshwaram project, launching works and vowing repairs, while also questioning CBI silence on the inquiry.  Political tensions are high, with Revanth Reddy and KCR engaging in a public challenge ahead of the 2028 elections. Harish Rao's Delhi visit is drawing scrutiny, with allegations of a rift within the BRS.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Rising tensions between CM Revanth Reddy and KCR, including rival rallies and challenges, could escalate political unrest. (Headlines 8, 18)</li>\n    <li><span class=\"risk-medium\">Kaleshwaram Project Controversy:</span>  The ongoing focus on the Kaleshwaram project, including accusations and investigations, may lead to public dissatisfaction or legal challenges. (Headlines 2, 3, 9, 11, 15, 16, 17)</li>\n    <li><span class=\"risk-low\">BRS Internal Conflict:</span> Allegations of a rift within the BRS, potentially stemming from Harish Rao's Delhi visit, could weaken the opposition. (Headline 1)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's focus on Kaleshwaram (Headlines 2, 3, 9, 11, 15, 16, 17) is directly linked to his criticism of Harish Rao's actions (Headlines 3, 11).</li>\n    <li>KCR's public appearances (Headline 10) and his criticism of the Congress (Headline 19) are related to the upcoming 2028 elections (Headline 18).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public statements and rallies by both CM Revanth Reddy and KCR for any escalation in rhetoric.</li>\n    <li>Assess the progress and transparency of the Kaleshwaram project repair efforts.</li>\n    <li>Gather intelligence on the nature and purpose of Harish Rao's Delhi visit.</li>\n    <li>Prepare a communication strategy to address public concerns regarding the Kaleshwaram project.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Jagtial:</b> Monitor activities related to KCR's speech and any potential reactions. (Headline 10)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "27.7°C",
+      "humidity": "61%",
+      "wind": "1 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 69,
+      "pm25": 21.4,
+      "goldPerGram": "₹8,977",
+      "newsCount": 59,
+      "topHeadlines": [
+        "Harish Rao’s Delhi tour raises eyebrows, Cong alleges rift in BRS - The Hans India",
+        "Roadmap ready to fix Kaleshwaram barrages: CM Revanth Reddy - The Hans India",
+        "Kaleshwaram row heats up: Revanth accuses Harish of secret talks - The Hans India",
+        "Petrol, Diesel Prices Updated On April 21: Check New Rates In Mumbai, Hyderabad, Kolkata, Chennai And More - NDTV Profit",
+        "Congress will remain in power till 2034: CM Revanth - The Hans India"
+      ]
+    }
   }
 ]
