@@ -5136,5 +5136,28 @@
         "IPL 2026: Match 31, SRH vs DC Match Prediction – Who will win today’s IPL match between Sunrisers Hyderabad vs Delhi Capitals? - CricTracker"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-21T11:09:50.425Z",
+    "timestampIST": "21/4/2026, 4:39:50 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy and BRS Chief KCR are engaged in a heated political exchange, with KCR vowing a comeback and Reddy accusing KCR of a large-scale scam related to the Kaleshwaram project (headlines 11, 12, 14, 15, 20).  IPL match between Sunrisers Hyderabad and Delhi Capitals is scheduled today, with potential rain in Hyderabad (headlines 2, 3, 5, 9, 17).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy and BRS Chief KCR are engaged in a heated political exchange, with KCR vowing a comeback and Reddy accusing KCR of a large-scale scam related to the Kaleshwaram project (headlines 11, 12, 14, 15, 20).  IPL match between Sunrisers Hyderabad and Delhi Capitals is scheduled today, with potential rain in Hyderabad (headlines 2, 3, 5, 9, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Escalation of political rhetoric between CM Revanth Reddy and KCR, potentially leading to public unrest or disruptions (headlines 11, 12, 14, 15, 20).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Potential for public gatherings or protests related to the ongoing political disputes (headlines 1, 6, 10, 11, 12, 14, 15, 18, 19, 20).</li>\n    <li><span class=\"risk-low\">LOW:</span> Disruption to traffic or public order due to potential rain during the Sunrisers Hyderabad vs. Delhi Capitals IPL match in Hyderabad (headlines 5, 17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The political feud between Revanth Reddy and KCR is directly linked to the Kaleshwaram project, with accusations of corruption being leveled (headlines 1, 6, 11, 12, 14, 15, 20).</li>\n    <li>The upcoming IPL match in Hyderabad (headlines 2, 3, 5, 9, 17) may be affected by weather conditions (headline 5, 17).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public statements by CM Revanth Reddy and KCR for any escalation in rhetoric and potential incitement.</li>\n    <li>Increase security presence in areas where political rallies or gatherings are anticipated.</li>\n    <li>Prepare for potential traffic disruptions due to the IPL match and possible rain in Hyderabad.</li>\n    <li>Monitor social media for any planned protests or demonstrations related to the political situation.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the ongoing political tensions and the upcoming IPL match, Hyderabad requires increased monitoring and security presence (headlines 5, 8, 9, 17).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36°C",
+      "humidity": "35%",
+      "wind": "9.7 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 72,
+      "pm25": 37,
+      "goldPerGram": "₹8,977",
+      "newsCount": 56,
+      "topHeadlines": [
+        "Telangana CM Takes A Dig At BJP For Not Ordering CBI Probe Into Kaleshwaram - News18",
+        "IPL 2026: Will Pat Cummins Play Today’s Sunrisers Hyderabad vs Delhi Capitals Match? - lokmattimes.com",
+        "IPL 2026: Match 31, SRH vs DC Match Prediction – Who will win today’s IPL match between Sunrisers Hyderabad vs Delhi Capitals? - CricTracker",
+        "India-Canada trade talks gain importance amid new world order - Telangana Today",
+        "Sunrisers Hyderabad vs Delhi Capitals pitch report &amp; weather update: Rain likely in Hyderabad ahead of SRH - The Economic Times"
+      ]
+    }
   }
 ]
