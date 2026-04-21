@@ -5159,5 +5159,28 @@
         "Sunrisers Hyderabad vs Delhi Capitals pitch report &amp; weather update: Rain likely in Hyderabad ahead of SRH - The Economic Times"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-21T13:46:20.568Z",
+    "timestampIST": "21/4/2026, 7:16:20 pm",
+    "executiveSummary": "<p>Political tensions are escalating in Telangana, with significant verbal exchanges between Revanth Reddy, KCR, and other political figures regarding the Kaleshwaram project and other matters.  IPL match between Sunrisers Hyderabad and Delhi Capitals is scheduled today, with potential rain. A fatal accident occurred in Hyderabad.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions are escalating in Telangana, with significant verbal exchanges between Revanth Reddy, KCR, and other political figures regarding the Kaleshwaram project and other matters.  IPL match between Sunrisers Hyderabad and Delhi Capitals is scheduled today, with potential rain. A fatal accident occurred in Hyderabad.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Escalation of Political Rhetoric:</span> The war of words between Revanth Reddy and KCR, as well as criticism from other parties, could lead to increased political instability. (Headlines 1, 3, 6, 9, 13, 17, 18, 19)</li>\n    <li><span class=\"risk-low\">Public Disruption:</span>  The weather forecast indicates rain showers in Hyderabad, potentially impacting the IPL match. (Headline 12)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A fatal accident occurred in Hyderabad. (Headline 15)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Political discourse surrounding the Kaleshwaram project (Headlines 1, 4, 9, 13) is a recurring theme, indicating its continued importance in the political landscape.</li>\n    <li>The upcoming IPL match between Sunrisers Hyderabad and Delhi Capitals (Headlines 2, 8, 10, 12, 16) is a focus of attention, with weather and player availability being key factors.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political situation closely, especially the exchanges between Revanth Reddy and KCR, for any signs of escalation.</li>\n    <li>Ensure adequate security and traffic management for the IPL match in Hyderabad, considering the potential for rain.</li>\n    <li>Review and enhance public safety measures in Hyderabad, following the recent fatal accident.</li>\n    <li>Assess the impact of the ongoing political debate on public sentiment and government programs.</li>\n    <li>Monitor the progress of paddy procurement and ensure smooth operations. (Headline 20)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the ongoing political activity and the scheduled IPL match, Hyderabad requires heightened monitoring and security measures. (Headlines 2, 8, 10, 12, 15, 16)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31.3°C",
+      "humidity": "49%",
+      "wind": "1.5 km/h",
+      "weatherDesc": "Rain Showers",
+      "aqi": 67,
+      "pm25": 40.6,
+      "goldPerGram": "₹8,977",
+      "newsCount": 56,
+      "topHeadlines": [
+        "Harish Rao slams Revanth Reddy over Kaleshwaram remarks - Telangana Today",
+        "IPL 2026: Match 31, SRH vs DC Match Prediction – Who will win today’s IPL match between Sunrisers Hyderabad vs Delhi Capitals? - CricTracker",
+        "Kavitha Slams Revanth Reddy in Telangana Politics - INDToday",
+        "Union Minister faults Telangana CM’s ‘dual views’ on Kaleshwaram corruption - The Siasat Daily",
+        "AIADMK expands manifesto with 10 new welfare promises - Telangana Today"
+      ]
+    }
   }
 ]
