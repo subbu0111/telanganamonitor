@@ -5205,5 +5205,28 @@
         "Naidu Breaks The Silence On Revanth’s ‘GDP’ Proposal - Gulte"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-21T17:05:20.611Z",
+    "timestampIST": "21/4/2026, 10:35:20 pm",
+    "executiveSummary": "<p>Political tensions are escalating in Telangana, with multiple leaders criticizing CM Revanth Reddy regarding comments on the Kaleshwaram project.  Union Minister Kishan Reddy announced a new coal sales mechanism.  The SRH vs DC IPL match in Hyderabad is facing potential rain and player injury concerns.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions are escalating in Telangana, with multiple leaders criticizing CM Revanth Reddy regarding comments on the Kaleshwaram project.  Union Minister Kishan Reddy announced a new coal sales mechanism.  The SRH vs DC IPL match in Hyderabad is facing potential rain and player injury concerns.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Ongoing war of words between Revanth Reddy and other political figures regarding the Kaleshwaram project and related corruption allegations could escalate tensions. (Headlines 2, 3, 5, 6, 8, 10, 11, 13, 17)</li>\n    <li><span class=\"risk-low\">Public Safety:</span>  A fatal accident occurred in Hyderabad. (Headline 20)</li>\n    <li><span class=\"risk-low\">Disruption:</span> Potential for rain in Hyderabad ahead of the SRH vs DC IPL match could disrupt the event. (Headline 16)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Kaleshwaram project is a central point of contention, with multiple political figures (Bandi Sanjay, Jeevan Reddy, Harish Rao, Kavitha) criticizing CM Revanth Reddy's remarks. (Headlines 2, 3, 5, 6, 8, 11, 13, 17)</li>\n    <li>The upcoming SRH vs DC IPL match in Hyderabad is facing potential disruptions due to weather and player injuries. (Headlines 12, 14, 16, 19)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric surrounding the Kaleshwaram project for any signs of escalation or potential public unrest.</li>\n    <li>Assess the impact of the new coal sales mechanism announced by Union Minister Kishan Reddy.</li>\n    <li>Coordinate with relevant authorities to ensure public safety and traffic management in Hyderabad, especially in light of the accident and the upcoming IPL match.</li>\n    <li>Monitor weather reports and coordinate with stadium authorities regarding potential rain disruptions for the SRH vs DC match.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b>  Focus on public safety and traffic management due to the recent accident (Headline 20) and the upcoming IPL match (Headlines 4, 12, 14, 16, 19).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.1°C",
+      "humidity": "68%",
+      "wind": "2.2 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 66,
+      "pm25": 47.5,
+      "goldPerGram": "₹9,019",
+      "newsCount": 51,
+      "topHeadlines": [
+        "Union Minister Kishan Reddy announces new coal sales mechanism - Telangana Today",
+        "Bandi Sanjay accuses Revanth Reddy of trying to shield tainted BRS leaders in ‘Kaleshwaram project scam’ - The Hindu",
+        "Jeevan Reddy flays CM Revanth for his comments against KCR - Telangana Today",
+        "IPL 2026: Match 31, SRH vs DC Match Prediction – Who will win today’s IPL match between Sunrisers Hyderabad vs Delhi Capitals? - CricTracker",
+        "Harish Rao slams Revanth Reddy over Kaleshwaram remarks - Telangana Today"
+      ]
+    }
   }
 ]
