@@ -5113,5 +5113,28 @@
         "KCR names Jeevan Reddy BRS general secretary; slams Congress, vows return to power - The South First"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-21T09:42:24.217Z",
+    "timestampIST": "21/4/2026, 3:12:24 pm",
+    "executiveSummary": "<p>Political tensions remain high, with CM Revanth Reddy and KCR exchanging strong accusations regarding the Kaleshwaram project and the future of the state (6, 8, 9, 10, 15, 17). Adani Power is expanding into the nuclear sector in Telangana (1). The government has credited ₹22,000 Cr to 25.35L farmers' accounts under a loan waiver scheme (19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions remain high, with CM Revanth Reddy and KCR exchanging strong accusations regarding the Kaleshwaram project and the future of the state (6, 8, 9, 10, 15, 17). Adani Power is expanding into the nuclear sector in Telangana (1). The government has credited ₹22,000 Cr to 25.35L farmers' accounts under a loan waiver scheme (19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH</span>: Escalating political rhetoric between CM Revanth Reddy and KCR, including threats and accusations of corruption, could lead to public unrest or destabilization (6, 8, 9, 10, 15).</li>\n  <li><span class=\"risk-medium\">MEDIUM</span>: Public reaction to the Kaleshwaram project allegations and the government's response could generate protests or demands for accountability (9, 17).</li>\n  <li><span class=\"risk-low\">LOW</span>: Potential for localized incidents related to the ongoing IPL match between Sunrisers Hyderabad and Delhi Capitals (3, 5, 12, 16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The ongoing political feud between Revanth Reddy and KCR is directly linked to the Kaleshwaram project, with both sides making accusations and counter-accusations (6, 9, 17).</li>\n  <li>The government's loan waiver scheme for farmers (19) could be impacted by the political climate and any potential disruptions caused by political tensions (6, 8).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor public statements from both CM Revanth Reddy and KCR for any escalation in rhetoric and potential incitement (6, 8, 9, 10, 15).</li>\n  <li>Assess the potential for protests or demonstrations related to the Kaleshwaram project and the government's response (9, 17).</li>\n  <li>Ensure adequate security measures are in place during the IPL match in Hyderabad (3, 5, 12, 16).</li>\n  <li>Prepare a public statement addressing the accusations regarding the Kaleshwaram project to mitigate potential public unrest (9, 17).</li>\n  <li>Monitor the distribution of funds under the loan waiver scheme to ensure smooth and transparent implementation (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Due to the ongoing political tensions and the IPL match, Hyderabad requires heightened monitoring for potential public gatherings or security concerns (2, 3, 5, 6, 8, 9, 12, 15, 16).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36.2°C",
+      "humidity": "31%",
+      "wind": "4.5 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 71,
+      "pm25": 32,
+      "goldPerGram": "₹8,977",
+      "newsCount": 54,
+      "topHeadlines": [
+        "Adani Power expands into nuclear sector with new subsidiary - Telangana Today",
+        "Father, son killed in accident in Hyderabad - The Siasat Daily",
+        "Sunrisers Hyderabad vs Delhi Capitals Playing 11 IPL 2026: Check propbale playing 11 and head-to-head reco - The Economic Times",
+        "Congress leaders question tone of Revanth Reddy’s attack on former minister - Telangana Today",
+        "IPL 2026: Match 31, SRH vs DC Match Prediction – Who will win today’s IPL match between Sunrisers Hyderabad vs Delhi Capitals? - CricTracker"
+      ]
+    }
   }
 ]
