@@ -5435,5 +5435,28 @@
         "Former Andhra Pradesh CM Nadendla Bhaskara Rao dies at 90; Telangana CM Revanth Reddy, YS Jagan pay tribute - lokmattimes.com"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-22T17:04:17.257Z",
+    "timestampIST": "22/4/2026, 10:34:17 pm",
+    "executiveSummary": "<p>Telangana is facing a significant disruption in public transport due to an indefinite strike by Telangana RTC employees, impacting over 5 lakh commuters and grounding 6,000 buses. (14, 20) Chief Minister Revanth Reddy is fast-tracking land allotment for investors. (1, 2) The High Court has issued a stay on the Kaleshwaram report, prompting reactions from various political figures. (7, 9, 11)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Telangana is facing a significant disruption in public transport due to an indefinite strike by Telangana RTC employees, impacting over 5 lakh commuters and grounding 6,000 buses. (14, 20) Chief Minister Revanth Reddy is fast-tracking land allotment for investors. (1, 2) The High Court has issued a stay on the Kaleshwaram report, prompting reactions from various political figures. (7, 9, 11)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH:</span> Widespread disruption of public transport due to the ongoing Telangana RTC strike, potentially leading to public unrest and economic impact. (14, 18, 20)</li>\n  <li><span class=\"risk-medium\">MEDIUM:</span> Potential for public dissatisfaction and negative perception of the government due to the bus strike. (14, 18, 20)</li>\n  <li><span class=\"risk-low\">LOW:</span> Adverse weather conditions, including thunderstorms, are forecast in 17 Telangana districts today. (8)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The Telangana RTC strike (14, 18, 20) directly impacts the daily lives of over 5 lakh commuters. (20)</li>\n  <li>Chief Minister Revanth Reddy is focused on attracting investment through fast-tracked land allotment (1, 2), while the government is simultaneously dealing with a major disruption in public transport. (14, 18, 20)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Initiate immediate dialogue with Telangana RTC employees to resolve the ongoing strike and restore bus services. (14, 18, 20)</li>\n  <li>Monitor public sentiment and address any grievances arising from the bus strike. (14, 18, 20)</li>\n  <li>Coordinate with relevant departments to ensure the safety and well-being of citizens in districts affected by the forecast thunderstorms. (8)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Karimnagar:</b> Focus on this district due to the reported incident of a TGSRTC bus hitting a median. (15)</li>\n  <li><b>17 Districts:</b> Monitor these districts due to the thunderstorm forecast. (8)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.5°C",
+      "humidity": "61%",
+      "wind": "4 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 76,
+      "pm25": 46.7,
+      "goldPerGram": "₹9,047",
+      "newsCount": 39,
+      "topHeadlines": [
+        "Revanth Reddy orders fast-track land allotment for investors - Telangana Today",
+        "CM Revanth Reddy Fast-Tracks Investment Projects; Orders Quick Land Allotment For Global Firms - Deccan Chronicle",
+        "Telangana aims to have best road network by 2028 - english.punjabkesari.com",
+        "Sanmar Herald ‘crypto payment’ incident: New Delhi calls reports ‘fake news’ - Telangana Today",
+        "Former Andhra Pradesh CM Nadendla Bhaskara Rao dies at 90; Telangana CM Revanth Reddy, YS Jagan pay tribute - prameyanews.com"
+      ]
+    }
   }
 ]
