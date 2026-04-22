@@ -5297,5 +5297,28 @@
         "KCR dignity contrast: Harish Rao targets Revanth Reddy - newsage.in"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-22T02:45:18.527Z",
+    "timestampIST": "22/4/2026, 8:15:18 am",
+    "executiveSummary": "<p>Political tensions are escalating, with multiple leaders criticizing CM Revanth Reddy and the current administration. Telangana RTC bus services are scheduled to be impacted by a strike starting midnight of April 22 (Headline 13). The CM met with the Governor to discuss narcotics control in schools (Headline 14).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions are escalating, with multiple leaders criticizing CM Revanth Reddy and the current administration. Telangana RTC bus services are scheduled to be impacted by a strike starting midnight of April 22 (Headline 13). The CM met with the Governor to discuss narcotics control in schools (Headline 14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Telangana RTC bus services are set to be disrupted due to a strike starting midnight of April 22 (Headline 13).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Continued political infighting and accusations between various political figures (Revanth Reddy, KCR, Bandi Sanjay, Harish Rao, Kavitha) could lead to public unrest or instability (Headlines 1, 2, 3, 5, 7, 12, 16, 17, 19, 20).</li>\n    <li><span class=\"risk-low\">LOW:</span> The CM is discussing narcotics control in schools with the Governor (Headline 14).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Political criticism of Revanth Reddy is coming from multiple sources, including Harish Rao (Headline 2, 12, 19), Bandi Sanjay (Headline 3, 7, 16), and Kavitha (Headline 20).</li>\n    <li>The upcoming RTC bus strike (Headline 13) could be exacerbated by the ongoing political tensions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the impact of the RTC bus strike and prepare contingency plans for essential services.</li>\n    <li>Assess the potential for public order disturbances related to the ongoing political clashes.</li>\n    <li>Monitor social media and news outlets for any escalation of political rhetoric or calls for protests.</li>\n    <li>Ensure effective communication strategies to address public concerns regarding the political situation and the bus strike.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>All districts: Monitor for potential disruptions related to the RTC bus strike (Headline 13).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.6°C",
+      "humidity": "53%",
+      "wind": "5.4 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 73,
+      "pm25": 54.2,
+      "goldPerGram": "₹9,019",
+      "newsCount": 45,
+      "topHeadlines": [
+        "Revanth, KCR on edge over BJP’s rise in state, says NRR - The Hans India",
+        "Revanth spreading bundle of lies on Kaleshwaram: Harish - The Hans India",
+        "Bandi terms Revanth Rahu… KCR Ketu; says both ‘killing people of Telangana’ - The Hans India",
+        "The Revanth Reddy regime: A tale of partial delivery and mounting challenges - The South First",
+        "Arvind likens KCR, Revanth to two sides of the same coin - The Hans India"
+      ]
+    }
   }
 ]
