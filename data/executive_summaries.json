@@ -5711,5 +5711,28 @@
         "Telangana govt appeals to RTC workers, ministerial sub-committee to talk tomorrow - NewsMeter"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-23T20:55:27.682Z",
+    "timestampIST": "24/4/2026, 2:25:27 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is scheduled to meet with the CBI director following a High Court order regarding the Kaleshwaram project probe (1, 2). The government is attempting to defuse a transport corporation strike and has appealed to RTC workers for talks, with a ministerial sub-committee scheduled to meet tomorrow (3, 5, 6). The Hyderabad weather forecast includes a heatwave alert with possible evening showers and thunderstorms (19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is scheduled to meet with the CBI director following a High Court order regarding the Kaleshwaram project probe (1, 2). The government is attempting to defuse a transport corporation strike and has appealed to RTC workers for talks, with a ministerial sub-committee scheduled to meet tomorrow (3, 5, 6). The Hyderabad weather forecast includes a heatwave alert with possible evening showers and thunderstorms (19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Potential for unrest due to the transport corporation strike and a driver's suicide attempt (3, 8).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Political tensions are rising, with criticism of the current government and calls for investigations (4, 9, 11, 12, 16, 17).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Public sentiment may be affected by the ongoing Kaleshwaram project probe and related court orders (1, 2, 9, 11).</li>\n    <li><span class=\"risk-low\">LOW:</span> The police have issued a notice to X regarding a news handle (10).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The High Court order regarding the Kaleshwaram project probe (1, 2) is a central point of discussion, with both the CM and opposition figures reacting to it (9, 11).</li>\n    <li>The transport corporation strike (3, 5, 6) and the driver's suicide attempt (8) are directly linked, indicating potential labor unrest.</li>\n    <li>Political commentary from multiple sources (4, 15, 16) suggests a heightened political climate ahead of elections (13).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize de-escalation efforts with the RTC workers to prevent further incidents (3, 5, 6, 8).</li>\n    <li>Prepare for potential public reactions to the Kaleshwaram project probe and the High Court's findings (1, 2, 9, 11).</li>\n    <li>Monitor the situation regarding the news handle TeluguScribe and the police notice (10).</li>\n    <li>Ensure adequate security and emergency response plans are in place due to the heatwave and potential thunderstorms in Hyderabad (19).</li>\n    <li>Monitor the political climate and public sentiment, particularly regarding the ongoing investigations and accusations of corruption (12, 17, 20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the heatwave alert and potential for thunderstorms (19), and the ongoing political discussions (13, 14, 18, 20).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.2°C",
+      "humidity": "56%",
+      "wind": "1.5 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 71,
+      "pm25": 32.1,
+      "goldPerGram": "₹9,077",
+      "newsCount": 33,
+      "topHeadlines": [
+        "Kaleshwaram project probe: Telangana CM to meet CBI director after High Court order - Oneindia",
+        "Revanth, Uttam to meet CBI Directorfor expediting Kaleshwaram probe - The Hindu",
+        "After driver’s suicide attempt, Revanth government moves to defuse transport corporation strike in Telangana - The Indian Express",
+        "KCR Telangana future secure under his leadership, says Jeevan Reddy - newsage.in",
+        "Telangana govt appeals to RTC workers, ministerial sub-committee to talk tomorrow - NewsMeter"
+      ]
+    }
   }
 ]
