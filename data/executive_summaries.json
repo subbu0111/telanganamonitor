@@ -5665,5 +5665,28 @@
         "High Court verdict on Kaleshwaram report vindicates KCR: MLC Madhusudhan - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-23T17:23:46.905Z",
+    "timestampIST": "23/4/2026, 10:53:46 pm",
+    "executiveSummary": "<p>The Telangana government is facing challenges related to a transport corporation strike following a driver's suicide attempt (1, 6). The government is attempting to negotiate with RTC workers, with a ministerial sub-committee scheduled to meet tomorrow (3, 4). The High Court's verdict on the Kaleshwaram report and the Ghose commission report are generating political reactions (7, 9).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is facing challenges related to a transport corporation strike following a driver's suicide attempt (1, 6). The government is attempting to negotiate with RTC workers, with a ministerial sub-committee scheduled to meet tomorrow (3, 4). The High Court's verdict on the Kaleshwaram report and the Ghose commission report are generating political reactions (7, 9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Potential for escalation of the transport corporation strike following a driver's suicide attempt (1, 6).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Political instability due to reactions to High Court verdicts on the Kaleshwaram and Ghose commission reports (7, 9).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Public unrest due to heatwave conditions and potential thunderstorms in Hyderabad (15).</li>\n    <li><span class=\"risk-low\">LOW:</span> Legal proceedings against CM Revanth Reddy adjourned to May 20 (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The transport corporation strike (1, 3, 4) is directly linked to the government's current challenges.</li>\n    <li>The High Court verdicts (7, 9, 20) are fueling political discourse and criticism of the government.</li>\n    <li>CM Revanth Reddy's efforts to execute projects (17) are occurring amidst political challenges and legal proceedings (19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize de-escalation of the RTC strike through immediate and effective negotiations with worker representatives (3, 4).</li>\n    <li>Monitor public sentiment and potential for unrest related to the heatwave and weather conditions in Hyderabad (15).</li>\n    <li>Prepare a communication strategy to address public concerns regarding the High Court verdicts and related political controversies (7, 9, 20).</li>\n    <li>Review and expedite the execution of MoU investments to demonstrate government effectiveness (17).</li>\n    <li>Monitor the political situation surrounding the cabinet future of Azharuddin (12).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor for potential public unrest due to the heatwave and weather conditions (15).</li>\n    <li><b>All Telangana Districts:</b> Monitor for developments related to the transport corporation strike and its impact (1, 3, 4, 6).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.7°C",
+      "humidity": "51%",
+      "wind": "3.2 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 73,
+      "pm25": 42.3,
+      "goldPerGram": "₹9,077",
+      "newsCount": 30,
+      "topHeadlines": [
+        "After driver’s suicide attempt, Revanth government moves to defuse transport corporation strike in Telangana - The Indian Express",
+        "KCR Telangana future secure under his leadership, says Jeevan Reddy - newsage.in",
+        "Telangana govt appeals to RTC workers, ministerial sub-committee to talk tomorrow - NewsMeter",
+        "CM Revanth Reddy urges RTC workers to avoid hasty actions, calls for talks with Bhatti Vikramarka - The Hans India",
+        "Telangana govt adds 100 overseas scholarship seats for Christians, Muslims get 480 of 600 total - Organiser"
+      ]
+    }
   }
 ]
