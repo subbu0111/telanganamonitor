@@ -5688,5 +5688,28 @@
         "Telangana govt adds 100 overseas scholarship seats for Christians, Muslims get 480 of 600 total - Organiser"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-23T19:14:00.729Z",
+    "timestampIST": "24/4/2026, 12:44:00 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy will meet with the CBI director following a High Court order regarding the Kaleshwaram project probe (1, 2). The government is attempting to defuse a transport corporation strike (3, 5, 6) after a driver's suicide attempt. The police issued a notice to X regarding the news handle TeluguScribe (10).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will meet with the CBI director following a High Court order regarding the Kaleshwaram project probe (1, 2). The government is attempting to defuse a transport corporation strike (3, 5, 6) after a driver's suicide attempt. The police issued a notice to X regarding the news handle TeluguScribe (10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Potential for unrest due to the transport corporation strike and driver's suicide attempt (3, 5, 6, 8).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Political tensions are rising, with criticism of the current government and discussions about future leadership (4, 9, 11, 12, 13, 15, 16).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> The High Court's verdict on the Kaleshwaram project and Ghose commission report is generating political reactions (1, 2, 9, 11).</li>\n    <li><span class=\"risk-low\">LOW:</span> Potential for public reaction to the heatwave alert issued by IMD (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Kaleshwaram project probe (1, 2) and the Ghose commission report (11) are both subjects of High Court verdicts and are generating political commentary.</li>\n    <li>The transport corporation strike (3, 5, 6) is directly linked to a driver's suicide attempt (8), indicating a potential escalation of unrest.</li>\n    <li>Political figures like Revanth Reddy (2, 6, 20) and KCR (4, 9, 15, 16) are central to multiple news items, highlighting the ongoing political dynamics.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize de-escalation of the transport corporation strike through immediate talks and address the driver's suicide attempt (3, 5, 6, 8).</li>\n    <li>Prepare for potential public reactions to the High Court's verdicts on the Kaleshwaram project and the Ghose commission report (1, 2, 9, 11).</li>\n    <li>Monitor the political rhetoric surrounding the Kaleshwaram project and the Ghose commission report (1, 2, 9, 11).</li>\n    <li>Monitor the situation regarding the news handle TeluguScribe (10).</li>\n    <li>Assess the potential impact of the heatwave alert on public health and infrastructure (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Statewide:</b> Monitor all districts for potential unrest related to the transport corporation strike and the driver's suicide attempt (3, 5, 6, 8).</li>\n    <li><b>Hyderabad:</b> Monitor for any impact of the heatwave alert (19).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.5°C",
+      "humidity": "54%",
+      "wind": "3.9 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 72,
+      "pm25": 34.9,
+      "goldPerGram": "₹9,077",
+      "newsCount": 33,
+      "topHeadlines": [
+        "Kaleshwaram project probe: Telangana CM to meet CBI director after High Court order - Oneindia",
+        "Revanth, Uttam to meet CBI Directorfor expediting Kaleshwaram probe - The Hindu",
+        "After driver’s suicide attempt, Revanth government moves to defuse transport corporation strike in Telangana - The Indian Express",
+        "KCR Telangana future secure under his leadership, says Jeevan Reddy - newsage.in",
+        "Telangana govt appeals to RTC workers, ministerial sub-committee to talk tomorrow - NewsMeter"
+      ]
+    }
   }
 ]
