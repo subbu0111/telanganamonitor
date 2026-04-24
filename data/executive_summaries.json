@@ -5826,5 +5826,28 @@
         "Kavitha New Party Name Buzz Grips Telangana Politics - INDToday"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-24T13:28:09.999Z",
+    "timestampIST": "24/4/2026, 6:58:09 pm",
+    "executiveSummary": "<p>An RTC driver, Shankar Goud, died by self-immolation amid an ongoing RTC strike, leading to political accusations against the Revanth Reddy government. (5, 7, 10, 16) The government announced Rs 10 lakh ex gratia for the family. (6) Tension is escalating in Warangal as RTC workers demand the deceased driver's remains be taken to the bus depot. (15) The government has invited unions for talks today. (17)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>An RTC driver, Shankar Goud, died by self-immolation amid an ongoing RTC strike, leading to political accusations against the Revanth Reddy government. (5, 7, 10, 16) The government announced Rs 10 lakh ex gratia for the family. (6) Tension is escalating in Warangal as RTC workers demand the deceased driver's remains be taken to the bus depot. (15) The government has invited unions for talks today. (17)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Potential for increased unrest and protests in Warangal and other areas due to the RTC driver's death and the ongoing strike. (15, 17)</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Escalation of political tensions and accusations against the government by BJP and BRS. (2, 7, 10, 16)</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Potential for disruption of public transport services due to the RTC strike. (17)</li>\n    <li><span class=\"risk-low\">LOW</span>: Public criticism and scrutiny of the government's handling of the RTC driver's death. (12, 18, 19, 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The RTC driver's death (5) is directly linked to the ongoing RTC strike (17), creating a volatile situation.</li>\n    <li>The death has triggered a political blame game (2, 7, 10, 16), with opposition parties targeting the Revanth Reddy government.</li>\n    <li>The government's offer of ex gratia (6) and invitation for talks (17) are direct responses to the crisis.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure adequate security and law enforcement presence in Warangal to manage potential protests and unrest. (15)</li>\n    <li>Monitor the ongoing talks with RTC unions closely and be prepared for various outcomes. (17)</li>\n    <li>Prepare a public statement addressing the RTC driver's death and the government's response to mitigate negative public perception. (18, 19, 20)</li>\n    <li>Coordinate with the police to monitor and manage the situation at the bus depot in Warangal. (15)</li>\n    <li>Prepare for potential legal challenges related to the invocation of UAPA. (14)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Warangal:</b> Immediate attention is required due to escalating tensions and the demand to take the deceased driver's remains to the bus depot. (15)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34.3°C",
+      "humidity": "27%",
+      "wind": "2.3 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 77,
+      "pm25": 36,
+      "goldPerGram": "₹9,077",
+      "newsCount": 45,
+      "topHeadlines": [
+        "Telangana | Revanth's temple revamp - India Today",
+        "BJP accuses Telangana government of negligence after RTC driver suicide - The News Mill",
+        "Telangana Plans Mega Eco-Town Near Hyderabad On 494 Acres At Banda Raviryala - ETV Bharat",
+        "Etela Rajender Warns Revanth Reddy Over RTC Strike Compares with KCR Outcome - The South India Times",
+        "RTC driver who set himself ablaze during strike dies; CM Revanth Reddy assures support to family - Mathrubhumi English"
+      ]
+    }
   }
 ]
