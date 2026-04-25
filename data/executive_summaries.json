@@ -6171,5 +6171,28 @@
         "Skyroot flags-off Vikram-1, India’s first private orbital launch soon - The Indian Express"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-25T22:39:07.633Z",
+    "timestampIST": "26/4/2026, 4:09:07 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy flagged off Skyroot Aerospace's Vikram 1 rocket hardware in Rangareddy, aiming to establish Telangana as a global aerospace hub. 47 Maoist cadres from Chhattisgarh surrendered to Telangana Police.  The Telangana government granted an 11% pay hike to RTC employees.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy flagged off Skyroot Aerospace's Vikram 1 rocket hardware in Rangareddy, aiming to establish Telangana as a global aerospace hub. 47 Maoist cadres from Chhattisgarh surrendered to Telangana Police.  The Telangana government granted an 11% pay hike to RTC employees.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Babbar Khalsa’s new strategy: Radicalise rural Punjab, hit urban targets - Telangana Today [Telangana Today]</span></li>\n  <li><span class=\"risk-low\">The weakening of the South Bastar network following the surrender of 47 Maoists from Chhattisgarh. [Organiser, The Siasat Daily]</span></li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's focus on aerospace (Headlines 1, 2, 7, 8, 14, 15, 18, 20) aligns with the state's ambition to become a global hub.</li>\n  <li>The surrender of 47 Maoists (Headlines 9, 13) indicates a potential shift in security dynamics.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor developments related to Babbar Khalsa's new strategy, particularly any potential impact on urban areas.</li>\n  <li>Assess the implications of the surrender of 47 Maoists on regional security and law enforcement resource allocation.</li>\n  <li>Review and update security protocols in light of the potential for Babbar Khalsa activity.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>Rangareddy: Due to the launch of the Vikram 1 rocket hardware. (Headlines 1, 14, 18)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "27.9°C",
+      "humidity": "57%",
+      "wind": "5.2 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 73,
+      "pm25": 17.9,
+      "goldPerGram": "₹9,091",
+      "newsCount": 39,
+      "topHeadlines": [
+        "CM Revanth Reddy flags off Skyroot’s Vikram 1 rocket hardware in Rangareddy #Gallery - Social News XYZ",
+        "Telangana aims to become global aerospace hub: Revanth - The Times of India",
+        "BJP Chief Slams BRS, Congress; Predicts Party’s Rise in Telangana - Deccan Chronicle",
+        "Telangana Neta Natter | Revanth’s Breakfast Gives BJP Acidity - Deccan Chronicle",
+        "Telangana: Congress leaders laud CM Revanth Reddy after RTC deal win - Asianet Newsable"
+      ]
+    }
   }
 ]
