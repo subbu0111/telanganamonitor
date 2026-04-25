@@ -5987,5 +5987,28 @@
         "Kavitha to launch new party on April 25 - The Times of India"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-25T07:20:51.219Z",
+    "timestampIST": "25/4/2026, 12:50:51 pm",
+    "executiveSummary": "<p>K. Kavitha launched a new political party, 'Telangana Rashtra Sena' and 'Telangana Praja Jagruthi' today in Hyderabad (1, 2, 5, 7, 13). The RTC strike has been called off, with thousands of buses returning to the roads today (6, 9). Telangana ministers will take a 50% pay cut to settle employee dues (8, 11, 20). CV Anand is set to become the new Telangana DGP (16).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>K. Kavitha launched a new political party, 'Telangana Rashtra Sena' and 'Telangana Praja Jagruthi' today in Hyderabad (1, 2, 5, 7, 13). The RTC strike has been called off, with thousands of buses returning to the roads today (6, 9). Telangana ministers will take a 50% pay cut to settle employee dues (8, 11, 20). CV Anand is set to become the new Telangana DGP (16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> K. Kavitha's new party launch could potentially disrupt the existing political landscape. (1, 2, 3, 5, 7, 13)</li>\n    <li><span class=\"risk-medium\">Public Sentiment:</span> The BJP alleges \"negligence\" by the Telangana government regarding an RTC driver suicide incident (10, 19).</li>\n    <li><span class=\"risk-low\">Law and Order:</span> A car flipped over in Filmnagar, Hyderabad; driver surrendered (4).</li>\n    <li><span class=\"risk-low\">Potential for Discontent:</span> The invocation of UAPA against a TeluguScribe handle for criticizing the Congress government (15).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The RTC strike being called off (6, 9) and the government's action to settle employee dues by cutting ministers' salaries (8, 11, 20) are connected.</li>\n    <li>K. Kavitha's new party launch (1, 2, 3, 5, 7, 13) and the BJP's criticism of the government (10) may indicate a shift in political dynamics.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the activities and public statements of K. Kavitha's new party closely (1, 2, 3, 5, 7, 13).</li>\n    <li>Assess the public reaction to the RTC driver suicide and the government's response (10, 19).</li>\n    <li>Ensure smooth transition and handover of responsibilities with the incoming DGP, CV Anand (16).</li>\n    <li>Review the application of UAPA and ensure due process is followed (15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the launch of K. Kavitha's new party (1, 2, 3, 5, 7, 13) and the car accident in Filmnagar (4), increased police presence and vigilance are recommended.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37.6°C",
+      "humidity": "20%",
+      "wind": "2.4 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 76,
+      "pm25": 41.4,
+      "goldPerGram": "₹9,091",
+      "newsCount": 23,
+      "topHeadlines": [
+        "Seven months after quitting BRS, K Kavitha launches new party ‘Telangana Rashtra Sena’ - Mangalore Today",
+        "K Kavitha launches ‘Telangana Praja Jagruthi’ today, marks new political innings - Mathrubhumi English",
+        "K Kavitha pays tribute to 1969 agitation martyrs, to launch political outfit today - Awaz The Voice",
+        "Hyderabad: Car flips at Filmnagar, driver surrenders - The Siasat Daily",
+        "Kavitha New Party Launch Starts in Hyderabad - INDToday"
+      ]
+    }
   }
 ]
