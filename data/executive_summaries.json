@@ -6056,5 +6056,28 @@
         "Telangana prepares for aerospace leadership with Skyroot's Vikram-1 - The News Mill"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-25T13:09:14.129Z",
+    "timestampIST": "25/4/2026, 6:39:14 pm",
+    "executiveSummary": "<p>K. Kavitha launched a new political party, the 'Telangana Praja Jagruthi' (20), today, seven months after leaving the BRS (19). Chief Minister Revanth Reddy flagged off Skyroot Aerospace's Vikram-1 rocket hardware in Rangareddy (8), positioning Telangana as a global aerospace hub (6, 10, 13). The TGSRTC Staff and Workers Union thanked the CM for accepting their demands (4).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>K. Kavitha launched a new political party, the 'Telangana Praja Jagruthi' (20), today, seven months after leaving the BRS (19). Chief Minister Revanth Reddy flagged off Skyroot Aerospace's Vikram-1 rocket hardware in Rangareddy (8), positioning Telangana as a global aerospace hub (6, 10, 13). The TGSRTC Staff and Workers Union thanked the CM for accepting their demands (4).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> The launch of K. Kavitha's new party, 'Telangana Praja Jagruthi', could potentially shift the political landscape. (2, 7, 15, 19, 20)</li>\n    <li><span class=\"risk-low\">Legal:</span> Telangana High Court issued notices in a Nanakramguda land case. (18)</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> Revanth Reddy averted a major backlash at the last minute. (12)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>K. Kavitha's new party launch (2, 7, 15, 19, 20) is a direct consequence of her departure from the BRS (2).</li>\n    <li>The CM's involvement in the Vikram-1 launch (3, 6, 8, 9, 10, 13, 14) highlights the state's focus on aerospace and economic development.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the activities and public statements of K. Kavitha and her new party, 'Telangana Praja Jagruthi'.</li>\n    <li>Assess the potential impact of the Nanakramguda land case on public perception and government operations.</li>\n    <li>Prepare a communication strategy to highlight the government's achievements in aerospace and other key sectors.</li>\n    <li>Review and address any remaining concerns from the TGSRTC Staff and Workers Union.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Rangareddy:</b> Due to the CM's involvement in the Vikram-1 launch (8) and the ongoing aerospace initiatives.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36.3°C",
+      "humidity": "23%",
+      "wind": "8.2 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 79,
+      "pm25": 42.7,
+      "goldPerGram": "₹9,091",
+      "newsCount": 36,
+      "topHeadlines": [
+        "India discusses energy cooperation with Nepal’s new govt - Telangana Today",
+        "Video | Months After BRS Exit, K. Kavitha Launches New Party 'TRS' - NDTV",
+        "CM Revanth flags off India's first pvt orbital rocket Vikram-1 at Skyroot Aerospace - The Times of India",
+        "TGSRTC Staff, Workers Union Thank CM Revanth For Accepting Their Demands - Deccan Chronicle",
+        "Built in Hyderabad, Skyroot’s Vikram-1 readies for orbit - The Siasat Daily"
+      ]
+    }
   }
 ]
