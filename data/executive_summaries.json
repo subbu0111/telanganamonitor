@@ -6010,5 +6010,28 @@
         "Kavitha New Party Launch Starts in Hyderabad - INDToday"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-25T08:56:00.081Z",
+    "timestampIST": "25/4/2026, 2:26:00 pm",
+    "executiveSummary": "<p>K Kavitha launched a new political party, 'Telangana Praja Jagruthi', today in Hyderabad. The RTC strike has been called off, with thousands of buses returning to the roads. The Telangana government ministers will implement a 50% pay cut to settle employee dues.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>K Kavitha launched a new political party, 'Telangana Praja Jagruthi', today in Hyderabad. The RTC strike has been called off, with thousands of buses returning to the roads. The Telangana government ministers will implement a 50% pay cut to settle employee dues.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> K Kavitha's new party launch could potentially disrupt the existing political landscape. (Headlines 3, 5, 6, 7, 8, 9, 11, 17)</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> BJP alleges \"negligence\" by the Telangana government in an RTC driver suicide incident. (Headline 14)</li>\n    <li><span class=\"risk-low\">UAPA Application:</span> Telangana Police invoked UAPA to trace a TeluguScribe handle. (Headline 19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The RTC strike being called off (Headline 10, 13) and the government's decision to implement a 50% pay cut for ministers (Headlines 12, 15) are likely connected, as the pay cut is to settle employee dues.</li>\n    <li>K Kavitha's new party launch (Headlines 3, 5, 6, 7, 8, 9, 11, 17) and the BJP's criticism of the government (Headline 14) could indicate increased political activity and potential opposition.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the activities and public statements of K Kavitha and her new party, 'Telangana Praja Jagruthi'.</li>\n    <li>Assess the public sentiment regarding the RTC driver suicide incident and BJP's allegations.</li>\n    <li>Review the legal basis and implications of the UAPA application.</li>\n    <li>Ensure smooth implementation of the revised land market values from May. (Headline 16)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the launch of K Kavitha's new party (Headlines 3, 5, 6, 7, 8, 9, 11, 17) and the location of Skyroot's rocket launch (Headline 2).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "38.9°C",
+      "humidity": "19%",
+      "wind": "6.8 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 76,
+      "pm25": 43.7,
+      "goldPerGram": "₹9,091",
+      "newsCount": 25,
+      "topHeadlines": [
+        "Telangana Poised to Become Global Aerospace Leader: Revanth Reddy - Deccan Chronicle",
+        "Skyroot’s rocket sets off for Sriharikota from Hyderabad - BusinessLine",
+        "Telangana: K Kavitha set to launch new regional party today, pays tribute to Telangana martyrs - The Times of India",
+        "IPL 2026: Will Pat Cummins Play Today’s Rajasthan Royals vs Sunrisers Hyderabad Match? - lokmattimes.com",
+        "Seven months after quitting BRS, K Kavitha launches new party ‘Telangana Rashtra Sena’ - Mangalore Today"
+      ]
+    }
   }
 ]
