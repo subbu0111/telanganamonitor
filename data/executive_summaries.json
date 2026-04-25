@@ -6079,5 +6079,28 @@
         "Built in Hyderabad, Skyroot’s Vikram-1 readies for orbit - The Siasat Daily"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-25T14:43:45.149Z",
+    "timestampIST": "25/4/2026, 8:13:45 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy flagged off Skyroot Aerospace's Vikram-1 rocket in Rangareddy, Hyderabad (3, 8, 13). 47 Maoist cadres from Chhattisgarh surrendered to Telangana Police (2). K. Kavitha launched a new party, 'TRS' (7, 12).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy flagged off Skyroot Aerospace's Vikram-1 rocket in Rangareddy, Hyderabad (3, 8, 13). 47 Maoist cadres from Chhattisgarh surrendered to Telangana Police (2). K. Kavitha launched a new party, 'TRS' (7, 12).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for increased activity by Babbar Khalsa, targeting urban areas, as per Telangana Today (1).</span></li>\n    <li><span class=\"risk-low\">Political implications of K. Kavitha launching a new party, 'TRS' (7, 12).</span></li>\n    <li><span class=\"risk-low\">Unspecified \"major backlash\" averted by Revanth Reddy (17).</span></li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The launch of Skyroot's Vikram-1 rocket (3, 4, 8, 10, 11, 13, 14, 15, 18, 19) highlights Telangana's ambition to become a global aerospace hub (11, 15, 18).</li>\n    <li>The surrender of Maoist cadres (2) may require coordination with Chhattisgarh authorities.</li>\n    <li>The TGSRTC Staff, Workers Union thanking CM Revanth (9) suggests a resolution of labor demands.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor developments related to Babbar Khalsa's potential activities, as reported by Telangana Today (1).</li>\n    <li>Assess the implications of K. Kavitha's new party, 'TRS', and its potential impact on the political landscape (7, 12).</li>\n    <li>Review security protocols in urban areas, given the potential threat mentioned in headline 1.</li>\n    <li>Maintain vigilance regarding any potential unrest or backlash averted by the CM (17).</li>\n    <li>Coordinate with Chhattisgarh authorities regarding the surrendered Maoist cadres (2).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Rangareddy:</b> Due to the launch of Skyroot's Vikram-1 rocket (13).</li>\n    <li><b>Areas bordering Chhattisgarh:</b> Due to the surrender of Maoist cadres (2).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34.5°C",
+      "humidity": "26%",
+      "wind": "7 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 79,
+      "pm25": 45.4,
+      "goldPerGram": "₹9,091",
+      "newsCount": 39,
+      "topHeadlines": [
+        "Babbar Khalsa’s new strategy: Radicalise rural Punjab, hit urban targets - Telangana Today",
+        "47 Maoist cadres from Chhattisgarh surrender before Telangana Police - The Siasat Daily",
+        "Telangana CM flags off Vikram-1, India’s first private orbital launch vehicle - Deccan Herald",
+        "Skyroot's Vikram-1 rocket heads to Sriharikota for launch later this year - Business Standard",
+        "Public participation key to sports development, says Vakiti Srihari - Telangana Today"
+      ]
+    }
   }
 ]
