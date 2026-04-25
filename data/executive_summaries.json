@@ -6033,5 +6033,28 @@
         "Seven months after quitting BRS, K Kavitha launches new party ‘Telangana Rashtra Sena’ - Mangalore Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-25T10:47:18.144Z",
+    "timestampIST": "25/4/2026, 4:17:18 pm",
+    "executiveSummary": "<p>K. Kavitha launched a new political party, 'Telangana Praja Jagruthi', today in Hyderabad (13, 16, 18). The Chief Minister flagged off Skyroot's Vikram-1 rocket hardware from Rangareddy, which is en route to Sriharikota (2, 3, 9). The RTC strike has been called off, and thousands of buses are returning to Telangana roads (17, 20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>K. Kavitha launched a new political party, 'Telangana Praja Jagruthi', today in Hyderabad (13, 16, 18). The Chief Minister flagged off Skyroot's Vikram-1 rocket hardware from Rangareddy, which is en route to Sriharikota (2, 3, 9). The RTC strike has been called off, and thousands of buses are returning to Telangana roads (17, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> K. Kavitha's new party launch could potentially shift the political landscape (1, 10, 12, 13, 14, 15, 16, 18).</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> The implementation of a 50% pay cut for Telangana Ministers to settle employee dues could lead to negative public perception (19).</li>\n    <li><span class=\"risk-low\">Aerospace Sector Vulnerability:</span> The launch of Skyroot's rocket hardware to Sriharikota could face unforeseen challenges (2, 3, 4, 5, 8, 9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The launch of Skyroot's Vikram-1 rocket hardware (2, 3, 4, 5, 8, 9) highlights Telangana's ambition to become a global aerospace leader (5, 8).</li>\n    <li>The RTC strike being called off (17, 20) indicates a resolution between the government and transport unions.</li>\n    <li>K. Kavitha's new party launch (1, 10, 12, 13, 14, 15, 16, 18) and the Azharuddin MLC approval (6) could influence the political dynamics of the state.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the activities and public response related to K. Kavitha's new party launch (1, 10, 12, 13, 14, 15, 16, 18).</li>\n    <li>Assess the public reaction to the Ministers' pay cut and its impact on government employee morale (19).</li>\n    <li>Ensure smooth transport operations following the RTC strike's resolution (17, 20).</li>\n    <li>Provide necessary support and security for the Skyroot's Vikram-1 rocket hardware transportation to Sriharikota (2, 3, 9).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Rangareddy:</b> Focus on security and logistics related to the Skyroot rocket hardware movement, as the CM flagged off the rocket from there (2, 3).</li>\n    <li><b>Hyderabad:</b> Monitor political activities related to K. Kavitha's party launch (1, 10, 12, 13, 14, 15, 16, 18).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37.7°C",
+      "humidity": "20%",
+      "wind": "10.6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 79,
+      "pm25": 39.9,
+      "goldPerGram": "₹9,091",
+      "newsCount": 29,
+      "topHeadlines": [
+        "Kavitha launches new party - newstodaynet.com",
+        "Telangana CM flags off flight hardware of Skyroot's Vikram-1 orbital rocket to Sriharikota - DT Next",
+        "CM Revanth Reddy flags off Skyroot’s Vikram 1 rocket hardware in Rangareddy #Gallery - Social News XYZ",
+        "India’s first privately developed rocket begins its journey from Hyderabad - Telangana Today",
+        "Telangana prepares for aerospace leadership with Skyroot's Vikram-1 - The News Mill"
+      ]
+    }
   }
 ]
