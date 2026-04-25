@@ -6102,5 +6102,28 @@
         "Public participation key to sports development, says Vakiti Srihari - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-25T16:45:28.930Z",
+    "timestampIST": "25/4/2026, 10:15:28 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy flagged off Skyroot Aerospace's Vikram-1 rocket hardware in Rangareddy, positioning Telangana as a global aerospace hub (3, 9, 14, 17, 20). 47 Maoist cadres from Chhattisgarh surrendered in Telangana (4, 8).</p>\n<p>K. Kavitha launched a new party (13, 18).</p>\n<p>CV Anand is set to become DGP as Shivadhar Reddy retires (6).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy flagged off Skyroot Aerospace's Vikram-1 rocket hardware in Rangareddy, positioning Telangana as a global aerospace hub (3, 9, 14, 17, 20). 47 Maoist cadres from Chhattisgarh surrendered in Telangana (4, 8).</p>\n<p>K. Kavitha launched a new party (13, 18).</p>\n<p>CV Anand is set to become DGP as Shivadhar Reddy retires (6).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> The launch of a new party by K. Kavitha could potentially impact the political landscape. (13, 18)</li>\n    <li><span class=\"risk-low\">Security:</span> The surrender of 47 Maoist cadres may indicate a shift in the security situation, requiring monitoring of the South Bastar network. (4, 8)</li>\n    <li><span class=\"risk-low\">Security:</span> Babbar Khalsa's new strategy includes targeting urban areas. (7)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on the aerospace sector (2, 3, 9, 14, 17, 20) aligns with the launch of Skyroot's Vikram-1, a privately developed orbital launch vehicle built in Hyderabad (1, 16, 19).</li>\n    <li>The surrender of Maoist cadres (4, 8) suggests a potential weakening of their network, which may require adjustments in policing strategies.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the activities of K. Kavitha's newly launched party and assess its potential impact on the political environment.</li>\n    <li>Review and adjust security protocols in urban areas, considering the Babbar Khalsa's new strategy.</li>\n    <li>Assess the operational readiness and security measures at the launch site of Vikram-1 in Sriharikota.</li>\n    <li>Conduct a thorough debriefing of the surrendered Maoist cadres to gather intelligence on their network and activities.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Rangareddy:</b> Due to the launch of Vikram-1, and the CM's presence. (3, 9, 14, 17, 20)</li>\n    <li><b>Areas bordering Chhattisgarh:</b> Increased vigilance and intelligence gathering are needed due to the surrender of Maoist cadres. (4, 8)</li>\n</ul>\n```\n",
+    "dataSnapshot": {
+      "temperature": "32.4°C",
+      "humidity": "32%",
+      "wind": "6.8 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 78,
+      "pm25": 44.7,
+      "goldPerGram": "₹9,091",
+      "newsCount": 40,
+      "topHeadlines": [
+        "Skyroot flags-off Vikram-1, India’s first private orbital launch soon - The Indian Express",
+        "Revanth: Telangana Poised to Become Global Leader in Aerospace Sector - Deccan Chronicle",
+        "CM Revanth Reddy flags off Skyroot’s Vikram 1 rocket hardware in Rangareddy #Gallery - Social News XYZ",
+        "47 Maoists from Chhattisgarh surrender in Telangana, South Bastar network weakens - Organiser",
+        "Narayana Educational Institutions announces 38 new campuses across India - Telangana Today"
+      ]
+    }
   }
 ]
