@@ -6309,5 +6309,28 @@
         "Census 2027: CM Revanth Reddy kicks off self-enumeration in Telangana - Asianet Newsable"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-26T14:46:51.864Z",
+    "timestampIST": "26/4/2026, 8:16:51 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has initiated self-enumeration for the Census 2027 and is pushing for the expansion of Prajavani services to the grassroots level across Telangana (4, 6, 7, 8, 9, 10, 11, 12, 13, 14). A 19-year-old was killed in a road accident in Hyderabad (2).  KTR predicts BRS will come to power in the next elections (1).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has initiated self-enumeration for the Census 2027 and is pushing for the expansion of Prajavani services to the grassroots level across Telangana (4, 6, 7, 8, 9, 10, 11, 12, 13, 14). A 19-year-old was killed in a road accident in Hyderabad (2).  KTR predicts BRS will come to power in the next elections (1).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BJP leader claims CM Revanth Reddy is funding K Kavitha's Telangana Rashtra Sena to split votes (20).</li>\n    <li><span class=\"risk-medium\">Public Grievance Backlog:</span>  Expansion of Prajavani services is being prioritized, suggesting existing issues with grievance redressal (3, 10, 11, 12, 13, 14).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A 19-year-old pillion rider was killed in a road accident in Hyderabad (2).</li>\n    <li><span class=\"risk-low\">Environmental Concerns:</span> Four Telangana cities are among the world’s 100 hottest places amid a heatwave (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on expanding Prajavani services (3, 10, 11, 12, 13, 14) suggests a potential need to address public grievances, which could be linked to political opposition or public dissatisfaction.</li>\n    <li>The CM's participation in the Census 2027 self-enumeration (4, 6, 7, 8, 9) indicates a focus on upcoming governmental initiatives.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the implementation and effectiveness of the Prajavani expansion at the revenue division and mandal levels (13).</li>\n    <li>Assess the veracity of the BJP leader's claims regarding funding of K Kavitha's party and potential impact on political stability (20).</li>\n    <li>Review road safety measures in Hyderabad, following the reported fatal accident (2).</li>\n    <li>Prepare for potential public health challenges related to the ongoing heatwave (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Immediate attention is needed to address road safety concerns following the reported fatal accident (2).</li>\n    <li><b>All Districts:</b> Monitor the rollout of Prajavani services across all districts to ensure effective grievance redressal (3, 10, 11, 12, 13, 14).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35°C",
+      "humidity": "27%",
+      "wind": "6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 64,
+      "pm25": 60.1,
+      "goldPerGram": "₹9,091",
+      "newsCount": 42,
+      "topHeadlines": [
+        "Next elections will see BRS come to power: KTR - Telangana Today",
+        "19-year-old pillion rider killed in road accident in Hyderabad - Telangana Today",
+        "Prajavani services to be extended at grassroots level across Telangana - The Hans India",
+        "Telangana CM Revanth Reddy completes self-enumeration for Census 2027 - The Hans India",
+        "Bandi Sanjay Counters Revanth Reddy on Delimitation - INDToday"
+      ]
+    }
   }
 ]
