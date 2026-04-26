@@ -6332,5 +6332,28 @@
         "Bandi Sanjay Counters Revanth Reddy on Delimitation - INDToday"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-26T16:47:41.838Z",
+    "timestampIST": "26/4/2026, 10:17:41 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has initiated self-enumeration for the 2027 Census and is urging public participation (6, 8, 9, 10, 11). The CM has also ordered the expansion of Prajavani services to the grassroots level (5, 12, 13, 14, 15).  Two fatal road accidents were reported in Hyderabad and Balanagar (1, 4).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has initiated self-enumeration for the 2027 Census and is urging public participation (6, 8, 9, 10, 11). The CM has also ordered the expansion of Prajavani services to the grassroots level (5, 12, 13, 14, 15).  Two fatal road accidents were reported in Hyderabad and Balanagar (1, 4).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Safety:</span> Two fatal road accidents reported in Hyderabad and Balanagar (1, 4).</li>\n    <li><span class=\"risk-low\">Political:</span> BJP leader claims CM Revanth Reddy is funding K Kavitha's Telangana Rashtra Sena to split votes (20).</li>\n    <li><span class=\"risk-low\">Public Health:</span> Four Telangana cities are among the world’s 100 hottest places amid a heatwave (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's involvement in the Census 2027 self-enumeration (6, 8, 9, 10, 11) and the expansion of Prajavani services (5, 12, 13, 14, 15) could be seen as efforts to connect with the public and address their concerns.</li>\n    <li>The announcement of free sewing machines for BC women (18) could be seen as a welfare initiative.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the police to increase road safety measures in Hyderabad and Balanagar, focusing on accident-prone areas (1, 4).</li>\n    <li>Monitor public sentiment regarding the allegations of political funding (20).</li>\n    <li>Issue public health advisories regarding the heatwave and provide necessary support to the affected cities (19).</li>\n    <li>Ensure the effective implementation of the Prajavani expansion at the grassroots level (5, 12, 13, 14, 15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad and Balanagar:</b> Immediate attention needed due to the reported fatal road accidents (1, 4).</li>\n    <li><b>Cities experiencing extreme heat:</b> Monitor and provide support in the cities listed among the world's 100 hottest places (19).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34°C",
+      "humidity": "29%",
+      "wind": "6.9 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 65,
+      "pm25": 66.8,
+      "goldPerGram": "₹9,091",
+      "newsCount": 37,
+      "topHeadlines": [
+        "Pedestrian killed in lorry accident at Balanagar - Telangana Today",
+        "Prof Kodandaram, Azharuddin nominated as MLCs under Governor’s quota - The Siasat Daily",
+        "Next elections will see BRS come to power: KTR - Telangana Today",
+        "19-year-old pillion rider killed in road accident in Hyderabad - Telangana Today",
+        "Prajavani services to be extended at grassroots level across Telangana - The Hans India"
+      ]
+    }
   }
 ]
