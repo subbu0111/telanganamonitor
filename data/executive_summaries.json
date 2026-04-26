@@ -6263,5 +6263,28 @@
         "Amid heatwave, four Telangana cities rank in world’s 100 hottest places - The Siasat Daily"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-26T10:48:46.715Z",
+    "timestampIST": "26/4/2026, 4:18:46 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy ordered the expansion of Prajavani services to the grassroots level (1, 2, 3, 4, 5). The CM also flagged off India's first private orbital rocket, Vikram-1, for Sriharikota (16, 17, 18, 20).  BJP leaders have alleged that CM Reddy is funding K Kavitha's Telangana Rashtra Sena to split votes (11, 12, 13, 14).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy ordered the expansion of Prajavani services to the grassroots level (1, 2, 3, 4, 5). The CM also flagged off India's first private orbital rocket, Vikram-1, for Sriharikota (16, 17, 18, 20).  BJP leaders have alleged that CM Reddy is funding K Kavitha's Telangana Rashtra Sena to split votes (11, 12, 13, 14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> Allegations of CM Reddy funding a rival political party (TRS) could lead to increased political tensions and potential disruptions. (11, 12, 13, 14)</li>\n  <li><span class=\"risk-low\">Public Grievance Backlog:</span>  Expansion of Prajavani services indicates a focus on grievance redressal, suggesting potential for existing backlogs or public dissatisfaction. (1, 2, 3, 4, 5)</li>\n  <li><span class=\"risk-low\">Heatwave Impact:</span> Four Telangana cities are among the world's 100 hottest places, potentially impacting public health and infrastructure. (10)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The expansion of Prajavani services (1, 2, 3, 4, 5) indicates the government's focus on addressing citizen grievances, potentially related to land issues (9).</li>\n  <li>The CM's focus on aerospace (7, 15) is highlighted by the launch of the Vikram-1 rocket (16, 17, 18, 20), showcasing the state's ambition in the sector.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the political situation closely, especially regarding the allegations of CM Reddy's involvement with TRS. (11, 12, 13, 14)</li>\n  <li>Ensure efficient implementation of the Prajavani expansion to address grievances effectively. (1, 2, 3, 4, 5)</li>\n  <li>Assess and mitigate the impact of the ongoing heatwave in affected cities. (10)</li>\n  <li>Provide support and resources for the census rollout starting today. (19)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>Focus on districts with high temperatures, as four cities are among the world's hottest. (10)</li>\n  <li>Monitor districts where the Prajavani services are being expanded to ensure effective implementation. (1, 2, 3, 4, 5)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "38°C",
+      "humidity": "22%",
+      "wind": "11.1 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 70,
+      "pm25": 34.2,
+      "goldPerGram": "₹9,091",
+      "newsCount": 44,
+      "topHeadlines": [
+        "Prajavani services to be extended to grassroots in Telangana: CM Reddy| India News - Hindustan Times",
+        "CM Revanth Reddy calls for expansion of Prajavani Services - The Hans India",
+        "Telangana to Take \"Prajavani\" to Doorsteps, CM Revanth Reddy warns 'no delays' - NewsMeter",
+        "Extend Prajavani to revenue division level and mandal level for speedy grievance redressal: CM - The Hindu",
+        "Telangana CM orders expansion of Praja Vani to grassroots level - siasat.com"
+      ]
+    }
   }
 ]
