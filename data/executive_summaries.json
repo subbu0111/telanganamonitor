@@ -6286,5 +6286,28 @@
         "Telangana CM orders expansion of Praja Vani to grassroots level - siasat.com"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-26T13:11:36.627Z",
+    "timestampIST": "26/4/2026, 6:41:36 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has initiated self-enumeration for the 2027 Census. The CM has also ordered the expansion of Prajavani services to the grassroots level across Telangana. A 19-year-old pillion rider was killed in a road accident in Hyderabad.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has initiated self-enumeration for the 2027 Census. The CM has also ordered the expansion of Prajavani services to the grassroots level across Telangana. A 19-year-old pillion rider was killed in a road accident in Hyderabad.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BJP leaders claim CM Revanth Reddy is funding K Kavitha's party to split BRS votes. (Headlines 19, 20)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A 19-year-old was killed in a road accident in Hyderabad. (Headline 1)</li>\n    <li><span class=\"risk-low\">Public Health:</span> Four Telangana cities are among the world’s 100 hottest places amid a heatwave. (Headline 18)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's participation in the Census 2027 self-enumeration (Headlines 3, 5, 6, 7, 8) and the expansion of Prajavani services (Headlines 2, 9, 10, 11, 12, 13) demonstrate the government's focus on citizen engagement and data collection.</li>\n    <li>The BJP's claims regarding CM Revanth Reddy's alleged funding of K Kavitha's party (Headlines 19, 20) could potentially impact the political landscape.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political situation closely, particularly regarding the allegations of CM funding K Kavitha's party.</li>\n    <li>Ensure the effective and timely implementation of the Prajavani expansion to the grassroots level.</li>\n    <li>Review and enhance road safety measures in Hyderabad and other urban areas.</li>\n    <li>Issue public health advisories and support measures for citizens in the face of the ongoing heatwave.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the reported road accident (Headline 1).</li>\n    <li><b>All Districts:</b> Focus on implementing Prajavani services at the grassroots level (Headlines 2, 9, 10, 11, 12, 13).</li>\n    <li><b>All Districts:</b> Monitor and provide support to citizens during the heatwave (Headline 18).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35.7°C",
+      "humidity": "26%",
+      "wind": "10.4 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 64,
+      "pm25": 46,
+      "goldPerGram": "₹9,091",
+      "newsCount": 46,
+      "topHeadlines": [
+        "19-year-old pillion rider killed in road accident in Hyderabad - Telangana Today",
+        "Prajavani services to be extended at grassroots level across Telangana - The Hans India",
+        "Telangana CM Revanth Reddy completes self-enumeration for Census 2027 - The Hans India",
+        "Bandi Sanjay Counters Revanth Reddy on Delimitation - INDToday",
+        "Census 2027: CM Revanth Reddy kicks off self-enumeration in Telangana - Asianet Newsable"
+      ]
+    }
   }
 ]
