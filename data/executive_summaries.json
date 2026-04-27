@@ -6487,5 +6487,28 @@
         "Mohammed Azharuddin, Kodanda Rama Reddy take oath as Telangana MLCs - Asianet Newsable"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-27T13:59:16.300Z",
+    "timestampIST": "27/4/2026, 7:29:16 pm",
+    "executiveSummary": "<p>The Telangana government launched SPANDANA Teams to respond to women and children emergencies (1). The Telangana Assembly is slated for an upgrade, modeled after the Indian Parliament (4, 8).  Mohammed Azharuddin and Prof. Kodandaram were sworn in as MLCs (9, 12, 13, 16, 17, 19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government launched SPANDANA Teams to respond to women and children emergencies (1). The Telangana Assembly is slated for an upgrade, modeled after the Indian Parliament (4, 8).  Mohammed Azharuddin and Prof. Kodandaram were sworn in as MLCs (9, 12, 13, 16, 17, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Weather:</span> IMD predicts thunderstorms and potential relief from the heat in Hyderabad by evening (11, 18).</li>\n    <li><span class=\"risk-low\">Assembly Security:</span> Revanth Reddy stated that Assembly security must be strengthened (15).</li>\n    <li><span class=\"risk-low\">Political:</span> BRS's future in Telangana is questioned by Revanth Reddy (10).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The swearing-in of Azharuddin and Kodandaram as MLCs (9, 12, 13, 16, 17, 19) is directly linked to the political landscape and potentially impacts the BRS party (10, 14).</li>\n    <li>The CM's desire to upgrade the Assembly (4, 8) may require increased security measures, as highlighted by Revanth Reddy (15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor weather updates from IMD closely and prepare for potential thunderstorms in Hyderabad (11, 18).</li>\n    <li>Assess and enhance Assembly security measures, as per Revanth Reddy's statement (15).</li>\n    <li>Review the implementation of the Indiramma housing scheme, given the decentralization and acceleration efforts (5, 7).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor weather conditions and prepare for potential thunderstorms (11, 18).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36.3°C",
+      "humidity": "25%",
+      "wind": "10.4 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 68,
+      "pm25": 45.4,
+      "goldPerGram": "₹9,091",
+      "newsCount": 47,
+      "topHeadlines": [
+        "Telangana launches SPANDANA Teams to respond to women, children emergencies - The Siasat Daily",
+        "India-New Zealand free trade agreement: An explainer - Telangana Today",
+        "India’s new online gaming rules 2026: What has changed? - Telangana Today",
+        "Telangana Assembly to be upgraded on lines of Indian Parliament: CM - Asianet Newsable",
+        "Telangana decentralises Indiramma housing scheme, more powers for Collectors - The Siasat Daily"
+      ]
+    }
   }
 ]
