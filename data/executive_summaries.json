@@ -6556,5 +6556,28 @@
         "BRS urges Telangana CM Revanth Reddy to maintain office dignity - The News Mill"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-27T21:04:50.526Z",
+    "timestampIST": "28/4/2026, 2:34:50 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has vowed to combat drug trafficking and abuse, stating no one, including celebrities, will be spared in drug cases (2, 10, 11, 15). The government is pushing for a CBI probe into the Kaleshwaram project (1). The CM also announced plans to promote Hyderabad as a medical tourism hub and establish a new Health City in Future City (3, 4, 16).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has vowed to combat drug trafficking and abuse, stating no one, including celebrities, will be spared in drug cases (2, 10, 11, 15). The government is pushing for a CBI probe into the Kaleshwaram project (1). The CM also announced plans to promote Hyderabad as a medical tourism hub and establish a new Health City in Future City (3, 4, 16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Potential for political backlash from BRS following CM Revanth Reddy's statements about the party's future and calls for dignity of office (6, 7, 9, 12, 19).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Public perception and potential unrest related to drug cases, particularly if high-profile individuals are implicated (2, 10, 11, 15).</li>\n    <li><span class=\"risk-low\">LOW:</span> Possible delays or disruptions related to the ongoing sewage line work in Yousufguda (18).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on combating drug trafficking (11, 15) is linked to his statement that no one will be spared in drug cases (2, 10).</li>\n    <li>The CM's statements about the BRS's future (9, 12, 14, 19) are directly countered by BRS's actions to reconstitute party committees (17).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review and enhance security protocols at the Secretariat following the fire safety mock drill (20).</li>\n    <li>Prepare a public communication strategy to address potential fallout from drug investigations, particularly regarding high-profile individuals.</li>\n    <li>Monitor BRS activities and public statements closely, especially regarding their response to the CM's remarks (6, 7, 9, 12, 14, 17, 19).</li>\n    <li>Expedite the process of seeking Centre's approval for Middle East patient flights to Hyderabad (8).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on Hyderabad due to the CM's initiatives to promote it as a medical tourism hub and the planned establishment of a new Health City (3, 4, 16). Also, monitor the drug situation in the city.</li>\n    <li><b>Yousufguda (Hyderabad):</b> Monitor the progress of the sewage line work in Yousufguda (18).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.5°C",
+      "humidity": "51%",
+      "wind": "7.5 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 68,
+      "pm25": 39.3,
+      "goldPerGram": "₹9,086",
+      "newsCount": 63,
+      "topHeadlines": [
+        "Telangana govt steps up push for CBI probe into Kaleshwaram project - The Siasat Daily",
+        "Government will not spare influential persons, politicians and celebrities if caught in drug cases: Revanth Reddy - Telangana Today",
+        "Govt to promote Hyderabad as medical tourism hub: T'gana CM - ABP News",
+        "Govt to promote Hyderabad as medical tourism hub: T’gana CM - ThePrint",
+        "Revanth Reddy Slam BJP on Women Reservation and Delimitation - INDToday"
+      ]
+    }
   }
 ]
