@@ -6464,5 +6464,28 @@
         "Political rivals criticise KCR solely to grab media attention, says KTR - The Hans India"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-27T10:19:35.842Z",
+    "timestampIST": "27/4/2026, 3:49:35 pm",
+    "executiveSummary": "<p>Mohammed Azharuddin and Prof. Kodandaram took oath as Telangana MLCs today. (1, 2, 5, 6, 8, 10, 11) A bus caught fire near Medak district. (17) Citizens protested CM Revanth Reddy’s convoy in Puppalguda. (12) Skyroot’s Vikram-1 rocket was flagged off by the Telangana CM for Sriharikota. (16)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Mohammed Azharuddin and Prof. Kodandaram took oath as Telangana MLCs today. (1, 2, 5, 6, 8, 10, 11) A bus caught fire near Medak district. (17) Citizens protested CM Revanth Reddy’s convoy in Puppalguda. (12) Skyroot’s Vikram-1 rocket was flagged off by the Telangana CM for Sriharikota. (16)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Discontent:</span> Citizens protested CM Revanth Reddy’s convoy in Puppalguda. (12)</li>\n    <li><span class=\"risk-medium\">Traffic Disruptions:</span> A techie died after a vehicle rammed a lorry in Narketpally. (18)</li>\n    <li><span class=\"risk-low\">Vehicle Incidents:</span> A bus caught fire near Medak district. (17)</li>\n    <li><span class=\"risk-low\">Political Criticism:</span> Political rivals are criticizing KCR. (19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The swearing-in of Azharuddin as an MLC (1, 2, 5, 6, 8, 10, 11) may be linked to the political commentary regarding Muslim votes. (3)</li>\n    <li>The CM's presence at the MLC oath-taking ceremony (8) and the protest against his convoy (12) indicate potential security concerns.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review security protocols for the CM's convoy, especially in areas where protests have occurred. (12)</li>\n    <li>Assess the cause of the bus fire near Medak district and implement preventative measures. (17)</li>\n    <li>Monitor public sentiment regarding the new MLCs and any related political commentary. (1, 2, 3, 5, 6, 8, 10, 11)</li>\n    <li>Ensure adequate traffic management and emergency response in Narketpally following the fatal accident. (18)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Medak District:</b> Requires immediate attention due to the bus fire incident. (17)</li>\n    <li><b>Narketpally:</b> Requires immediate attention due to the fatal accident. (18)</li>\n    <li><b>Puppalguda:</b> Monitor for potential escalation of public discontent following the protest against the CM's convoy. (12)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "40°C",
+      "humidity": "17%",
+      "wind": "10 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 71,
+      "pm25": 33.3,
+      "goldPerGram": "₹9,091",
+      "newsCount": 43,
+      "topHeadlines": [
+        "Azharuddin, Kodandaram Take Oath as MLCs - INDToday",
+        "Cricketer Azharuddin, Prof Kodandaram take oath as Telangana MLCs - The Siasat Daily",
+        "My MLC Nomination Is A Slap For BRS: Azhar Hits Back on Muslim Votes Jibe - Deccan Chronicle",
+        "Assembly Security Must Be Strengthened: Revanth Reddy - Deccan Chronicle",
+        "Mohammed Azharuddin, Kodanda Rama Reddy take oath as Telangana MLCs - Asianet Newsable"
+      ]
+    }
   }
 ]
