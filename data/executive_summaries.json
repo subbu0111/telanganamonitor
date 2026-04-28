@@ -6648,5 +6648,28 @@
         "PM Modi Visit Turns Flashpoint as Telangana Cries ‘No Intimation’ - Hyderabad Mail"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-28T10:16:38.064Z",
+    "timestampIST": "28/4/2026, 3:46:38 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has launched SPANDANA teams in Hyderabad and is pushing for a CBI probe into the Kaleshwaram Project.  PM Modi is scheduled to visit Telangana on May 10th, with CM Revanth Reddy stating he was not informed.  Kodandaram and Azharuddin were sworn in as MLCs.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has launched SPANDANA teams in Hyderabad and is pushing for a CBI probe into the Kaleshwaram Project.  PM Modi is scheduled to visit Telangana on May 10th, with CM Revanth Reddy stating he was not informed.  Kodandaram and Azharuddin were sworn in as MLCs.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential Political Conflict:</span>  PM Modi's visit on May 10th is a flashpoint, with the CM claiming lack of intimation. (Headline 8, 19)</li>\n    <li><span class=\"risk-medium\">Increased Scrutiny:</span> The Telangana government is pushing for a CBI probe into the Kaleshwaram Project, potentially leading to investigations and political fallout. (Headline 4, 11, 17, 18)</li>\n    <li><span class=\"risk-low\">Public Perception:</span>  Disagreements between political figures, including KCR and CM Revanth Reddy, could impact public perception. (Headline 10, 12, 16)</li>\n    <li><span class=\"risk-low\">Security Concerns:</span> A Hyderabad cop claims they can arrange a meeting with the CM, raising potential security concerns. (Headline 3)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The push for a CBI probe into the Kaleshwaram Project (Headline 4, 11, 17, 18) is likely to be a point of contention between the state government and potentially the BJP, given the political landscape.</li>\n    <li>The CM's focus on Hyderabad, with the launch of SPANDANA teams (Headline 13) and the medical tourism push (Headline 14), suggests a strategic focus on the city.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Assess the security implications of the claim by the Hyderabad cop and review CM security protocols. (Headline 3)</li>\n    <li>Prepare a detailed briefing on the Kaleshwaram Project investigation, anticipating potential political ramifications. (Headline 4, 11, 17, 18)</li>\n    <li>Prepare a response strategy regarding PM Modi's visit, addressing the claim of lack of intimation. (Headline 8, 19)</li>\n    <li>Monitor public statements from KCR and other BRS leaders regarding the CM's actions. (Headline 10, 12, 16)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b>  Focus on Hyderabad due to the launch of SPANDANA teams, the medical tourism push, and the security claim. (Headline 3, 13, 14)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "38.9°C",
+      "humidity": "17%",
+      "wind": "9.5 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 71,
+      "pm25": 38.2,
+      "goldPerGram": "₹9,086",
+      "newsCount": 62,
+      "topHeadlines": [
+        "Amaravati to Hyderabad in 70 mins, Pune to Mumbai in 48 mins: Vaishnaw's new bullet train roadmap for sou - The Times of India",
+        "Focus Will Remain on Development and Public Service, Says Azharuddin - Clarion India",
+        "Hyderabad cop claims CM’s security ‘in my hands, can arrange meeting too’ - The Siasat Daily",
+        "Telangana Govt Pushes For CBI Probe Into Alleged Kaleshwaram Project - News18",
+        "Naini Rajender Reddy slams BJP, BRS over “corpse politics” in Telangana - The Hans India"
+      ]
+    }
   }
 ]
