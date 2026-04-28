@@ -6602,5 +6602,28 @@
         "Cong alliance vs BRS-BJP battle in Telangana, claims Revanth - The Times of India"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-28T03:26:56.206Z",
+    "timestampIST": "28/4/2026, 8:56:56 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is escalating efforts to secure a CBI probe into the Kaleshwaram project (2, 3, 10, 14). He is also planning to meet with the CBI director (2). The CM announced the launch of 'SPANDANA' teams to tackle drug-related offenses and vowed zero tolerance for drug-linked crimes (7, 8).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is escalating efforts to secure a CBI probe into the Kaleshwaram project (2, 3, 10, 14). He is also planning to meet with the CBI director (2). The CM announced the launch of 'SPANDANA' teams to tackle drug-related offenses and vowed zero tolerance for drug-linked crimes (7, 8).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> CM Revanth Reddy and KTR are exchanging accusations regarding governance and development (5, 6).</li>\n    <li><span class=\"risk-medium\">Public Health & Safety:</span> Five migrant workers died in a crane collapse at a manufacturing unit (12).</li>\n    <li><span class=\"risk-low\">Drug-related Crime:</span> The launch of SPANDANA teams indicates a focus on addressing drug-related offenses (7, 8, 15).</li>\n    <li><span class=\"risk-low\">Centre-State Relations:</span> PM Modi is scheduled to visit Telangana on May 10, and CM Revanth Reddy claims he was not informed (4).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's push for a CBI probe into the Kaleshwaram project (2, 3, 10, 14) is likely related to the ongoing political tensions between the Congress and BRS (1, 11, 19).</li>\n    <li>The CM's focus on Hyderabad as a medical tourism hub (13, 16) could be linked to the plans for a health city near Hyderabad airport (9).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the progress of the CBI probe request for the Kaleshwaram project and any developments in the CM's meeting with the CBI director (2, 3, 10, 14).</li>\n    <li>Ensure a thorough investigation into the crane collapse at the manufacturing unit and provide necessary support to the affected workers and their families (12).</li>\n    <li>Monitor the activities of the SPANDANA teams and provide necessary resources and support to combat drug-related crimes (7, 8, 15).</li>\n    <li>Prepare for PM Modi's visit on May 10 and assess the potential implications for Centre-State relations (4).</li>\n    <li>Assess the feasibility and implementation plan for the proposed health city near Hyderabad airport (9).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on the promotion of Hyderabad as a medical tourism hub and the development of the health city near the airport (9, 13, 16).</li>\n    <li><b>Areas with manufacturing units:</b> Review safety protocols and conduct inspections following the crane collapse (12).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32°C",
+      "humidity": "41%",
+      "wind": "5 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 70,
+      "pm25": 32.2,
+      "goldPerGram": "₹9,086",
+      "newsCount": 66,
+      "topHeadlines": [
+        "CM dares KCR to swear on not joining hands with BJP in future - The Hans India",
+        "Telangana pushes for CBI probe into Kaleshwaram project; CM Revanth plans to meet agency director - NewsMeter",
+        "Telangana Pushes CBI Probe into Kaleshwaram Project Irregularities - RTV English",
+        "It’s Centre Vs state: PM Modi to visit Telangana on May 10; CM Revanth says `not informed’ - NewsMeter",
+        "From development to disorder: KTR blasts Congress governance; confronts Tejaswi Surya over - India's News.Net"
+      ]
+    }
   }
 ]
