@@ -6740,5 +6740,28 @@
         "Future City To Be Developed On Par With Singapore, Tokyo: Telangana CM - Ommcom News"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-28T22:57:56.025Z",
+    "timestampIST": "29/4/2026, 4:27:56 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy laid the foundation stone for Future City and announced plans for 3 bullet trains (1).  CV Anand has been appointed as the new Director General of Police (12, 14, 18, 20).  A TGSRTC bus collided with a lorry in Medak, resulting in injuries (19).</p>",
+    "fullAnalysis": "```html\n<!DOCTYPE html>\n<html>\n<head>\n<title>Telangana Intelligence Briefing</title>\n<style>\n.risk-high { color: red; font-weight: bold; }\n.risk-medium { color: orange; }\n.risk-low { color: green; }\n</style>\n</head>\n<body>\n\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy laid the foundation stone for Future City and announced plans for 3 bullet trains (1).  CV Anand has been appointed as the new Director General of Police (12, 14, 18, 20).  A TGSRTC bus collided with a lorry in Medak, resulting in injuries (19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> BRS staged a protest opposing new paddy procurement norms in Choppadandi (17).</li>\n  <li><span class=\"risk-medium\">Public Safety:</span> A TGSRTC bus collided with a lorry in Medak, resulting in injuries (19).</li>\n  <li><span class=\"risk-low\">Potential for Disruption:</span> Harish Rao alleged phone tapping and hacking by Telangana Police and vowed a probe after BRS returns to power (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The appointment of CV Anand as DGP (12, 14, 18, 20) is a critical leadership change that requires immediate attention.</li>\n  <li>The Future City project (1, 2, 5, 6, 8, 9) is a key initiative of the current government, and any challenges to it, such as land acquisition issues (6), require close monitoring.</li>\n  <li>The BRS protest (17) and allegations of phone tapping (16) suggest potential political tensions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Ensure smooth transition and handover of responsibilities to the new DGP, CV Anand.</li>\n  <li>Monitor the situation in Choppadandi closely due to the BRS protest (17).</li>\n  <li>Assess and address any public concerns regarding the TGSRTC bus accident in Medak (19).</li>\n  <li>Prioritize the safety and security of the Future City project and address any land acquisition concerns.</li>\n  <li>Review and address the allegations of phone tapping and hacking made by Harish Rao.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Medak:</b> Immediate attention is required due to the TGSRTC bus accident (19). Ensure proper medical assistance and investigation.</li>\n  <li><b>Choppadandi:</b> Monitor the situation closely due to the BRS protest regarding new paddy procurement norms (17).</li>\n</ul>\n\n</body>\n</html>\n```",
+    "dataSnapshot": {
+      "temperature": "28.3°C",
+      "humidity": "53%",
+      "wind": "8.1 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 72,
+      "pm25": 50.4,
+      "goldPerGram": "₹9,120",
+      "newsCount": 39,
+      "topHeadlines": [
+        "Revanth Reddy lays stone for Future City, announces 3 bullet trains - Asianet Newsable",
+        "Be partners in Future City development, Telangana chief minister Revanth Reddy urges farmers - The Times of India",
+        "Give up arms, join mainstream, Telangana chief minister Revanth Reddy appeals to Maoist leader Ganapathi - The Times of India",
+        "New Collector Prateek Jain makes surprise hospital visit in Narayankhed - Telangana Today",
+        "Future City To Be Developed On Par With Singapore, Tokyo: Telangana CM - Ommcom News"
+      ]
+    }
   }
 ]
