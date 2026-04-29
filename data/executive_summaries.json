@@ -6855,5 +6855,28 @@
         "KTR slams Revanth Reddy's 'sadistic pleasure' remark as 'shameful' - Asianet Newsable"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-29T17:40:48.347Z",
+    "timestampIST": "29/4/2026, 11:10:48 pm",
+    "executiveSummary": "<p>Civil groups are protesting the Musi River displacement plan (1, 10). The Chief Minister has ordered the fast-tracking of the Tummidihetti Barrage project and will seek Maharashtra's approval (2, 4, 6).  DGP Shivadhar Reddy is to be appointed as TS State Security Advisor (5). The government has taken over the Hyderabad metro for Rs 1,461 crore (7).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Civil groups are protesting the Musi River displacement plan (1, 10). The Chief Minister has ordered the fast-tracking of the Tummidihetti Barrage project and will seek Maharashtra's approval (2, 4, 6).  DGP Shivadhar Reddy is to be appointed as TS State Security Advisor (5). The government has taken over the Hyderabad metro for Rs 1,461 crore (7).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Protests:</span> Civil groups are staging satyagraha protests against the Musi River displacement plan (1, 10).</li>\n    <li><span class=\"risk-low\">Political Criticism:</span> Revanth Reddy vows to remove KCR as Leader of Opposition and criticizes the Centre on Kaleshwaram probe delay (9). KTR slams CM Revanth Reddy over a remark (20).</li>\n    <li><span class=\"risk-low\">Project Delays:</span> Maharashtra's objections to the Tummidihatti barrage may cause delays (4).</li>\n    <li><span class=\"risk-low\">Legal Challenges:</span> Harish Rao moves High Court over loan waiver denial in Siddipet (12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's focus on the Tummidihetti Barrage (2, 4, 6) may be linked to the state's water resource management and infrastructure development plans.</li>\n    <li>The appointment of DGP Shivadhar Reddy as TS State Security Advisor (5) suggests a focus on security and potentially, managing public order related to ongoing projects or political activity.</li>\n    <li>Protests against the Musi River displacement plan (1, 10) may require security monitoring and potential intervention.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the ongoing satyagraha protests against the Musi River displacement plan and assess potential for escalation (1, 10).</li>\n    <li>Prepare for potential legal challenges related to the Tummidihatti Barrage project, given Maharashtra's objections (4).</li>\n    <li>Assess the security implications of the appointment of DGP Shivadhar Reddy as TS State Security Advisor (5).</li>\n    <li>Monitor political rhetoric and potential for unrest related to the Kaleshwaram probe and the Leader of Opposition (9, 20).</li>\n    <li>Review security protocols for the Hyderabad metro takeover (7).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Siddipet:</b> Monitor the legal proceedings related to Harish Rao's loan waiver denial (12).</li>\n    <li><b>Areas affected by the Musi River displacement plan:</b> Monitor the protests and assess potential for escalation (1, 10).</li>\n    <li><b>Areas related to the Tummidihatti Barrage project:</b> Monitor for any developments related to Maharashtra's objections (2, 4, 6).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31.9°C",
+      "humidity": "36%",
+      "wind": "6.6 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 75,
+      "pm25": 51.6,
+      "goldPerGram": "₹9,148",
+      "newsCount": 59,
+      "topHeadlines": [
+        "Civil groups stage satyagraha protest against Musi River displacement plan - Telangana Today",
+        "Telangana CM orders fast-track of Tummidihetti Barrage, to seek Maharashtra nod - The Siasat Daily",
+        "Editorial: India–New Zealand FTA — a win-win trade agreement - Telangana Today",
+        "Telangana mulls 150-metre high Tummidihatti barrage amid Maharashtra objections - Telangana Today",
+        "DGP Shivadhar Reddy to be made TS State Security Advisor - The Hindu"
+      ]
+    }
   }
 ]
