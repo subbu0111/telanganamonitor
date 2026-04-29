@@ -6763,5 +6763,28 @@
         "Future City To Be Developed On Par With Singapore, Tokyo: Telangana CM - Ommcom News"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-29T03:25:05.365Z",
+    "timestampIST": "29/4/2026, 8:55:05 am",
+    "executiveSummary": "<p>Telangana has announced the development of \"Future City,\" with Chief Minister Revanth Reddy laying the foundation stone and announcing three bullet train routes connecting Hyderabad to Bengaluru, Pune, Amaravati, and Chennai (1, 5, 7).  The new DGP is CV Anand, replacing Shivdhar Reddy (18).  Union Minister G. Kishan Reddy has appealed to the CM for road expansions near railway stations (2, 15).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Telangana has announced the development of \"Future City,\" with Chief Minister Revanth Reddy laying the foundation stone and announcing three bullet train routes connecting Hyderabad to Bengaluru, Pune, Amaravati, and Chennai (1, 5, 7).  The new DGP is CV Anand, replacing Shivdhar Reddy (18).  Union Minister G. Kishan Reddy has appealed to the CM for road expansions near railway stations (2, 15).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BJP MLA Venkataramana Reddy demands clarity on alleged irregularities in Telangana Medical Services (3).</li>\n    <li><span class=\"risk-medium\">Security:</span> Harish Rao alleges phone tapping and hacking by Telangana Police, vowing a probe if BRS returns to power (20).</li>\n    <li><span class=\"risk-low\">Public Perception:</span>  Potential for negative public sentiment regarding land acquisition for Future City (11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The announcement of Future City (5, 6, 7, 8, 11, 13, 14, 16) and the appeal for railway station road expansions (2, 15) suggest a focus on infrastructure development and urban planning.</li>\n    <li>The appointment of a new DGP (18) and the allegations of phone tapping (20) indicate potential internal challenges within the state's security apparatus.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Brief the new DGP, CV Anand, on the allegations of phone tapping and hacking by the Telangana Police (20).</li>\n    <li>Prepare a response to BJP MLA Venkataramana Reddy's demands regarding medical services irregularities (3).</li>\n    <li>Assess public sentiment regarding land acquisition for Future City and proactively address any concerns (11).</li>\n    <li>Coordinate with Union Minister G. Kishan Reddy regarding railway station road expansions (2, 15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Narayankhed:</b>  New Collector Prateek Jain made a surprise hospital visit, indicating a need for monitoring and potential support (10).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.4°C",
+      "humidity": "37%",
+      "wind": "3.3 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 75,
+      "pm25": 44.6,
+      "goldPerGram": "₹9,120",
+      "newsCount": 40,
+      "topHeadlines": [
+        "Telangana gets 3 bullet trains; will connect Hyderabad to Bengaluru, Pune, Amaravati, Chennai - NewsMeter",
+        "Union Minister G. Kishan Reddy Appeals to Telangana CM for Railway Station Road Expansions - The Hans India",
+        "BJP MLA Venkataramana Reddy Demands Clarity on Alleged Irregularities in Telangana Medical Services - The Hans India",
+        "Mumbai Indians to take on Sunrisers Hyderabad today at Wankhede Stadium - News On AIR",
+        "Bharat Future City Plan Puts Hyderabad on Global Innovation Map: CM Revanth Reddy - The Morning Voice"
+      ]
+    }
   }
 ]
