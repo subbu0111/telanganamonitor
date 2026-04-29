@@ -6901,5 +6901,28 @@
         "Telangana mulls 150-metre high Tummidihatti barrage amid Maharashtra objections - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-29T21:08:21.382Z",
+    "timestampIST": "30/4/2026, 2:38:21 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism and vows to remove KCR as Leader of Opposition (11). The government has taken full control of the Hyderabad Metro for Rs 1,461 crore (9). Protests are ongoing regarding the Musi River displacement plan (3, 12) and the Tummidihetti Barrage project is a focus of government action (4, 6, 8).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism and vows to remove KCR as Leader of Opposition (11). The government has taken full control of the Hyderabad Metro for Rs 1,461 crore (9). Protests are ongoing regarding the Musi River displacement plan (3, 12) and the Tummidihetti Barrage project is a focus of government action (4, 6, 8).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> KTR has criticized Revanth Reddy (1) and Revanth Reddy has vowed to remove KCR (11), indicating potential political friction.</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span> Civil groups are protesting the Musi River displacement plan (3, 12), which could escalate.</li>\n    <li><span class=\"risk-low\">Project Delays:</span> The Tummidihetti Barrage project faces potential delays due to Maharashtra objections (6, 8).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A Class 10 boy was run over by a tractor (10), indicating a potential public safety issue.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Tummidihetti Barrage project (4, 6, 8) is a key focus of the government and involves seeking cooperation from Maharashtra (2).</li>\n    <li>Protests against the Musi River displacement plan (3, 12) highlight potential public opposition to government projects.</li>\n    <li>The government's focus on the Tummidihetti Barrage (4, 6, 8) and the Pranahita–Chevella Project (18) indicates a focus on infrastructure development.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political situation closely, especially regarding the exchanges between KTR and Revanth Reddy (1, 11).</li>\n    <li>Assess the public sentiment and potential for escalation related to the Musi River displacement plan protests (3, 12).</li>\n    <li>Expedite discussions with Maharashtra regarding the Tummidihetti Barrage project (4, 6, 8).</li>\n    <li>Review and improve public safety measures in light of the incident involving the Class 10 boy (10).</li>\n    <li>Ensure adequate fuel stocks are maintained, as per the minister's statement (17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Siddipet:</b> Monitor the situation following Harish Rao's move to the High Court regarding loan waiver denial (14).</li>\n    <li><b>Areas affected by the Musi River displacement plan:</b> Monitor for potential protests and public unrest (3, 12).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30°C",
+      "humidity": "38%",
+      "wind": "9.2 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 75,
+      "pm25": 44.9,
+      "goldPerGram": "₹9,148",
+      "newsCount": 58,
+      "topHeadlines": [
+        "KTR Slams Revanth Reddy Over ‘Sadistic Pleasure’ Remark, Flags Governance Failures - The Morning Voice",
+        "Revanth: Take Kishan's Help to Convince Maharashtra on Barrage - Deccan Chronicle",
+        "Civil groups stage satyagraha protest against Musi River displacement plan - Telangana Today",
+        "Telangana CM orders fast-track of Tummidihetti Barrage, to seek Maharashtra nod - The Siasat Daily",
+        "Editorial: India–New Zealand FTA — a win-win trade agreement - Telangana Today"
+      ]
+    }
   }
 ]
