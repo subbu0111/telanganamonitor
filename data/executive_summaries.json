@@ -6878,5 +6878,28 @@
         "DGP Shivadhar Reddy to be made TS State Security Advisor - The Hindu"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-29T19:40:21.552Z",
+    "timestampIST": "30/4/2026, 1:10:21 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on securing Maharashtra's approval for the Tummidihetti Barrage, with instructions for Uttam Kumar Reddy to engage Kishan Reddy on the matter (1, 3, 7).  DGP Shivadhar Reddy is slated to become TS State Security Advisor (6), while CV Anand, the DGP-designate, met with the CM (19, 20).  Civil groups are protesting the Musi River displacement plan (2, 11).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focused on securing Maharashtra's approval for the Tummidihetti Barrage, with instructions for Uttam Kumar Reddy to engage Kishan Reddy on the matter (1, 3, 7).  DGP Shivadhar Reddy is slated to become TS State Security Advisor (6), while CV Anand, the DGP-designate, met with the CM (19, 20).  Civil groups are protesting the Musi River displacement plan (2, 11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public unrest:</span> Civil groups are staging satyagraha protests against the Musi River displacement plan (2, 11).</li>\n    <li><span class=\"risk-low\">Political Instability:</span> Revanth Reddy vowed to remove KCR as Leader of Opposition (10).</li>\n    <li><span class=\"risk-low\">Legal Challenge:</span> Harish Rao moved High Court over loan waiver denial in Siddipet (13).</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> A Class 10 boy was run over by a tractor on SSC result day (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The focus on the Tummidihetti Barrage (3, 5, 7) and the CM's directive to seek Maharashtra's approval (1) indicates a high-priority infrastructure project.</li>\n    <li>The appointment of Shivadhar Reddy as TS State Security Advisor (6) and CV Anand's meeting with the CM (20) suggests a transition in the state's security apparatus.</li>\n    <li>Protests against the Musi River displacement plan (2, 11) highlight potential public dissatisfaction with government projects.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the satyagraha protests related to the Musi River displacement plan and assess potential for escalation.</li>\n    <li>Expedite the process of securing Maharashtra's approval for the Tummidihetti Barrage project.</li>\n    <li>Prepare for the transition of the TS State Security Advisor and ensure a smooth handover.</li>\n    <li>Assess the public reaction to the tragic incident involving the Class 10 boy and provide necessary support.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Siddipet:</b> Monitor the legal proceedings related to Harish Rao's challenge regarding loan waivers (13).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30.9°C",
+      "humidity": "36%",
+      "wind": "10.4 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 75,
+      "pm25": 46,
+      "goldPerGram": "₹9,148",
+      "newsCount": 58,
+      "topHeadlines": [
+        "Revanth: Take Kishan's Help to Convince Maharashtra on Barrage - Deccan Chronicle",
+        "Civil groups stage satyagraha protest against Musi River displacement plan - Telangana Today",
+        "Telangana CM orders fast-track of Tummidihetti Barrage, to seek Maharashtra nod - The Siasat Daily",
+        "Editorial: India–New Zealand FTA — a win-win trade agreement - Telangana Today",
+        "Telangana mulls 150-metre high Tummidihatti barrage amid Maharashtra objections - Telangana Today"
+      ]
+    }
   }
 ]
