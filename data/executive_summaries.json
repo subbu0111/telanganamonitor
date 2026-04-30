@@ -6993,5 +6993,28 @@
         "DGP Shivadhar Reddy Reflects on Career and Police Reforms - The Hans India"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-30T10:08:50.312Z",
+    "timestampIST": "30/4/2026, 3:38:50 pm",
+    "executiveSummary": "<p>The Telangana government has appointed B Shivadhar Reddy as State Security Advisor (1, 2, 4, 13, 14). The government has also appointed V Hanumantha Rao as an advisor (2, 6, 10). The government has taken full control of the Hyderabad Metro (5, 9).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government has appointed B Shivadhar Reddy as State Security Advisor (1, 2, 4, 13, 14). The government has also appointed V Hanumantha Rao as an advisor (2, 6, 10). The government has taken full control of the Hyderabad Metro (5, 9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS alleges the government is targeting party leaders without evidence in a phone tapping case (3).</li>\n    <li><span class=\"risk-low\">Financial:</span> L&T share price fell 2% after divesting its stake in L&T Metro Rail (Hyderabad) (7).</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> KTR slammed CM Revanth over a remark (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>B Shivadhar Reddy was appointed as DGP (8) and has now been appointed as State Security Advisor (1, 2, 4, 13, 14).</li>\n    <li>The Telangana government has taken full control of the Hyderabad Metro (5, 9), and L&T divested its stake (7).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political situation and any potential fallout from the BRS allegations (3).</li>\n    <li>Assess the implications of the government's acquisition of the Hyderabad Metro (5, 9).</li>\n    <li>Review the security protocols in light of the appointment of the new State Security Advisor (1, 2, 4, 13, 14).</li>\n    <li>Monitor public sentiment regarding the CM's remark (20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on monitoring the Hyderabad Metro transition and any potential security implications (5, 9).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "39.7°C",
+      "humidity": "14%",
+      "wind": "11.1 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 69,
+      "pm25": 27.4,
+      "goldPerGram": "₹9,148",
+      "newsCount": 57,
+      "topHeadlines": [
+        "Telangana Appoints Reddy as State Security Advisor Post-Retirement - Devdiscourse",
+        "Telangana appoints former MP V Hanumantha Rao, ex-DGP B Shivadhar Reddy as advisors - The South First",
+        "BRS alleges govt of targeting party leaders without evidence in phone tapping case - Telangana Today",
+        "Telangana govt appoints B Shivadhar Reddy as State Security Advisor - Telangana Today",
+        "Telangana government takes full control of Hyderabad Metro - The South First"
+      ]
+    }
   }
 ]
