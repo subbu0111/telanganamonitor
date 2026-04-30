@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31T22:36:33.874Z",
-    "timestampIST": "1/4/2026, 4:06:33 am",
-    "executiveSummary": "<p>Chicken shops across Telangana are shut starting today due to a retailer protest (1). The government is seeking public suggestions for the Musi River rejuvenation project (5, 7, 8). The CID has issued a notice to BRS MLA Kaushik Reddy (12), who has questioned the notice (13). CM Revanth Reddy announced a dedicated agency and HYDRAA-like action to combat food adulteration (15, 16, 18, 19).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chicken shops across Telangana are shut starting today due to a retailer protest (1). The government is seeking public suggestions for the Musi River rejuvenation project (5, 7, 8). The CID has issued a notice to BRS MLA Kaushik Reddy (12), who has questioned the notice (13). CM Revanth Reddy announced a dedicated agency and HYDRAA-like action to combat food adulteration (15, 16, 18, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential disruption to food supply:</span> Chicken shops are closed across Telangana due to a retailer protest (1).</li>\n    <li><span class=\"risk-low\">Political tensions:</span> BRS MLA Kaushik Reddy has received a CID notice (12, 13) and BRS's Ravula Sridhar Reddy criticizes the Hate Speech Bill (20).</li>\n    <li><span class=\"risk-low\">Public dissatisfaction:</span> Niranjan Reddy accuses the government of failing to protect irrigation interests (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The government's focus on food adulteration (15, 16, 18, 19) could be linked to potential public health concerns.</li>\n    <li>The Musi River rejuvenation project (5, 7, 8) indicates a focus on infrastructure and environmental initiatives.</li>\n    <li>The CID notice to BRS MLA Kaushik Reddy (12, 13) and the criticism of the Hate Speech Bill (20) suggest ongoing political scrutiny.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the impact of the chicken shop closures across the state and assess the potential for price gouging or public unrest (1).</li>\n    <li>Review the details of the CID notice issued to BRS MLA Kaushik Reddy and assess any potential political fallout (12, 13).</li>\n    <li>Expedite the process of gathering public suggestions for the Musi River rejuvenation project (5, 7, 8).</li>\n    <li>Assess the feasibility and implementation plan for the proposed dedicated agency and HYDRAA-like action to combat food adulteration (15, 16, 18, 19).</li>\n    <li>Monitor the political reactions to the Hate Speech Bill (20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>All Districts:</b> Monitor the impact of the chicken shop closures and potential food supply disruptions (1).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "24.6°C",
-      "humidity": "79%",
-      "wind": "2.6 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 76,
-      "pm25": 41.3,
-      "goldPerGram": "₹9,050",
-      "newsCount": 26,
-      "topHeadlines": [
-        "Chicken shops shut across Telangana from today as retailers launch protest - The Times of India",
-        "Revanth paying Guru Dakshina to CM Naidu: Niranjan Reddy - metroindia.net",
-        "Revanth Reddy's Kerala Assembly Campaign: A Strategic Political Move - Devdiscourse",
-        "‘Tank Bund Shiva’ receives Rs 5 lakh, 2BHK house from Telangana govt - The Siasat Daily",
-        "Telangana govt invites public’s suggestions on Musi rejuvenation - The Siasat Daily"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-01T02:48:09.122Z",
     "timestampIST": "1/4/2026, 8:18:09 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy will campaign for Congress candidates in Kerala and Assam. Chicken shops across Telangana are shut today due to a retailer protest. The government announced ₹5 lakh, a job, and housing for 'Tank Bund Shiva' and is seeking public suggestions for Musi River rejuvenation.</p>",
@@ -6878,6 +6855,29 @@
       "pm25": 26.6,
       "goldPerGram": "₹9,155",
       "newsCount": 49,
+      "topHeadlines": [
+        "Shivadhar Reddy, VH Appointed as Advisors to State Government - Deccan Chronicle",
+        "Agri Dept Must Oversee Online Pesticide, Herbicide Sales: Kodanda Reddy - Deccan Chronicle",
+        "Telangana's Centralized Approach: Enhancing Education Supply Chain - Devdiscourse",
+        "Revanth Reddy defends centralised procurement for student supplies - Telangana Today",
+        "Education path progress drives Telangana school expansion push - newsage.in"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-30T22:55:17.321Z",
+    "timestampIST": "1/5/2026, 4:25:17 am",
+    "executiveSummary": "<p>The State Government appointed B. Shivadhar Reddy and VH as advisors (1, 19, 20).  The Hyderabad Cybercrime police filed a case over derogatory posts against the CM and Police Commissioner (11).  PM Modi is scheduled to inaugurate projects worth Rs 7,823 crore in Telangana (7).  The government acquired Hyderabad Metro Phase I for ₹1,461.47 Cr and took over ₹13,538 Cr debt (12).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The State Government appointed B. Shivadhar Reddy and VH as advisors (1, 19, 20).  The Hyderabad Cybercrime police filed a case over derogatory posts against the CM and Police Commissioner (11).  PM Modi is scheduled to inaugurate projects worth Rs 7,823 crore in Telangana (7).  The government acquired Hyderabad Metro Phase I for ₹1,461.47 Cr and took over ₹13,538 Cr debt (12).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Cybersecurity Threat:</span> Derogatory posts against the CM and Police Commissioner have led to a police case, indicating potential for further online attacks or disinformation campaigns (11).</li>\n  <li><span class=\"risk-low\">Political Tension:</span> The Congress government is reportedly targeting BRS leaders in a phone tapping case, potentially escalating political tensions (14).</li>\n  <li><span class=\"risk-low\">Public Perception:</span>  Reports of marijuana trade shifting to new areas in Hyderabad amid a crackdown could impact public perception of law enforcement effectiveness (17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>B. Shivadhar Reddy, the former DGP, has been appointed as the State Security Advisor (18, 19, 20). This appointment follows his retirement as DGP.</li>\n  <li>The government's acquisition of Hyderabad Metro Phase I (12) and the related debt takeover is a significant financial undertaking.</li>\n  <li>The CM's engagement with workers' welfare on International Workers Day (6, 8, 9) is a recurring theme alongside the inauguration of projects by PM Modi (7).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Direct the Cybercrime police to expedite the investigation into the derogatory posts and identify the perpetrators (11).</li>\n  <li>Assess the security implications of the appointment of B. Shivadhar Reddy as State Security Advisor and ensure proper coordination with the new Police leadership (18, 19, 20).</li>\n  <li>Monitor the political climate and any potential reactions to the phone tapping case investigation (14).</li>\n  <li>Review the effectiveness of the crackdown on marijuana trade and allocate resources to address the shift to new areas (17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b>  Focus on monitoring cyber activity and law enforcement efforts related to the marijuana trade, given the specific mentions in the news (11, 17).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29°C",
+      "humidity": "39%",
+      "wind": "7.1 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 55,
+      "pm25": 20.5,
+      "goldPerGram": "₹9,155",
+      "newsCount": 46,
       "topHeadlines": [
         "Shivadhar Reddy, VH Appointed as Advisors to State Government - Deccan Chronicle",
         "Agri Dept Must Oversee Online Pesticide, Herbicide Sales: Kodanda Reddy - Deccan Chronicle",
