@@ -6970,5 +6970,28 @@
         "Telangana Govt Takes Full Control of Hyderabad Metro, Buys L&amp;T Stake for ₹1,461.47 Crore - Telugu 360"
       ]
     }
+  },
+  {
+    "timestamp": "2026-04-30T06:28:42.828Z",
+    "timestampIST": "30/4/2026, 11:58:42 am",
+    "executiveSummary": "<p>Former DGP Shivadhar Reddy has been appointed as a security advisor in Hyderabad (7). The Telangana government has taken full control of the Hyderabad Metro by acquiring L&T's stake (12, 20). The CM is prioritizing the Tummidihatti barrage project, seeking Maharashtra's approval for a 150-meter structure (8, 9, 10, 16, 19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Former DGP Shivadhar Reddy has been appointed as a security advisor in Hyderabad (7). The Telangana government has taken full control of the Hyderabad Metro by acquiring L&T's stake (12, 20). The CM is prioritizing the Tummidihatti barrage project, seeking Maharashtra's approval for a 150-meter structure (8, 9, 10, 16, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for Public Unrest:</span> Civil groups are staging a satyagraha protest against the Musi River displacement plan (15).</li>\n    <li><span class=\"risk-medium\">Inter-State Relations:</span> Disagreements with Maharashtra over the Tummidihatti barrage height could escalate tensions (8, 9, 10, 16, 19).</li>\n    <li><span class=\"risk-low\">Political Criticism:</span> KTR has criticized CM Revanth over a remark (6).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Tummidihatti barrage project (8, 9, 10, 16, 19) is a key priority for the CM, requiring coordination with Maharashtra.</li>\n    <li>Shivadhar Reddy's appointment as security advisor (7) follows his retirement as DGP (2, 5).</li>\n    <li>The Telangana government's acquisition of the Hyderabad Metro (12, 20) indicates a focus on infrastructure control.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the satyagraha protest regarding the Musi River displacement plan and assess potential for escalation (15).</li>\n    <li>Prioritize communication and negotiation with Maharashtra regarding the Tummidihatti barrage to secure approval (8, 9, 10, 16, 19).</li>\n    <li>Ensure smooth transition and handover of Hyderabad Metro operations following the government's acquisition (12, 20).</li>\n    <li>Brief the new security advisor, Shivadhar Reddy, on current security threats and priorities (7).</li>\n    <li>Prepare a public statement on the TS SSC Results 2026 (18).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the appointment of a security advisor (7), the metro takeover (12, 20), and the potential for protests (15).</li>\n    <li><b>Districts bordering Maharashtra:</b> Monitor the situation related to the Tummidihatti barrage project (8, 9, 10, 16, 19).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "38°C",
+      "humidity": "22%",
+      "wind": "6.2 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 71,
+      "pm25": 24.9,
+      "goldPerGram": "₹9,148",
+      "newsCount": 51,
+      "topHeadlines": [
+        "Telangana Police among Most Tech-Savvy, Efficient: B Shivadhar Reddy - Deccan Chronicle",
+        "Shivadhar Reddy signs off as Telangana DGP, reflects on working conditions in 1970s-80s - The Hindu",
+        "LPG, PNG prices today, Check rates domestic, commercial cylinders in Delhi, Mumbai, Hyderabad, other major ci - India.Com",
+        "Hyderabad Weather Today, April 30, 2026: Hot Day Ahead With Clear Skies and Brief Cloud Activity - NativePlanet",
+        "DGP Shivadhar Reddy Reflects on Career and Police Reforms - The Hans India"
+      ]
+    }
   }
 ]
