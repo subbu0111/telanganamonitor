@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01T15:07:09.483Z",
-    "timestampIST": "1/4/2026, 8:37:09 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the LDF government and BJP (1, 3, 4, 5, 6, 9, 10, 11, 12). Chicken shops across Telangana are closed due to a protest over shrinking margins (16). The IMD has issued a Yellow Alert for thunderstorms across Telangana, and Hyderabad experienced a power cut (14, 18).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the LDF government and BJP (1, 3, 4, 5, 6, 9, 10, 11, 12). Chicken shops across Telangana are closed due to a protest over shrinking margins (16). The IMD has issued a Yellow Alert for thunderstorms across Telangana, and Hyderabad experienced a power cut (14, 18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> Telangana BJP is criticizing CM Revanth Reddy (1).</li>\n  <li><span class=\"risk-medium\">Public Discontent:</span> Chicken shops are closed across Telangana due to trader protests (16).</li>\n  <li><span class=\"risk-low\">Public Safety:</span> IMD has issued a Yellow Alert for thunderstorms across Telangana (18).</li>\n  <li><span class=\"risk-low\">Infrastructure Issues:</span> Hyderabad experienced a power cut (14).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy is campaigning in Kerala (3, 4, 5, 6, 9, 10, 11, 12), while the Telangana BJP is criticizing his actions (1).</li>\n  <li>The CM is extending support to a Tank Bund rescuer (8, 20).</li>\n  <li>The weather alert for thunderstorms (18) and the power cut in Hyderabad (14) may be related.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the political fallout from CM Revanth Reddy's campaign in Kerala and the BJP's response (1).</li>\n  <li>Assess the impact of the chicken shop closures and engage with the protesting traders (16).</li>\n  <li>Ensure adequate preparedness and response measures are in place for the predicted thunderstorms (18).</li>\n  <li>Investigate the cause of the Hyderabad power cut and take corrective action (14).</li>\n  <li>Review the implications of the new bill mandating salary deductions for neglecting parents' care (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Monitor power infrastructure and weather-related incidents due to the power cut and thunderstorm alert (14, 18).</li>\n  <li><b>All Districts:</b> Monitor the impact of chicken shop closures and any potential public unrest (16).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.5°C",
-      "humidity": "58%",
-      "wind": "7.6 km/h",
-      "weatherDesc": "Rain Showers",
-      "aqi": 68,
-      "pm25": 34.6,
-      "goldPerGram": "₹9,012",
-      "newsCount": 31,
-      "topHeadlines": [
-        "Telangana BJP Calls Out Revanth Reddy's 'Hypocrisy' For Anti-LDF Campaign in Kerala - Deccan Chronicle",
-        "Telangana government’s conspiracy to silence questioning voices! - The South First",
-        "Revanth Reddy Holds Roadshow in Kerala Capital, Galvanise Cadres - Deccan Chronicle",
-        "Kerala polls: Revanth Reddy takes on Pinarayi, with a Mohanlal punchline - The Federal",
-        "Revanth Reddy's Fiery Attack: ‘Nee po mone Vijaya’ at Kerala Campaign - Devdiscourse"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-01T16:58:42.613Z",
-    "timestampIST": "1/4/2026, 10:28:42 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala for the UDF, criticizing Pinarayi Vijayan and the LDF. (7, 9, 10, 14, 15, 16, 17) BRS MLAs are criticizing CM Revanth Reddy regarding various issues including a CID notice and the Assembly session. (2, 3, 4, 13) A new Economic Offences Wing police station has opened in Neredmet. (5)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala for the UDF, criticizing Pinarayi Vijayan and the LDF. (7, 9, 10, 14, 15, 16, 17) BRS MLAs are criticizing CM Revanth Reddy regarding various issues including a CID notice and the Assembly session. (2, 3, 4, 13) A new Economic Offences Wing police station has opened in Neredmet. (5)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS MLAs are publicly criticizing CM Revanth Reddy and the Congress government, potentially leading to increased political tension. (2, 3, 4, 13)</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> The CM's statements regarding delimitation could potentially incite regional tensions. (20)</li>\n    <li><span class=\"risk-low\">Power Outages:</span> A power cut is scheduled for Hyderabad today. (19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's campaigning in Kerala (7, 9, 10, 14, 15, 16, 17) is being criticized by the BJP (1).</li>\n    <li>BRS MLAs are criticizing the CM (2, 3, 4, 13) while the CM is campaigning in Kerala (7, 9, 10, 14, 15, 16, 17).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political reactions to CM Revanth Reddy's campaign in Kerala and the criticism from BRS MLAs.</li>\n    <li>Assess the impact of the power cut in Hyderabad and ensure essential services are maintained.</li>\n    <li>Review the operational readiness of the new Economic Offences Wing police station in Neredmet.</li>\n    <li>Monitor public sentiment regarding the delimitation exercise.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor the impact of the scheduled power cut. (19)</li>\n    <li><b>Neredmet:</b> Oversee the initial operations of the newly opened Economic Offences Wing police station. (5)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "26.5°C",
-      "humidity": "65%",
-      "wind": "6.4 km/h",
-      "weatherDesc": "Rain Showers",
-      "aqi": 68,
-      "pm25": 33.6,
-      "goldPerGram": "₹9,012",
-      "newsCount": 36,
-      "topHeadlines": [
-        "Telangana mein Dosti Keralam mein Kusti: BJP calls out Revanth’s hypocrisy - The Siasat Daily",
-        "BRS MLA Accuses Telangana CM of Personal Vendetta Amid Suspension Controversy - Devdiscourse",
-        "BRS MLA Padi Kaushik Reddy accuses CM Revanth Reddy of bias - thenewsmill.com",
-        "BRS MLA Slams Telangana CM Over 'Unfortunate' CID Notice - Devdiscourse",
-        "New Economic Offences Wing police station opens in Neredmet - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-01T19:05:36.937Z",
     "timestampIST": "2/4/2026, 12:35:36 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the LDF and BJP. [2, 3, 10, 12, 13, 17, 18, 19, 20] Several BRS MLAs are criticizing the CM, alleging personal vendetta and bias. [5, 6, 7, 16] The Telangana government is accused of attempting to silence questioning voices. [9]</p>",
@@ -6907,6 +6861,29 @@
         "Commercial LPG Price Surge Draws Strong Criticism from Telangana Minister - Devdiscourse",
         "Hyderabad: Family’s temple trip ends in tragedy, six dead in road crash - Telangana Today",
         "Six Killed In Road Mishap On Outer Ring Road At Shamshabad In Telangana - ETV Bharat"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-01T16:59:06.994Z",
+    "timestampIST": "1/5/2026, 10:29:06 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy announced a major expansion plan for RTC, promising wage relief and no job cuts (1). The CM will visit the Pranahita-Chevella site at Thummidihatti on May 7 (4). A road accident on the Hyderabad ORR near Shamshabad resulted in six fatalities (6, 9, 10).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy announced a major expansion plan for RTC, promising wage relief and no job cuts (1). The CM will visit the Pranahita-Chevella site at Thummidihatti on May 7 (4). A road accident on the Hyderabad ORR near Shamshabad resulted in six fatalities (6, 9, 10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Road Safety:</span> Six fatalities in a road accident on the Outer Ring Road near Shamshabad (6, 9, 10).</li>\n    <li><span class=\"risk-medium\">Industrial Safety:</span> A pharma reactor blast resulted in 9 injuries, 3 critical (15).</li>\n    <li><span class=\"risk-medium\">TSRTC Labor Relations:</span> CM Revanth Reddy is addressing RTC employees' demands and granted pay and immunity for the strike period (5, 7).</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> Commercial LPG price surge draws criticism from a Telangana Minister (8, 12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The road accident on the ORR (6, 9, 10) highlights the need for increased traffic safety measures, especially near Shamshabad.</li>\n    <li>The CM's visit to the Pranahita-Chevella site (4) and the promise of RTC expansion (1) indicate a focus on infrastructure and public services.</li>\n    <li>The appointment of a State Security Advisor (14) and the DGP's vow to strengthen the police force (16) suggest a focus on internal security.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to investigate the cause of the ORR accident and implement immediate safety measures in the Shamshabad area (6, 9, 10).</li>\n    <li>Instruct the relevant department to investigate the pharma reactor blast and ensure safety protocols are followed (15).</li>\n    <li>Monitor the situation regarding RTC employees' demands and ensure timely resolution (5, 7, 17).</li>\n    <li>Prepare for the CM's visit to the Pranahita-Chevella site on May 7 (4).</li>\n    <li>Assess the public reaction to the commercial LPG price hike and prepare a response (8, 12).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Ranga Reddy District:</b> Immediate attention is required due to the road accident on the Outer Ring Road near Shamshabad (6, 9, 10).</li>\n    <li><b>Medchal–Malkajgiri District:</b> Focus on the pharma reactor blast and ensuring safety protocols are followed (15).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.1°C",
+      "humidity": "29%",
+      "wind": "5.8 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 49,
+      "pm25": 41.9,
+      "goldPerGram": "₹9,155",
+      "newsCount": 31,
+      "topHeadlines": [
+        "RTC Reset: Revanth Reddy Promises Wage Relief, No Job Cuts, and Major Expansion Plan - Telugu 360",
+        "Telangana govt to build world-class bus terminus at Shamshabad: CM Revanth - The Siasat Daily",
+        "Journalist housing issue: Ponguleti sets June 2 deadline for resolution - newsage.in",
+        "Revanth May Visit Pranahita-Chevella Site at Thummidihatti on May 7 - Deccan Chronicle",
+        "Telangana CM assures action on RTC employees’ demands​ - Social News XYZ"
       ]
     }
   }
