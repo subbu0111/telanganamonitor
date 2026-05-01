@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01T22:39:57.624Z",
-    "timestampIST": "2/4/2026, 4:09:57 am",
-    "executiveSummary": "<p>Telangana Chief Minister Revanth Reddy is actively campaigning in Kerala, targeting the LDF and BJP, and making accusations against Pinarayi Vijayan. (1, 3, 4, 11, 13, 14, 18, 19, 20) Several BRS MLAs are criticizing CM Revanth Reddy, alleging bias and raising concerns about the government's actions. (6, 7, 8, 17) A new Economic Offences Wing police station has opened in Neredmet. (9)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Telangana Chief Minister Revanth Reddy is actively campaigning in Kerala, targeting the LDF and BJP, and making accusations against Pinarayi Vijayan. (1, 3, 4, 11, 13, 14, 18, 19, 20) Several BRS MLAs are criticizing CM Revanth Reddy, alleging bias and raising concerns about the government's actions. (6, 7, 8, 17) A new Economic Offences Wing police station has opened in Neredmet. (9)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS MLAs are openly criticizing the CM and the government, potentially leading to increased political tension and challenges to the ruling party. (6, 7, 8, 17)</li>\n    <li><span class=\"risk-low\">Public Perception:</span> Accusations of bias and attempts to silence questioning voices could negatively impact the government's image. (6, 7, 8, 10)</li>\n    <li><span class=\"risk-low\">Legal Challenges:</span> The BRS's Ravula Sridhar Reddy criticizes the Telangana Hate Speech Bill, which could lead to legal challenges. (12)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's campaigning in Kerala (1, 3, 4, 11, 13, 14, 18, 19, 20) is directly linked to the upcoming Kerala polls and his criticism of the LDF and BJP.</li>\n    <li>The BRS MLAs' criticism of CM Revanth Reddy (6, 7, 8, 17) is likely fueled by the CM's actions and policies, potentially related to the ongoing political dynamics.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric from both the ruling party and the BRS MLAs to assess the level of political tension.</li>\n    <li>Assess the potential impact of the Hate Speech Bill on free speech and public discourse.</li>\n    <li>Review the operational readiness of the new Economic Offences Wing police station in Neredmet.</li>\n    <li>Monitor the public's reaction to CM Revanth Reddy's campaigning in Kerala.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Neredmet:</b> The opening of the new Economic Offences Wing police station in Neredmet requires monitoring to ensure its effective operation and resource allocation. (9)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "24.3°C",
-      "humidity": "66%",
-      "wind": "3.4 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 63,
-      "pm25": 14.6,
-      "goldPerGram": "₹9,012",
-      "newsCount": 34,
-      "topHeadlines": [
-        "Telangana CM Revanth Reddy's warning to Keralam voters on LDF - thenewsmill.com",
-        "Deadly Herbicide Paraquat Banned in Telangana - deccanchronicle.com",
-        "Revanth campaigns in Kerala, says LDF and BJP have secret pact - The Hindu",
-        "Kerala polls: Telangana CM Revanth Reddy takes a dig at Pinarayi Vijayan with film dialogue during UDF roadshow - The Hindu",
-        "Telangana mein Dosti Keralam mein Kusti: BJP calls out Revanth’s hypocrisy - The Siasat Daily"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-02T02:32:28.195Z",
     "timestampIST": "2/4/2026, 8:02:28 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, targeting the LDF and BJP, and accusing them of a secret pact (Headlines 4, 6, 16, 20). BRS MLAs are criticizing the CM, alleging bias and personal vendetta, and slamming the Congress over Assembly session disruptions (Headlines 8, 9, 10, 19). A new Economic Offences Wing police station has opened in Neredmet (Headline 11).</p>",
@@ -6884,6 +6861,29 @@
         "CM Revanth: Resolve Power Supply Deficiencies - Deccan Chronicle",
         "KTR condoles Sircilla residents’ deaths in ORR accident, promises support - Telangana Today",
         "Hyderabad: CV Anand Meets CM Revanth Reddy After Assuming Charge as DGP #Gallery - Social News XYZ"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-01T22:52:41.091Z",
+    "timestampIST": "2/5/2026, 4:22:41 am",
+    "executiveSummary": "<p>Retired DGP B. Shivadhar Reddy has been appointed as State Security Advisor for a 3-year term (1).  Six fatalities resulted from a car crash on the Hyderabad Outer Ring Road (ORR) (18), and one fatality and eight injuries occurred in a blast at a Telangana pharma unit (17). The Chief Minister is addressing the Telangana State Road Transport Corporation (TSRTC) workers' demands, including a merger, pay revision, and addressing dues (7, 8, 9, 10, 11, 12, 16, 19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Retired DGP B. Shivadhar Reddy has been appointed as State Security Advisor for a 3-year term (1).  Six fatalities resulted from a car crash on the Hyderabad Outer Ring Road (ORR) (18), and one fatality and eight injuries occurred in a blast at a Telangana pharma unit (17). The Chief Minister is addressing the Telangana State Road Transport Corporation (TSRTC) workers' demands, including a merger, pay revision, and addressing dues (7, 8, 9, 10, 11, 12, 16, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH</span>:  Six fatalities on the Hyderabad ORR (18).</li>\n  <li><span class=\"risk-high\">HIGH</span>: One fatality and eight injuries in a blast at a Telangana pharma unit (17).</li>\n  <li><span class=\"risk-medium\">MEDIUM</span>: Potential for unrest related to the TSRTC merger and related issues, including pay and job security (7, 8, 9, 10, 11, 12, 16, 19).</li>\n  <li><span class=\"risk-low\">LOW</span>: Criticism over commercial LPG price surge (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's focus on resolving power supply deficiencies (4) and the promise of a free MMTS scheme (3) indicate a focus on infrastructure and public services.</li>\n  <li>The CM's engagement with RTC unions (7, 10) and promise of wage relief (12) and addressing dues (9) suggests a critical priority on labor relations and public transport.</li>\n  <li>The appointment of a State Security Advisor (1) and the ORR accident (18) and pharma unit blast (17) highlight the need for enhanced security and emergency response.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Direct immediate investigation into the ORR car crash (18) and the pharma unit blast (17) to determine causes and prevent recurrence.</li>\n  <li>Monitor the ongoing discussions between the CM and RTC unions closely to mitigate potential labor unrest (7, 8, 9, 10, 11, 12, 16, 19).</li>\n  <li>Ensure adequate security measures are in place at all pharma units across the state.</li>\n  <li>Review and expedite the resolution of the journalist housing issue (14).</li>\n  <li>Prepare for the CM's potential visit to the Pranahita-Chevella site at Thummidihatti on May 7 (15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Due to the ORR accident (18), the CM meeting with the new DGP (6), and the free MMTS scheme (3), Hyderabad requires immediate attention.</li>\n  <li><b>Sircilla:</b> Following the ORR accident (5), Sircilla requires support for the affected families.</li>\n  <li><b>Specific location of the Pharma Unit Blast:</b> The district where the pharma unit blast occurred requires immediate investigation and support for the injured (17).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.6°C",
+      "humidity": "33%",
+      "wind": "10.9 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 60,
+      "pm25": 30,
+      "goldPerGram": "₹9,155",
+      "newsCount": 38,
+      "topHeadlines": [
+        "Telangana Appoints Retired DGP B. Shivadhar Reddy as State Security Advisor for 3 Years | Know Him - Indian Masterminds",
+        "Double-bedroom houses for families displaced by lake restoration: Hydraa chief - Telangana Today",
+        "Telangana Readies Draft MoU for Free MMTS Scheme in Hyderabad - Deccan Chronicle",
+        "CM Revanth: Resolve Power Supply Deficiencies - Deccan Chronicle",
+        "KTR condoles Sircilla residents’ deaths in ORR accident, promises support - Telangana Today"
       ]
     }
   }
