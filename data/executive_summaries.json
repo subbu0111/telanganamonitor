@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01T05:56:01.552Z",
-    "timestampIST": "1/4/2026, 11:26:01 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is currently campaigning in Kerala for the Congress party, starting April 1st and 2nd. The government is seeking public suggestions for the Musi River rejuvenation project. Chicken shops across Telangana are closed today due to a retailer protest.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is currently campaigning in Kerala for the Congress party, starting April 1st and 2nd. The government is seeking public suggestions for the Musi River rejuvenation project. Chicken shops across Telangana are closed today due to a retailer protest.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for public unrest:</span> Chicken shops are shut across Telangana due to a retailer protest (11).</li>\n    <li><span class=\"risk-low\">Political Opposition:</span> Niranjan Reddy accuses the government of failing to protect irrigation interests (19).</li>\n    <li><span class=\"risk-low\">Weather Related:</span> IMD has issued a Yellow Alert for thunderstorms across Telangana (2, 9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is campaigning in Kerala (5, 6, 8, 13, 16), potentially impacting his availability for state matters.</li>\n    <li>The government is focused on the Musi River rejuvenation project (15, 17, 18), indicating a key infrastructure initiative.</li>\n    <li>'Tank Bund Shiva' is being honored by the CM with financial aid and housing (4, 10, 14), highlighting a government initiative.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the impact of the chicken shop closures and retailer protest across the state.</li>\n    <li>Assess the public response to the Musi River rejuvenation project and manage public expectations.</li>\n    <li>Monitor weather alerts and ensure disaster preparedness in districts under the Yellow Alert.</li>\n    <li>Monitor the political reactions to CM Revanth Reddy's Kerala campaign.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>All districts: Monitor weather conditions due to the Yellow Alert for thunderstorms (2, 9).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "33.2°C",
-      "humidity": "41%",
-      "wind": "4 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 74,
-      "pm25": 32.9,
-      "goldPerGram": "₹9,050",
-      "newsCount": 23,
-      "topHeadlines": [
-        "Kaushik Reddy calls CID notice ‘political intimidation’ - The Hans India",
-        "Hyderabad Weather Today: IMD Issues Yellow Alert for Thunderstorms Across Telangana - NativePlanet",
-        "Telangana bill mandates salary deduction for neglecting parents' care - Asianet Newsable",
-        "Who is ‘Tank Bund Shiva’, Hyderabad lifesaver honored by CM Revanth - NewsMeter",
-        "Telangana CM Revanth Reddy begins two-day Kerala election campaign - Asianet Newsable"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-01T09:08:05.896Z",
     "timestampIST": "1/4/2026, 2:38:05 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is currently campaigning in Kerala for two days, starting April 1st, for Congress candidates (9, 10, 13, 19). The CM announced ₹5 lakh, a job, and housing for 'Tank Bund Shiva' (15, 17). The government is seeking public suggestions for the Musi River rejuvenation project (18, 20).</p>",
@@ -6884,6 +6861,29 @@
         "Shivadhar Reddy appointed as govt advisor for security - The Hans India",
         "Former DGP Shivadhar Reddy Named as Telangana Security Advisor for Three Years - The Morning Voice",
         "Mumbai Indians to take on Sunrisers Hyderabad today at Wankhede Stadium - News On AIR"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-01T06:38:36.217Z",
+    "timestampIST": "1/5/2026, 12:08:36 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy extended wishes for May Day and Buddha Purnima (1, 2, 20). Prime Minister Modi is scheduled to launch projects worth ₹7,823 crore in Telangana (4, 19). The Chief Minister has set a June 15 deadline for the supply of materials to students (6).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy extended wishes for May Day and Buddha Purnima (1, 2, 20). Prime Minister Modi is scheduled to launch projects worth ₹7,823 crore in Telangana (4, 19). The Chief Minister has set a June 15 deadline for the supply of materials to students (6).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential logistical challenges</span> in meeting the June 15 deadline for student material supply due to centralized procurement (6, 7, 8, 14, 15, 17).</li>\n    <li><span class=\"risk-low\">Security implications</span> related to the overhauling of the Special Intelligence Branch and Greyhounds, as hinted by DGP designate CV Anand (5).</li>\n    <li><span class=\"risk-low\">Operational challenges</span> for the Agri Department in overseeing online pesticide and herbicide sales (13).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Chief Minister Revanth Reddy extended May Day wishes (1, 2, 20), and the CMs of Andhra Pradesh and Telangana highlighted schemes for workers on May Day (3, 12).</li>\n    <li>The Chief Minister is focused on student welfare, ordering timely supply of study material (6, 7).</li>\n    <li>PM Modi is scheduled to launch projects in Telangana (4, 19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the progress of the centralized procurement process for student supplies to ensure the June 15 deadline is met (6, 7, 8, 14, 15, 17).</li>\n    <li>Assess the implications of the overhauling of the Special Intelligence Branch and Greyhounds, as indicated by the DGP designate (5).</li>\n    <li>Ensure the Agri Department is prepared to oversee online pesticide and herbicide sales (13).</li>\n    <li>Prepare for the PM's visit and project launches (4, 19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific districts are mentioned in the provided news headlines that require immediate attention. However, districts with significant student populations should be prioritized for monitoring the supply of educational materials (6, 7, 8, 14, 15, 17).</p>\n```",
+    "dataSnapshot": {
+      "temperature": "37°C",
+      "humidity": "17%",
+      "wind": "12.1 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 64,
+      "pm25": 16.8,
+      "goldPerGram": "₹9,155",
+      "newsCount": 41,
+      "topHeadlines": [
+        "CM Revanth Reddy extends May Day and Buddha Purnima wishes - The Hans India",
+        "Revanth Reddy Extends Buddha Purnima Wishes - Deccan Chronicle",
+        "Andhra Pradesh, Telangana CMs greet workers on May Day; highlight schemes - lokmattimes.com",
+        "Modi to launch projects worth Rs 7,823 cr: Kishan - The New Indian Express",
+        "Telangana DGP designate CV Anand hints at overhauling Special Intelligence Branch, Greyhounds - The New Indian Express"
       ]
     }
   }
