@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01T02:48:09.122Z",
-    "timestampIST": "1/4/2026, 8:18:09 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will campaign for Congress candidates in Kerala and Assam. Chicken shops across Telangana are shut today due to a retailer protest. The government announced ₹5 lakh, a job, and housing for 'Tank Bund Shiva' and is seeking public suggestions for Musi River rejuvenation.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will campaign for Congress candidates in Kerala and Assam. Chicken shops across Telangana are shut today due to a retailer protest. The government announced ₹5 lakh, a job, and housing for 'Tank Bund Shiva' and is seeking public suggestions for Musi River rejuvenation.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential disruption:</span> Chicken shops are shut across Telangana due to a retailer protest. (4)</li>\n    <li><span class=\"risk-low\">Public Health:</span> The government is planning to combat food adulteration with a HYDRAA-like model. (19, 20)</li>\n    <li><span class=\"risk-low\">Political:</span> KTR accuses Minister Ponguleti Srinivas Reddy of illegal mining and land grabbing. (17)</li>\n    <li><span class=\"risk-low\">Infrastructure:</span> Hyderabad is experiencing a power cut today. (18)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM is actively involved in campaigning for Congress candidates in other states (1, 5, 8), indicating a focus on political strategy.</li>\n    <li>The government's focus on Musi River rejuvenation (7, 9, 10) and food adulteration (15, 16, 19, 20) suggests a focus on public welfare.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the impact of the chicken shop closures and assess potential supply chain disruptions.</li>\n    <li>Assess the situation regarding the power cut in Hyderabad.</li>\n    <li>Prepare a response to the accusations of illegal mining and land grabbing against Minister Ponguleti Srinivas Reddy.</li>\n    <li>Expedite the process of setting up the dedicated agency to check food adulteration.</li>\n    <li>Monitor public sentiment regarding the Musi River rejuvenation project.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>All Districts:</b> Monitor for any developments related to the chicken shop closures and potential protests. (4)</li>\n    <li><b>Hyderabad:</b> Address the ongoing power cut and its impact on essential services. (18)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "26.7°C",
-      "humidity": "73%",
-      "wind": "3.3 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 76,
-      "pm25": 42.3,
-      "goldPerGram": "₹9,050",
-      "newsCount": 24,
-      "topHeadlines": [
-        "Telangana CM to campaign for Cong candidates in Kerala on Apr 1, 2 - The Siasat Daily",
-        "Rain, Thunder, Strong Winds — Is Your Telangana District Under Weather Alert Today? - News18",
-        "CM Revanth Reddy Announces ₹5 Lakh, Job and Housing for ‘Tank Bund Shiva’ - The Morning Voice",
-        "Chicken shops shut across Telangana from today as retailers launch protest - The Times of India",
-        "Revanth Reddy's Kerala Assembly Campaign: A Strategic Political Move - Devdiscourse"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-01T05:56:01.552Z",
     "timestampIST": "1/4/2026, 11:26:01 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is currently campaigning in Kerala for the Congress party, starting April 1st and 2nd. The government is seeking public suggestions for the Musi River rejuvenation project. Chicken shops across Telangana are closed today due to a retailer protest.</p>",
@@ -6884,6 +6861,29 @@
         "Telangana's Centralized Approach: Enhancing Education Supply Chain - Devdiscourse",
         "Revanth Reddy defends centralised procurement for student supplies - Telangana Today",
         "Education path progress drives Telangana school expansion push - newsage.in"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-01T03:35:46.473Z",
+    "timestampIST": "1/5/2026, 9:05:46 am",
+    "executiveSummary": "<p>Former DGP Shivadhar Reddy has been appointed as a government advisor for security for three years. (3, 4) The Hyderabad Cybercrime police have filed a case over derogatory posts against the CM and Police Commissioner. (16) PM Modi is scheduled to inaugurate projects worth Rs 7,823 crore in Telangana. (12)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Former DGP Shivadhar Reddy has been appointed as a government advisor for security for three years. (3, 4) The Hyderabad Cybercrime police have filed a case over derogatory posts against the CM and Police Commissioner. (16) PM Modi is scheduled to inaugurate projects worth Rs 7,823 crore in Telangana. (12)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Cybersecurity Threat:</span> Derogatory posts against the CM and Police Commissioner have led to a police case, indicating potential for further online attacks or disinformation campaigns. (16)</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> A BRS leader's tweet regarding maize crop damage has prompted a response from CM Revanth Reddy, suggesting potential for public dissatisfaction. (20)</li>\n    <li><span class=\"risk-low\">Inter-State Relations:</span> Telangana will seek Maharashtra’s consent to raise the Tummidihatti barrage height, which could lead to potential disputes. (18)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The appointment of Shivadhar Reddy as a security advisor (3, 4) is directly relevant to the cybercrime case filed against derogatory posts targeting the CM and Police Commissioner (16), highlighting the need for enhanced security measures.</li>\n    <li>The focus on centralized procurement for student supplies (1, 7, 8, 10) and school expansion (9) indicates a government emphasis on education, potentially impacting resource allocation and public perception.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Hyderabad Cybercrime police to expedite the investigation into the derogatory posts and identify the perpetrators. (16)</li>\n    <li>Task the security advisor, Shivadhar Reddy, to assess and enhance cybersecurity protocols for government officials. (3, 4, 16)</li>\n    <li>Prepare a communication strategy to address any public concerns regarding the maize crop damage and the CM's response. (20)</li>\n    <li>Monitor the progress of the projects to be inaugurated by PM Modi, ensuring smooth execution and public awareness. (12)</li>\n    <li>Initiate diplomatic discussions with Maharashtra regarding the Tummidihatti barrage to ensure a cooperative approach. (18)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p><b>Hyderabad:</b> Immediate attention is required due to the cybercrime case filed against derogatory posts targeting the CM and Police Commissioner. (16)</p>\n```",
+    "dataSnapshot": {
+      "temperature": "32.5°C",
+      "humidity": "26%",
+      "wind": "12 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 50,
+      "pm25": 21.7,
+      "goldPerGram": "₹9,155",
+      "newsCount": 42,
+      "topHeadlines": [
+        "Efficient Educational Supply: Telangana's Centralized Procurement Strategy - Devdiscourse",
+        "Telangana exports surged 36% under CM Revanth’s leadership: Dr Rekha - The Hans India",
+        "Shivadhar Reddy appointed as govt advisor for security - The Hans India",
+        "Former DGP Shivadhar Reddy Named as Telangana Security Advisor for Three Years - The Morning Voice",
+        "Mumbai Indians to take on Sunrisers Hyderabad today at Wankhede Stadium - News On AIR"
       ]
     }
   }
