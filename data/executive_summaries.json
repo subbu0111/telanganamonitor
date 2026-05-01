@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01T19:05:36.937Z",
-    "timestampIST": "2/4/2026, 12:35:36 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the LDF and BJP. [2, 3, 10, 12, 13, 17, 18, 19, 20] Several BRS MLAs are criticizing the CM, alleging personal vendetta and bias. [5, 6, 7, 16] The Telangana government is accused of attempting to silence questioning voices. [9]</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the LDF and BJP. [2, 3, 10, 12, 13, 17, 18, 19, 20] Several BRS MLAs are criticizing the CM, alleging personal vendetta and bias. [5, 6, 7, 16] The Telangana government is accused of attempting to silence questioning voices. [9]</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> BRS MLAs are publicly criticizing the CM and the government, potentially leading to increased political tensions. [5, 6, 7, 16]</li>\n  <li><span class=\"risk-low\">Public Discontent:</span> Accusations of silencing questioning voices could fuel public discontent. [9]</li>\n  <li><span class=\"risk-low\">Legal Challenges:</span> BRS MLA Ravula Sridhar Reddy criticises Telangana Hate Speech Bill as curbing free speech. [11]</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's campaigning in Kerala (headlines 2, 3, 10, 12, 13, 17, 18, 19, 20) is directly linked to criticism from BRS MLAs within Telangana (headlines 5, 6, 7, 16).</li>\n  <li>The CM's actions in Kerala are being framed by the opposition as hypocrisy (headline 4).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the statements and actions of BRS MLAs for any escalation of criticism or potential disruptions. [5, 6, 7, 16]</li>\n  <li>Assess the potential impact of the \"Hate Speech Bill\" criticism on public perception and legal challenges. [11]</li>\n  <li>Review the government's communication strategy to address accusations of silencing dissenting voices. [9]</li>\n  <li>Monitor public sentiment regarding the CM's Kerala campaign and its impact on Telangana politics. [2, 3, 10, 12, 13, 17, 18, 19, 20]</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific districts require immediate attention based on the provided data.</p>\n```",
-    "dataSnapshot": {
-      "temperature": "25.6°C",
-      "humidity": "71%",
-      "wind": "2.1 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 66,
-      "pm25": 22.7,
-      "goldPerGram": "₹9,012",
-      "newsCount": 35,
-      "topHeadlines": [
-        "Deadly Herbicide Paraquat Banned in Telangana - Deccan Chronicle",
-        "Revanth campaigns in Kerala, says LDF and BJP have secret pact - The Hindu",
-        "Kerala polls: Telangana CM Revanth Reddy takes a dig at Pinarayi Vijayan with film dialogue during UDF roadshow - The Hindu",
-        "Telangana mein Dosti Keralam mein Kusti: BJP calls out Revanth’s hypocrisy - The Siasat Daily",
-        "BRS MLA Accuses Telangana CM of Personal Vendetta Amid Suspension Controversy - Devdiscourse"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-01T20:48:21.520Z",
     "timestampIST": "2/4/2026, 2:18:21 am",
     "executiveSummary": "<p>Telangana Chief Minister Revanth Reddy is actively campaigning in Kerala for the upcoming elections, targeting the LDF and BJP. (Headlines 1, 3, 4, 5, 12, 14, 15, 19, 20) Several BRS MLAs are criticizing CM Revanth Reddy, accusing him of bias and personal vendetta. (Headlines 7, 8, 9, 18) A new Economic Offences Wing police station has opened in Neredmet. (Headline 10)</p>",
@@ -6884,6 +6861,29 @@
         "Journalist housing issue: Ponguleti sets June 2 deadline for resolution - newsage.in",
         "Revanth May Visit Pranahita-Chevella Site at Thummidihatti on May 7 - Deccan Chronicle",
         "Telangana CM assures action on RTC employees’ demands​ - Social News XYZ"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-01T19:15:24.694Z",
+    "timestampIST": "2/5/2026, 12:45:24 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy met with DGP CV Anand today. Six fatalities occurred in a road accident on the Outer Ring Road (ORR) near Shamshabad, with KTR offering condolences. The CM is addressing the Telangana State Road Transport Corporation (TSRTC) merger and worker demands, including wage relief and an expansion plan.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with DGP CV Anand today. Six fatalities occurred in a road accident on the Outer Ring Road (ORR) near Shamshabad, with KTR offering condolences. The CM is addressing the Telangana State Road Transport Corporation (TSRTC) merger and worker demands, including wage relief and an expansion plan.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Six fatalities in a road accident on the ORR near Shamshabad. (Headlines 2, 14, 17, 18)</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Potential for unrest related to the TSRTC merger and worker demands, including the possibility of talks and action plans. (Headlines 4, 5, 7, 8, 9, 13, 15)</li>\n    <li><span class=\"risk-low\">LOW:</span> Criticism of the central government regarding commercial LPG price hikes by a Telangana minister. (Headlines 16, 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The ORR accident near Shamshabad (Headlines 14, 17, 18) highlights a potential safety concern in the area, which may require immediate attention.</li>\n    <li>The CM's focus on the TSRTC merger and worker demands (Headlines 4, 5, 7, 8, 9, 13, 15) may be linked to the need for improved public transport, potentially impacting traffic and safety.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>DGP should immediately review and enhance safety measures on the ORR, particularly around Shamshabad.</li>\n    <li>The CM should expedite discussions with RTC unions regarding the merger and worker demands to mitigate potential unrest.</li>\n    <li>The government should address the power supply deficiencies as directed by the CM. (Headline 1)</li>\n    <li>Monitor public sentiment regarding the commercial LPG price hike and its impact. (Headlines 16, 20)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Shamshabad:</b> Immediate attention is required due to the recent road accident and the need for enhanced safety measures. (Headlines 14, 17, 18)</li>\n    <li><b>Sircilla:</b> KTR's condolences suggest a need for support to the affected families. (Headline 2)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30°C",
+      "humidity": "35%",
+      "wind": "4.3 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 56,
+      "pm25": 51.6,
+      "goldPerGram": "₹9,155",
+      "newsCount": 37,
+      "topHeadlines": [
+        "CM Revanth: Resolve Power Supply Deficiencies - Deccan Chronicle",
+        "KTR condoles Sircilla residents’ deaths in ORR accident, promises support - Telangana Today",
+        "Hyderabad: CV Anand Meets CM Revanth Reddy After Assuming Charge as DGP #Gallery - Social News XYZ",
+        "Revanth Reddy asks RTC unions to hold talks on merger issue - Telangana Today",
+        "Telangana to pay RTC workers for strike, withdraw cases: CM Reddy - Asianet Newsable"
       ]
     }
   }
