@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01T13:27:06.065Z",
-    "timestampIST": "1/4/2026, 6:57:06 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is currently on a two-day campaign tour in Kerala for the upcoming elections. He has made several statements criticizing Pinarayi Vijayan and the LDF, while also extending support to Tank Bund rescuer Shiva. Chicken shops across Telangana have shut down today due to a protest.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is currently on a two-day campaign tour in Kerala for the upcoming elections. He has made several statements criticizing Pinarayi Vijayan and the LDF, while also extending support to Tank Bund rescuer Shiva. Chicken shops across Telangana have shut down today due to a protest.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> CM Revanth Reddy's campaign in Kerala could lead to increased political tensions, especially given his accusations against the LDF and BJP. (Headlines 1, 2, 3, 6, 7, 8, 9, 19)</li>\n    <li><span class=\"risk-medium\">Economic:</span> Chicken shop closures across Telangana could impact local businesses and potentially lead to public dissatisfaction. (Headline 13)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> IMD has issued a Yellow Alert for thunderstorms across Telangana. (Headline 15)</li>\n    <li><span class=\"risk-low\">Legal/Political:</span> Kaushik Reddy has called a CID notice ‘political intimidation’. (Headline 14)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is actively campaigning in Kerala (Headlines 1, 2, 3, 6, 7, 8, 9, 18, 19), while also addressing issues within Telangana (Headlines 5, 10, 12, 16, 20).</li>\n    <li>The CM's support for Tank Bund rescuer Shiva (Headline 5, 17) highlights a potential public relations opportunity, while also drawing attention to local issues.</li>\n    <li>The chicken shop closures (Headline 13) and the Hyderabad power cut (Headline 11) may be unrelated, but both could impact public sentiment.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political situation in Kerala closely, assessing the impact of CM Revanth Reddy's campaign.</li>\n    <li>Assess the economic impact of the chicken shop closures and engage with the traders to understand the situation.</li>\n    <li>Coordinate with the relevant departments to ensure public safety during the predicted thunderstorms.</li>\n    <li>Review the CID notice mentioned by Kaushik Reddy and assess the potential implications.</li>\n    <li>Prepare a public statement regarding the new bill mandating salary deduction for neglecting parents' care. (Headline 16)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor the impact of the power cut (Headline 11) and the weather alert (Headline 15).</li>\n    <li><b>All Telangana Districts:</b> Monitor the impact of chicken shop closures (Headline 13).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.7°C",
-      "humidity": "44%",
-      "wind": "2.6 km/h",
-      "weatherDesc": "Rain Showers",
-      "aqi": 69,
-      "pm25": 29.9,
-      "goldPerGram": "₹9,050",
-      "newsCount": 28,
-      "topHeadlines": [
-        "Kerala polls: Revanth Reddy takes on Pinarayi, with a Mohanlal punchline - The Federal",
-        "Revanth Reddy's Fiery Attack: ‘Nee po mone Vijaya’ at Kerala Campaign - devdiscourse.com",
-        "Assembly Elections 2026 | Revanth Reddy Alleges 'Secret Deal' Between BJP, CPI(M); Campaigns For Congress in Kerala - etvbharat.com",
-        "NAREDCO Telangana announces new Executive Committee for 2026–2028 - Telangana Today",
-        "Revanth Reddy extends support to Tank Bund rescuer Shiva - newsage.in"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-01T15:07:09.483Z",
     "timestampIST": "1/4/2026, 8:37:09 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the LDF government and BJP (1, 3, 4, 5, 6, 9, 10, 11, 12). Chicken shops across Telangana are closed due to a protest over shrinking margins (16). The IMD has issued a Yellow Alert for thunderstorms across Telangana, and Hyderabad experienced a power cut (14, 18).</p>",
@@ -6907,6 +6884,29 @@
         "Madinah bus accident 2025: RTI shows 16 Telangana families yet to get ex-gratia - The Siasat Daily",
         "Telangana Appoints Retired DGP B. Shivadhar Reddy as State Security Advisor for 3 Years | Know Him - Indian Masterminds",
         "Telangana: 9 injured, 3 critical in pharma reactor blast; second in weeks - The Siasat Daily"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-01T14:57:37.557Z",
+    "timestampIST": "1/5/2026, 8:27:37 pm",
+    "executiveSummary": "<p>A tragic road accident on the Hyderabad Outer Ring Road (ORR) near Shamshabad resulted in six fatalities. (1, 4, 5) The Chief Minister Revanth Reddy granted pay and immunity for the TSRTC workers' strike period. (2) A pharma reactor blast injured 9, with 3 in critical condition. (10) The CM has set a June 15 deadline for the supply of materials to students. (17, 18)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A tragic road accident on the Hyderabad Outer Ring Road (ORR) near Shamshabad resulted in six fatalities. (1, 4, 5) The Chief Minister Revanth Reddy granted pay and immunity for the TSRTC workers' strike period. (2) A pharma reactor blast injured 9, with 3 in critical condition. (10) The CM has set a June 15 deadline for the supply of materials to students. (17, 18)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Road Safety:</span> The ORR accident highlights a critical need for immediate review of road safety measures and enforcement, given the high number of fatalities. (1, 4, 5)</li>\n    <li><span class=\"risk-medium\">Industrial Safety:</span> The pharma reactor blast, the second in weeks, indicates potential systemic safety failures in industrial facilities. (10)</li>\n    <li><span class=\"risk-medium\">Public Sentiment:</span> Commercial LPG price surge could lead to public dissatisfaction. (3, 7, 19)</li>\n    <li><span class=\"risk-low\">TSRTC Labor Relations:</span> The CM's decision to grant pay and immunity may not fully resolve potential labor unrest. (2, 12)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The tragic road accident on the ORR (1, 4, 5) underscores the importance of the DGP's vow to strengthen the police force (11).</li>\n    <li>The CM's focus on student material supply (17, 18) aligns with the centralized procurement strategy mentioned in another article (20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Initiate an immediate investigation into the ORR accident, focusing on cause and contributing factors.</li>\n    <li>Conduct a thorough safety audit of all pharmaceutical and industrial facilities to prevent further incidents.</li>\n    <li>Monitor public reaction to the commercial LPG price increase and prepare a communication strategy.</li>\n    <li>Ensure timely implementation of the CM's directive on student material supply, meeting the June 15 deadline.</li>\n    <li>Review and assess the current status of the TSRTC workers' strike and address any outstanding issues.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Immediate attention is needed due to the ORR accident (1, 4, 5) and the pharma reactor blast (10).</li>\n    <li><b>All Districts:</b> Monitor the implementation of the CM's directive on student material supply across all districts (17, 18).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34.5°C",
+      "humidity": "24%",
+      "wind": "5.2 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 48,
+      "pm25": 31.4,
+      "goldPerGram": "₹9,155",
+      "newsCount": 32,
+      "topHeadlines": [
+        "Six killed after car crashes into lorry on Hyderabad ORR - Telangana Today",
+        "CM Revanth Reddy Grants Pay and Immunity for TSRTC Workers’ Strike Period - Deccan Chronicle",
+        "Commercial LPG Price Surge Draws Strong Criticism from Telangana Minister - Devdiscourse",
+        "Hyderabad: Family’s temple trip ends in tragedy, six dead in road crash - Telangana Today",
+        "Six Killed In Road Mishap On Outer Ring Road At Shamshabad In Telangana - ETV Bharat"
       ]
     }
   }
