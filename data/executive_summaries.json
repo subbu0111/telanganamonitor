@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02T02:32:28.195Z",
-    "timestampIST": "2/4/2026, 8:02:28 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, targeting the LDF and BJP, and accusing them of a secret pact (Headlines 4, 6, 16, 20). BRS MLAs are criticizing the CM, alleging bias and personal vendetta, and slamming the Congress over Assembly session disruptions (Headlines 8, 9, 10, 19). A new Economic Offences Wing police station has opened in Neredmet (Headline 11).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, targeting the LDF and BJP, and accusing them of a secret pact (Headlines 4, 6, 16, 20). BRS MLAs are criticizing the CM, alleging bias and personal vendetta, and slamming the Congress over Assembly session disruptions (Headlines 8, 9, 10, 19). A new Economic Offences Wing police station has opened in Neredmet (Headline 11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> BRS MLAs are publicly criticizing the CM and accusing him of bias, potentially escalating tensions within the state (Headlines 8, 9, 10).</li>\n  <li><span class=\"risk-low\">Free Speech Concerns:</span> BRS's Ravula Sridhar Reddy criticises the Telangana Hate Speech Bill as curbing free speech (Headline 14).</li>\n  <li><span class=\"risk-low\">Public Perception:</span> Accusations of a \"conspiracy to silence questioning voices\" could damage the government's image (Headline 12).</li>\n  <li><span class=\"risk-low\">Kerala Elections:</span> CM Revanth Reddy's campaigning in Kerala and his comments on the LDF and BJP could have repercussions (Headlines 1, 2, 4, 5, 6, 13, 15, 16, 20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's campaigning in Kerala (Headlines 4, 5, 6, 13, 15, 16, 20) is directly linked to the criticism from BRS MLAs within Telangana (Headlines 8, 9, 10, 19), suggesting a potential political strategy.</li>\n  <li>The opening of the new Economic Offences Wing police station in Neredmet (Headline 11) could be related to the government's perceived efforts to silence questioning voices (Headline 12).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the BRS MLAs' statements and activities closely for any escalation of political tensions.</li>\n  <li>Assess the potential impact of the CM's Kerala campaign on the political landscape within Telangana.</li>\n  <li>Review the implementation of the Hate Speech Bill, considering the criticism from BRS.</li>\n  <li>Ensure the Economic Offences Wing is prepared to handle potential investigations and public scrutiny.</li>\n  <li>Prepare a response to the accusations of silencing questioning voices.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Neredmet:</b> Monitor the activities of the newly opened Economic Offences Wing police station (Headline 11).</li>\n  <li><b>All Districts:</b> Monitor for any public reaction or protests related to the CM's Kerala campaign and the criticism from BRS MLAs.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "25.7°C",
-      "humidity": "68%",
-      "wind": "6.2 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 51,
-      "pm25": 13.7,
-      "goldPerGram": "₹9,012",
-      "newsCount": 33,
-      "topHeadlines": [
-        "CM Revanth Reddy’s LDF Swipe Ignites BJP Attack, CPI Pushback - The Morning Voice",
-        "Telangana CM Revanth Reddy's warning to Keralam voters on LDF - The News Mill",
-        "Deadly Herbicide Paraquat Banned in Telangana - Deccan Chronicle",
-        "Revanth campaigns in Kerala, says LDF and BJP have secret pact - The Hindu",
-        "Kerala polls: Telangana CM Revanth Reddy takes a dig at Pinarayi Vijayan with film dialogue during UDF roadshow - The Hindu"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-02T05:42:29.020Z",
     "timestampIST": "2/4/2026, 11:12:29 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from CPI(M) and CPI regarding remarks about Pinarayi Vijayan and the LDF in Kerala (1, 7, 9, 10, 11, 13, 14). BRS MLAs are accusing the CM of personal vendetta and bias, specifically regarding a CID notice (16, 17, 18). A new Economic Offences Wing police station has opened in Neredmet (19).</p>",
@@ -6884,6 +6861,29 @@
         "Telangana Readies Draft MoU for Free MMTS Scheme in Hyderabad - Deccan Chronicle",
         "CM Revanth: Resolve Power Supply Deficiencies - Deccan Chronicle",
         "KTR condoles Sircilla residents’ deaths in ORR accident, promises support - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-02T02:52:18.108Z",
+    "timestampIST": "2/5/2026, 8:22:18 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is engaging with RTC unions regarding the absorption of workers and has announced wage payouts related to a strike (1, 12, 16). The CM has instructed officials to address misconceptions about staff transfers to Rythu Discom (2).  DGP CV Anand met with CM Revanth Reddy after assuming charge (5).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is engaging with RTC unions regarding the absorption of workers and has announced wage payouts related to a strike (1, 12, 16). The CM has instructed officials to address misconceptions about staff transfers to Rythu Discom (2).  DGP CV Anand met with CM Revanth Reddy after assuming charge (5).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for unrest:</span>  RTC unions are in discussions with the CM regarding absorption and merger, which could lead to labor disputes if negotiations fail (1, 11, 14, 15, 16, 20).</li>\n    <li><span class=\"risk-low\">Public perception:</span> Misconceptions regarding staff transfers to Rythu Discom need to be addressed to avoid negative public sentiment (2).</li>\n    <li><span class=\"risk-low\">Infrastructure concerns:</span>  The CM is addressing power supply deficiencies (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on RTC issues (1, 11, 12, 13, 14, 15, 16, 20) and the appointment of a State Security Advisor (6) suggests a focus on maintaining order and addressing potential labor unrest.</li>\n    <li>The CM's directive to address power supply deficiencies (9) and the announcement of a world-class bus terminus (17) indicate a focus on infrastructure development.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize and actively monitor the ongoing negotiations between the CM and RTC unions to mitigate potential labor unrest (1, 11, 14, 15, 16, 20).</li>\n    <li>Ensure effective communication and clarification regarding staff transfers to Rythu Discom to address public misconceptions (2).</li>\n    <li>Monitor the Pranahitha-Chevella project, particularly in light of upcoming talks with Maharashtra (3, 19).</li>\n    <li>Address power supply deficiencies as directed by the CM (9).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Sircilla:</b>  Focus on providing support to the families affected by the ORR accident (10).</li>\n    <li><b>Shamshabad:</b>  Monitor the development of the world-class bus terminus (17).</li>\n    <li><b>Thummidihatti:</b> Prepare for the CM's potential visit to the Pranahita-Chevella site on May 7 (19).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31.1°C",
+      "humidity": "33%",
+      "wind": "9.9 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 61,
+      "pm25": 22.4,
+      "goldPerGram": "₹9,155",
+      "newsCount": 42,
+      "topHeadlines": [
+        "Telangana CM Revanth asks RTC unions to reach consensus on absorption; announces strike wage payout - The New Indian Express",
+        "Telangana CM Reddy asks officials to clear misconceptions over staff transfers to Rythu Discom - The New Indian Express",
+        "Uttam Reddy seeks detailed proposals on Pranahitha-Chevella project ahead of Maharashtra talks - The New Indian Express",
+        "At least 6 killed after car crashes into stationary lorry in Telangana - The Times of India",
+        "Hyderabad: CV Anand Meets CM Revanth Reddy After Assuming Charge as DGP #Gallery - Social News XYZ"
       ]
     }
   }
