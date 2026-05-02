@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02T10:53:02.411Z",
-    "timestampIST": "2/4/2026, 4:23:02 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is currently on a two-day campaign tour in Keralam, where he made remarks about Kerala CM Pinarayi Vijayan, drawing criticism from CPI(M) and BJP.  A Lok Sabha clash occurred between Congress MPs and Minister Kishan Reddy regarding bifurcation promises. An IPL match between KKR and SRH is scheduled for today.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is currently on a two-day campaign tour in Keralam, where he made remarks about Kerala CM Pinarayi Vijayan, drawing criticism from CPI(M) and BJP.  A Lok Sabha clash occurred between Congress MPs and Minister Kishan Reddy regarding bifurcation promises. An IPL match between KKR and SRH is scheduled for today.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> CM Revanth Reddy's remarks on Pinarayi Vijayan have triggered criticism from CPI(M) and BJP, potentially escalating political tensions. (Headlines 8, 9, 15, 18, 19)</li>\n    <li><span class=\"risk-low\">Inter-State Relations:</span> CM Revanth Reddy's campaign in Keralam and his comments could strain relations with the Kerala government. (Headlines 16, 19, 20)</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> The Lok Sabha clash between Congress MPs and Minister Kishan Reddy over bifurcation promises could impact public perception. (Headline 14)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's campaign tour in Keralam (Headline 20) is directly linked to his remarks on Pinarayi Vijayan (Headlines 8, 9, 15, 16, 18, 19).</li>\n    <li>The political reactions from CPI(M) and BJP (Headlines 8, 9, 15, 18) are a direct consequence of CM Revanth Reddy's statements.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political fallout from CM Revanth Reddy's remarks in Keralam and assess potential impact on Telangana.</li>\n    <li>Assess public sentiment regarding the Lok Sabha clash over bifurcation promises.</li>\n    <li>Prepare a response to any potential criticism from the CPI(M) or BJP regarding the CM's statements.</li>\n    <li>Review the 99-day plan detailed by Revanth Reddy. (Headline 4)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts within Telangana require immediate attention based on the provided news headlines.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35°C",
-      "humidity": "29%",
-      "wind": "10.1 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 63,
-      "pm25": 16.1,
-      "goldPerGram": "₹9,012",
-      "newsCount": 35,
-      "topHeadlines": [
-        "KKR vs SRH, IPL 2026: 5 players to watch in today’s match - The Times of India",
-        "Kerala polls: Congress-led UDF manifesto promises ‘Indira guarantees’, five ‘dream’ projects and boost for health, higher education sectors - The Hindu",
-        "Kaushik Reddy seeks mining row probe in Assembly - newsage.in",
-        "Revanth Reddy details 99-day plan in Telangana - newsage.in",
-        "UDF promises high-speed rail, hike in welfare pensions and Rohith Vemula law - The News Minute"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-02T13:19:23.024Z",
     "timestampIST": "2/4/2026, 6:49:23 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from CPI(M) regarding remarks made about Kerala CM Pinarayi Vijayan. (10, 11, 18, 20) The CM is also detailing a 99-day plan for Telangana. (6)  An IPL match between KKR and SRH is scheduled for today. (2, 3, 9, 16)</p>",
@@ -6855,6 +6832,29 @@
       "pm25": 14.5,
       "goldPerGram": "₹9,155",
       "newsCount": 36,
+      "topHeadlines": [
+        "Activists warn of crisis as Telangana scholarship row hits students - The Siasat Daily",
+        "\"Huge slap to administration of Assam government\": Congress leader Sama Ram Mohan Reddy on Congress leader... - lokmattimes.com",
+        "Power substations work fast-tracked by Revanth Reddy - newsage.in",
+        "Hyderabad: CV Anand Meets CM Revanth Reddy After Assuming Charge as DGP #Gallery - Social News XYZ",
+        "Proposal for directly-elected mayor for Hyderabad civic polls under consideration - The New Indian Express"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-02T10:54:09.947Z",
+    "timestampIST": "2/5/2026, 4:24:09 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy met with newly appointed DGP CV Anand. (4) The CM announced a major infrastructure push for TGSRTC, including 1000 e-buses and international standard terminals. (6) The CM also addressed RTC union concerns, including strike wage payouts and talks on merger issues. (7, 18, 19, 20) There are reports of a car crash in Telangana that resulted in at least 6 fatalities. (10)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with newly appointed DGP CV Anand. (4) The CM announced a major infrastructure push for TGSRTC, including 1000 e-buses and international standard terminals. (6) The CM also addressed RTC union concerns, including strike wage payouts and talks on merger issues. (7, 18, 19, 20) There are reports of a car crash in Telangana that resulted in at least 6 fatalities. (10)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Potential for unrest:</span> Activists are warning of a crisis related to the Telangana scholarship row. (1)</li>\n  <li><span class=\"risk-medium\">Public Safety:</span> At least 6 fatalities reported after a car crash. (10)</li>\n  <li><span class=\"risk-low\">Labor Relations:</span> Discussions ongoing with RTC unions regarding absorption and merger issues. (7, 18)</li>\n  <li><span class=\"risk-low\">Farmer Protests:</span> Controversy surrounding the Bharat Future City Project. (11)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy is actively involved in addressing multiple issues, including power supply deficiencies (16), TGSRTC (6, 7, 18, 19, 20), and staff transfers. (8)</li>\n  <li>The CM is focused on infrastructure development, including power substations (3) and the revival of TGSRTC (6).</li>\n  <li>The government is addressing RTC worker dues (20) and the CM is asking RTC unions to reach a consensus on absorption (7, 18).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>DGP should investigate the car crash and provide a detailed report. (10)</li>\n  <li>Monitor the situation regarding the Telangana scholarship row and potential activism. (1)</li>\n  <li>Ensure effective communication and negotiation with RTC unions regarding the merger and absorption issues. (7, 18)</li>\n  <li>Review the proposals for the Pranahitha-Chevella project. (9)</li>\n  <li>Address power supply deficiencies as directed by the CM. (16)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Sircilla:</b> KTR condoles deaths in an ORR accident. (17)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "39.3°C",
+      "humidity": "16%",
+      "wind": "10.3 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 60,
+      "pm25": 13,
+      "goldPerGram": "₹9,155",
+      "newsCount": 34,
       "topHeadlines": [
         "Activists warn of crisis as Telangana scholarship row hits students - The Siasat Daily",
         "\"Huge slap to administration of Assam government\": Congress leader Sama Ram Mohan Reddy on Congress leader... - lokmattimes.com",
