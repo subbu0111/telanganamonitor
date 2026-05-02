@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02T05:42:29.020Z",
-    "timestampIST": "2/4/2026, 11:12:29 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from CPI(M) and CPI regarding remarks about Pinarayi Vijayan and the LDF in Kerala (1, 7, 9, 10, 11, 13, 14). BRS MLAs are accusing the CM of personal vendetta and bias, specifically regarding a CID notice (16, 17, 18). A new Economic Offences Wing police station has opened in Neredmet (19).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism from CPI(M) and CPI regarding remarks about Pinarayi Vijayan and the LDF in Kerala (1, 7, 9, 10, 11, 13, 14). BRS MLAs are accusing the CM of personal vendetta and bias, specifically regarding a CID notice (16, 17, 18). A new Economic Offences Wing police station has opened in Neredmet (19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Criticism of the CM by CPI(M), CPI, and BRS MLAs could escalate political tensions within the state (1, 7, 9, 16, 17, 18).</li>\n    <li><span class=\"risk-low\">Public Perception:</span> Accusations of bias and personal vendetta against the CM could negatively impact public perception (16, 17, 18).</li>\n    <li><span class=\"risk-low\">Legal Challenges:</span> The Telangana government is accused of a conspiracy to silence questioning voices (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's comments regarding Pinarayi Vijayan in Kerala (8, 10, 11, 13, 14) have drawn criticism from CPI and CPI(M) (1, 7).</li>\n    <li>BRS MLAs are accusing the CM of personal vendetta (16, 17, 18), potentially linked to the Telangana government's actions (20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political reactions to the CM's remarks on Kerala politics and the responses from CPI, CPI(M), and BJP.</li>\n    <li>Assess the validity of the BRS MLA's accusations of bias and personal vendetta.</li>\n    <li>Review the circumstances surrounding the CID notice mentioned by BRS MLAs.</li>\n    <li>Ensure transparency and due process in all government actions to counter accusations of silencing voices.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Neredmet:</b> Monitor the activities of the newly opened Economic Offences Wing police station (19).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "32.1°C",
-      "humidity": "35%",
-      "wind": "11.5 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 47,
-      "pm25": 10,
-      "goldPerGram": "₹9,012",
-      "newsCount": 31,
-      "topHeadlines": [
-        "Telangana CPI(M) secretary slams CM for remark on Vijayan - The Siasat Daily",
-        "Govt Balances Welfare, Development amid Challenges: Revanth Reddy - Deccan Chronicle",
-        "TGCHE chairman releases PMIS Round III brochure - thehansindia.com",
-        "Kishan Reddy expresses support for Amaravati as AP’s permanent capital - thehansindia.com",
-        "IPL match today, KKR vs SRH: Team prediction, head-to-head, pitch report, Kolkata weather update - The Times of India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-02T07:16:40.077Z",
     "timestampIST": "2/4/2026, 12:46:40 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is currently campaigning in Keralam for a two-day tour, making remarks about Kerala CM Pinarayi Vijayan and the LDF, drawing criticism from CPI(M) and CPI. (2, 3, 10, 11, 13, 14, 15, 16, 18, 20) Kishan Reddy expressed support for Amaravati as AP's permanent capital. (7) An IPL match between KKR and SRH is scheduled for today. (8, 12)</p>",
@@ -6884,6 +6861,29 @@
         "Uttam Reddy seeks detailed proposals on Pranahitha-Chevella project ahead of Maharashtra talks - The New Indian Express",
         "At least 6 killed after car crashes into stationary lorry in Telangana - The Times of India",
         "Hyderabad: CV Anand Meets CM Revanth Reddy After Assuming Charge as DGP #Gallery - Social News XYZ"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-02T06:08:12.960Z",
+    "timestampIST": "2/5/2026, 11:38:12 am",
+    "executiveSummary": "<p>DGP CV Anand met with CM Revanth Reddy after assuming charge. (1) CM Revanth Reddy announced a major infrastructure push for TGSRTC, including 1000 e-buses and international standard terminals. (2) The CM is addressing RTC worker concerns, including wage payouts and merger discussions. (3, 13, 14, 15, 17, 18) A car crash resulted in at least 6 fatalities. (6)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>DGP CV Anand met with CM Revanth Reddy after assuming charge. (1) CM Revanth Reddy announced a major infrastructure push for TGSRTC, including 1000 e-buses and international standard terminals. (2) The CM is addressing RTC worker concerns, including wage payouts and merger discussions. (3, 13, 14, 15, 17, 18) A car crash resulted in at least 6 fatalities. (6)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for unrest among RTC unions</span> due to ongoing discussions regarding merger and worker absorption. (3, 13, 16)</li>\n    <li><span class=\"risk-low\">Public concern over road safety</span> following a fatal car crash. (6)</li>\n    <li><span class=\"risk-low\">Possible delays or complications</span> in staff transfers to Rythu Discom due to existing misconceptions. (4)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on TGSRTC (2, 7, 18) is directly linked to addressing worker concerns and potential merger discussions. (3, 13, 16)</li>\n    <li>The announcement of a world-class bus terminal (19) is part of the larger infrastructure push for TGSRTC, as mentioned in headline (2).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor negotiations between the CM and RTC unions closely to mitigate potential labor unrest. (3, 13, 16)</li>\n    <li>Issue a public statement on road safety following the car crash, emphasizing preventative measures. (6)</li>\n    <li>Clarify and address any misconceptions regarding staff transfers to Rythu Discom to ensure a smooth transition. (4)</li>\n    <li>Expedite the preparation of the draft MoU for the Free MMTS Scheme in Hyderabad. (10)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Sircilla:</b> Requires attention due to the ORR accident and the deaths of residents. (12)</li>\n    <li><b>Hyderabad:</b> Requires attention due to the Free MMTS Scheme and the CM's focus on resolving power supply deficiencies. (10, 11)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37.8°C",
+      "humidity": "19%",
+      "wind": "6.8 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 63,
+      "pm25": 16.4,
+      "goldPerGram": "₹9,155",
+      "newsCount": 36,
+      "topHeadlines": [
+        "Hyderabad: CV Anand Meets CM Revanth Reddy After Assuming Charge as DGP #Gallery - Social News XYZ",
+        "1000 e-buses, international standard terminals: CM Revanth announces major infra push to revive TGSRTC - NewsMeter",
+        "Telangana CM Revanth asks RTC unions to reach consensus on absorption; announces strike wage payout - The New Indian Express",
+        "Telangana CM Reddy asks officials to clear misconceptions over staff transfers to Rythu Discom - The New Indian Express",
+        "Uttam Reddy seeks detailed proposals on Pranahitha-Chevella project ahead of Maharashtra talks - The New Indian Express"
       ]
     }
   }
