@@ -6863,5 +6863,28 @@
         "Proposal for directly-elected mayor for Hyderabad civic polls under consideration - The New Indian Express"
       ]
     }
+  },
+  {
+    "timestamp": "2026-05-02T13:16:48.501Z",
+    "timestampIST": "2/5/2026, 6:46:48 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy met with newly appointed DGP CV Anand. The CM ordered fast-track construction of power substations and announced a major infrastructure push for TGSRTC, including 1000 e-buses. The CM is also addressing RTC worker dues and services, including wage payouts related to a strike.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with newly appointed DGP CV Anand. The CM ordered fast-track construction of power substations and announced a major infrastructure push for TGSRTC, including 1000 e-buses. The CM is also addressing RTC worker dues and services, including wage payouts related to a strike.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Potential for unrest:</span> Activists warn of a crisis related to a Telangana scholarship row affecting students. (Headline 2)</li>\n  <li><span class=\"risk-medium\">Public Safety:</span> At least 6 fatalities reported after a car crashed into a lorry in Telangana. (Headline 10)</li>\n  <li><span class=\"risk-low\">Labor Relations:</span> RTC unions are being asked to reach consensus on absorption and hold talks on the merger issue. (Headlines 7, 18)</li>\n  <li><span class=\"risk-low\">Farmer Protests:</span> Controversy surrounding the Bharat Future City Project. (Headline 11)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM is focused on both infrastructure (power substations, TGSRTC) and labor issues (RTC unions, worker dues). (Headlines 3, 6, 7, 18, 20)</li>\n  <li>The CM is addressing issues related to power supply (Headline 16) while also facilitating permissions for large data centers that require significant electricity (Headline 1).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>DGP should monitor the situation regarding the Telangana scholarship row and potential student unrest. (Headline 2)</li>\n  <li>DGP to investigate the car crash incident and ensure appropriate safety measures are in place. (Headline 10)</li>\n  <li>CMO to closely monitor negotiations between the CM and RTC unions regarding the merger and worker dues. (Headlines 7, 18, 20)</li>\n  <li>Review the proposals for the Pranahitha-Chevella project ahead of talks with Maharashtra. (Headline 9)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Sircilla:</b> KTR condoles deaths in an ORR accident, indicating a need for attention. (Headline 17)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37.5°C",
+      "humidity": "16%",
+      "wind": "7.4 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 58,
+      "pm25": 19.4,
+      "goldPerGram": "₹9,155",
+      "newsCount": 32,
+      "topHeadlines": [
+        "Facilitate permissions for large data centres requiring huge amounts of electricity: Telangana CM - The Hindu",
+        "Activists warn of crisis as Telangana scholarship row hits students - The Siasat Daily",
+        "Power substations: CM Revanth Reddy orders fast-track construction - newsage.in",
+        "Hyderabad: CV Anand Meets CM Revanth Reddy After Assuming Charge as DGP #Gallery - Social News XYZ",
+        "Proposal for directly-elected mayor for Hyderabad civic polls under consideration - The New Indian Express"
+      ]
+    }
   }
 ]
