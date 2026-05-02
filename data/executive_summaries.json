@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02T22:33:42.290Z",
-    "timestampIST": "3/4/2026, 4:03:42 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, comparing Pinarayi Vijayan to KCR and PM Modi (1, 18, 20). He has challenged rivals to visit Telangana to witness the success of the \"Six Guarantees\" (7, 15).  Harish Rao and the BJP are criticizing Revanth Reddy's actions and comments related to Telangana (9, 10, 12, 17).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, comparing Pinarayi Vijayan to KCR and PM Modi (1, 18, 20). He has challenged rivals to visit Telangana to witness the success of the \"Six Guarantees\" (7, 15).  Harish Rao and the BJP are criticizing Revanth Reddy's actions and comments related to Telangana (9, 10, 12, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Criticism of CM Revanth Reddy's statements and actions by BJP and Harish Rao could escalate political tensions within Telangana (9, 10, 12, 17).</li>\n    <li><span class=\"risk-medium\">Public Perception:</span>  The unfulfilled \"Six Guarantees\" in Telangana, contrasted with promises in Kerala, could negatively impact public perception of the Congress government (3).</li>\n    <li><span class=\"risk-low\">Policy Disruption:</span>  The handloom orders row involving Kavitha targeting Revanth Reddy may lead to policy disruptions (13).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's Kerala campaign (1, 18, 20) is directly linked to criticism from the BJP and Harish Rao regarding his comments and actions (9, 10, 12, 17).</li>\n    <li>The focus on the \"Six Guarantees\" (3, 15) is a central theme in Revanth Reddy's campaign, but also a point of contention with critics.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor media coverage closely for further reactions to CM Revanth Reddy's Kerala campaign and any counter-narratives from the opposition.</li>\n    <li>Prepare a response strategy to address criticisms regarding the \"Six Guarantees\" and their implementation.</li>\n    <li>Assess the potential impact of the handloom orders row and Kavitha's statements on relevant government departments.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts require immediate attention based on the provided data.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "25.1°C",
-      "humidity": "68%",
-      "wind": "2 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 40,
-      "pm25": 21.9,
-      "goldPerGram": "₹8,980",
-      "newsCount": 39,
-      "topHeadlines": [
-        "‘High corruption, poor governance’: Telangana CM Revanth Reddy compares Pinarayi Vijayan to KCR - The Times of India",
-        "BJP Telangana questions CM Revanth Reddy “frivolous comparison” of Modi and Vijayan during Kerala elections campaign - Organiser",
-        "Six Guarantees unfulfilled in Telangana, but Congress promises five guarantees in Keralam. - en.etemaaddaily.com",
-        "Congress Govt. Works Tirelessly For People’s Welfare, Says Revanth - Deccan Chronicle",
-        "‘Come see Guarantees’ - metroindia.net"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-03T02:34:00.364Z",
     "timestampIST": "3/4/2026, 8:04:00 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the LDF and NDA governments and comparing them to the previous KCR administration in Telangana (1, 2, 7, 8, 11, 18). He is promoting Telangana's welfare model and challenging critics to visit the state (5, 6, 15, 16).  BJP leaders, including Kishan Reddy, are criticizing Revanth Reddy's remarks, drawing counter-criticism from Harish Rao and Kavitha (3, 9, 10, 12, 13, 17).</p>",
@@ -6859,6 +6836,29 @@
         "CM Revanth Announces 4 Major Decisions for Employees - Deccan Chronicle",
         "Road Safety Bureau to soon be established in Telangana: CV Anand - The Siasat Daily",
         "Revanth Reddy Announces Key Decisions For Government Employees - INDToday",
+        "TGEJAC withdraws strike after government’s assurances; Pending benefits within 100 days - Telangana Today",
+        "Telangana CM assures Rs 6,000 crore retirement benefits within 100 days - The Siasat Daily"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-02T22:44:38.536Z",
+    "timestampIST": "3/5/2026, 4:14:38 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy announced 4 major decisions for employees (1) and ordered fast-track construction of power substations (13). The TGEJAC withdrew its strike after government assurances, with pending benefits promised within 100 days (4). The CM also addressed the Telangana RTC merger and asked RTC unions to reach a consensus on absorption, announcing a strike wage payout (17).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy announced 4 major decisions for employees (1) and ordered fast-track construction of power substations (13). The TGEJAC withdrew its strike after government assurances, with pending benefits promised within 100 days (4). The CM also addressed the Telangana RTC merger and asked RTC unions to reach a consensus on absorption, announcing a strike wage payout (17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for unrest:</span> Civil society is urging Congress to intervene in the Telangana fee reimbursement row (6), and activists warn of a crisis as the scholarship row hits students (12).</li>\n    <li><span class=\"risk-high\">Road Safety Concerns:</span> A fatal ORR accident occurred due to ignored lane rules (3), and at least 6 people were killed after a car crashed into a stationary lorry (20).</li>\n    <li><span class=\"risk-low\">Political Opposition:</span> BRS demands a rollback of GOMs 7 over fee reimbursement changes (11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's announcements regarding employee benefits (1, 5, 10) and the TGEJAC strike withdrawal (4) indicate a focus on labor relations and potential financial commitments.</li>\n    <li>The fatal ORR accident (3) and the crash into a stationary lorry (20) highlight the need for immediate attention to road safety measures, which is also addressed by the establishment of the Road Safety Bureau (2).</li>\n    <li>The fee reimbursement row (6, 11, 12) suggests a potential area of political and social unrest, requiring careful monitoring and communication.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>DGP should prioritize immediate investigation and enhanced enforcement of road safety regulations, particularly on the ORR (3, 20).</li>\n    <li>The Chief Minister's office should closely monitor the fee reimbursement issue and engage with civil society groups to mitigate potential unrest (6, 12).</li>\n    <li>Expedite the establishment of the Road Safety Bureau (2).</li>\n    <li>Ensure timely disbursement of retirement benefits as promised within 100 days (4, 5, 10).</li>\n    <li>Facilitate discussions between the CM and RTC unions to reach a consensus on absorption (17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the fatal accidents on the ORR (3, 20) and the proposal for a directly-elected mayor (16), Hyderabad requires immediate attention to road safety and civic administration.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.4°C",
+      "humidity": "33%",
+      "wind": "5.3 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 40,
+      "pm25": 18.6,
+      "goldPerGram": "₹9,155",
+      "newsCount": 20,
+      "topHeadlines": [
+        "CM Revanth Announces 4 Major Decisions for Employees - Deccan Chronicle",
+        "Road Safety Bureau to soon be established in Telangana: CV Anand - The Siasat Daily",
+        "Lane Rules for Cars, Trucks Ignored, Triggering Fatal ORR Accident in Telangana - RTV English",
         "TGEJAC withdraws strike after government’s assurances; Pending benefits within 100 days - Telangana Today",
         "Telangana CM assures Rs 6,000 crore retirement benefits within 100 days - The Siasat Daily"
       ]
