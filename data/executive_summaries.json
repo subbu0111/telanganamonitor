@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02T14:58:29.575Z",
-    "timestampIST": "2/4/2026, 8:28:29 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is campaigning in Kerala, criticizing PM Modi and Kerala CM Pinarayi Vijayan. (1, 2, 3) The CM outlined a 99-day plan in Grama Sabhas. (9)  IPL match between KKR and SRH is scheduled for today. (5, 6, 12, 19)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is campaigning in Kerala, criticizing PM Modi and Kerala CM Pinarayi Vijayan. (1, 2, 3) The CM outlined a 99-day plan in Grama Sabhas. (9)  IPL match between KKR and SRH is scheduled for today. (5, 6, 12, 19)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> Criticism of PM Modi and Kerala CM Pinarayi Vijayan by CM Revanth Reddy could escalate political tensions. (1, 2, 3, 13, 14)</li>\n    <li><span class=\"risk-low\">Legislative:</span> Kaushik Reddy seeks a mining row probe in the Assembly. (8)</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> Congress MPs and Minister Kishan clashed in Lok Sabha over bifurcation promises. (20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's statements in Kerala (1, 2, 3) are being criticized by CPI(M) (13, 14).</li>\n    <li>The UDF manifesto in Kerala promises welfare pensions (10, 16), which aligns with CM Reddy's focus on welfare schemes in Telangana (11, 15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor media coverage and public reactions to CM Revanth Reddy's statements regarding PM Modi and Kerala CM Pinarayi Vijayan.</li>\n    <li>Assess the potential impact of the mining row probe sought by Kaushik Reddy.</li>\n    <li>Review the progress of the 99-day plan outlined by CM Revanth Reddy in Grama Sabhas. (9)</li>\n    <li>Monitor the Lok Sabha proceedings related to bifurcation promises. (20)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts require immediate attention based on the provided data.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30.1°C",
-      "humidity": "41%",
-      "wind": "9.5 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 39,
-      "pm25": 25,
-      "goldPerGram": "₹9,012",
-      "newsCount": 34,
-      "topHeadlines": [
-        "PM Narendra Modi, Pinarayi Vijayan are like brothers, alleges Telangana CM Revanth Reddy - The Hindu",
-        "Nee po mone Dinesha: Telangana CM Revanth Reddy's punchlines light up Kerala poll campaign - The New Indian Express",
-        "'Modi Brothers': Revanth Reddy slams Pinarayi, Modi in Kerala speech - Asianet Newsable",
-        "Revanth Reddy challenges opposition to visit Telangana on six guarantees implementation - The News Mill",
-        "IPL 2026 Today's Match: KKR vs SRH playing 11, batters vs bowlers match-ups - Business Standard"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-02T16:58:13.643Z",
     "timestampIST": "2/4/2026, 10:28:13 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, drawing criticism for his remarks and challenging opposition parties to visit Telangana.  Kavitha has targeted Revanth Reddy regarding handloom orders. The NGT dismissed the Musi petition, providing relief to the Telangana government.</p>",
@@ -6884,6 +6861,29 @@
         "BRS demands rollback of GOMs 7 over fee reimbursement change - Telangana Today",
         "Activists warn of crisis as Telangana scholarship row hits students - The Siasat Daily",
         "Power substations: CM Revanth Reddy orders fast-track construction - newsage.in"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-02T16:51:59.288Z",
+    "timestampIST": "2/5/2026, 10:21:59 pm",
+    "executiveSummary": "<p>The Telangana government is focused on infrastructure development, including power substations and the revival of TGSRTC, with CM Revanth Reddy announcing 1000 e-buses and international standard terminals (9, 12). The TGEJAC has withdrawn its strike following government assurances, with pending benefits promised within 100 days (2, 7). A car crash resulted in at least 6 fatalities (16).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is focused on infrastructure development, including power substations and the revival of TGSRTC, with CM Revanth Reddy announcing 1000 e-buses and international standard terminals (9, 12). The TGEJAC has withdrawn its strike following government assurances, with pending benefits promised within 100 days (2, 7). A car crash resulted in at least 6 fatalities (16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for unrest:</span> Farmers are protesting the Bharat Future City Project (17).</li>\n    <li><span class=\"risk-low\">Fee Reimbursement Dispute:</span> Civil society urges Congress to intervene in the fee reimbursement row (3).</li>\n    <li><span class=\"risk-low\">Political Opposition:</span> BRS demands a rollback of GOMs 7 over fee reimbursement changes (8).</li>\n    <li><span class=\"risk-medium\">Road Safety:</span> A car crash resulted in at least 6 fatalities (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The government's focus on clearing retirement benefits (7) aligns with the TGEJAC strike withdrawal (2), suggesting a potential link between resolving labor disputes and financial commitments.</li>\n    <li>CM Revanth Reddy's announcements regarding TGSRTC (12, 13) and power supply (9, 20) indicate a broader infrastructure push.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation regarding the Bharat Future City Project protests and assess potential for escalation (17).</li>\n    <li>Assess the status of the fee reimbursement row and potential for further civil society or political action (3, 8).</li>\n    <li>Prioritize road safety measures in light of the recent car accident (16).</li>\n    <li>Expedite the construction of power substations as ordered by the CM (9).</li>\n    <li>Closely monitor the progress of the TGSRTC merger and infrastructure development plans (10, 12).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Focus on districts where the Bharat Future City Project is located</b>, due to the ongoing farmers' protests (17).</li>\n    <li><b>Focus on districts where the car crash occurred</b> to assess the situation and implement any necessary measures (16).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.7°C",
+      "humidity": "26%",
+      "wind": "4.7 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 60,
+      "pm25": 46.6,
+      "goldPerGram": "₹9,155",
+      "newsCount": 23,
+      "topHeadlines": [
+        "Road Safety Bureau to soon be established in Telangana: CV Anand - The Siasat Daily",
+        "TGEJAC withdraws strike after government’s assurances; Pending benefits within 100 days - Telangana Today",
+        "Civil society urges Congress to intervene in Telangana fee reimbursement row - Telangana Today",
+        "India’s new envoy to China arrives in Shanghai - Telangana Today",
+        "INTUC President Lauds Revanth Reddy for Pro-Worker Initiatives; Pledges Support to State Government - Deccan Chronicle"
       ]
     }
   }
