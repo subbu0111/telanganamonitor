@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02T20:37:54.920Z",
-    "timestampIST": "3/4/2026, 2:07:54 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, drawing criticism for his remarks comparing Prime Minister Modi and Kerala CM Vijayan (Headlines 1, 16, 18). He is facing backlash from the BJP and allies in Telangana (Headlines 1, 10, 11). The CM is also challenging opposition parties to visit Telangana to assess the implementation of the \"Six Guarantees\" (Headlines 14, 19).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, drawing criticism for his remarks comparing Prime Minister Modi and Kerala CM Vijayan (Headlines 1, 16, 18). He is facing backlash from the BJP and allies in Telangana (Headlines 1, 10, 11). The CM is also challenging opposition parties to visit Telangana to assess the implementation of the \"Six Guarantees\" (Headlines 14, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BJP Telangana is questioning CM Revanth Reddy's actions, potentially escalating political tensions within the state (Headline 1).</li>\n    <li><span class=\"risk-medium\">Public Perception:</span> Criticism of CM Revanth Reddy's Kerala campaign could negatively impact public perception of the government's performance (Headlines 1, 10, 11).</li>\n    <li><span class=\"risk-low\">Policy Scrutiny:</span> The opposition is likely to scrutinize the implementation of the \"Six Guarantees\" (Headlines 2, 14, 19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's Kerala campaign (Headlines 1, 5, 6, 7, 11, 15, 16, 17, 18) is directly linked to the criticism he is receiving from the BJP (Headlines 1, 10).</li>\n    <li>The debate over the \"Six Guarantees\" (Headlines 2, 14, 19) is intertwined with the CM's invitation to opposition parties to visit Telangana.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prepare a public statement addressing the criticism of the CM's Kerala campaign, clarifying the government's stance (Headlines 1, 10, 11).</li>\n    <li>Assess the current status of the \"Six Guarantees\" and prepare a detailed report for public dissemination (Headlines 2, 14, 19).</li>\n    <li>Monitor social media and news outlets for reactions to the CM's Kerala campaign and the \"Six Guarantees\" (Headlines 1, 2, 5, 6, 7, 11, 14, 19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts require immediate attention based on the provided headlines.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "25.7°C",
-      "humidity": "65%",
-      "wind": "2.1 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 37,
-      "pm25": 19.7,
-      "goldPerGram": "₹8,980",
-      "newsCount": 37,
-      "topHeadlines": [
-        "BJP Telangana questions CM Revanth Reddy “frivolous comparison” of Modi and Vijayan during Kerala elections campaign - Organiser",
-        "Six Guarantees unfulfilled in Telangana, but Congress promises five guarantees in Keralam. - en.etemaaddaily.com",
-        "Congress Govt. Works Tirelessly For People’s Welfare, Says Revanth - Deccan Chronicle",
-        "‘Come see Guarantees’ - metroindia.net",
-        "Revanth Asks UDF Critics To Visit Telangana To Check Poll Promises - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-02T22:33:42.290Z",
     "timestampIST": "3/4/2026, 4:03:42 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, comparing Pinarayi Vijayan to KCR and PM Modi (1, 18, 20). He has challenged rivals to visit Telangana to witness the success of the \"Six Guarantees\" (7, 15).  Harish Rao and the BJP are criticizing Revanth Reddy's actions and comments related to Telangana (9, 10, 12, 17).</p>",
@@ -6855,6 +6832,29 @@
       "pm25": 28.1,
       "goldPerGram": "₹9,155",
       "newsCount": 26,
+      "topHeadlines": [
+        "CM Revanth Announces 4 Major Decisions for Employees - Deccan Chronicle",
+        "Road Safety Bureau to soon be established in Telangana: CV Anand - The Siasat Daily",
+        "Revanth Reddy Announces Key Decisions For Government Employees - INDToday",
+        "TGEJAC withdraws strike after government’s assurances; Pending benefits within 100 days - Telangana Today",
+        "Telangana CM assures Rs 6,000 crore retirement benefits within 100 days - The Siasat Daily"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-02T20:44:14.897Z",
+    "timestampIST": "3/5/2026, 2:14:14 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy announced multiple decisions for government employees and ordered fast-track construction of power substations (1, 3, 13). The Telangana government is committed to clearing ₹6,000 crore in retirement benefits within 100 days (5, 10).  CV Anand, the DGP, met with the CM (2, 14).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy announced multiple decisions for government employees and ordered fast-track construction of power substations (1, 3, 13). The Telangana government is committed to clearing ₹6,000 crore in retirement benefits within 100 days (5, 10).  CV Anand, the DGP, met with the CM (2, 14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for unrest:</span> Civil society is urging Congress to intervene in the Telangana fee reimbursement row, and activists warn of a crisis (6, 12).</li>\n    <li><span class=\"risk-low\">Road Safety:</span> Six fatalities reported after a car crash (20).</li>\n    <li><span class=\"risk-low\">Labor Relations:</span>  TGEJAC withdrew its strike after government assurances (4).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's announcements regarding government employees (1, 3) are linked to the TGEJAC strike withdrawal and the promise of retirement benefits (4, 5, 10).</li>\n    <li>The meeting between the DGP and the CM (14) is likely related to the establishment of the Road Safety Bureau (2).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the fee reimbursement row and civil society's actions (6, 12).</li>\n    <li>Ensure the timely disbursement of retirement benefits as promised (5, 10).</li>\n    <li>Prioritize the fast-tracking of power substation construction (13).</li>\n    <li>Review road safety protocols in light of the recent accident (20).</li>\n    <li>Facilitate the consensus-building process between RTC unions and the government (17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the headlines that require immediate attention. However, the location of the car crash should be investigated (20).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30.9°C",
+      "humidity": "31%",
+      "wind": "11.1 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 57,
+      "pm25": 23.2,
+      "goldPerGram": "₹9,155",
+      "newsCount": 23,
       "topHeadlines": [
         "CM Revanth Announces 4 Major Decisions for Employees - Deccan Chronicle",
         "Road Safety Bureau to soon be established in Telangana: CV Anand - The Siasat Daily",
