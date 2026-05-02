@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02T16:58:13.643Z",
-    "timestampIST": "2/4/2026, 10:28:13 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, drawing criticism for his remarks and challenging opposition parties to visit Telangana.  Kavitha has targeted Revanth Reddy regarding handloom orders. The NGT dismissed the Musi petition, providing relief to the Telangana government.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, drawing criticism for his remarks and challenging opposition parties to visit Telangana.  Kavitha has targeted Revanth Reddy regarding handloom orders. The NGT dismissed the Musi petition, providing relief to the Telangana government.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Fallout:</span> Revanth Reddy's comments in Kerala are drawing flak from allies and criticism from CPI(M) (Headlines 1, 20).</li>\n    <li><span class=\"risk-low\">Opposition Scrutiny:</span>  Kaushik Reddy is seeking a mining row probe in the Assembly (Headline 14).</li>\n    <li><span class=\"risk-low\">Public Perception:</span>  Kavitha's targeting of Revanth Reddy on handloom orders could impact public perception (Headline 2).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's Kerala campaign (Headlines 1, 6, 8, 9) is directly linked to his challenges to the opposition regarding the \"Six Guarantees\" in Telangana (Headlines 3, 10).</li>\n    <li>The ongoing IPL 2026 match between KKR and SRH (Headlines 7, 11, 12, 19) provides a distraction for the public.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor media coverage closely for reactions to Revanth Reddy's Kerala campaign remarks.</li>\n    <li>Prepare a response strategy to address potential questions regarding the handloom orders row.</li>\n    <li>Assess the potential impact of Kaushik Reddy's call for a mining probe.</li>\n    <li>Monitor public sentiment regarding the \"Six Guarantees\" implementation.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts require immediate attention based on the provided headlines.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.4°C",
-      "humidity": "49%",
-      "wind": "8.9 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 37,
-      "pm25": 27.1,
-      "goldPerGram": "₹8,980",
-      "newsCount": 36,
-      "topHeadlines": [
-        "Revanth Reddy attacks Left at Kerala campaign rally, draws flak from allies in Telangana - The South First",
-        "Handloom orders row: Kavitha targets Revanth Reddy - newsage.in",
-        "CM dares opposition parties to visit Telangana to witness success of ‘Six Guarantees’ - The Hindu",
-        "Revanth Reddy invites Kerala CM to review Telangana’s welfare model - BusinessLine",
-        "An insult to Telangana: Harish Rao slams Kishan Reddy’s mandals merger claims - The Siasat Daily"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-02T19:00:01.389Z",
-    "timestampIST": "3/4/2026, 12:30:01 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing LDF and NDA leaders and challenging them to visit Telangana to assess the implementation of the 'Six Guarantees' (2, 3, 10, 16). He has also invited the Kerala CM to review Telangana's welfare model (11). Harish Rao has criticized Kishan Reddy's comments regarding Telangana (5, 6).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing LDF and NDA leaders and challenging them to visit Telangana to assess the implementation of the 'Six Guarantees' (2, 3, 10, 16). He has also invited the Kerala CM to review Telangana's welfare model (11). Harish Rao has criticized Kishan Reddy's comments regarding Telangana (5, 6).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political:</span> Revanth Reddy's comments in Kerala could draw flak from allies in Telangana (8).</li>\n  <li><span class=\"risk-low\">Political:</span> Criticism of Kishan Reddy by Harish Rao could escalate political tensions (5, 6).</li>\n  <li><span class=\"risk-low\">Political:</span> Kavitha targeting Revanth Reddy regarding a handloom orders row (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>Revanth Reddy's Kerala campaign (3, 4, 8, 11, 12, 14, 15, 16) is directly related to the upcoming Kerala polls (18).</li>\n  <li>Harish Rao's criticism of Kishan Reddy (5, 6) indicates potential political friction within the state.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the response from allies in Telangana regarding Revanth Reddy's Kerala campaign (8).</li>\n  <li>Assess the potential impact of Harish Rao's criticism of Kishan Reddy on state politics (5, 6).</li>\n  <li>Review the handloom orders row mentioned by Kavitha (9).</li>\n  <li>Monitor the implementation of the 99-day plan in Grama Sabhas (20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific districts require immediate attention based on the provided data.</p>\n```",
-    "dataSnapshot": {
-      "temperature": "27.2°C",
-      "humidity": "56%",
-      "wind": "1.6 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 37,
-      "pm25": 23.6,
-      "goldPerGram": "₹8,980",
-      "newsCount": 36,
-      "topHeadlines": [
-        "‘Come see Guarantees’ - metroindia.net",
-        "Revanth Asks UDF Critics To Visit Telangana To Check Poll Promises - Deccan Chronicle",
-        "Revanth Reddy slams LDF, NDA; challenges rivals to visit Telangana - Asianet Newsable",
-        "Revanth Reddy critiques Kerala leaders on UDF manifesto in Kochi - The News Mill",
-        "An insult to Telangana: Harish Rao slams Kishan Reddy’s mandals merger claims - The Siasat Daily"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-02T20:37:54.920Z",
     "timestampIST": "3/4/2026, 2:07:54 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, drawing criticism for his remarks comparing Prime Minister Modi and Kerala CM Vijayan (Headlines 1, 16, 18). He is facing backlash from the BJP and allies in Telangana (Headlines 1, 10, 11). The CM is also challenging opposition parties to visit Telangana to assess the implementation of the \"Six Guarantees\" (Headlines 14, 19).</p>",
@@ -6884,6 +6838,29 @@
         "Civil society urges Congress to intervene in Telangana fee reimbursement row - Telangana Today",
         "India’s new envoy to China arrives in Shanghai - Telangana Today",
         "INTUC President Lauds Revanth Reddy for Pro-Worker Initiatives; Pledges Support to State Government - Deccan Chronicle"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-02T19:02:46.369Z",
+    "timestampIST": "3/5/2026, 12:32:46 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy announced multiple decisions for government employees and ordered fast-track construction of power substations (1, 3, 13). The Telangana government is committed to clearing ₹6,000 crore in retirement benefits within 100 days (5, 10).  DGP CV Anand met with CM Revanth Reddy (14).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy announced multiple decisions for government employees and ordered fast-track construction of power substations (1, 3, 13). The Telangana government is committed to clearing ₹6,000 crore in retirement benefits within 100 days (5, 10).  DGP CV Anand met with CM Revanth Reddy (14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for unrest:</span> Civil society is urging Congress to intervene in the Telangana fee reimbursement row, and activists warn of a crisis for students (6, 12).</li>\n    <li><span class=\"risk-low\">Road Safety Concerns:</span>  At least 6 fatalities occurred in a car crash (20).</li>\n    <li><span class=\"risk-low\">Labor Relations:</span>  While the TGEJAC withdrew its strike, the situation requires monitoring (4).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's announcements regarding employee benefits (1, 3, 5, 10) and the TGEJAC strike withdrawal (4) suggest a focus on labor relations and employee satisfaction.</li>\n    <li>The fee reimbursement row (6, 11, 12) and the BRS's demand for a rollback of GOMs 7 indicate potential political opposition.</li>\n    <li>DGP CV Anand's meeting with the CM (14) and the announcement of a Road Safety Bureau (2) suggest a focus on law and order and public safety.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the fee reimbursement situation closely and assess the potential for protests or unrest.</li>\n    <li>Review and expedite the establishment of the Road Safety Bureau.</li>\n    <li>Ensure the timely disbursement of retirement benefits as promised.</li>\n    <li>Monitor the progress of the Pranahitha-Chevella project ahead of Maharashtra talks (19).</li>\n    <li>Assess the impact of the RTC merger (15) and address any union concerns.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the headlines that require immediate attention. However, monitoring is recommended across all districts given the potential for unrest related to the fee reimbursement row.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32°C",
+      "humidity": "29%",
+      "wind": "7 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 60,
+      "pm25": 28.1,
+      "goldPerGram": "₹9,155",
+      "newsCount": 26,
+      "topHeadlines": [
+        "CM Revanth Announces 4 Major Decisions for Employees - Deccan Chronicle",
+        "Road Safety Bureau to soon be established in Telangana: CV Anand - The Siasat Daily",
+        "Revanth Reddy Announces Key Decisions For Government Employees - INDToday",
+        "TGEJAC withdraws strike after government’s assurances; Pending benefits within 100 days - Telangana Today",
+        "Telangana CM assures Rs 6,000 crore retirement benefits within 100 days - The Siasat Daily"
       ]
     }
   }
