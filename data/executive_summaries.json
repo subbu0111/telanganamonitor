@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03T20:39:22.722Z",
-    "timestampIST": "4/4/2026, 2:09:22 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism regarding his comments on the Kerala election campaign. Harish Rao and Kishan Reddy have both challenged and criticized Revanth Reddy's statements. A bus carrying pilgrims overturned in Nizamabad, resulting in 8 injuries.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism regarding his comments on the Kerala election campaign. Harish Rao and Kishan Reddy have both challenged and criticized Revanth Reddy's statements. A bus carrying pilgrims overturned in Nizamabad, resulting in 8 injuries.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Ongoing disputes between Revanth Reddy, Harish Rao, and Kishan Reddy regarding the Kerala election campaign could escalate political tensions.</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Public figures are criticizing the government (Jeevan Reddy) potentially leading to a loss of public trust.</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> A bus accident in Nizamabad resulted in 8 injuries, requiring immediate attention and potential resource allocation.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Criticism of Revanth Reddy (Headlines 6, 8, 10, 11, 14, 17, 20) is primarily focused on his statements related to the Kerala election campaign.</li>\n    <li>Kishan Reddy (Headlines 7, 10, 19) is actively targeting the Congress and Revanth Reddy regarding the Kerala elections.</li>\n    <li>The bus accident in Nizamabad (Headline 9) requires immediate attention and resource allocation.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political discourse surrounding Revanth Reddy's comments on the Kerala election campaign.</li>\n    <li>Assess the situation in Nizamabad and provide necessary support to the injured in the bus accident.</li>\n    <li>Review and address the concerns raised by the public regarding government performance.</li>\n    <li>Prepare a response to the criticisms leveled against the Chief Minister.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Nizamabad:</b> Immediate attention is required due to the bus accident and the need to provide medical assistance and support to the injured.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "26.8°C",
-      "humidity": "54%",
-      "wind": "1.6 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 43,
-      "pm25": 19.6,
-      "goldPerGram": "₹8,980",
-      "newsCount": 62,
-      "topHeadlines": [
-        "Leaders Gear Up For Revanth Reddy’s Basar Tour - Deccan Chronicle",
-        "Revamping Education in Telangana: A Call for Quality - Devdiscourse",
-        "‘Keep ‘Political Tourists’ Out of Kerala’ - metroindia.net",
-        "Focus on completing Palamuru-Rangareddy project: Harish Rao to Telangana CM - The Siasat Daily",
-        "Revanth Reddy pitches Telangana as global textile hub at ATEXCON - newsage.in"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-03T22:36:09.667Z",
     "timestampIST": "4/4/2026, 4:06:09 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is promoting Telangana as a textile hub (1, 4, 8). DGP Shivadhar Reddy visited the Tirumala Temple (2). A bus carrying pilgrims overturned in Nizamabad, resulting in 8 injuries (11). A Telangana Sarpanch died after consuming pesticide (20).</p>",
@@ -6838,6 +6815,29 @@
         "Only 25 lakh of 45 lakh farmers got loan waiver: Bandi Sanjay jabs Telangana CM - The Siasat Daily",
         "KTR accuses Revanth Reddy govt. of betrayal to 14L students over fee reimbursement - The Hindu",
         "Telangana first state to give financial aid to families of deceased gig workers - The Siasat Daily"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-03T20:46:42.808Z",
+    "timestampIST": "4/5/2026, 2:16:42 am",
+    "executiveSummary": "<p>KTR has accused the Telangana CM of betraying 14 lakh students regarding fee reimbursement (2, 5, 7). A Rajiv Rahadari crash near Siddipet resulted in the deaths of two lensmen and injuries to two others (3). Cabinet expansion is likely to be delayed (20), with potential reshuffling after the Kerala election results (12).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>KTR has accused the Telangana CM of betraying 14 lakh students regarding fee reimbursement (2, 5, 7). A Rajiv Rahadari crash near Siddipet resulted in the deaths of two lensmen and injuries to two others (3). Cabinet expansion is likely to be delayed (20), with potential reshuffling after the Kerala election results (12).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> KTR's accusations regarding fee reimbursement and loan waivers could fuel public discontent and potentially lead to protests or negative press (2, 4, 5, 7).</li>\n  <li><span class=\"risk-low\">Public Safety:</span> A road accident on Rajiv Rahadari near Siddipet resulted in fatalities and injuries (3).</li>\n  <li><span class=\"risk-low\">Operational Delay:</span> Cabinet expansion is likely to be delayed (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>KTR's accusations regarding fee reimbursement (2, 5, 7) and loan waivers (4) highlight potential political vulnerabilities for the current government.</li>\n  <li>The upcoming self-enumeration for Census 2027 (15) requires coordination across all districts.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Assess the validity of KTR's claims regarding fee reimbursement and loan waivers and prepare a public response (2, 4, 5, 7).</li>\n  <li>Review and enhance safety protocols on Rajiv Rahadari, particularly near Siddipet (3).</li>\n  <li>Monitor public sentiment regarding the delayed cabinet expansion (12, 20).</li>\n  <li>Ensure adequate resources and support for the upcoming self-enumeration for Census 2027 (15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Siddipet:</b> Focus on the investigation and response to the Rajiv Rahadari crash (3).</li>\n  <li><b>All Districts:</b> Prepare for the upcoming self-enumeration for Census 2027 (15).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.1°C",
+      "humidity": "54%",
+      "wind": "8.3 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 59,
+      "pm25": 36.2,
+      "goldPerGram": "₹9,155",
+      "newsCount": 28,
+      "topHeadlines": [
+        "Hyderabad Metro Rail Takeover Clears Path for Expansion - Deccan Chronicle",
+        "Fee reimbursement: KTR accuses Telangana CM of betraying 14 lakh students - The Siasat Daily",
+        "Two lensmen killed, two injured in Rajiv Rahadari crash near Siddipet - Telangana Today",
+        "Only 25 lakh of 45 lakh farmers got loan waiver: Bandi Sanjay jabs Telangana CM - The Siasat Daily",
+        "KTR accuses Revanth Reddy govt. of betrayal to 14L students over fee reimbursement - The Hindu"
       ]
     }
   }
