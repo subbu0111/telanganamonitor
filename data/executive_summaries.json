@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03T07:13:36.452Z",
-    "timestampIST": "3/4/2026, 12:43:36 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy unveiled the UDF manifesto in Kochi, Kerala (9, 19). He also criticized Kerala's leaders and compared Pinarayi Vijayan to KCR (7, 13). The CM declared the \"dark era\" of the Vijayan government ending (12).</p>\n<p>The DGP B. Shivadhar Reddy offered prayers at the Tirumala Tirupati Devasthanam temple (2).</p>\n<p>Three intermediate students died in an accident in Jagtial (8).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy unveiled the UDF manifesto in Kochi, Kerala (9, 19). He also criticized Kerala's leaders and compared Pinarayi Vijayan to KCR (7, 13). The CM declared the \"dark era\" of the Vijayan government ending (12).</p>\n<p>The DGP B. Shivadhar Reddy offered prayers at the Tirumala Tirupati Devasthanam temple (2).</p>\n<p>Three intermediate students died in an accident in Jagtial (8).</p>\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political:</span> The CM's strong criticism of Kerala leaders and involvement in Kerala elections (7, 9, 12, 13, 19) could lead to negative reactions or political repercussions.</li>\n  <li><span class=\"risk-low\">Public Safety:</span> The death of three intermediate students in Jagtial (8) may cause public concern and require immediate attention.</li>\n  <li><span class=\"risk-low\">Political:</span> Clash between Minister Kishan and BRS leader Suresh Reddy over the Andhra Pradesh Reorganisation Bill in RS (5) may lead to political tensions.</li>\n</ul>\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's statements regarding Kerala politics (7, 9, 12, 13, 19) are directly related to the upcoming Kerala assembly polls (9).</li>\n  <li>Harish Rao's criticism of Kishan Reddy (10, 20) highlights ongoing political tensions.</li>\n  <li>The CM's focus on Kerala politics (7, 9, 12, 13, 19) contrasts with the unfulfilled guarantees in Telangana (15).</li>\n</ul>\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor public sentiment in Jagtial following the student deaths (8).</li>\n  <li>Assess potential political fallout from the CM's statements regarding Kerala (7, 9, 12, 13, 19).</li>\n  <li>Prepare a response to BJP's criticism of the CM's comments (14).</li>\n  <li>Monitor the political discourse surrounding the Andhra Pradesh Reorganisation Bill (5).</li>\n</ul>\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Jagtial:</b> Immediate attention is needed due to the reported deaths of three intermediate students in an accident (8). Assess the situation and provide necessary support.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35°C",
-      "humidity": "32%",
-      "wind": "5.8 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 62,
-      "pm25": 17.5,
-      "goldPerGram": "₹8,980",
-      "newsCount": 39,
-      "topHeadlines": [
-        "Telangana CM unveils Textile Vision at ATEXCON Summit 2026 - The Hans India",
-        "Telangana DGP B. Shivadhar Reddy offers prayers at Tirumala Tirupati Devasthanam temple - ANI News",
-        "‘Affirmation of govt’s transparency’: Telangana CM on SC order upholding Group I recruitment - The Statesman",
-        "SC dismisses petitions challenging Group-1 officers' recruitment; CM Revanth hails verdict - NewsMeter",
-        "Minister Kishan, BRS leader Suresh Reddy clash over Andhra Pradesh Reorganisation Bill in RS - The New Indian Express"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-03T08:57:40.216Z",
-    "timestampIST": "3/4/2026, 2:27:40 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the Vijayan government and unveiling the UDF manifesto (15, 18, 19).  A BRS MLA protested a mosquito menace (17). The CM also commented on the SC order upholding Group I recruitment (8, 9).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the Vijayan government and unveiling the UDF manifesto (15, 18, 19).  A BRS MLA protested a mosquito menace (17). The CM also commented on the SC order upholding Group I recruitment (8, 9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Minister Kishan and BRS leader Suresh Reddy clashed over the Andhra Pradesh Reorganisation Bill (10), potentially escalating political tensions.</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> A BRS MLA protested a mosquito menace (17), indicating potential public health concerns.</li>\n    <li><span class=\"risk-medium\">Accident:</span> Three intermediate students died in an accident in Jagtial (14).</li>\n    <li><span class=\"risk-low\">Negative Press:</span> BJP Telangana questioned CM Revanth Reddy's comparison of Modi and Vijayan (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's comments on the Vijayan government in Kerala (18, 19) are likely to be criticized by the BJP (20).</li>\n    <li>The CM is focused on the textile industry (3, 4, 6), while also dealing with political issues (1, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20).</li>\n    <li>The CM is focused on the textile industry (3, 4, 6), while also dealing with public health concerns (17).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political fallout from the clash between Minister Kishan and BRS leader Suresh Reddy (10).</li>\n    <li>Assess the public health situation in areas affected by mosquito menace, as highlighted by the BRS MLA's protest (17).</li>\n    <li>Review security protocols in Jagtial following the student accident (14).</li>\n    <li>Prepare a response to potential criticism from the BJP regarding the CM's comments on the Kerala elections (20).</li>\n    <li>Monitor the progress of the Textile Vision unveiled by the CM (6).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Jagtial:</b> Immediate attention is needed due to the reported student accident (14).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "36°C",
-      "humidity": "28%",
-      "wind": "7.9 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 63,
-      "pm25": 18.1,
-      "goldPerGram": "₹8,980",
-      "newsCount": 40,
-      "topHeadlines": [
-        "BRS MLA accuses Revanth of ‘wrong decisions’ on Hyderabad Metro - The Siasat Daily",
-        "Revanth Reddy, Chandrababu Naidu lead Good Friday messages of peace and compassion - Telangana Today",
-        "Telangana: Textile Capital of South Asia by 2047 - Rediff MoneyWiz",
-        "Telangana Aims to Become South Asia's Textile Leader by 2047 - Devdiscourse",
-        "Telangana High Court allows Navy’s Vikarabad VLF station, to monitor afforestation - The South First"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-03T10:45:35.522Z",
     "timestampIST": "3/4/2026, 4:15:35 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is involved in a governance narrative clash with Kerala's CM Pinarayi Vijayan, with Vijayan criticizing Reddy's remarks. (1, 2, 3, 4, 17, 20) The Supreme Court rejected a plea regarding TGPSC Group 1 posts, which the CM welcomed. (5, 13, 14) A BRS MLA criticized Revanth Reddy's decisions on the Hyderabad Metro. (6) Three intermediate students died in an accident in Jagtial. (18)</p>",
@@ -6861,6 +6815,29 @@
         "Telangana issues strict guidelines for boating after MP accident - The Siasat Daily",
         "Telangana Govt to release ₹6000 cr pending retirement benefits soon - BusinessLine",
         "IPL Match Today, SRH vs KKR: Predicted playing XI, head-to-head, pitch report, Hyderabad weather update - The Times of India"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-03T09:23:28.251Z",
+    "timestampIST": "3/5/2026, 2:53:28 pm",
+    "executiveSummary": "<p>The Telangana government is set to release ₹6,000 crore in pending retirement benefits, with the CM promising disbursement within 100 days (7, 9, 11, 19). Cyberabad police saw a significant reshuffle with 65 inspectors transferred and 54 receiving new postings (1). The TGEJAC has withdrawn its strike following government assurances (18).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is set to release ₹6,000 crore in pending retirement benefits, with the CM promising disbursement within 100 days (7, 9, 11, 19). Cyberabad police saw a significant reshuffle with 65 inspectors transferred and 54 receiving new postings (1). The TGEJAC has withdrawn its strike following government assurances (18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Potential for public unrest</span>: Civil society is urging Congress to intervene in the fee reimbursement row (20).</li>\n  <li><span class=\"risk-medium\">Road Safety Concerns</span>: Fatal accident on ORR due to lane rule violations (17).</li>\n  <li><span class=\"risk-low\">Power Sector Instability</span>: CM has ordered a major power sector revamp (14).</li>\n  <li><span class=\"risk-low\">Delayed Cabinet Expansion</span>: Cabinet expansion is likely to be delayed (6).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<p>The promise of releasing retirement benefits (7, 9, 11, 19) likely contributed to the TGEJAC withdrawing its strike (18).</p>\n<p>The CM's focus on employee benefits (15) and the establishment of a Road Safety Bureau (16) indicate a focus on governance and public welfare.</p>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the fee reimbursement row and assess potential for protests (20).</li>\n  <li>Review and strengthen road safety enforcement, particularly on the ORR (17).</li>\n  <li>Expedite the establishment of the Road Safety Bureau (16).</li>\n  <li>Monitor the progress of the power sector revamp (14).</li>\n  <li>Ensure timely release of retirement benefits as promised (7, 9, 11, 19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>Cyberabad: Due to the significant police transfers (1), monitor for any potential disruption in law and order during the transition period.</p>\n<p>Areas with ORR: Increase road safety enforcement and awareness campaigns (17).</p>\n```\n",
+    "dataSnapshot": {
+      "temperature": "39°C",
+      "humidity": "16%",
+      "wind": "9.2 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 61,
+      "pm25": 15.6,
+      "goldPerGram": "₹9,155",
+      "newsCount": 25,
+      "topHeadlines": [
+        "Cyberabad police transfers: 65 inspectors shifted, 54 get new postings - Telangana Today",
+        "Self-enumeration for Census 2027 begins in Telangana today - EdexLive",
+        "SRH vs KKR Playing 11: Check head-to-head and probable playing 11 for today's match - The Economic Times",
+        "SRH vs KKR Dream11 Prediction, Match 45, IPL Fantasy Cricket Tips, Playing XI, Pitch Report &amp; Injury Updates - CricTracker",
+        "Naini Rajender Reddy inaugurates summer sports camp at JNS stadium - The Hans India"
       ]
     }
   }
