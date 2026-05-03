@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03T02:34:00.364Z",
-    "timestampIST": "3/4/2026, 8:04:00 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the LDF and NDA governments and comparing them to the previous KCR administration in Telangana (1, 2, 7, 8, 11, 18). He is promoting Telangana's welfare model and challenging critics to visit the state (5, 6, 15, 16).  BJP leaders, including Kishan Reddy, are criticizing Revanth Reddy's remarks, drawing counter-criticism from Harish Rao and Kavitha (3, 9, 10, 12, 13, 17).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the LDF and NDA governments and comparing them to the previous KCR administration in Telangana (1, 2, 7, 8, 11, 18). He is promoting Telangana's welfare model and challenging critics to visit the state (5, 6, 15, 16).  BJP leaders, including Kishan Reddy, are criticizing Revanth Reddy's remarks, drawing counter-criticism from Harish Rao and Kavitha (3, 9, 10, 12, 13, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Fallout:</span> Criticism of CM Revanth Reddy's remarks in Kerala by BJP leaders could escalate political tensions within Telangana (3, 9, 10, 12, 17).</li>\n    <li><span class=\"risk-medium\">Public Perception:</span>  Unfulfilled promises of the \"Six Guarantees\" in Telangana, as mentioned in the news, could lead to public dissatisfaction (4, 15).</li>\n    <li><span class=\"risk-low\">Legislative Scrutiny:</span> Harish Rao's criticism of Kishan Reddy's comments in the Rajya Sabha suggests potential for parliamentary debate and scrutiny of Telangana affairs (9, 12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's campaign in Kerala (1, 2, 7, 8, 11, 18) is directly linked to the criticism he is receiving from BJP leaders (3, 9, 10, 12, 17).</li>\n    <li>The focus on Telangana's \"Six Guarantees\" (4, 15) is intertwined with the CM's invitation to Kerala leaders to review Telangana's welfare model (16).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prepare a detailed rebuttal to BJP criticisms of the CM's Kerala campaign, highlighting Telangana's achievements.</li>\n    <li>Assess the status of the \"Six Guarantees\" and prepare a public communication strategy to address any unfulfilled promises.</li>\n    <li>Monitor parliamentary proceedings for any developments related to Kishan Reddy's comments on Telangana.</li>\n    <li>Prepare a briefing for the CM on the handloom orders row involving Kavitha (13).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific district requires immediate attention based on the provided news headlines.</p>\n```",
-    "dataSnapshot": {
-      "temperature": "26°C",
-      "humidity": "70%",
-      "wind": "2.2 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 44,
-      "pm25": 29.5,
-      "goldPerGram": "₹8,980",
-      "newsCount": 39,
-      "topHeadlines": [
-        "Telangana CM Reddy declares ‘dark era’ of Vijayan government ending in Kerala - The News Mill",
-        "‘High corruption, poor governance’: Telangana CM Revanth Reddy compares Pinarayi Vijayan to KCR - The Times of India",
-        "BJP Telangana questions CM Revanth Reddy “frivolous comparison” of Modi and Vijayan during Kerala elections campaign - Organiser",
-        "Six Guarantees unfulfilled in Telangana, but Congress promises five guarantees in Keralam. - en.etemaaddaily.com",
-        "Congress Govt. Works Tirelessly For People’s Welfare, Says Revanth - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-03T05:42:43.648Z",
     "timestampIST": "3/4/2026, 11:12:43 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively campaigning in Kerala, criticizing the Vijayan government and unveiling the UDF manifesto.  Minister Kishan and BRS leaders are clashing over the Andhra Pradesh Reorganisation Bill and comments on the Kaleshwaram project and Telangana history. Three intermediate students died in an accident in Jagtial.</p>",
@@ -6861,6 +6838,29 @@
         "Lane Rules for Cars, Trucks Ignored, Triggering Fatal ORR Accident in Telangana - RTV English",
         "TGEJAC withdraws strike after government’s assurances; Pending benefits within 100 days - Telangana Today",
         "Telangana CM assures Rs 6,000 crore retirement benefits within 100 days - The Siasat Daily"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-03T03:27:49.369Z",
+    "timestampIST": "3/5/2026, 8:57:49 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has promised to clear ₹6,000 crore in retirement benefits within 100 days (1, 8, 13). The Telangana government is fast-tracking the construction of power substations (16). The TGEJAC has withdrawn its strike after government assurances (7).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has promised to clear ₹6,000 crore in retirement benefits within 100 days (1, 8, 13). The Telangana government is fast-tracking the construction of power substations (16). The TGEJAC has withdrawn its strike after government assurances (7).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Fee Reimbursement Row:</span> Civil society and activists are raising concerns about the fee reimbursement issue, potentially leading to a crisis for students (9, 15).</li>\n    <li><span class=\"risk-medium\">ORR Accidents:</span> Lane rules are being ignored on the ORR, leading to fatal accidents (6).</li>\n    <li><span class=\"risk-low\">Scholarship Issues:</span> Activists warn of a crisis related to Telangana scholarship issues affecting students (15).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on employee benefits (1, 4, 8, 13) aligns with the INTUC President's support for the government (11) and the TGEJAC's withdrawal of the strike (7).</li>\n    <li>The fee reimbursement row (9, 14, 15) could potentially escalate, requiring attention from the government.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize addressing the fee reimbursement concerns raised by civil society and activists (9, 15).</li>\n    <li>Direct the Road Safety Bureau (5) to immediately address the violations of lane rules on the ORR (6).</li>\n    <li>Expedite the release of retirement benefits as promised by the CM (1, 8, 13).</li>\n    <li>Monitor the situation regarding the scholarship row and its impact on students (15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on ORR safety due to the reported fatal accident (6).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.9°C",
+      "humidity": "25%",
+      "wind": "12.5 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 39,
+      "pm25": 19.7,
+      "goldPerGram": "₹9,155",
+      "newsCount": 17,
+      "topHeadlines": [
+        "Telangana CM Revanth Reddy promises retirement benefits in 100 days - The New Indian Express",
+        "Whips are govt’s ‘eyes and ears’, says Revanth - The Hans India",
+        "CM seeks final report from PRC - The Hans India",
+        "CM Revanth Announces 4 Major Decisions for Employees - Deccan Chronicle",
+        "Road Safety Bureau to soon be established in Telangana: CV Anand - The Siasat Daily"
       ]
     }
   }
