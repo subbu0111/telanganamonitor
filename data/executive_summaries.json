@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04T10:36:15.141Z",
-    "timestampIST": "4/4/2026, 4:06:15 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from BRS leaders and the Kerala Chief Minister regarding his remarks and actions. BRS cadres were house-arrested in Adilabad and Nirmal in anticipation of the CM's tour (5). The CM is also focusing on education reform and transforming Telangana into a textile hub (10, 11, 17).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism from BRS leaders and the Kerala Chief Minister regarding his remarks and actions. BRS cadres were house-arrested in Adilabad and Nirmal in anticipation of the CM's tour (5). The CM is also focusing on education reform and transforming Telangana into a textile hub (10, 11, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Tension:</span> BRS leaders are criticizing CM Revanth Reddy over his remarks and unfulfilled promises, potentially escalating political tensions (6, 7, 19).</li>\n    <li><span class=\"risk-medium\">Public Perception:</span> Allegations of false claims by CM Revanth Reddy and criticism from the Kerala CM could negatively impact public perception (14, 19).</li>\n    <li><span class=\"risk-low\">Infrastructure Concerns:</span> Delay in the Medigadda project could affect 18 lakh acres and city water supply (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Criticism of CM Revanth Reddy (6, 7, 14, 19) is linked to his visit to Kerala and his remarks (12).</li>\n    <li>The focus on education reform (10) and the introduction of LKG/UKG in schools (18) are key policy initiatives.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political situation in Adilabad and Nirmal, given the house arrest of BRS cadres (5).</li>\n    <li>Prepare a response to the criticisms leveled against the CM regarding his statements and actions (6, 7, 14, 19).</li>\n    <li>Assess the potential impact of the Medigadda project delay on water supply and agricultural lands (16).</li>\n    <li>Prepare a public statement addressing the allegations of false claims made by the CM (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad and Nirmal:</b> Monitor these districts due to the house arrest of BRS cadres in anticipation of the CM's tour (5).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35.7°C",
-      "humidity": "26%",
-      "wind": "7.1 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 67,
-      "pm25": 21.2,
-      "goldPerGram": "₹8,980",
-      "newsCount": 61,
-      "topHeadlines": [
-        "Revanth Reddy Favours Measures to Prevent Political Activities in Temple Premises - deccanchronicle.com",
-        "Sacred Spaces: Temple Politics Off-Limits in Telangana? - Devdiscourse",
-        "Revanth Reddy flags AI threat, calls for focus on blue-collar jobs - newsage.in",
-        "Congress leader says Pinarayi Vijayan’s reaction shows Revanth Reddy’s impact - The Sentinel - of this Land, for its People",
-        "BRS cadres house-arrested in Adilabad, Nirmal in view of CM’s tour - Telangana Today"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-04T13:00:30.090Z",
-    "timestampIST": "4/4/2026, 6:30:30 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism regarding his recent comments on Kerala and is also dealing with internal political challenges. K Kavitha has demanded a special Assembly session regarding School Fee Regulation.  BRS cadres have been placed under house arrest ahead of CM Revanth Reddy’s Adilabad tour.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism regarding his recent comments on Kerala and is also dealing with internal political challenges. K Kavitha has demanded a special Assembly session regarding School Fee Regulation.  BRS cadres have been placed under house arrest ahead of CM Revanth Reddy’s Adilabad tour.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Criticism of CM Revanth Reddy's remarks on Kerala and calls for leadership change within the state, as reported by The New Indian Express (19, 20).</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span> K Kavitha's demand for a special Assembly session on School Fee Regulation (1).</li>\n    <li><span class=\"risk-low\">Potential for Disruptions:</span> BRS cadres placed under house arrest ahead of CM Revanth Reddy’s Adilabad tour (11).</li>\n    <li><span class=\"risk-low\">Safety Concerns:</span> One Singareni mines labourer dead, three injured in car crash (6).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's actions regarding temple regulations (2, 7, 8) are being discussed in the context of political activities.</li>\n    <li>The CM's focus on education reform (16) and the government's spending per student (15) are linked to the broader goal of improving the state's future.</li>\n    <li>The CM's visit to Kerala (18) is linked to political funding allegations.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political fallout from CM Revanth Reddy's comments on Kerala and the reactions from BRS.</li>\n    <li>Assess the potential impact of the demand for a special Assembly session on School Fee Regulation.</li>\n    <li>Ensure adequate security measures are in place for CM Revanth Reddy's Adilabad tour.</li>\n    <li>Review safety protocols at Singareni mines.</li>\n    <li>Prepare a response to the allegations regarding political funding linked to the CM's visit to Kerala.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad:</b> Increased security and monitoring are required due to the CM's visit and the house arrest of BRS cadres (11).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.8°C",
-      "humidity": "57%",
-      "wind": "17.4 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 65,
-      "pm25": 36,
-      "goldPerGram": "₹8,980",
-      "newsCount": 55,
-      "topHeadlines": [
-        "\"What stops CM Revantha Reddy from doing the same?\": K Kavitha demands special Assembly session on School Fee Regulation in Telangana - ANI News",
-        "No politics near temples: Telangana CM Revanth proposes regulations - The Siasat Daily",
-        "Revanth Reddy Reviews Basara Temple Development Plan - The Hans India",
-        "Nyam-Osor Uchral sworn in as Mongolia’s new Prime Minister - Telangana Today",
-        "ATEXCON 2026 Sets Roadmap For A Resilient, Future-ready Global Textile Industry - IFAB MEDIA"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-04T14:35:12.970Z",
     "timestampIST": "4/4/2026, 8:05:12 pm",
     "executiveSummary": "<p>A schoolgirl was killed in a bus accident in Jubilee Hills, Hyderabad (2). CM Revanth Reddy is facing criticism from BRS regarding unfulfilled promises and the Kerala poll campaign (6, 16). BRS cadres have been placed under house arrest ahead of CM Revanth Reddy’s Adilabad tour (14).</p>",
@@ -6815,6 +6769,29 @@
         "Humanitarian Governance Telangana BC State Finance Corporation Chairman Nuthi Srikanth Goud - The Hans India",
         "Telangana's ambitious 'Future City' project hits roadblocks - News Arena India",
         "\"Revanth Reddy govt betraying 14 lakh students by dismantling fee reimbursement scheme\": BRS' KT Rama Rao warns of agitation - India's News.Net"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-04T14:06:04.824Z",
+    "timestampIST": "4/5/2026, 7:36:04 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is being criticized by BRS and Bandi Sanjay regarding farm issues and the fee reimbursement scheme, which BRS claims affects 14 lakh students. A fire occurred at the Serilingampally Zonal Commissioner’s office, with no reported casualties. A Rajiv Rahadari crash near Siddipet resulted in two fatalities and two injuries.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is being criticized by BRS and Bandi Sanjay regarding farm issues and the fee reimbursement scheme, which BRS claims affects 14 lakh students. A fire occurred at the Serilingampally Zonal Commissioner’s office, with no reported casualties. A Rajiv Rahadari crash near Siddipet resulted in two fatalities and two injuries.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for public unrest:</span> BRS warns of agitation over the fee reimbursement scheme affecting 14 lakh students. (10, 16, 19)</li>\n    <li><span class=\"risk-low\">Political criticism:</span> Opposition parties (BRS, BJP) are criticizing the government on farm issues and the fee reimbursement scheme. (10, 15, 16, 19)</li>\n    <li><span class=\"risk-low\">Infrastructure concerns:</span> The 'Future City' project is facing roadblocks. (9)</li>\n    <li><span class=\"risk-low\">Safety concerns:</span> A road accident near Siddipet resulted in two fatalities and two injuries. (20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Criticism of the Revanth Reddy government regarding the fee reimbursement scheme (10, 16, 19) is directly linked to potential agitation by BRS. (10, 16)</li>\n    <li>The CM's involvement in the UDF victory in Kerala (2, 4, 5) contrasts with the domestic political challenges faced by his government. (10, 15, 16, 19)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Assess the feasibility of the 'Future City' project and address the identified roadblocks. (9)</li>\n    <li>Monitor the situation regarding the fee reimbursement scheme and potential agitation by BRS. (10, 16, 19)</li>\n    <li>Review safety protocols and investigate the cause of the Rajiv Rahadari crash near Siddipet. (20)</li>\n    <li>Prepare a public statement addressing the concerns raised by BRS and BJP regarding farm issues and the fee reimbursement scheme. (10, 15, 16, 19)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Siddipet:</b> Immediate attention is required due to the Rajiv Rahadari crash, which resulted in fatalities and injuries. (20)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35.8°C",
+      "humidity": "15%",
+      "wind": "11.2 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 62,
+      "pm25": 37.6,
+      "goldPerGram": "₹9,155",
+      "newsCount": 24,
+      "topHeadlines": [
+        "Telangana Congress, BJP, celebrate party victories in ongoing Assembly polls - The Siasat Daily",
+        "Telangana CM congratulates UDF over Kerala victory - NewsGram",
+        "Jawahar Nagar dump yard relocation sought, JAC meets Revanth Reddy - The Siasat Daily",
+        "CM Revanth Reddy's Campaign Key to UDF Victory in Kerala, says Addanki Dayakar - The Hans India",
+        "Revanth Reddy Congratulates Congress-led UDF For Victory In Kerala - Deccan Chronicle"
       ]
     }
   }
