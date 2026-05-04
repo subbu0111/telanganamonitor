@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04T22:32:39.731Z",
-    "timestampIST": "5/4/2026, 4:02:39 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from BRS regarding an attack on KCR's office (1). He is scheduled to launch Basara Temple development works on April 6 (5) and lay foundation stones for the temple ahead of Godavari Pushkaralu (2). The CM is also proposing regulations to prevent political activities near temples (10, 14, 20).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism from BRS regarding an attack on KCR's office (1). He is scheduled to launch Basara Temple development works on April 6 (5) and lay foundation stones for the temple ahead of Godavari Pushkaralu (2). The CM is also proposing regulations to prevent political activities near temples (10, 14, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS is criticizing CM Revanth Reddy and blaming him for an attack on KCR's office (1, 16).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A schoolgirl was killed in a bus accident in Jubilee Hills, Hyderabad (13).</li>\n    <li><span class=\"risk-low\">Labor Unrest:</span> One Singareni mines labourer died, and three were injured in a car crash (19).</li>\n    <li><span class=\"risk-low\">Fraud:</span> New WhatsApp fraud targets corporate officials in Hyderabad (12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's focus on Basara Temple development (2, 5, 10, 15) and proposed temple regulations (7, 11, 14, 20) suggests a strategic initiative to consolidate support.</li>\n    <li>The BRS's criticism of CM Revanth Reddy (1, 16) and Bandi Sanjay's challenge (3) indicates heightened political tensions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review security protocols at KCR's office and other potential targets to mitigate political violence.</li>\n    <li>Assess the circumstances surrounding the bus accident in Jubilee Hills and implement necessary safety measures.</li>\n    <li>Monitor the situation at Singareni mines and provide support to the injured and the deceased's family.</li>\n    <li>Alert corporate officials about the new WhatsApp fraud and issue advisories.</li>\n    <li>Prepare for the CM's Basara Temple visit and associated events on April 6.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the bus accident in Jubilee Hills (13) and the WhatsApp fraud targeting corporate officials (12).</li>\n    <li><b>Adilabad:</b> Focus on Basara Temple development and associated events (2, 5, 10, 15).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "26.4°C",
-      "humidity": "70%",
-      "wind": "3.2 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 70,
-      "pm25": 51.6,
-      "goldPerGram": "₹8,980",
-      "newsCount": 41,
-      "topHeadlines": [
-        "'Hooliganism': BRS slams attack on KCR's office, blames CM Revanth Reddy - aninews.in",
-        "CM Revanth Reddy to Lay Basara Temple Foundation Stones Ahead of Godavari Pushkaralu - The Morning Voice",
-        "Bandi Sanjay resignation challenge to CM over six guarantees - newsage.in",
-        "Neta’s Natter Telangana | KTR Gets ‘Cagged’ In Trying To Flog Govt - Deccan Chronicle",
-        "CM Revanth to Launch Rs 225cr Basara Temple Development Works on April 6 - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-05T02:41:55.805Z",
     "timestampIST": "5/4/2026, 8:11:55 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy will launch Rs 225 crore Basara Temple development works on April 6 (9). The CM is facing criticism from multiple sources regarding the six guarantees (1, 5, 6, 7). There are reports of an attack on KCR's office (3) and a new WhatsApp fraud targeting corporate officials in Hyderabad (16).</p>",
@@ -6769,6 +6746,29 @@
         "Telangana Govt To Bear Extra Cost For Hajj Pilgrims - INDToday",
         "Telangana Cabinet Approves CBI Probe Into Power Projects Under Previous BRS Government - Telangana Tribune",
         "Revanth played decisive role in Kerala polls: Congress leaders - The Hindu"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-04T22:57:53.512Z",
+    "timestampIST": "5/5/2026, 4:27:53 am",
+    "executiveSummary": "<p>The Telangana government will hand over power purchase agreements scam to the CBI (2, 3). The government is facing potential agitation from BRS over the fee reimbursement scheme, which affects 14 lakh students (20).  CM Revanth Reddy's role in the UDF victory in Kerala is being highlighted (1, 4, 7, 9, 10).</p>",
+    "fullAnalysis": "```html\n<!DOCTYPE html>\n<html>\n<head>\n<title>Telangana Intelligence Briefing</title>\n<style>\n.risk-high { color: red; font-weight: bold; }\n.risk-medium { color: orange; font-weight: bold; }\n.risk-low { color: green; }\n</style>\n</head>\n<body>\n\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government will hand over power purchase agreements scam to the CBI (2, 3). The government is facing potential agitation from BRS over the fee reimbursement scheme, which affects 14 lakh students (20).  CM Revanth Reddy's role in the UDF victory in Kerala is being highlighted (1, 4, 7, 9, 10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential protests/agitation</span>: BRS warns of agitation over the fee reimbursement scheme affecting 14 lakh students (20).</li>\n    <li><span class=\"risk-low\">Political Opposition</span>: Bandi Sanjay criticizes Revanth Reddy over farm issues (19).</li>\n    <li><span class=\"risk-low\">Public Concern</span>: GO 7 sparks concern among students over future of fee reimbursement (5).</li>\n    <li><span class=\"risk-low\">Operational Incident</span>: Fire breaks out at Serilingampally Zonal Commissioner’s office, no casualties (12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Telangana government's decision to involve the CBI in the power purchase agreements scam (2, 3) could be politically motivated, given the change in government.</li>\n    <li>The fee reimbursement scheme (5, 20) is a point of contention and could lead to protests, as indicated by the BRS warning.</li>\n    <li>CM Revanth Reddy's involvement in the Kerala elections (1, 4, 7, 9, 10) is being widely reported, potentially boosting his political standing.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation regarding the fee reimbursement scheme closely and prepare for potential protests (20).</li>\n    <li>Assess the impact of GO 7 on student sentiment and address concerns proactively (5).</li>\n    <li>Review security protocols at government offices, particularly in light of the fire at the Serilingampally Zonal Commissioner’s office (12).</li>\n    <li>Prepare a communication strategy to address the CBI probe into power purchase agreements (2, 3).</li>\n    <li>Monitor any potential fallout from the political criticism regarding farm issues (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Serilingampally:</b> Monitor the situation following the fire at the Zonal Commissioner’s office (12).</li>\n    <li><b>Statewide:</b> Monitor student unrest related to the fee reimbursement scheme (5, 20).</li>\n</ul>\n\n</body>\n</html>\n```",
+    "dataSnapshot": {
+      "temperature": "26.6°C",
+      "humidity": "67%",
+      "wind": "8.4 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 61,
+      "pm25": 27.8,
+      "goldPerGram": "₹9,172",
+      "newsCount": 20,
+      "topHeadlines": [
+        "UDF Breaks Left Bastion: Revanth Reddy’s ‘Telangana Model’ Dents LDF Stronghold in Kerala - Deccan Chronicle",
+        "Telangana govt to hand over power purchase agreements scam to CBI - The Siasat Daily",
+        "Telangana Cabinet Approves CBI Probe Into Power Projects Under Previous BRS Government - Telangana Tribune",
+        "Revanth played decisive role in Kerala polls: Congress leaders - The Hindu",
+        "GO 7 sparks concern among students over future of fee reimbursement - EdexLive"
       ]
     }
   }
