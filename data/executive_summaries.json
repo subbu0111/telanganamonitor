@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04T18:46:24.575Z",
-    "timestampIST": "5/4/2026, 12:16:24 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will launch Rs 225 crore Basara Temple development works on April 6th (Headline 3). The Chief Justice of India, Surya Kant, will lay the foundation stone for the new Telangana High Court building (Headline 4). There are reports of a new WhatsApp fraud targeting corporate officials in Hyderabad (Headline 10) and a schoolgirl was killed in a bus accident in Jubilee Hills (Headline 12).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will launch Rs 225 crore Basara Temple development works on April 6th (Headline 3). The Chief Justice of India, Surya Kant, will lay the foundation stone for the new Telangana High Court building (Headline 4). There are reports of a new WhatsApp fraud targeting corporate officials in Hyderabad (Headline 10) and a schoolgirl was killed in a bus accident in Jubilee Hills (Headline 12).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public Safety:</span> A schoolgirl was killed in a bus accident in Jubilee Hills (Headline 12).</li>\n  <li><span class=\"risk-medium\">Financial Crime:</span> New WhatsApp fraud targets corporate officials in Hyderabad (Headline 10).</li>\n  <li><span class=\"risk-low\">Labor Safety:</span> One Singareni mines labourer died and three were injured in a car crash (Headline 18).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The Chief Minister is focusing on temple development (Headline 3, 8, 9, 13, 19, 20) and also proposing new temple guidelines (Headline 5, 9).</li>\n  <li>The Chief Justice of India is laying the foundation stone for the new Telangana High Court building (Headline 4, 6).</li>\n  <li>Hyderabad police are promoting defensive driving skills (Headline 11) while a schoolgirl died in a bus accident in Jubilee Hills (Headline 12).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Direct the Hyderabad Police to increase vigilance and public awareness regarding the new WhatsApp fraud targeting corporate officials (Headline 10).</li>\n  <li>Review and strengthen road safety measures in Jubilee Hills following the schoolgirl's death in a bus accident (Headline 12).</li>\n  <li>Ensure adequate security and logistical support for the Chief Justice of India's visit for the foundation stone laying ceremony (Headline 4, 6).</li>\n  <li>Monitor the Basara Temple development launch on April 6th (Headline 3) and ensure smooth execution.</li>\n  <li>Review safety protocols at Singareni mines following the car crash that resulted in a fatality (Headline 18).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Due to the reported WhatsApp fraud targeting corporate officials (Headline 10) and the bus accident in Jubilee Hills (Headline 12).</li>\n  <li><b>Adilabad:</b> Monitor the Basara Temple development launch (Headline 3, 8, 14).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "25.4°C",
-      "humidity": "72%",
-      "wind": "4.3 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 66,
-      "pm25": 54.1,
-      "goldPerGram": "₹8,980",
-      "newsCount": 47,
-      "topHeadlines": [
-        "Bandi Sanjay resignation challenge to CM over six guarantees - newsage.in",
-        "Neta’s Natter Telangana | KTR Gets ‘Cagged’ In Trying To Flog Govt - Deccan Chronicle",
-        "CM Revanth to Launch Rs 225cr Basara Temple Development Works on April 6 - Deccan Chronicle",
-        "CJI Surya Kant to lay foundation stone for new Telangana High Court building - The Siasat Daily",
-        "Revanth Reddy orders Tirumala-style rules for Telangana temples - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-04T20:35:04.778Z",
     "timestampIST": "5/4/2026, 2:05:04 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy will lay foundation stones for the Basara Temple development works, a Rs 225 crore project, on April 6 (4). He also proposed regulations to prevent political activities near temples (9, 14, 20). The CJI Surya Kant will lay the foundation stone for the new Telangana High Court building (5).</p>",
@@ -6763,6 +6740,29 @@
       "pm25": 28.7,
       "goldPerGram": "₹9,172",
       "newsCount": 23,
+      "topHeadlines": [
+        "UDF Breaks Left Bastion: Revanth Reddy’s ‘Telangana Model’ Dents LDF Stronghold in Kerala - Deccan Chronicle",
+        "Telangana govt to hand over power purchase agreements scam to CBI - The Siasat Daily",
+        "Telangana Govt To Bear Extra Cost For Hajj Pilgrims - INDToday",
+        "Telangana Cabinet Approves CBI Probe Into Power Projects Under Previous BRS Government - Telangana Tribune",
+        "Revanth played decisive role in Kerala polls: Congress leaders - The Hindu"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-04T19:43:02.243Z",
+    "timestampIST": "5/5/2026, 1:13:02 am",
+    "executiveSummary": "<p>The Telangana government will hand over power purchase agreements scam to the CBI (2, 4). A fire broke out at the Serilingampally Zonal Commissioner’s office (13) and a plastic recycling unit in Hyderabad (17). The CM congratulated the UDF on their victory in Kerala (8, 11), with Revanth Reddy's role being highlighted (1, 5, 10).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government will hand over power purchase agreements scam to the CBI (2, 4). A fire broke out at the Serilingampally Zonal Commissioner’s office (13) and a plastic recycling unit in Hyderabad (17). The CM congratulated the UDF on their victory in Kerala (8, 11), with Revanth Reddy's role being highlighted (1, 5, 10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Fire at Serilingampally Zonal Commissioner’s office (13) and a plastic recycling unit in Hyderabad (17) – potential for further incidents and public safety concerns.</span></li>\n  <li><span class=\"risk-medium\">GO 7 sparks concern among students over future of fee reimbursement (6) – potential for student unrest.</span></li>\n  <li><span class=\"risk-low\">'Future City' project hits roadblocks (15) – potential for delays and public dissatisfaction.</span></li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The Telangana government's decision to involve the CBI in the power purchase agreements scam (2, 4) could lead to political repercussions.</li>\n  <li>The CM's congratulatory messages for the UDF victory in Kerala (8, 11) and Revanth Reddy's role (1, 5, 10) may influence political dynamics within Telangana.</li>\n  <li>The fire incidents (13, 17) highlight potential vulnerabilities in infrastructure and emergency response.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Direct the relevant departments to investigate the fire incidents at the Serilingampally Zonal Commissioner’s office and the plastic recycling unit, and ensure public safety.</li>\n  <li>Assess the impact of GO 7 on student fee reimbursement and address student concerns proactively.</li>\n  <li>Monitor the progress of the CBI investigation into the power purchase agreements scam.</li>\n  <li>Review the status of the 'Future City' project and address the roadblocks.</li>\n  <li>Ensure adequate support and resources for the families of deceased Gig and Platform Workers (16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Due to the fire incidents at the plastic recycling unit (17) and the Serilingampally Zonal Commissioner’s office (13), immediate attention is required to assess the damage, ensure public safety, and investigate the causes.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29°C",
+      "humidity": "51%",
+      "wind": "9.4 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 60,
+      "pm25": 28.3,
+      "goldPerGram": "₹9,172",
+      "newsCount": 24,
       "topHeadlines": [
         "UDF Breaks Left Bastion: Revanth Reddy’s ‘Telangana Model’ Dents LDF Stronghold in Kerala - Deccan Chronicle",
         "Telangana govt to hand over power purchase agreements scam to CBI - The Siasat Daily",
