@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04T05:22:09.647Z",
-    "timestampIST": "4/4/2026, 10:52:09 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from multiple sources regarding his statements and actions, particularly concerning the Kerala elections. Former minister Jeevan Reddy has called for a leadership change in Telangana. The Chief Minister inaugurated a private school in Hyderabad. The state aims to become South Asia's textile capital by 2047.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism from multiple sources regarding his statements and actions, particularly concerning the Kerala elections. Former minister Jeevan Reddy has called for a leadership change in Telangana. The Chief Minister inaugurated a private school in Hyderabad. The state aims to become South Asia's textile capital by 2047.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> Former minister Jeevan Reddy calls for leadership change in Telangana (2).</li>\n  <li><span class=\"risk-medium\">Inter-State Relations:</span> Ongoing spat between Telangana CM Revanth Reddy and Kerala CM Pinarayi Vijayan, potentially impacting the INDIA bloc (3, 10, 20).</li>\n  <li><span class=\"risk-low\">Public Perception:</span> Criticism of CM Revanth Reddy's claims and actions by Union Minister Kishan Reddy and others (8, 14, 16).</li>\n  <li><span class=\"risk-low\">Infrastructure Concerns:</span> Medigadda delay could affect 18 lakh acres and city water supply (5).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>Criticism of CM Revanth Reddy's statements in Kerala (3, 8, 14, 19, 20) is linked to potential impacts on the INDIA bloc (10).</li>\n  <li>The focus on becoming South Asia's textile capital (1, 6, 13, 15, 18) is a key policy goal for the Revanth Reddy government.</li>\n  <li>Harish Rao's challenge to CM Revanth Reddy regarding loan waiver implementation (4) highlights internal political tensions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the political fallout from the Kerala campaign and the ongoing dispute with Kerala's CM.</li>\n  <li>Assess the potential impact of the Medigadda delay on water supply and agricultural lands.</li>\n  <li>Prepare a response to the criticisms leveled against the CM by various political figures.</li>\n  <li>Review and communicate the government's textile industry plans to the public.</li>\n  <li>Address concerns regarding the implementation of loan waivers in Kodangal.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Kodangal:</b> Due to Harish Rao's challenge to verify loan waiver implementation (4).</li>\n  <li><b>Hyderabad:</b> Given the inauguration of a private school (9).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "32.2°C",
-      "humidity": "44%",
-      "wind": "8.5 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 58,
-      "pm25": 13.6,
-      "goldPerGram": "₹8,980",
-      "newsCount": 68,
-      "topHeadlines": [
-        "Telangana Targets Global Textile Hub by 2047 Focus on Green Textile Growth - The South India Times",
-        "Former minister Jeevan Reddy calls for leadership change in Telangana - newindianexpress.com",
-        "Kerala CM slams Revanth: ‘‘Bulldozers at home, lectures for Kerala’’ - The Hans India",
-        "Harish Rao dares CM Revanth to verify loan waiver implementation in Kodangal - The Hans India",
-        "Medigadda delay could affect 18 lakh acres and city water supply: Jeevan Reddy - The Hans India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-04T07:04:33.281Z",
     "timestampIST": "4/4/2026, 12:34:33 pm",
     "executiveSummary": "<p>BRS cadres have been house-arrested in Adilabad and Nirmal due to the Chief Minister's tour. (1) The Telangana government is considering a CBI probe into the Kaleshwaram case. (2) Political tensions are escalating, with BRS leaders criticizing the government's actions and the CM's visit to Kerala. (3, 5, 9, 11, 16)</p>",
@@ -6838,6 +6815,29 @@
         "Govt Whip hits out at BRS, bats for farmer-friendly policies - The Hans India",
         "Bandi Sanjay fires fresh salvo at Revanth Reddy over farm issues - The Hans India",
         "BRS criticizes Telangana government over fee reimbursement scheme - The News Mill"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-04T06:39:49.712Z",
+    "timestampIST": "4/5/2026, 12:09:49 pm",
+    "executiveSummary": "<p>BRS leaders, including KT Rama Rao, are warning of agitation over the fee reimbursement scheme affecting 14 lakh students (1, 7, 12). The government is providing Rs 5 lakh aid to families of deceased gig and platform workers (2, 13). A Rajiv Rahadari crash near Siddipet resulted in two fatalities and two injuries (10).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>BRS leaders, including KT Rama Rao, are warning of agitation over the fee reimbursement scheme affecting 14 lakh students (1, 7, 12). The government is providing Rs 5 lakh aid to families of deceased gig and platform workers (2, 13). A Rajiv Rahadari crash near Siddipet resulted in two fatalities and two injuries (10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential protests/agitation</span>: BRS has warned of agitation over the fee reimbursement scheme affecting 14 lakh students (1, 7, 12).</li>\n    <li><span class=\"risk-low\">Public Discontent</span>: Bandi Sanjay claims only 25 lakh of 45 lakh farmers received loan waivers (11).</li>\n    <li><span class=\"risk-low\">Road Safety Concerns</span>: A crash on the Rajiv Rahadari near Siddipet resulted in fatalities and injuries (10).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>KTR is demanding the release of fee reimbursement dues (14), which is directly linked to the BRS's warning of agitation (1, 7, 12).</li>\n    <li>The government is taking up development works with central funds (3), while Konda Vishweshwar Reddy claims Telangana is surviving only on central funds (17).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Assess the feasibility of releasing fee reimbursement dues to mitigate potential agitation (14).</li>\n    <li>Monitor the situation regarding farmer loan waivers and address any discrepancies (11).</li>\n    <li>Review road safety measures, particularly on the Rajiv Rahadari, following the recent accident near Siddipet (10).</li>\n    <li>Prepare for potential cabinet expansion and reshuffle after the Kerala election results (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Siddipet</b>: Focus on the Rajiv Rahadari due to the recent crash (10).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37.2°C",
+      "humidity": "16%",
+      "wind": "7.9 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 69,
+      "pm25": 19.5,
+      "goldPerGram": "₹9,155",
+      "newsCount": 23,
+      "topHeadlines": [
+        "\"Revanth Reddy govt betraying 14 lakh students by dismantling fee reimbursement scheme\": BRS' KT Rama Rao warns of agitation - India's News.Net",
+        "Telangana grants Rs 5 lakh aid to families of deceased Gig and Platform Workers - Hyderabad Mail",
+        "Telangana taking up development works with central funds: Vishweshwar Reddy - The New Indian Express",
+        "Telangana witnesses 15 per cent drop in road fatalities - The New Indian Express",
+        "Govt Whip hits out at BRS, bats for farmer-friendly policies - The Hans India"
       ]
     }
   }
