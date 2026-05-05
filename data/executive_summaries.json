@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05T14:37:01.299Z",
-    "timestampIST": "5/4/2026, 8:07:01 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will tour Adilabad and Nirmal districts on Monday. A new Telangana High Court complex is planned for completion by December 2027. Two fatalities occurred in Nirmal due to a refrigerator fire. The CM has ordered TTD-style temple rules and banned political meetings in temples.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will tour Adilabad and Nirmal districts on Monday. A new Telangana High Court complex is planned for completion by December 2027. Two fatalities occurred in Nirmal due to a refrigerator fire. The CM has ordered TTD-style temple rules and banned political meetings in temples.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public Safety:</span> Two fatalities in Nirmal due to a refrigerator fire. (19)</li>\n  <li><span class=\"risk-medium\">Political:</span> CM's order for TTD-style temple rules and ban on political meetings in temples could generate controversy. (18)</li>\n  <li><span class=\"risk-low\">Infrastructure:</span> Underpass tunnel beneath Hyderabad’s Begumpet Airport under consideration. (15)</li>\n  <li><span class=\"risk-low\">Public Health:</span> Pharmacies to install CCTV systems under new drug rules. (6)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's tour of Adilabad and Nirmal districts (12) coincides with the reported deaths in Nirmal (19), potentially requiring immediate attention and resource allocation.</li>\n  <li>The construction of the new High Court complex (1, 3, 7, 8, 9) reflects the government's focus on infrastructure and justice, potentially impacting resource allocation and public perception.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Dispatch a team to Nirmal to assess the situation and provide necessary support following the refrigerator fire. (19)</li>\n  <li>Prepare a communication strategy regarding the new temple rules to manage potential public reactions. (18)</li>\n  <li>Brief the CM on the ongoing IPL match in Hyderabad and any potential security implications. (10, 11, 13, 14, 16)</li>\n  <li>Monitor public sentiment regarding the new High Court complex project and its timeline. (1, 3, 7, 8, 9)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Nirmal:</b> Immediate attention is required due to the reported fatalities from the refrigerator fire. (19)</li>\n  <li><b>Adilabad:</b> The CM's upcoming visit necessitates preparation and security arrangements. (12)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.6°C",
-      "humidity": "44%",
-      "wind": "6.4 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 76,
-      "pm25": 50.5,
-      "goldPerGram": "₹8,980",
-      "newsCount": 38,
-      "topHeadlines": [
-        "Temple of Justice Rises: Telangana High Court Mega Project Set for 2027 - Hyderabad Mail",
-        "UNITED NEWS OF INDIA - UNITED NEWS OF INDIA",
-        "Telangana to complete new High Court complex by Dec 2027: CM Revanth - NewsMeter",
-        "All pillars of democracy must work with mutual respect, says Telangana CM - Social News XYZ",
-        "Telangana CM Reddy Calls For Mutual Respect Among Democratic Pillars - Deccan Chronicle"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-05T16:39:38.569Z",
-    "timestampIST": "5/4/2026, 10:09:38 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will tour Adilabad and Nirmal districts on Monday. The Chief Justice of India, Surya Kant, laid the foundation for the new Telangana High Court building in Rajendernagar. The underpass tunnel beneath Hyderabad’s Begumpet Airport is under consideration.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will tour Adilabad and Nirmal districts on Monday. The Chief Justice of India, Surya Kant, laid the foundation for the new Telangana High Court building in Rajendernagar. The underpass tunnel beneath Hyderabad’s Begumpet Airport is under consideration.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-low\">LOW:</span> The Chief Minister's tour of Adilabad and Nirmal districts on Monday requires standard security protocols. (15)</li>\n    <li><span class=\"risk-low\">LOW:</span> Construction of the new Telangana High Court complex, expected to be completed by December 2027, may present logistical challenges. (5, 9, 10)</li>\n    <li><span class=\"risk-low\">LOW:</span> The ongoing IPL 2026 match between SRH and LSG in Hyderabad may require standard event security. (12, 13, 14, 16, 17, 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Justice of India (CJI) laid the foundation for the new Telangana High Court building (11, 18), which is slated for completion in 2027 (3, 5).</li>\n    <li>The CM emphasized mutual respect among democratic pillars (2, 7) while the CJI was in Hyderabad for the High Court foundation laying (11, 18).</li>\n    <li>The IPL 2026 match between SRH and LSG is taking place in Hyderabad today (12, 13, 14, 16, 17, 20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure adequate security and logistical support for the Chief Minister's upcoming tour of Adilabad and Nirmal districts. (15)</li>\n    <li>Monitor the progress of the new High Court complex project and address any potential delays or challenges. (3, 5, 9, 10)</li>\n    <li>Review security protocols for the ongoing IPL 2026 match in Hyderabad. (12, 13, 14, 16, 17, 20)</li>\n    <li>Assess the feasibility and potential impact of the proposed underpass tunnel beneath Begumpet Airport. (19)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad and Nirmal:</b> Due to the Chief Minister's scheduled visit on Monday. (15)</li>\n    <li><b>Hyderabad:</b> Due to the ongoing IPL match and the foundation laying of the new High Court complex. (11, 12, 13, 14, 16, 17, 18, 20)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29.3°C",
-      "humidity": "60%",
-      "wind": "8.5 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 77,
-      "pm25": 62.6,
-      "goldPerGram": "₹8,980",
-      "newsCount": 41,
-      "topHeadlines": [
-        "Gold Rate Today in Hyderabad: Latest 18K, 22K &amp; 24K Gold Prices on 05 April 2026 - ET Now",
-        "All pillars of democracy must work with mutual respect, says Telangana CM - thehansindia.com",
-        "Temple of Justice Rises: Telangana High Court Mega Project Set for 2027 - Hyderabad Mail",
-        "UNITED NEWS OF INDIA - UNITED NEWS OF INDIA",
-        "Telangana to complete new High Court complex by Dec 2027: CM Revanth - NewsMeter"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-05T18:49:12.523Z",
     "timestampIST": "6/4/2026, 12:19:12 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy laid the foundation for the new Telangana High Court building in Rajendranagar. A fruit trader was arrested in Hyderabad for possessing 200 kg of artificially ripened mangoes. The Chief Minister will tour Adilabad and Nirmal districts on Monday. A pedestrian died after being hit by a two-wheeler in Chanchalguda.</p>",
@@ -6723,6 +6677,29 @@
         "Farmers stage rasta roko across Warangal against delay in crop procurement - Telangana Today",
         "How Revanth Reddy’s Kerala Assembly poll campaign energised UDF - theweek.in",
         "Prevailing chaos in procurement reflects govt’s unpreparedness: Kotha Prabhakar Reddy - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-05T17:44:13.399Z",
+    "timestampIST": "5/5/2026, 11:14:13 pm",
+    "executiveSummary": "<p>The Telangana government will bear the burden of Haj travel expenses (1). A special Assembly session on crop diversification will be held (3). Farmers staged a rasta roko in Warangal due to procurement delays (10). The CM is facing criticism from multiple political figures regarding various issues (4, 5, 7, 13, 16).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government will bear the burden of Haj travel expenses (1). A special Assembly session on crop diversification will be held (3). Farmers staged a rasta roko in Warangal due to procurement delays (10). The CM is facing criticism from multiple political figures regarding various issues (4, 5, 7, 13, 16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public unrest in Warangal due to crop procurement delays.</span> (10, 13)</li>\n    <li><span class=\"risk-low\">Potential for political instability due to ongoing criticism of the CM and the government.</span> (4, 5, 7, 16)</li>\n    <li><span class=\"risk-low\">Increased road accidents on the ORR due to driver drowsiness.</span> (2)</li>\n    <li><span class=\"risk-low\">Protests or disruptions related to the Jawaharnagar dumping yard row.</span> (19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Crop procurement issues (10, 13, 14) are a point of contention between the ruling party and opposition (14, 16).</li>\n    <li>The CM is facing criticism from both BJP and BRS leaders (5, 7, 16).</li>\n    <li>The government is facing scrutiny regarding power purchases (4, 20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Address the crop procurement delays in Warangal immediately to mitigate public unrest. (10, 13)</li>\n    <li>Prepare for the upcoming Assembly session on crop diversification. (3)</li>\n    <li>Review and address the issues raised by the Jawaharnagar representatives regarding the dumping yard. (19)</li>\n    <li>Monitor the political environment and potential for further criticism or protests. (4, 5, 7, 16)</li>\n    <li>Assess and address the factors contributing to road accidents on the ORR. (2)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Warangal:</b> Immediate attention is required due to the farmers' rasta roko and reported procurement delays. (10, 13)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.9°C",
+      "humidity": "53%",
+      "wind": "7.7 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 61,
+      "pm25": 39.5,
+      "goldPerGram": "₹9,190",
+      "newsCount": 25,
+      "topHeadlines": [
+        "Haj travel burden to be borne by Telangana government - newsage.in",
+        "Drowsiness behind one-third of ORR accidents in Hyderabad - Telangana Today",
+        "CM Revanth Reddy To Hold Special Assembly Session on Crop Diversification - Deccan Chronicle",
+        "CBI probe on power purchases only to divert attention from real issues: Jagadish Reddy - Telangana Today",
+        "MP Chamala hits back at Bandi Sanjay over remarks on Revanth Reddy - The Hindu"
       ]
     }
   }
