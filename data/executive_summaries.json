@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05T10:36:42.794Z",
-    "timestampIST": "5/4/2026, 4:06:42 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will tour Adilabad and Nirmal districts on Monday (Headline 5).  Two fatalities occurred in Nirmal due to a refrigerator fire (Headline 11).  A young woman died in a road accident in Hyderabad (Headline 9), and a teen girl was killed in Jubilee Hills after being hit by a TGSRTC bus (Headline 19).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will tour Adilabad and Nirmal districts on Monday (Headline 5).  Two fatalities occurred in Nirmal due to a refrigerator fire (Headline 11).  A young woman died in a road accident in Hyderabad (Headline 9), and a teen girl was killed in Jubilee Hills after being hit by a TGSRTC bus (Headline 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Safety:</span> Two fatalities in Nirmal due to a refrigerator fire (Headline 11) and two road accident fatalities in Hyderabad (Headlines 9, 19) indicate potential safety concerns.</li>\n    <li><span class=\"risk-low\">Political Instability:</span> Damage to KCR’s Gajwel camp office by Congress workers (Headline 16) suggests potential for escalating political tensions.</li>\n    <li><span class=\"risk-low\">Public Order:</span>  Bandi Sanjay challenges Revanth Reddy over ‘6 guarantees’ claim (Headline 15) which could lead to public discourse.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister is scheduled to tour Adilabad and Nirmal districts (Headline 5), the same district where a refrigerator fire resulted in two deaths (Headline 11).</li>\n    <li>Multiple news reports highlight road accidents in Hyderabad (Headlines 9, 19), indicating a potential rise in traffic incidents.</li>\n    <li>The Chief Minister's directives regarding temple rules (Headlines 10, 14) and the DGP's visit to Tirupati (Headline 20) suggest a focus on religious institutions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct immediate investigation into the refrigerator fire incident in Nirmal to determine the cause and prevent further incidents.</li>\n    <li>Review and enhance road safety measures in Hyderabad, particularly in Jubilee Hills, given the recent accidents.</li>\n    <li>Assess the security situation in Gajwel following the damage to KCR’s camp office.</li>\n    <li>Ensure adequate security and logistical support for the Chief Minister's upcoming tour of Adilabad and Nirmal districts.</li>\n    <li>Review and clarify the implementation guidelines for the new temple rules.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Nirmal:</b> Requires immediate attention due to the refrigerator fire incident resulting in two fatalities (Headline 11). The CM is scheduled to visit this district.</li>\n    <li><b>Hyderabad:</b> Requires attention due to the recent road accidents (Headlines 9, 19).</li>\n    <li><b>Adilabad:</b> Requires attention due to the CM's visit (Headline 5).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35.5°C",
-      "humidity": "31%",
-      "wind": "12 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 75,
-      "pm25": 42,
-      "goldPerGram": "₹8,980",
-      "newsCount": 40,
-      "topHeadlines": [
-        "Pharmacies to install CCTV systems under new drug rules - Telangana Today",
-        "CJI Surya Kant lays foundation for new Telangana HC building in Rajendernagar - The Siasat Daily",
-        "Telangana CM Reddy calls for mutual respect among democratic pillars - ThePrint",
-        "IPL 2026 Today's Match: SRH vs LSG playing 11, batters vs bowlers match-up - Business Standard",
-        "Chief Minister Revanth Reddy to tour Adilabad, Nirmal districts on Monday - Telangana Today"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-05T13:02:41.803Z",
-    "timestampIST": "5/4/2026, 6:32:41 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will tour Adilabad and Nirmal districts on Monday (Headline 11). The Chief Minister has ordered TTD-style temple rules and banned political meetings in Telangana temples (Headlines 17, 20). A young woman died in a road accident in Hyderabad (Headline 16), and two people died in a refrigerator fire in Nirmal (Headline 18).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will tour Adilabad and Nirmal districts on Monday (Headline 11). The Chief Minister has ordered TTD-style temple rules and banned political meetings in Telangana temples (Headlines 17, 20). A young woman died in a road accident in Hyderabad (Headline 16), and two people died in a refrigerator fire in Nirmal (Headline 18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public Safety:</span> Two fatalities in Nirmal due to a refrigerator fire (Headline 18) and one road accident fatality in Hyderabad (Headline 16) indicate potential public safety concerns.</li>\n  <li><span class=\"risk-low\">Political Discontent:</span> The ban on political meetings in temples (Headlines 17, 20) could potentially lead to minor political reactions.</li>\n  <li><span class=\"risk-low\">Infrastructure Delays:</span> While not a direct risk, the completion of the new High Court complex by December 2027 (Headline 1) presents a long-term project with potential for delays.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The Chief Minister's tour of Adilabad and Nirmal districts (Headline 11) coincides with the recent fire incident in Nirmal (Headline 18), potentially requiring immediate attention.</li>\n  <li>The CM's statements on mutual respect among democratic pillars (Headlines 2, 3) are concurrent with the ongoing construction of the new High Court complex (Headlines 1, 5, 6, 7).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Direct immediate investigation into the refrigerator fire in Nirmal and the road accident in Hyderabad.</li>\n  <li>Ensure adequate security and traffic management during the Chief Minister's upcoming tour of Adilabad and Nirmal districts.</li>\n  <li>Monitor public sentiment regarding the new temple rules and political meeting ban.</li>\n  <li>Assess the current status of the new High Court complex construction and any potential roadblocks.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Nirmal:</b> Requires immediate attention due to the refrigerator fire incident (Headline 18) and the CM's upcoming visit.</li>\n  <li><b>Adilabad:</b> Requires attention due to the CM's upcoming visit.</li>\n  <li><b>Hyderabad:</b> Requires attention due to the road accident (Headline 16).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "33.5°C",
-      "humidity": "34%",
-      "wind": "9.2 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 76,
-      "pm25": 42.1,
-      "goldPerGram": "₹8,980",
-      "newsCount": 40,
-      "topHeadlines": [
-        "Telangana to complete new High Court complex by Dec 2027: CM Revanth - NewsMeter",
-        "All pillars of democracy must work with mutual respect, says Telangana CM - Social News XYZ",
-        "Telangana CM Reddy Calls For Mutual Respect Among Democratic Pillars - Deccan Chronicle",
-        "Pharmacies to install CCTV systems under new drug rules - Telangana Today",
-        "Building the Future of Justice: Telangana's Commitment to a New High Court Complex - Devdiscourse"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-05T14:37:01.299Z",
     "timestampIST": "5/4/2026, 8:07:01 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy will tour Adilabad and Nirmal districts on Monday. A new Telangana High Court complex is planned for completion by December 2027. Two fatalities occurred in Nirmal due to a refrigerator fire. The CM has ordered TTD-style temple rules and banned political meetings in temples.</p>",
@@ -6746,6 +6700,29 @@
         "Hyderabad: Film crew member dies in road crash - Telangana Today",
         "Jawaharnagar reps knock at CM’s door to resolve dumping yard row - The Hans India",
         "Telangana nudges CBI to probe BRS-era PPAs - The New Indian Express"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-05T13:59:28.172Z",
+    "timestampIST": "5/5/2026, 7:29:28 pm",
+    "executiveSummary": "<p>The Telangana government has approved a CBI probe into power projects from the previous BRS government (13, 19, 20). Farmers staged a rasta roko in Warangal due to delays in crop procurement (3). The Chief Minister congratulated the UDF on their victory in Kerala, crediting Revanth Reddy's campaign (16, 14).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government has approved a CBI probe into power projects from the previous BRS government (13, 19, 20). Farmers staged a rasta roko in Warangal due to delays in crop procurement (3). The Chief Minister congratulated the UDF on their victory in Kerala, crediting Revanth Reddy's campaign (16, 14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public unrest in Warangal:</span> Farmers staged a rasta roko against delays in crop procurement (3).</li>\n    <li><span class=\"risk-low\">Political tension:</span> BRS leaders are targeting Revanth Reddy (8), and BJP leaders predict a win in Telangana soon (9).</li>\n    <li><span class=\"risk-low\">Potential for protest:</span> Jawaharnagar representatives are seeking to resolve the dumping yard row with the CM (11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CBI probe into power projects (13, 19, 20) is likely to intensify political tensions, as BRS leaders are already targeting the current government (8).</li>\n    <li>Delays in crop procurement (3, 5, 6) are causing unrest among farmers, which could be exploited by opposition parties.</li>\n    <li>Revanth Reddy's campaign in Kerala (4, 14, 17, 18) is being credited with the UDF victory, potentially boosting his political standing in Telangana.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Agriculture Department to expedite crop procurement in Warangal to address farmer grievances (3, 5, 6).</li>\n    <li>Monitor the political landscape for potential reactions to the CBI probe into the power projects (13, 19, 20).</li>\n    <li>Assess the situation in Jawaharnagar and facilitate a resolution to the dumping yard row (11).</li>\n    <li>Issue a public statement on the government's commitment to farmer welfare and address the fertilizer crisis (6, 8).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Warangal:</b> Immediate attention is required due to the rasta roko staged by farmers protesting delays in crop procurement (3).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34°C",
+      "humidity": "25%",
+      "wind": "4.9 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 62,
+      "pm25": 22.3,
+      "goldPerGram": "₹9,172",
+      "newsCount": 22,
+      "topHeadlines": [
+        "Why new Telangana DGP C.V. Anand, who promises proactive policing, is a trendsetter - India Today",
+        "MANUU introduces new MSc and MA programmes for 2026–27 admissions - Telangana Today",
+        "Farmers stage rasta roko across Warangal against delay in crop procurement - Telangana Today",
+        "How Revanth Reddy’s Kerala Assembly poll campaign energised UDF - theweek.in",
+        "Prevailing chaos in procurement reflects govt’s unpreparedness: Kotha Prabhakar Reddy - Telangana Today"
       ]
     }
   }
