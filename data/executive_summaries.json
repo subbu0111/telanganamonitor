@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05T02:41:55.805Z",
-    "timestampIST": "5/4/2026, 8:11:55 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will launch Rs 225 crore Basara Temple development works on April 6 (9). The CM is facing criticism from multiple sources regarding the six guarantees (1, 5, 6, 7). There are reports of an attack on KCR's office (3) and a new WhatsApp fraud targeting corporate officials in Hyderabad (16).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will launch Rs 225 crore Basara Temple development works on April 6 (9). The CM is facing criticism from multiple sources regarding the six guarantees (1, 5, 6, 7). There are reports of an attack on KCR's office (3) and a new WhatsApp fraud targeting corporate officials in Hyderabad (16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> BRS has slammed an attack on KCR's office, blaming CM Revanth Reddy (3).</li>\n  <li><span class=\"risk-medium\">Public Criticism:</span> TPCC Spokesperson and Bandi Sanjay are criticizing CM Revanth Reddy over the six guarantees (1, 6, 7).</li>\n  <li><span class=\"risk-low\">Cybersecurity Threat:</span> New WhatsApp fraud targets corporate officials in Hyderabad (16).</li>\n  <li><span class=\"risk-low\">Public Safety:</span> Schoolgirl killed in bus accident in Jubilee Hills, Hyderabad (17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy is facing criticism over the six guarantees (1, 5, 6, 7), which could be related to the upcoming elections.</li>\n  <li>The CM is focused on temple development (9, 11, 14, 15, 18, 19) while also facing political challenges (3, 1, 5, 6, 7).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Assess the security situation around KCR's office and potential for further incidents (3).</li>\n  <li>Monitor public sentiment regarding the six guarantees and the criticisms leveled against the CM (1, 5, 6, 7).</li>\n  <li>Issue a public advisory regarding the new WhatsApp fraud targeting corporate officials (16).</li>\n  <li>Review and strengthen safety regulations for school buses, particularly in areas like Jubilee Hills (17).</li>\n  <li>Prepare for the launch of the Basara Temple development works on April 6 (9).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Due to the reported WhatsApp fraud targeting corporate officials (16) and the bus accident in Jubilee Hills (17).</li>\n  <li><b>Adilabad:</b> Focus on the upcoming Basara Temple development works (9, 19).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "26.7°C",
-      "humidity": "68%",
-      "wind": "9.8 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 76,
-      "pm25": 71.5,
-      "goldPerGram": "₹8,980",
-      "newsCount": 37,
-      "topHeadlines": [
-        "TPCC Spokesperson Bandi Sudhakar Goud Criticizes Union Minister Kishan Reddy Over Six Guarantees - Daily Pioneer",
-        "CM hails Babu Jagjivan Ram as beacon of social justice - The Hans India",
-        "'Hooliganism': BRS slams attack on KCR's office, blames CM Revanth Reddy - ANI News",
-        "Nursery to UKG in govt schools from 2026-27 academic year: Telangana CM - Indiatimes",
-        "Kishan Reddy slams CM Revanth Reddy’s Kerala Elections campaign over false claims on Congress guarantees in Telangana - Organiser"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-05T05:45:26.757Z",
     "timestampIST": "5/4/2026, 11:15:26 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy has banned political meetings in Telangana temples, following TTD-style rules (2, 6). Two deaths were reported in separate incidents: a road accident in Hyderabad (1) and a refrigerator fire in Nirmal (3). The Chief Justice of India, Surya Kant, is scheduled to lay the foundation stone for the new Telangana High Court building (20).</p>",
@@ -6769,6 +6746,29 @@
         "Telangana Cabinet Approves CBI Probe Into Power Projects Under Previous BRS Government - Telangana Tribune",
         "Revanth played decisive role in Kerala polls: Congress leaders - The Hindu",
         "GO 7 sparks concern among students over future of fee reimbursement - EdexLive"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-05T02:53:57.528Z",
+    "timestampIST": "5/5/2026, 8:23:57 am",
+    "executiveSummary": "<p>The Telangana government will hand over power purchase agreements scam to the CBI (3, 4). CM Revanth Reddy's role in the UDF victory in Kerala is being highlighted (5, 8, 10, 11). A fire broke out at the Serilingampally Zonal Commissioner’s office, with no casualties reported (13).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government will hand over power purchase agreements scam to the CBI (3, 4). CM Revanth Reddy's role in the UDF victory in Kerala is being highlighted (5, 8, 10, 11). A fire broke out at the Serilingampally Zonal Commissioner’s office, with no casualties reported (13).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for public unrest</span>: GO 7 regarding fee reimbursement sparks concern among students (6).</li>\n    <li><span class=\"risk-low\">Project Delays</span>: Telangana's 'Future City' project hits roadblocks (15).</li>\n    <li><span class=\"risk-low\">Administrative disruption</span>: Fire at Serilingampally Zonal Commissioner’s office (13).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's political activity in Kerala (1, 2, 5, 8, 10, 11) is likely to influence internal political dynamics within Telangana (7).</li>\n    <li>The decision to hand over the power purchase agreements scam to the CBI (3, 4) could lead to further investigations and potential political fallout.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Assess the impact of GO 7 on student sentiment and prepare a communication strategy (6).</li>\n    <li>Conduct a thorough investigation into the fire at the Serilingampally Zonal Commissioner’s office and assess damage (13).</li>\n    <li>Monitor public reaction to the CBI probe into the power purchase agreements (3, 4).</li>\n    <li>Review and address the roadblocks affecting the 'Future City' project (15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Serilingampally:</b> Immediate attention is required due to the fire at the Zonal Commissioner’s office (13). Assess the damage and ensure continuity of administrative functions.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29°C",
+      "humidity": "57%",
+      "wind": "5.1 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 62,
+      "pm25": 33.8,
+      "goldPerGram": "₹9,172",
+      "newsCount": 17,
+      "topHeadlines": [
+        "Revanth’s Keralam slogan ‘Nee po mone Vijayan!’ a hit - The Hans India",
+        "UDF Breaks Left Bastion: Revanth Reddy’s ‘Telangana Model’ Dents LDF Stronghold in Kerala - Deccan Chronicle",
+        "Telangana govt to hand over power purchase agreements scam to CBI - The Siasat Daily",
+        "Telangana Cabinet Approves CBI Probe Into Power Projects Under Previous BRS Government - Telangana Tribune",
+        "Revanth played decisive role in Kerala polls: Congress leaders - The Hindu"
       ]
     }
   }
