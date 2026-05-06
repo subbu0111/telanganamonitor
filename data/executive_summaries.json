@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06T07:58:20.023Z",
-    "timestampIST": "6/4/2026, 1:28:20 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is focusing on combating drug menaces and cybercrimes, identifying them as the biggest challenges facing the state. He is also launching a Rs 225-crore Basara temple redevelopment project today. Furthermore, the CM announced plans for a world-class sports hub in Gachibowli.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focusing on combating drug menaces and cybercrimes, identifying them as the biggest challenges facing the state. He is also launching a Rs 225-crore Basara temple redevelopment project today. Furthermore, the CM announced plans for a world-class sports hub in Gachibowli.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> The CM has explicitly stated the drug menace is a significant challenge, indicating a potential for increased drug-related activities. (Headlines 1, 2, 3, 12)</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Cybercrimes are identified as a major threat, suggesting a need for increased vigilance and resources in this area. (Headlines 1, 3, 12)</li>\n    <li><span class=\"risk-low\">LOW:</span> The seizure of 200 kg of artificially ripened mangoes in Hyderabad indicates potential food safety concerns. (Headline 17)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on combating drugs (Headlines 1, 2, 3, 12) is linked to his initiative to foster a sports culture (Headlines 2, 8, 9, 18, 19), potentially as a preventative measure.</li>\n    <li>The CM's emphasis on sports infrastructure in Gachibowli (Headlines 7, 8, 9, 13) aligns with his broader goal of positioning Hyderabad as a sports hub (Headlines 8, 9).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to intensify efforts to combat drug-related activities and cybercrimes across the state. (Headlines 1, 3, 12)</li>\n    <li>Review and allocate resources for the Basara temple redevelopment project. (Headline 10)</li>\n    <li>Assess the feasibility and timeline for the Gachibowli sports hub plan. (Headlines 7, 8, 9, 13)</li>\n    <li>Initiate a public awareness campaign on the dangers of drug abuse, as suggested by the CM's statements. (Headlines 1, 2, 3, 12)</li>\n    <li>Review food safety protocols in Hyderabad following the seizure of artificially ripened mangoes. (Headline 17)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the CM's focus on sports infrastructure in Gachibowli (Headlines 7, 8, 9, 13) and the mango seizure (Headline 17), Hyderabad requires immediate attention.</li>\n    <li><b>Statewide:</b> Given the CM's emphasis on combating drugs and cybercrimes (Headlines 1, 3, 12), all districts require increased vigilance and resource allocation.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "36.1°C",
-      "humidity": "24%",
-      "wind": "9.9 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 78,
-      "pm25": 31.3,
-      "goldPerGram": "₹8,980",
-      "newsCount": 31,
-      "topHeadlines": [
-        "Drugs, cybercrimes are biggest challenges before police: Telangana CM Revanth Reddy - India's News.Net",
-        "Telangana CM Vows to Combat Drug Menace, Foster Sports Culture - Devdiscourse",
-        "Telangana CM Revanth Reddy addresses drug and cybercrime issues - The News Mill",
-        "New Telangana HC complex to be among finest: CJI - The New Indian Express",
-        "Won’t allow Telangana to become another Punjab: Revanth - The New Indian Express"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-06T09:18:51.745Z",
-    "timestampIST": "6/4/2026, 2:48:51 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on combating drug abuse and cybercrimes, identifying them as the biggest challenges facing the state (3, 5, 6, 16). He announced a major sports hub plan for Gachibowli, including a world-class stadium (11, 12, 13, 17). The CM will launch the Rs 225-crore Basara temple redevelopment project today (14).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focused on combating drug abuse and cybercrimes, identifying them as the biggest challenges facing the state (3, 5, 6, 16). He announced a major sports hub plan for Gachibowli, including a world-class stadium (11, 12, 13, 17). The CM will launch the Rs 225-crore Basara temple redevelopment project today (14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Drug abuse among educated youth is a concern raised by Revanth Reddy (1).</li>\n    <li><span class=\"risk-high\">HIGH:</span> Cybercrimes are identified as a major threat by the Chief Minister (3, 6, 16).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> The CM is vowing to prevent Telangana from becoming another Punjab (8).</li>\n    <li><span class=\"risk-low\">LOW:</span> The Basara temple redevelopment project is scheduled to launch today (14).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's focus on combating drug abuse and cybercrimes (3, 5, 6, 16) suggests a need for increased law enforcement and public awareness campaigns.</li>\n    <li>The CM's plans for a world-class Gachibowli Stadium (13, 17) and overall sports hub plan (11, 12) indicate a strategic initiative to promote sports and potentially attract investment.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to increase surveillance and enforcement efforts to combat drug abuse and cybercrimes.</li>\n    <li>Task the relevant departments to prepare a detailed plan for the Gachibowli sports hub, including timelines and budget allocations.</li>\n    <li>Ensure adequate security and logistical support for the Basara temple redevelopment project launch.</li>\n    <li>Review and strengthen existing cybersecurity infrastructure and protocols.</li>\n    <li>Initiate public awareness campaigns to educate the public on the dangers of drug abuse and cybercrimes.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>Gachibowli requires immediate attention due to the CM's announced sports hub plan (11, 12, 13, 17). Basara requires attention due to the temple redevelopment project launch (14).</p>\n```",
-    "dataSnapshot": {
-      "temperature": "36.6°C",
-      "humidity": "23%",
-      "wind": "11.2 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 77,
-      "pm25": 22.7,
-      "goldPerGram": "₹8,980",
-      "newsCount": 32,
-      "topHeadlines": [
-        "Revanth Reddy voices concern over drug abuse among educated youth - The Siasat Daily",
-        "Nanoparticle breakthrough offers new hope for Alzheimer’s reversal - Telangana Today",
-        "Drugs, cybercrimes are biggest challenges before police: Telangana CM Revanth Reddy - India's News.Net",
-        "SRH vs LSG Toss: Rishabh Pant wins toss and Lucknow bowl first in Hyderabad - indianexpress.com",
-        "Telangana CM Vows to Combat Drug Menace, Foster Sports Culture - Devdiscourse"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-06T10:59:39.042Z",
     "timestampIST": "6/4/2026, 4:29:39 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy performed the 'bhoomi puja' for the ₹225-crore Gnana Saraswati temple redevelopment project in Basar (2, 4, 19). The CM addressed concerns regarding drug abuse and cybercrimes (6, 8, 10, 11). A BRS call for a bandh was made (3).</p>",
@@ -6695,6 +6649,29 @@
       "goldPerGram": "₹9,190",
       "newsCount": 0,
       "topHeadlines": []
+    }
+  },
+  {
+    "timestamp": "2026-05-06T10:20:58.563Z",
+    "timestampIST": "6/5/2026, 3:50:58 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is currently in Delhi to seek approval for Hyderabad Metro Phase II and will meet with the CBI chief. (3, 4, 8, 11) A special Assembly session on crop diversification is planned. (17) Concerns remain regarding safety after an LPG shop blast in Hyderabad injured 10 people. (5)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is currently in Delhi to seek approval for Hyderabad Metro Phase II and will meet with the CBI chief. (3, 4, 8, 11) A special Assembly session on crop diversification is planned. (17) Concerns remain regarding safety after an LPG shop blast in Hyderabad injured 10 people. (5)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Safety:</span> An LPG shop blast in Hyderabad injured 10 people, raising safety concerns. (5)</li>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS leaders are criticizing the government over farmer deaths in Mancherial and the fee reimbursement scheme. (2, 14)</li>\n    <li><span class=\"risk-low\">Infrastructure Delays:</span> Approval for Hyderabad Metro Phase II is pending, potentially delaying the project. (3, 4, 6, 8)</li>\n    <li><span class=\"risk-low\">Public Health:</span> The government is working to strengthen Anganwadis. (1)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's visit to Delhi (3, 4, 8) is focused on securing approvals for the Hyderabad Metro Phase II and potentially discussing the Kaleshwaram project with the CBI. (8)</li>\n    <li>Political opposition is criticizing the government on multiple fronts, including farmer deaths and the fee reimbursement scheme. (2, 14)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review and enhance safety protocols for LPG shops and other potentially hazardous businesses in Hyderabad. (5)</li>\n    <li>Monitor the political reactions to the CM's Delhi visit and the CBI meeting. (3, 4, 8, 11)</li>\n    <li>Prepare for the upcoming special Assembly session on crop diversification. (17)</li>\n    <li>Assess the impact of the fee reimbursement scheme criticism. (14)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on safety inspections and investigations following the LPG shop blast. (5)</li>\n    <li><b>Mancherial:</b> Monitor the situation following the reported deaths of four farmers. (2)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36.2°C",
+      "humidity": "27%",
+      "wind": "4.7 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 64,
+      "pm25": 24.4,
+      "goldPerGram": "₹9,190",
+      "newsCount": 27,
+      "topHeadlines": [
+        "Telangana fills 18,000 health dept posts, min vows to strengthen Anganwadis - The Siasat Daily",
+        "BRS leader Jeevan Reddy slams govt over deaths of four farmers in Mancherial - Telangana Today",
+        "Telangana CM Revanth Reddy leaves for Delhi to seek approval for Hyderabad Metro phase II - The Hindu",
+        "Revanth Reddy Delhi visit planned for Metro Phase 2 approvals - newsage.in",
+        "10 injured in Hyderabad LPG shop blast amid renewed safety concerns - Pakistan Today"
+      ]
     }
   }
 ]
