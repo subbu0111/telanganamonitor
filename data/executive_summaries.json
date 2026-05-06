@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06T06:00:11.790Z",
-    "timestampIST": "6/4/2026, 11:30:11 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy addressed drug and cybercrime issues, vowing to combat the drug menace and promote sports culture in Telangana (1, 2, 12, 19). He announced a major sports hub plan for Gachibowli, including a world-class stadium (7, 8, 9, 13).  The CM will launch the Rs 225-crore Basara temple redevelopment project today (10).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy addressed drug and cybercrime issues, vowing to combat the drug menace and promote sports culture in Telangana (1, 2, 12, 19). He announced a major sports hub plan for Gachibowli, including a world-class stadium (7, 8, 9, 13).  The CM will launch the Rs 225-crore Basara temple redevelopment project today (10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> The CM explicitly stated concerns about drugs and cybercrime, indicating these are significant threats (2, 12).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span>  Seizure of 200 kg of artificially ripened mangoes in Hyderabad suggests potential food safety issues or illegal activities (17).</li>\n    <li><span class=\"risk-low\">LOW:</span>  The CM's focus on sports and job creation for youth may create expectations that need to be managed (18, 19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on combating drugs (1, 2, 12) and promoting sports (1, 7, 8, 9, 13, 18, 19) suggests a strategy to address social issues and provide opportunities for youth.</li>\n    <li>The CM's statements on drugs and cybercrime (2, 12) are linked to his commitment to prevent Telangana from becoming like Punjab (4).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize law enforcement efforts to address drug and cybercrime threats, as highlighted by the CM (2, 12).</li>\n    <li>Ensure the successful launch of the Basara temple redevelopment project (10).</li>\n    <li>Develop a comprehensive plan for the Gachibowli sports hub, including funding and timelines (7, 8, 9, 13).</li>\n    <li>Monitor the situation regarding artificially ripened mangoes and other potential food safety violations (17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b>  Focus on addressing drug and cybercrime issues, as well as the implementation of the Gachibowli sports hub plan (2, 7, 8, 9, 12, 13). Also, investigate the seizure of artificially ripened mangoes (17).</li>\n    <li><b>Adilabad:</b> Monitor the launch of the Basara temple redevelopment project (10).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "N/A",
-      "humidity": "N/A",
-      "wind": "N/A",
-      "weatherDesc": "N/A",
-      "aqi": 78,
-      "pm25": 32.4,
-      "goldPerGram": "₹8,980",
-      "newsCount": 36,
-      "topHeadlines": [
-        "Telangana CM Vows to Combat Drug Menace, Foster Sports Culture - Devdiscourse",
-        "Telangana CM Revanth Reddy addresses drug and cybercrime issues - The News Mill",
-        "New Telangana HC complex to be among finest: CJI - The New Indian Express",
-        "Won’t allow Telangana to become another Punjab: Revanth - The New Indian Express",
-        "When will Telangana TSBIE Class 11, 12 results be declared? Check latest updates - India Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-06T07:58:20.023Z",
     "timestampIST": "6/4/2026, 1:28:20 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is focusing on combating drug menaces and cybercrimes, identifying them as the biggest challenges facing the state. He is also launching a Rs 225-crore Basara temple redevelopment project today. Furthermore, the CM announced plans for a world-class sports hub in Gachibowli.</p>",
@@ -6701,6 +6678,23 @@
         "Activist files interim application to stay GO - The Hans India",
         "Probes Into Irregularities Under BRS: CM Revanth likely to meet CBI chief in Delhi today - The Hans India"
       ]
+    }
+  },
+  {
+    "timestamp": "2026-05-06T06:30:39.722Z",
+    "timestampIST": "6/5/2026, 12:00:39 pm",
+    "executiveSummary": "<p>No critical developments were reported in the last 24 hours.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>No critical developments were reported in the last 24 hours.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<p>No risks are identified based on the provided data.</p>\n\n<h3>🔗 Cross-Correlation</h3>\n<p>No cross-correlations can be established based on the provided data.</p>\n\n<h3>💡 Recommendations</h3>\n<p>No recommendations can be made based on the provided data.</p>\n\n<h3>🗺️ District Focus</h3>\n<p>No district focus is required based on the provided data.</p>\n```",
+    "dataSnapshot": {
+      "temperature": "35.3°C",
+      "humidity": "32%",
+      "wind": "2.4 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 63,
+      "pm25": 27,
+      "goldPerGram": "₹9,190",
+      "newsCount": 0,
+      "topHeadlines": []
     }
   }
 ]
