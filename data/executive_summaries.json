@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06T19:04:28.581Z",
-    "timestampIST": "7/4/2026, 12:34:28 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is engaged in a public dispute with Kerala's Chief Minister Pinarayi Vijayan regarding development claims (2, 5, 6, 7, 8, 11). The CM launched development and welfare works worth over ₹900 crore in Adilabad (19). A thunderstorm is forecast in 11 Telangana districts today (14).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is engaged in a public dispute with Kerala's Chief Minister Pinarayi Vijayan regarding development claims (2, 5, 6, 7, 8, 11). The CM launched development and welfare works worth over ₹900 crore in Adilabad (19). A thunderstorm is forecast in 11 Telangana districts today (14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS is accused of creating trouble and misleading people (10).</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> 1,535 black spots on National Highways in Telangana highlight a road safety crisis (20).</li>\n    <li><span class=\"risk-low\">Weather:</span> Thunderstorm forecast in 11 Telangana districts today (14).</li>\n    <li><span class=\"risk-low\">Land Disputes:</span> Allegations of land grab at the Koheda fruit market (4).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on irrigation projects (13) could be linked to the need for crop diversification and farmer support (16).</li>\n    <li>The CM's presence in Adilabad (15, 19) is coupled with the announcement of development works, indicating a strategic focus on the region.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review and address the road safety crisis highlighted by the black spot data on National Highways (20).</li>\n    <li>Monitor the weather forecast and prepare for potential impacts of the thunderstorm in the 11 affected districts (14).</li>\n    <li>Address the allegations of land grab at the Koheda fruit market (4).</li>\n    <li>Assess the impact of the Musi project feedback process (17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad:</b> Requires immediate attention due to the CM's recent visit and the launch of development and welfare works (15, 19).</li>\n    <li><b>11 Districts (unspecified):</b> Monitor for potential impacts of the forecasted thunderstorm (14).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "26.9°C",
-      "humidity": "77%",
-      "wind": "4.6 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 65,
-      "pm25": 25.2,
-      "goldPerGram": "₹8,980",
-      "newsCount": 40,
-      "topHeadlines": [
-        "BJP celebrates 47th Foundation Day with hope to claim power in Telangana, southern states - The Siasat Daily",
-        "Revanth Dares Vijayan for Debate on Development - Deccan Chronicle",
-        "Judicial Panel to Scrutinise Requests to Redraw District Maps After March 2027, Says Revanth - Deccan Chronicle",
-        "Koheda fruit market land grab allegations by BRS - newsage.in",
-        "Revanth takes full credit for Telangana’s growth, but faults Vijayan for relying on legacy gains - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-06T20:39:52.584Z",
     "timestampIST": "7/4/2026, 2:09:52 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is engaged in a political dispute with Kerala's Chief Minister Pinarayi Vijayan, with multiple news outlets reporting on rebuttals and counter-claims regarding development and governance. (4, 7, 8, 9, 10, 11, 14) The Chief Minister also addressed challenges in Adilabad, where the Congress aims to remain in power until 2034. (12, 19) A thunderstorm is forecast for 11 Telangana districts today. (18)</p>",
@@ -6625,6 +6602,29 @@
         "Kin of Madinah bus accident victims claims ex gratia withheld, harassment - The Siasat Daily",
         "Telangana CM Reddy seeks Centre’s nod for Phase II of Hyderabad Metro - BusinessLine",
         "CNN founder Ted Turner dies at 87 in New York - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-06T19:48:44.392Z",
+    "timestampIST": "7/5/2026, 1:18:44 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi seeking Central approval for Hyderabad Metro Phase-II, a project estimated at ₹38,595 crore (1, 3, 5, 7, 8, 11, 20). The CM has directed the police to minimize public inconvenience during VIP movement (9, 14, 17). Criticism of the government continues, with BRS leaders criticizing the government over law and order lapses and the deaths of four farmers in Mancherial (2, 13, 19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is in Delhi seeking Central approval for Hyderabad Metro Phase-II, a project estimated at ₹38,595 crore (1, 3, 5, 7, 8, 11, 20). The CM has directed the police to minimize public inconvenience during VIP movement (9, 14, 17). Criticism of the government continues, with BRS leaders criticizing the government over law and order lapses and the deaths of four farmers in Mancherial (2, 13, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Discontent:</span> BRS criticism of the government regarding law and order and the deaths of farmers in Mancherial could lead to public dissatisfaction. (2, 13, 19)</li>\n    <li><span class=\"risk-low\">Traffic Disruption:</span> Potential for public inconvenience due to VIP movement, despite CM's directives to minimize disruption. (9, 14, 17)</li>\n    <li><span class=\"risk-low\">Delayed Metro Project:</span> Potential for delays in Hyderabad Metro Phase-II if Central approval is not granted. (1, 3, 5, 7, 8, 11, 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's trip to Delhi to seek approval for the Hyderabad Metro Phase-II (20) is directly related to the multiple headlines mentioning his efforts to secure Central approval for the same project (1, 3, 5, 7, 8, 11).</li>\n    <li>Criticism from BRS (2, 13, 19) regarding law and order and the deaths of farmers highlights potential political opposition to the current government.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment and social media for reactions to the BRS criticism.</li>\n    <li>Ensure strict adherence to the CM's directives regarding traffic management during VIP movements.</li>\n    <li>Expedite follow-up on the Hyderabad Metro Phase-II approval process with the Central government.</li>\n    <li>Assess the circumstances surrounding the deaths of the four farmers in Mancherial and provide support to the affected families.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Mancherial:</b> Immediate attention is required due to the reported deaths of four farmers in the district. (13, 19)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "27.8°C",
+      "humidity": "58%",
+      "wind": "12.5 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 63,
+      "pm25": 26.1,
+      "goldPerGram": "₹9,126",
+      "newsCount": 28,
+      "topHeadlines": [
+        "Telangana CM Revanth Reddy seeks Centre’s approval for Hyderabad Metro - EdexLive",
+        "BRS criticises Congress govt over law &amp; order lapse in Hyderabad - Telangana Today",
+        "Telangana CM urges Centre to expedite approval of Hyderabad Metro Rail Phase-II - lokmattimes.com",
+        "Kin of Madinah bus accident victims claims ex gratia withheld, harassment - The Siasat Daily",
+        "Telangana CM Reddy seeks Centre’s nod for Phase II of Hyderabad Metro - BusinessLine"
       ]
     }
   }
