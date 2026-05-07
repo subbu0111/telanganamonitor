@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07T07:21:41.798Z",
-    "timestampIST": "7/4/2026, 12:51:41 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in a verbal exchange with Kerala CM Pinarayi Vijayan, challenging him to debates and criticizing his governance and data claims ahead of the Kerala elections (1, 3, 4, 5, 10, 11, 12, 15, 18, 19). CM Reddy announced the Adilabad Airport foundation and revival of an irrigation project (16, 20). MLA Nagaraju launched a procurement drive to support farmers (7).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaged in a verbal exchange with Kerala CM Pinarayi Vijayan, challenging him to debates and criticizing his governance and data claims ahead of the Kerala elections (1, 3, 4, 5, 10, 11, 12, 15, 18, 19). CM Reddy announced the Adilabad Airport foundation and revival of an irrigation project (16, 20). MLA Nagaraju launched a procurement drive to support farmers (7).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> The ongoing public dispute between CM Revanth Reddy and Kerala CM Pinarayi Vijayan could escalate tensions and potentially impact inter-state relations (1, 3, 4, 5, 10, 11, 12, 15, 18, 19).</li>\n  <li><span class=\"risk-low\">Farmer Unrest:</span> The success of the MLA Nagaraju's procurement drive is crucial for farmer support and could be a point of political contention (7).</li>\n  <li><span class=\"risk-low\">Public Perception:</span> CM Revanth Reddy's criticism of BRS and his announcements regarding development projects could be perceived negatively by some segments of the population (16, 17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy's focus on Kerala elections (2, 3, 5, 10) is directly linked to his public statements and challenges directed towards Kerala CM Pinarayi Vijayan (1, 4, 11, 12, 15, 18, 19).</li>\n  <li>The announcement of the Adilabad Airport (16, 20) and the revival of an irrigation project (20) are part of CM Reddy's broader development push, as highlighted by his criticism of the BRS (16, 17).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the public discourse between CM Revanth Reddy and Kerala CM Pinarayi Vijayan, and prepare appropriate responses to any potential escalation (1, 3, 4, 5, 10, 11, 12, 15, 18, 19).</li>\n  <li>Assess the progress and impact of MLA Nagaraju's procurement drive to ensure farmer satisfaction and address any potential issues (7).</li>\n  <li>Prepare a communication strategy to address any negative perceptions related to CM Reddy's criticism of BRS and the ongoing development projects (16, 17).</li>\n  <li>Review and expedite the implementation of the announced Adilabad Airport and irrigation project (16, 20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Adilabad:</b> Immediate attention is required to oversee the foundation of the announced airport and the revival of the irrigation project (16, 20).</li>\n  <li><b>Bhupalpally:</b> Monitor the district as CM Revanth Reddy confirmed no district changes until 2027 (14).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "N/A",
-      "humidity": "N/A",
-      "wind": "N/A",
-      "weatherDesc": "N/A",
-      "aqi": 71,
-      "pm25": 20.4,
-      "goldPerGram": "₹8,980",
-      "newsCount": 53,
-      "topHeadlines": [
-        "Revanth Reddy alleges PM Modi shielding Vijayan from cases - awazthevoice.in",
-        "Kerala Elections 2026: Why Congress Is Counting On Telangana CM Revanth Reddy For A Southern Boost - News18",
-        "Political Crossfire: Reddy Challenges Vijayan to Fact-Based Debate Ahead of Keralam Elections - Devdiscourse",
-        "Revanth vs Pinarayi: Telangana, Kerala CMs trade barbs over development data - The South First",
-        "Revanth Reddy dares Keralam CM Pinarayi Vijayan to fact-based debate - Asianet Newsable"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-07T09:05:55.041Z",
-    "timestampIST": "7/4/2026, 2:35:55 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is engaged in a war of words with Kerala CM Pinarayi Vijayan, challenging him to debates and criticizing his governance. (1, 3, 4, 6, 7, 8, 13, 15, 18)  The CM announced the discovery of Adilabad Airport. (19)  KTR criticized the Congress over \"illegal\" arrests. (12)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is engaged in a war of words with Kerala CM Pinarayi Vijayan, challenging him to debates and criticizing his governance. (1, 3, 4, 6, 7, 8, 13, 15, 18)  The CM announced the discovery of Adilabad Airport. (19)  KTR criticized the Congress over \"illegal\" arrests. (12)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> The ongoing verbal clashes between the Telangana and Kerala Chief Ministers could escalate tensions and potentially impact inter-state relations. (1, 3, 4, 6, 7, 8, 13, 15, 18)</li>\n  <li><span class=\"risk-low\">Internal Party Discord:</span> Reports suggest potential unease within the Telangana cabinet due to a possible reshuffle. (2)</li>\n  <li><span class=\"risk-low\">Public Perception:</span>  KTR's criticism of \"illegal\" arrests could lead to negative public perception of the Congress. (12)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The ongoing feud between CM Revanth Reddy and Kerala CM Pinarayi Vijayan (1, 3, 4, 6, 7, 8, 13, 15, 18) is directly linked to the upcoming Kerala elections (5).</li>\n  <li>CM Revanth Reddy's criticism of the BRS (19, 20) and his announcement regarding Adilabad Airport (19) could be interpreted as a strategy to consolidate support.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the public discourse surrounding the CM's statements regarding Kerala and the BRS for potential impact on public opinion. (1, 3, 4, 6, 7, 8, 13, 15, 18, 19, 20)</li>\n  <li>Assess the potential impact of the cabinet reshuffle possibility on internal party dynamics. (2)</li>\n  <li>Review the circumstances surrounding the \"illegal\" arrests mentioned by KTR. (12)</li>\n  <li>Prepare a response strategy to address any negative fallout from the ongoing verbal exchanges with the Kerala CM. (1, 3, 4, 6, 7, 8, 13, 15, 18)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Adilabad:</b> Focus on the announcement of the airport discovery and its potential impact on development. (19)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "N/A",
-      "humidity": "N/A",
-      "wind": "N/A",
-      "weatherDesc": "N/A",
-      "aqi": 69,
-      "pm25": 18.7,
-      "goldPerGram": "₹8,980",
-      "newsCount": 54,
-      "topHeadlines": [
-        "Kerala vs Telangana: Chief Ministers Clash in War of Words - Devdiscourse",
-        "Cabinet reshuffle possibility leaves many jittery in Telangana - Telangana Today",
-        "After 'Chetta', Pinarayi's new low, calls Telangana CM 'dash mone Revantha' - onmanorama.com",
-        "Revanth Reddy attacks Kerala CM, says his 'expiry date is over' - Asianet Newsable",
-        "Kerala Elections 2026: Why Congress Is Counting On Telangana CM Revanth Reddy For A Southern Boost - News18"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-07T10:58:31.035Z",
     "timestampIST": "7/4/2026, 4:28:31 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy and Kerala CM Pinarayi Vijayan are engaged in a public war of words ahead of the Kerala elections, with both leaders exchanging sharp remarks and challenges for debates. (1, 2, 3, 4, 5, 6, 8, 9, 11, 12, 16, 17, 18, 19) CM Revanth Reddy initiated a development push at Basara Temple. (13) KTR criticized Congress over 'illegal' arrests in Telangana. (15)</p>",
@@ -6625,6 +6579,29 @@
         "Three youths drown in stream in Telangana’s Siddipet - The Siasat Daily",
         "BJP calls for massive turnout at Janagraha Sabha in Hyderabad - The Hans India",
         "VIP convoys shouldn’t inconvenience public, orders CM Revanth Reddy - The New Indian Express"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-07T10:26:06.610Z",
+    "timestampIST": "7/5/2026, 3:56:06 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively pursuing central government approval for Hyderabad Metro Phase-II, requesting expedited action and a total investment of ₹38,595 Cr. (4, 5, 11, 14, 16, 18, 20) He is also meeting with the Maharashtra CM regarding the Tummidihatti project. (19)  Former DGP Shivadhar Reddy has assumed charge as Telangana State Security Adviser. (12)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively pursuing central government approval for Hyderabad Metro Phase-II, requesting expedited action and a total investment of ₹38,595 Cr. (4, 5, 11, 14, 16, 18, 20) He is also meeting with the Maharashtra CM regarding the Tummidihatti project. (19)  Former DGP Shivadhar Reddy has assumed charge as Telangana State Security Adviser. (12)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Student unrest:</span>  A fee reimbursement crisis affecting 5 lakh students has sparked a student crisis. (2)</li>\n    <li><span class=\"risk-low\">Public inconvenience:</span>  The CM has ordered that VIP convoys should not inconvenience the public. (9, 10, 13)</li>\n    <li><span class=\"risk-low\">Political tensions:</span> Kaushik Reddy alleges a conspiracy by Bandi Sanjay and Revanth Reddy after a Karimnagar attack. (3)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> Three youths drowned in a stream in Siddipet. (7)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on Hyderabad Metro Phase-II approval (4, 5, 11, 14, 16, 18, 20) is directly linked to the state's infrastructure development and potential economic impact.</li>\n    <li>The appointment of Shivadhar Reddy as Security Adviser (12) may be related to the CM's directives regarding public inconvenience from VIP convoys (9, 10, 13).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the student crisis stemming from the fee reimbursement issue and assess potential for escalation. (2)</li>\n    <li>Ensure the Security Adviser is briefed on the CM's directives regarding VIP convoy management. (9, 10, 13)</li>\n    <li>Expedite the process for central government approval of Hyderabad Metro Phase-II. (4, 5, 11, 14, 16, 18, 20)</li>\n    <li>Review safety protocols in Siddipet district following the drowning incident. (7)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Siddipet:</b> Immediate attention is required due to the drowning incident. (7)</li>\n    <li><b>Karimnagar:</b> Monitor the situation following the alleged conspiracy claims. (3)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35°C",
+      "humidity": "29%",
+      "wind": "7.8 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 63,
+      "pm25": 17.5,
+      "goldPerGram": "₹9,126",
+      "newsCount": 36,
+      "topHeadlines": [
+        "Revanth Reddy Convoy Moves through Regular Traffic; No Blockades - Deccan Chronicle",
+        "Telangana fee reimbursement crisis, 5 lakh students hit sparks student crisis - Hyderabad Mail",
+        "Kaushik Reddy alleges conspiracy by Bandi Sanjay and Revanth Reddy after Karimnagar attack - Telangana Today",
+        "Phase II of Hyderabad Metro awaits Centre clearance, says CM Revanth Reddy. - News on Projects",
+        "Hyderabad Metro Phase 2 Approval Sought by Revanth - INDToday"
       ]
     }
   }
