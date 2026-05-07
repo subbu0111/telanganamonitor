@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07T05:47:35.882Z",
-    "timestampIST": "7/4/2026, 11:17:35 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is engaged in a public debate with Kerala Chief Minister Pinarayi Vijayan, challenging him to a debate and disputing Kerala's data claims. (2, 3, 5, 8, 11, 12, 20) The CM announced the Adilabad Airport foundation and revival of an irrigation project, targeting development by 2034. (9, 13, 14) Additionally, the CM launched Basara temple work. (15, 16)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is engaged in a public debate with Kerala Chief Minister Pinarayi Vijayan, challenging him to a debate and disputing Kerala's data claims. (2, 3, 5, 8, 11, 12, 20) The CM announced the Adilabad Airport foundation and revival of an irrigation project, targeting development by 2034. (9, 13, 14) Additionally, the CM launched Basara temple work. (15, 16)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political:</span> Ongoing verbal exchanges between CM Revanth Reddy and Kerala CM Pinarayi Vijayan could escalate tensions and require monitoring. (2, 3, 5, 8, 11, 12, 20)</li>\n  <li><span class=\"risk-low\">Public Sentiment:</span> Criticism of the BRS party by CM Revanth Reddy regarding lack of development may lead to public reactions. (9, 10)</li>\n  <li><span class=\"risk-low\">Activist Concerns:</span> Concerns raised by Hyderabad activists regarding the Musi river project consultation process. (18)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy's focus on development, as seen in the Adilabad Airport announcement (9, 13, 14), is linked to his criticism of the BRS party's alleged lack of progress (9, 10).</li>\n  <li>The debate challenge to Kerala CM Pinarayi Vijayan (2, 3, 5, 8, 11, 12, 20) is occurring during the Kerala elections.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the public discourse surrounding the debate between CM Revanth Reddy and Kerala CM Pinarayi Vijayan.</li>\n  <li>Assess public sentiment regarding the BRS party's past performance and the CM's development initiatives.</li>\n  <li>Review the Musi river project consultation process and address the concerns raised by Hyderabad activists.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Adilabad:</b> Requires immediate attention due to the CM's announcement of the airport foundation and development plans. (9, 13, 14)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "N/A",
-      "humidity": "N/A",
-      "wind": "N/A",
-      "weatherDesc": "N/A",
-      "aqi": 66,
-      "pm25": 22.1,
-      "goldPerGram": "₹8,980",
-      "newsCount": 48,
-      "topHeadlines": [
-        "KTR slams Congress over ‘illegal’ arrests in Telangana - Awaz The Voice",
-        "Revanth Reddy challenges Pinarayi Vijayan to direct debate ahead of Kerala elections - The News Mill",
-        "Revanth Reddy throws debate challenge to Pinarayi Vijayan, says \"competition not between Telangana and Kerala\" - ANI News",
-        "Kerala CM Taking Modi as Role Model: Revanth Reddy - Deccan Chronicle",
-        "Revanth dares Kerala CM Vijayan for one-on-one meeting amid verbal war - The Hans India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-07T07:21:41.798Z",
     "timestampIST": "7/4/2026, 12:51:41 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in a verbal exchange with Kerala CM Pinarayi Vijayan, challenging him to debates and criticizing his governance and data claims ahead of the Kerala elections (1, 3, 4, 5, 10, 11, 12, 15, 18, 19). CM Reddy announced the Adilabad Airport foundation and revival of an irrigation project (16, 20). MLA Nagaraju launched a procurement drive to support farmers (7).</p>",
@@ -6625,6 +6602,29 @@
         "CM Revanth Reddy Pushes Centre for ₹38,595 Cr Hyderabad Metro Phase-2 Approval - The Morning Voice",
         "Revanth to meet Maha CM over Tummidihatti height - The Times of India",
         "Approve Metro Ph-II &amp; III swiftly: Revanth to Khattar - The Times of India"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-07T06:37:12.251Z",
+    "timestampIST": "7/5/2026, 12:07:12 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively pursuing approval for Hyderabad Metro Phase 2, requesting the Centre expedite the process and seeking ₹38,595 Cr for the project (1, 7, 10, 14, 16, 18).  Former DGP Shivadhar Reddy has assumed charge as Telangana State Security Adviser (8).  The BRS has criticized the Congress government over law and order in Hyderabad (19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively pursuing approval for Hyderabad Metro Phase 2, requesting the Centre expedite the process and seeking ₹38,595 Cr for the project (1, 7, 10, 14, 16, 18).  Former DGP Shivadhar Reddy has assumed charge as Telangana State Security Adviser (8).  The BRS has criticized the Congress government over law and order in Hyderabad (19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Discontent:</span> BRS criticism of the government regarding law and order in Hyderabad could potentially lead to public dissatisfaction (19).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> Three youths drowned in a stream in Siddipet (3).</li>\n    <li><span class=\"risk-low\">Potential Protest:</span> Kin of Madinah bus accident victims claim ex gratia withheld, which could lead to protests or legal action (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Chief Minister Revanth Reddy is focused on Hyderabad Metro Phase 2 approval (1, 7, 10, 14, 16, 18), while also addressing public inconvenience caused by VIP convoys (5, 6, 9).</li>\n    <li>The CM is meeting with other Chief Ministers (Khattar, Maharashtra) (15, 17) to discuss key projects.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in Siddipet following the drowning of three youths and provide necessary support to the families (3).</li>\n    <li>Assess the claims of the Madinah bus accident victims and address the ex gratia issue to prevent potential unrest (20).</li>\n    <li>Ensure effective communication and coordination between the police and the CM's office regarding VIP convoy protocols (5, 6, 9).</li>\n    <li>Monitor BRS's criticism of the government regarding law and order in Hyderabad and proactively address any concerns (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Siddipet:</b> Immediate attention is required due to the drowning incident (3).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34.3°C",
+      "humidity": "35%",
+      "wind": "8 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 61,
+      "pm25": 16.3,
+      "goldPerGram": "₹9,126",
+      "newsCount": 34,
+      "topHeadlines": [
+        "Hyderabad Metro Phase 2 Approval Sought by Revanth - INDToday",
+        "Telangana Inter Board Merger Plan Gains Momentum - INDToday",
+        "Three youths drown in stream in Telangana’s Siddipet - The Siasat Daily",
+        "BJP calls for massive turnout at Janagraha Sabha in Hyderabad - The Hans India",
+        "VIP convoys shouldn’t inconvenience public, orders CM Revanth Reddy - The New Indian Express"
       ]
     }
   }
