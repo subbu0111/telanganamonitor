@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07T20:51:12.352Z",
-    "timestampIST": "8/4/2026, 2:21:12 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy and Kerala CM Pinarayi Vijayan engaged in a verbal duel as campaigning for the Kerala polls ended. (1, 2, 4, 7, 8, 9, 10, 11, 12) The exchange included personal insults and focused on development records. (3, 13, 15, 17, 20) Revanth Reddy's silence on RGUKT-Basar has reportedly disheartened students. (19)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy and Kerala CM Pinarayi Vijayan engaged in a verbal duel as campaigning for the Kerala polls ended. (1, 2, 4, 7, 8, 9, 10, 11, 12) The exchange included personal insults and focused on development records. (3, 13, 15, 17, 20) Revanth Reddy's silence on RGUKT-Basar has reportedly disheartened students. (19)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Escalation of Verbal Duel:</span> The ongoing war of words between CM Revanth Reddy and CM Vijayan could escalate, potentially impacting inter-state relations. (1, 2, 3, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20)</li>\n    <li><span class=\"risk-low\">Student Discontent:</span> Revanth Reddy's silence on RGUKT-Basar may lead to student unrest. (19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The verbal duel between Revanth Reddy and Vijayan is directly linked to the end of campaigning for the Kerala polls. (4, 7, 8, 10)</li>\n    <li>Revanth Reddy's responses to Vijayan's remarks include citing RBI data on Telangana's growth. (17, 18)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the ongoing verbal exchange between CM Revanth Reddy and CM Vijayan for any further escalation.</li>\n    <li>Assess the potential impact of Revanth Reddy's silence on RGUKT-Basar students.</li>\n    <li>Prepare a response to address the concerns of RGUKT-Basar students.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>RGUKT-Basar:</b> Monitor the situation at RGUKT-Basar due to student discontent. (19)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "27.6°C",
-      "humidity": "41%",
-      "wind": "3.5 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 55,
-      "pm25": 31,
-      "goldPerGram": "₹8,971",
-      "newsCount": 64,
-      "topHeadlines": [
-        "CM vs CM: Pinarayi-Revanth slugfest on last campaign day - The Times of India",
-        "Kerala, Telangana CMs engage in verbal duel - The Times of India",
-        "Personal insults unacceptable, Vijayan hits back at Revanth Reddy. - en.etemaaddaily.com",
-        "War of words escalates between Revanth Reddy and Vijayan as Keralam campaign ends - Telangana Today",
-        "UDF Will Win Three-fourths Majority, Says Revanth - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-07T22:40:14.080Z",
     "timestampIST": "8/4/2026, 4:10:14 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy and Kerala Chief Minister Pinarayi Vijayan engaged in a verbal exchange as campaigning concluded for the Kerala Assembly Elections 2026. The exchange included personal insults and accusations regarding development. Revanth Reddy cited RBI data on Telangana's growth in response to Vijayan's charges.</p>",
@@ -6550,6 +6527,29 @@
       "pm25": 19.8,
       "goldPerGram": "₹9,092",
       "newsCount": 33,
+      "topHeadlines": [
+        "Chenchu Relocation in Amrabad Violates Constitutional and Tribal Rights: E.A.S. Sarma to Telangana CM - Countercurrents",
+        "Modi congratulates new Bihar ministers after Cabinet expansion - Telangana Today",
+        "Dasoju Sravan alleges corruption in Telangana education sector - Telangana Today",
+        "Telangana May Merge Intermediate Board with School Education Department: Major Education Reforms Planned - Sakshi Education",
+        "Harish Rao hits out at Congress govt over neglect of welfare measures - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-07T21:05:57.411Z",
+    "timestampIST": "8/5/2026, 2:35:57 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy's convoy is operating in regular traffic in Hyderabad. (6, 7, 8, 10, 11) The CM has sought central approval for Hyderabad Metro Phase-II, a project estimated at ₹38,595 crore. (13, 18, 19) Concerns have been raised regarding the Chenchu relocation in Amrabad and alleged corruption in the Telangana education sector. (1, 3)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy's convoy is operating in regular traffic in Hyderabad. (6, 7, 8, 10, 11) The CM has sought central approval for Hyderabad Metro Phase-II, a project estimated at ₹38,595 crore. (13, 18, 19) Concerns have been raised regarding the Chenchu relocation in Amrabad and alleged corruption in the Telangana education sector. (1, 3)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Legal:</span> KTR has been booked over 'derogatory remarks' against Rahul Gandhi. (15)</li>\n    <li><span class=\"risk-medium\">Political:</span> Harish Rao has criticized the Congress government over neglect of welfare measures. (5)</li>\n    <li><span class=\"risk-medium\">Social:</span> Allegations of corruption in the Telangana education sector have been made. (3)</li>\n    <li><span class=\"risk-low\">Public Perception:</span> Concerns raised about the Chenchu relocation in Amrabad, potentially violating constitutional and tribal rights. (1)</li>\n    <li><span class=\"risk-low\">Financial:</span> Fee reimbursement crisis impacting 5 lakh students. (12)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on Hyderabad Metro Phase-II (13, 18, 19) could be linked to the planned merger of the Intermediate Board with the School Education Department (4, 20), potentially indicating a broader education reform initiative.</li>\n    <li>The cancellation of Revanth Reddy's Adilabad tour (9) due to a busy schedule could be indirectly related to the ongoing political tensions, as evidenced by the allegations of conspiracy by Kaushik Reddy (16).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review the legal implications of the case against KTR. (15)</li>\n    <li>Assess the allegations of corruption in the education sector and initiate an investigation. (3)</li>\n    <li>Address the concerns regarding the Chenchu relocation in Amrabad. (1)</li>\n    <li>Expedite the process for obtaining central approval for Hyderabad Metro Phase-II. (13, 18, 19)</li>\n    <li>Investigate the fee reimbursement crisis impacting 5 lakh students. (12)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Amrabad:</b> Requires immediate attention due to concerns regarding the Chenchu relocation, potentially violating constitutional and tribal rights. (1)</li>\n    <li><b>Karimnagar:</b> Monitor the situation following the allegations of conspiracy by Kaushik Reddy after the Karimnagar attack. (16)</li>\n    <li><b>Adilabad:</b> Monitor the situation due to the cancellation of CM Revanth Reddy's tour. (9)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "26.8°C",
+      "humidity": "58%",
+      "wind": "6.5 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 32,
+      "pm25": 15.9,
+      "goldPerGram": "₹9,092",
+      "newsCount": 34,
       "topHeadlines": [
         "Chenchu Relocation in Amrabad Violates Constitutional and Tribal Rights: E.A.S. Sarma to Telangana CM - Countercurrents",
         "Modi congratulates new Bihar ministers after Cabinet expansion - Telangana Today",
