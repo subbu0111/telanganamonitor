@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07T19:07:14.633Z",
-    "timestampIST": "8/4/2026, 12:37:14 am",
-    "executiveSummary": "<p>A war of words has escalated between Telangana Chief Minister Revanth Reddy and Kerala Chief Minister Pinarayi Vijayan, marking the end of campaigning for the Kerala Assembly Elections. The exchange involves accusations regarding development records and personal insults, including the use of the phrase \"dash mone.\" Revanth Reddy has cited RBI data to counter Vijayan's claims.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A war of words has escalated between Telangana Chief Minister Revanth Reddy and Kerala Chief Minister Pinarayi Vijayan, marking the end of campaigning for the Kerala Assembly Elections. The exchange involves accusations regarding development records and personal insults, including the use of the phrase \"dash mone.\" Revanth Reddy has cited RBI data to counter Vijayan's claims.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Escalation of Verbal Duel:</span> The ongoing verbal exchange between CMs Reddy and Vijayan could potentially escalate, requiring careful management. (Headlines 1, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 18, 19)</li>\n    <li><span class=\"risk-low\">Student Discontent:</span> Revanth Reddy's silence on RGUKT-Basar has reportedly disheartened students. (Headline 17)</li>\n    <li><span class=\"risk-low\">Political Fallout:</span> The exchange of barbs between the CMs could have political ramifications. (Headlines 1, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 18, 19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The end of campaigning for the Kerala polls (Headlines 1, 4, 5, 7) directly correlates with the escalation of the verbal exchange between Revanth Reddy and Pinarayi Vijayan (Headlines 1, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 18, 19).</li>\n    <li>Revanth Reddy's response to Vijayan's remarks (Headlines 3, 10, 12, 15, 16, 18) is a direct reaction to the \"dash mone\" comment (Headline 13).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the ongoing verbal exchange between CM Revanth Reddy and CM Vijayan for any further escalation.</li>\n    <li>Assess the potential impact of the \"dash mone\" comment on public perception.</li>\n    <li>Address student concerns regarding RGUKT-Basar.</li>\n    <li>Prepare a communication strategy to mitigate any negative political fallout from the CMs' exchange.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts require immediate attention based on the provided headlines.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.7°C",
-      "humidity": "39%",
-      "wind": "4.7 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 52,
-      "pm25": 31.4,
-      "goldPerGram": "₹8,971",
-      "newsCount": 62,
-      "topHeadlines": [
-        "War of words escalates between Revanth Reddy and Vijayan as Keralam campaign ends - Telangana Today",
-        "UDF Will Win Three-fourths Majority, Says Revanth - Deccan Chronicle",
-        "Revanth: Vijayan Remark in Poor Taste - Deccan Chronicle",
-        "Vijayan-Revanth verbal duel marks end of campaigning for Kerala polls - The Indian Express",
-        "Kerala polls: Vijayan, Revanth Reddy trade barbs as campaigning ends - Vartha Bharati"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-07T20:51:12.352Z",
     "timestampIST": "8/4/2026, 2:21:12 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy and Kerala CM Pinarayi Vijayan engaged in a verbal duel as campaigning for the Kerala polls ended. (1, 2, 4, 7, 8, 9, 10, 11, 12) The exchange included personal insults and focused on development records. (3, 13, 15, 17, 20) Revanth Reddy's silence on RGUKT-Basar has reportedly disheartened students. (19)</p>",
@@ -6550,6 +6527,29 @@
       "pm25": 19.8,
       "goldPerGram": "₹9,092",
       "newsCount": 34,
+      "topHeadlines": [
+        "Chenchu Relocation in Amrabad Violates Constitutional and Tribal Rights: E.A.S. Sarma to Telangana CM - Countercurrents",
+        "Modi congratulates new Bihar ministers after Cabinet expansion - Telangana Today",
+        "Dasoju Sravan alleges corruption in Telangana education sector - Telangana Today",
+        "Telangana May Merge Intermediate Board with School Education Department: Major Education Reforms Planned - Sakshi Education",
+        "Harish Rao hits out at Congress govt over neglect of welfare measures - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-07T19:44:40.352Z",
+    "timestampIST": "8/5/2026, 1:14:40 am",
+    "executiveSummary": "<p>E.A.S. Sarma has written to the Telangana CM regarding alleged violations of constitutional and tribal rights in the Chenchu relocation in Amrabad (1).</p>\n<p>The CM's convoy is traveling in regular traffic in Hyderabad (6, 7, 8, 10, 11). The CM's Adilabad tour has been cancelled (9).</p>\n<p>The CM is seeking central approval for Hyderabad Metro Phase-II, a Rs 38,595 crore project (13, 17, 18).  A plan to merge the Intermediate Board with the School Education Department is gaining momentum (4, 19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>E.A.S. Sarma has written to the Telangana CM regarding alleged violations of constitutional and tribal rights in the Chenchu relocation in Amrabad (1).</p>\n<p>The CM's convoy is traveling in regular traffic in Hyderabad (6, 7, 8, 10, 11). The CM's Adilabad tour has been cancelled (9).</p>\n<p>The CM is seeking central approval for Hyderabad Metro Phase-II, a Rs 38,595 crore project (13, 17, 18).  A plan to merge the Intermediate Board with the School Education Department is gaining momentum (4, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Legal:</span> E.A.S. Sarma's letter regarding Chenchu relocation in Amrabad alleges violations of constitutional and tribal rights (1).</li>\n    <li><span class=\"risk-medium\">Political:</span> KTR has been booked over 'derogatory remarks' against Rahul Gandhi (15).</li>\n    <li><span class=\"risk-medium\">Social:</span>  5 lakh students are affected by the Telangana fee reimbursement crisis (12).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> Three youths drowned in a stream in Siddipet (20).</li>\n    <li><span class=\"risk-low\">Political:</span> Dasoju Sravan alleges corruption in the Telangana education sector (3).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM is seeking approval for Hyderabad Metro Phase-II (13, 17, 18), while also planning major education reforms (4, 14, 19).</li>\n    <li>The CM's convoy is moving in regular traffic (6, 7, 8, 10, 11), while the Adilabad tour has been cancelled (9), potentially indicating a shift in security protocols or schedule adjustments.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review the allegations made by E.A.S. Sarma regarding the Chenchu relocation in Amrabad and prepare a response (1).</li>\n    <li>Assess the potential impact of the fee reimbursement crisis on the 5 lakh affected students and develop a mitigation strategy (12).</li>\n    <li>Monitor the political fallout from KTR being booked (15).</li>\n    <li>Expedite the process for obtaining central approval for Hyderabad Metro Phase-II (13, 17, 18).</li>\n    <li>Address the allegations of corruption in the education sector (3).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Amrabad:</b> Monitor the situation regarding the Chenchu relocation and any potential unrest (1).</li>\n    <li><b>Siddipet:</b> Investigate the circumstances surrounding the drowning of three youths and provide necessary support (20).</li>\n    <li><b>Karimnagar:</b> Monitor the fallout from the alleged conspiracy by Bandi Sanjay and Revanth Reddy after the attack (16).</li>\n    <li><b>Adilabad:</b> Monitor the situation after the CM's tour was cancelled (9).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "27.3°C",
+      "humidity": "56%",
+      "wind": "7.6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 32,
+      "pm25": 19.8,
+      "goldPerGram": "₹9,092",
+      "newsCount": 33,
       "topHeadlines": [
         "Chenchu Relocation in Amrabad Violates Constitutional and Tribal Rights: E.A.S. Sarma to Telangana CM - Countercurrents",
         "Modi congratulates new Bihar ministers after Cabinet expansion - Telangana Today",
