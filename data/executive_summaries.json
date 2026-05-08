@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08T19:20:00.787Z",
-    "timestampIST": "9/4/2026, 12:50:00 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy met with the Tata Lockheed Martin COO (1). The CM is urging corporates to maximize Corporate Social Responsibility (CSR) spending for state development (2, 3, 4). BRS is criticizing CM Reddy's campaigning in Kerala and his remarks (7, 8, 13, 19).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with the Tata Lockheed Martin COO (1). The CM is urging corporates to maximize Corporate Social Responsibility (CSR) spending for state development (2, 3, 4). BRS is criticizing CM Reddy's campaigning in Kerala and his remarks (7, 8, 13, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS is actively criticizing CM Revanth Reddy's campaign in Kerala, alleging unfulfilled promises and corruption, potentially impacting public perception (7, 8, 13, 19).</li>\n    <li><span class=\"risk-low\">Political:</span> War of words escalating between Revanth Reddy and Pinarayi Vijayan regarding development models (15).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A teen was killed in Hyderabad after a bike crashed into a pole (11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on maximizing CSR spending (2, 3, 4) is occurring while the government faces fiscal strain (5).</li>\n    <li>BRS criticism of CM Revanth Reddy's Kerala campaign (7, 8, 13, 19) is linked to the ongoing Kerala Assembly elections (15, 20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor BRS statements and public sentiment regarding the CM's Kerala campaign (7, 8, 13, 19).</li>\n    <li>Prepare a response to BRS allegations regarding unfulfilled promises and corruption (7, 8).</li>\n    <li>Review and expedite the implementation of CSR initiatives (2, 3, 4).</li>\n    <li>Brief the CM on the ongoing war of words between him and Pinarayi Vijayan (15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor public safety following the fatal bike accident (11).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.6°C",
-      "humidity": "40%",
-      "wind": "6.6 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 65,
-      "pm25": 36.1,
-      "goldPerGram": "₹8,895",
-      "newsCount": 45,
-      "topHeadlines": [
-        "Hyderabad: Revanth Reddy Meets Tata Lockheed Martin COO #Gallery - Social News XYZ",
-        "Telangana CM urges corporates to maximise CSR impact for state development - BusinessLine",
-        "Telangana CM urges corporates to spend CSR funds in key areas - The Siasat Daily",
-        "Telangana CM A Revanth Reddy on maximizing CSR spending impact - The News Mill",
-        "Congress govt turns to CSR as fiscal strain deepens - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-08T20:47:10.766Z",
     "timestampIST": "9/4/2026, 2:17:10 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy met with the Ghana High Commissioner and Tata Lockheed Martin officials. (1, 2, 12, 13) The CM is urging corporates to maximize CSR impact for state development. (3, 4) BRS is criticizing CM Revanth Reddy regarding his campaigning in Kerala and alleging unfulfilled promises. (7, 8)</p>",
@@ -6556,6 +6533,29 @@
         "Complete Narayanpet-Kodangal Lift Irrigation Scheme works within one-and-a-half years, Revanth directs officials - Telangana Today",
         "Telangana To Bear Extra Hajj Costs Amid US Iran Conflict - INDToday",
         "Govt to cover Rs 1.20 lakh retrofitting cost for every auto within ORR: CM Revanth - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-08T19:21:24.669Z",
+    "timestampIST": "9/5/2026, 12:51:24 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy directed officials to complete the Narayanpet-Kodangal Lift Irrigation Scheme within one and a half years (6). The government will cover retrofitting costs of ₹1.20 lakh for every auto within the ORR (8).  Revanth Reddy flagged off Hajj pilgrims buses in Hyderabad (9, 11).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy directed officials to complete the Narayanpet-Kodangal Lift Irrigation Scheme within one and a half years (6). The government will cover retrofitting costs of ₹1.20 lakh for every auto within the ORR (8).  Revanth Reddy flagged off Hajj pilgrims buses in Hyderabad (9, 11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public dissatisfaction:</span>  Reports indicate anger against the Telangana government regarding the Save KBR campaign (15).</li>\n    <li><span class=\"risk-medium\">Political Opposition:</span> BRS criticized the Congress over farmers’ issues (16), and KTR stated that law and order has collapsed under the Revanth government (17).</li>\n    <li><span class=\"risk-low\">Religious Sensitivity:</span>  Reports of an 800-year-old Kakatiya temple being razed in Warangal, with the government promising reconstruction after backlash (20).</li>\n    <li><span class=\"risk-low\">Financial Burden:</span> Telangana to bear extra travel costs for Hajj pilgrims (7, 11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The government's focus on minority welfare is evident through the announcements of skill development colleges and special degree colleges for minorities (2, 3, 14).</li>\n    <li>The government is facing criticism from the opposition (BRS and KTR) (16, 17) while simultaneously undertaking development projects and welfare initiatives (6, 8, 9, 11).</li>\n    <li>The government is actively involved in projects related to water resources (6, 13) and infrastructure development (8).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment regarding the Save KBR campaign and address any emerging concerns (15).</li>\n    <li>Prepare a response to the BRS criticism regarding farmers' issues (16).</li>\n    <li>Address the concerns raised by KTR regarding law and order (17).</li>\n    <li>Ensure the smooth execution of the Narayanpet-Kodangal Lift Irrigation Scheme (6).</li>\n    <li>Assess the financial implications of bearing extra costs for Hajj pilgrims (7, 11).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Warangal:</b> Requires immediate attention due to the controversy surrounding the Kakatiya temple demolition and the need for reconstruction (20).</li>\n    <li><b>Narayanpet and Kodangal:</b> Focus on the progress of the Lift Irrigation Scheme (6, 13).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "27°C",
+      "humidity": "63%",
+      "wind": "6 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 30,
+      "pm25": 14.9,
+      "goldPerGram": "₹9,114",
+      "newsCount": 43,
+      "topHeadlines": [
+        "Rohit Sharma features in new Sony Pictures Networks India teaser campaign - Telangana Today",
+        "Telangana to set up skill development colleges for minorities - The Siasat Daily",
+        "Revanth announces special degree colleges for minorities across Telangana - Telangana Today",
+        "Revanth warns against BJP’s SIR push in T'gana - News Arena India",
+        "Haj 2026: Telangana to bear additional burden faced by pilgrims​ - The Siasat Daily"
       ]
     }
   }
