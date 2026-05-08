@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08T02:38:03.830Z",
-    "timestampIST": "8/4/2026, 8:08:03 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy and Kerala CM Pinarayi Vijayan are engaged in a heated verbal exchange, marking the end of campaigning for the Kerala Assembly Elections 2026. (1, 3, 4, 6, 7, 9, 13, 14, 15, 16, 17, 18, 20) The NGT has refused to stay the Telangana government's Bharat Future City project. (2) Telangana has launched a trauma care policy and declared cancer a notifiable disease. (5, 12)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy and Kerala CM Pinarayi Vijayan are engaged in a heated verbal exchange, marking the end of campaigning for the Kerala Assembly Elections 2026. (1, 3, 4, 6, 7, 9, 13, 14, 15, 16, 17, 18, 20) The NGT has refused to stay the Telangana government's Bharat Future City project. (2) Telangana has launched a trauma care policy and declared cancer a notifiable disease. (5, 12)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> The ongoing verbal duel between CM Revanth Reddy and Kerala CM Vijayan could escalate tensions. (1, 3, 4, 6, 7, 8, 9, 13, 14, 15, 16, 17, 18, 19, 20)</li>\n    <li><span class=\"risk-low\">Public Perception:</span> Negative press regarding the CM's involvement in the Kerala elections could affect public opinion. (1, 3, 4, 6, 7, 8, 9, 13, 14, 15, 16, 17, 18, 19, 20)</li>\n    <li><span class=\"risk-low\">Project Delays:</span> While the NGT has not stayed the Bharat Future City project, potential future challenges remain. (2)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The verbal exchange between CM Revanth Reddy and CM Vijayan is a recurring theme across multiple news sources, indicating significant media attention. (1, 3, 4, 6, 7, 8, 9, 13, 14, 15, 16, 17, 18, 19, 20)</li>\n    <li>The end of campaigning for the Kerala polls coincides with the escalation of the verbal duel between the two CMs. (6, 9, 13, 14, 16)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the ongoing verbal exchange between CM Revanth Reddy and CM Vijayan for potential escalation and impact on public perception.</li>\n    <li>Assess the potential for any backlash or negative commentary regarding the CM's involvement in the Kerala elections.</li>\n    <li>Review the implementation plan for the newly launched trauma care policy. (5)</li>\n    <li>Ensure effective communication regarding the declaration of cancer as a notifiable disease. (12)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts require immediate attention based on the provided data.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28°C",
-      "humidity": "41%",
-      "wind": "7.9 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 64,
-      "pm25": 55.4,
-      "goldPerGram": "₹8,971",
-      "newsCount": 60,
-      "topHeadlines": [
-        "Kerala CM Vijayan’s letter in ‘poor taste’: Revanth Reddy - The Hans India",
-        "NGT refuses to stay Telangana govt’s Bharat Future City project - The Siasat Daily",
-        "Revanth’s po mone punchline gets Pinarayi’s dash mone slap - The New Indian Express",
-        "Pinarayi Vijayan, Revanth Reddy Trade Barbs Ahead of Kerala Assembly Polls 2026 - Daily Pioneer",
-        "Telangana launches trauma care policy to reduce road accident deaths - The Times of India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-08T05:48:11.713Z",
     "timestampIST": "8/4/2026, 11:18:11 am",
     "executiveSummary": "<p>A verbal exchange has escalated between Telangana CM Revanth Reddy and Kerala CM Pinarayi Vijayan, with both trading insults ahead of the Kerala Assembly Polls 2026 (headlines 5, 12, 14, 15, 17, 18, 19, 20). Two fatal road accidents occurred in Hyderabad (3) and Suryapet (4). The Telangana government launched a trauma care policy to reduce road accident deaths (16).</p>",
@@ -6556,6 +6533,29 @@
         "Modi congratulates new Bihar ministers after Cabinet expansion - Telangana Today",
         "Dasoju Sravan alleges corruption in Telangana education sector - Telangana Today",
         "Telangana May Merge Intermediate Board with School Education Department: Major Education Reforms Planned - Sakshi Education"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-08T03:21:32.144Z",
+    "timestampIST": "8/5/2026, 8:51:32 am",
+    "executiveSummary": "<p>Prime Minister Modi is scheduled to hold a rally in Hyderabad on May 10th. (2, 3) The Chief Minister's convoy is traveling in regular traffic within Hyderabad. (10, 11, 12, 14, 15) Concerns have been raised regarding the Chenchu relocation in Amrabad and a fee reimbursement crisis affecting 5 lakh students. (6, 16)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Prime Minister Modi is scheduled to hold a rally in Hyderabad on May 10th. (2, 3) The Chief Minister's convoy is traveling in regular traffic within Hyderabad. (10, 11, 12, 14, 15) Concerns have been raised regarding the Chenchu relocation in Amrabad and a fee reimbursement crisis affecting 5 lakh students. (6, 16)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for public inconvenience or security concerns related to PM Modi's rally in Hyderabad on May 10th. (2, 3)</span></li>\n    <li><span class=\"risk-medium\">Student unrest or protests possible due to the Telangana fee reimbursement crisis affecting 5 lakh students. (16)</span></li>\n    <li><span class=\"risk-low\">Possible legal or political repercussions stemming from KTR being booked over 'derogatory remarks' against Rahul Gandhi. (19)</span></li>\n    <li><span class=\"risk-low\">Potential for unrest or legal challenges related to the Chenchu relocation in Amrabad. (6)</span></li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The upcoming PM Modi rally (2, 3) could potentially influence political dynamics in the state, especially given the BJP's aim for a \"double-engine government.\"</li>\n    <li>The fee reimbursement crisis (16) and Dasoju Sravan's allegations of corruption in the education sector (8) highlight potential vulnerabilities within the education system.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review and enhance security protocols in preparation for PM Modi's rally on May 10th.</li>\n    <li>Assess the severity of the fee reimbursement crisis and develop a plan to address the concerns of the affected students.</li>\n    <li>Monitor the situation in Amrabad regarding the Chenchu relocation, ensuring adherence to constitutional and tribal rights.</li>\n    <li>Monitor the political fallout from KTR being booked.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the upcoming PM rally (2, 3) and the CM's travel within the city (10, 11, 12, 14, 15).</li>\n    <li><b>Amrabad:</b> Due to concerns regarding the Chenchu relocation. (6)</li>\n    <li><b>Karimnagar:</b> Monitor the situation following the alleged conspiracy by Bandi Sanjay and Revanth Reddy after the attack. (20)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "27.5°C",
+      "humidity": "65%",
+      "wind": "7.5 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 28,
+      "pm25": 8.3,
+      "goldPerGram": "₹9,092",
+      "newsCount": 30,
+      "topHeadlines": [
+        "Sridhar touts Hyd’bad as global city to woo investors; boost infra - The Hans India",
+        "PM Modi to hold massive rally in Hyderabad on May 10, says Kishan Reddy - Asianet Newsable",
+        "PM Modi to hold rally in Hyderabad on May 10 as BJP aims for double-engine government in Telangana - The News Mill",
+        "LPG cylinder price today: Check cooking gas rates in New Delhi, Kolkata, Mumbai, Bengaluru, Hyderabad on 8 May - Mint",
+        "Gold Rate Today in Hyderabad: Latest 18K, 22K &amp; 24K Gold Prices on 08 May 2026 - ET Now"
       ]
     }
   }
