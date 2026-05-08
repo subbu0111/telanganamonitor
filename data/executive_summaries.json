@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08T22:41:32.978Z",
-    "timestampIST": "9/4/2026, 4:11:32 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy met with the Ghana High Commissioner and Tata Lockheed Martin officials. (1, 2, 12, 13) Discussions focused on investment and strengthening ties. (1, 9, 12) BRS leaders criticized CM Revanth Reddy regarding his campaign in Kerala and alleged unfulfilled promises. (7, 8, 17, 18)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with the Ghana High Commissioner and Tata Lockheed Martin officials. (1, 2, 12, 13) Discussions focused on investment and strengthening ties. (1, 9, 12) BRS leaders criticized CM Revanth Reddy regarding his campaign in Kerala and alleged unfulfilled promises. (7, 8, 17, 18)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS criticism of CM Revanth Reddy's campaign in Kerala and allegations of unfulfilled promises could escalate political tensions. (7, 8, 17, 18)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A teen was killed in Hyderabad after a bike crashed into a pole. (11)</li>\n    <li><span class=\"risk-low\">Political:</span> Escalation of war of words between Revanth Reddy and Pinarayi Vijayan. (14, 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's meetings with Tata Lockheed Martin officials (1, 2, 6, 9) are linked to discussions about investment in Telangana. (6, 9)</li>\n    <li>The CM's campaign in Kerala (7, 8, 17, 18) is directly correlated with criticism from BRS. (7, 8, 17, 18)</li>\n    <li>The CM's meetings with the Ghana High Commissioner (1, 12, 13) are linked to strengthening ties. (12)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor BRS statements and public sentiment regarding the CM's Kerala campaign. (7, 8, 17, 18)</li>\n    <li>Prepare a response to BRS criticisms, addressing allegations of unfulfilled promises. (7, 8, 17, 18)</li>\n    <li>Assess the potential impact of the ongoing war of words between Revanth Reddy and Pinarayi Vijayan on public perception. (14, 20)</li>\n    <li>Prepare a briefing on the new LPG allocation formula. (16)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor the situation following the fatal bike accident. (11)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "25.6°C",
-      "humidity": "81%",
-      "wind": "0.5 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 66,
-      "pm25": 41,
-      "goldPerGram": "₹8,895",
-      "newsCount": 38,
-      "topHeadlines": [
-        "CM Revanth Reddy Meets Ghana High Commissioner, Lockheed Martin Officials - The Morning Voice",
-        "Hyderabad: Revanth Reddy Meets Tata Lockheed Martin COO #Gallery - Social News XYZ",
-        "Telangana CM urges corporates to maximise CSR impact for state development - BusinessLine",
-        "Telangana CM A Revanth Reddy on maximizing CSR spending impact - The News Mill",
-        "Congress govt turns to CSR as fiscal strain deepens - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-09T02:33:00.577Z",
     "timestampIST": "9/4/2026, 8:03:00 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy met with the Ghana High Commissioner and Lockheed Martin officials. (2, 3, 13, 14) The CM is also facing criticism from BRS regarding his campaigning in Kerala and remarks made there. (9, 10, 11, 18, 19) The Telangana High Court will hear Khera's anticipatory bail application today. (1)</p>",
@@ -6556,6 +6533,29 @@
         "Revanth announces special degree colleges for minorities across Telangana - Telangana Today",
         "Revanth warns against BJP’s SIR push in T'gana - News Arena India",
         "Haj 2026: Telangana to bear additional burden faced by pilgrims​ - The Siasat Daily"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-08T22:56:51.574Z",
+    "timestampIST": "9/5/2026, 4:26:51 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is focusing on minority welfare, announcing skill development and degree colleges for minorities across Telangana (4, 5). The government will cover retrofitting costs for autos within the ORR (9). The government is also facing criticism regarding farmers' issues and law and order (16, 17).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focusing on minority welfare, announcing skill development and degree colleges for minorities across Telangana (4, 5). The government will cover retrofitting costs for autos within the ORR (9). The government is also facing criticism regarding farmers' issues and law and order (16, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public dissatisfaction regarding farmers' issues.</span> (16)</li>\n    <li><span class=\"risk-medium\">Opposition criticism of law and order under the current government.</span> (17)</li>\n    <li><span class=\"risk-low\">Potential backlash regarding the razing of an 800-year-old Kakatiya temple in Warangal.</span> (20)</li>\n    <li><span class=\"risk-low\">Ongoing anger against the Telangana government regarding the Save KBR campaign in Hyderabad.</span> (15)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The government's focus on minority welfare, including skill development colleges and special degree colleges (4, 5), is juxtaposed with the announcement of bearing additional costs for Hajj pilgrims (1, 8, 12), indicating a concentrated effort on minority-related initiatives.</li>\n    <li>The Chief Minister's directive to complete the Narayanpet-Kodangal Lift Irrigation Scheme (7) and the announcement of Krishna water for Kodangal (14) highlight a focus on infrastructure development.</li>\n    <li>The BRS criticizing the Congress over farmers' issues (16) and KTR's criticism of law and order (17) indicates increasing political opposition.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Address the concerns raised by the BRS regarding farmers' issues to mitigate potential political fallout. (16)</li>\n    <li>Review and address the concerns regarding law and order raised by KTR. (17)</li>\n    <li>Monitor public sentiment regarding the Save KBR campaign in Hyderabad. (15)</li>\n    <li>Ensure swift reconstruction of the Kakatiya temple in Warangal as promised. (20)</li>\n    <li>Expedite the Narayanpet-Kodangal Lift Irrigation Scheme. (7)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Warangal:</b> Immediate attention is needed due to the controversy surrounding the razing of the Kakatiya temple. (20)</li>\n    <li><b>Hyderabad:</b> Monitor the situation related to the Save KBR campaign. (15)</li>\n    <li><b>Kodangal:</b> Monitor the progress of the Krishna water project. (14)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "25.4°C",
+      "humidity": "74%",
+      "wind": "4.6 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 24,
+      "pm25": 9.5,
+      "goldPerGram": "₹9,114",
+      "newsCount": 42,
+      "topHeadlines": [
+        "Telangana to bear additional burden faced by Hajj pilgrims​ - thehawk.in",
+        "Revanth Reddy Reviews Minority Welfare Initiatives - INDToday",
+        "Rohit Sharma features in new Sony Pictures Networks India teaser campaign - Telangana Today",
+        "Telangana to set up skill development colleges for minorities - The Siasat Daily",
+        "Revanth announces special degree colleges for minorities across Telangana - Telangana Today"
       ]
     }
   }
