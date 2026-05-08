@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08T09:04:17.707Z",
-    "timestampIST": "8/4/2026, 2:34:17 pm",
-    "executiveSummary": "<p>Multiple road accidents in Telangana have resulted in at least eight fatalities. [4, 6] Political tensions are escalating between Telangana CM Revanth Reddy and Kerala CM Pinarayi Vijayan, with both leaders exchanging criticisms ahead of the Kerala Assembly elections. [1, 2, 3, 11, 17, 19, 20] Revanth Reddy has moved the HC regarding 2019 Huzurnagar by-poll cases. [14]</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Multiple road accidents in Telangana have resulted in at least eight fatalities. [4, 6] Political tensions are escalating between Telangana CM Revanth Reddy and Kerala CM Pinarayi Vijayan, with both leaders exchanging criticisms ahead of the Kerala Assembly elections. [1, 2, 3, 11, 17, 19, 20] Revanth Reddy has moved the HC regarding 2019 Huzurnagar by-poll cases. [14]</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Multiple road accidents resulting in fatalities indicate a potential public safety concern. [4, 5, 6, 9, 10]</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Escalating political tensions between CM Revanth Reddy and Kerala CM Vijayan could potentially impact inter-state relations. [1, 2, 3, 11, 17, 19, 20]</li>\n    <li><span class=\"risk-low\">LOW</span>: Revanth Reddy's legal action regarding the 2019 Huzurnagar by-poll cases may attract media attention. [14]</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Road accidents in Telangana are a recurring issue, with multiple incidents reported. [4, 5, 6, 9, 10]</li>\n    <li>Political discourse involving Revanth Reddy is linked to both Telangana and Kerala politics, with the Kerala Assembly elections as a focal point. [1, 2, 3, 11, 15, 16, 17, 19, 20]</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Transport Department to investigate the recent road accidents and implement immediate safety measures.</li>\n    <li>Monitor the political rhetoric between CM Revanth Reddy and CM Vijayan to assess potential impacts on inter-state relations.</li>\n    <li>Review the legal proceedings related to the 2019 Huzurnagar by-poll cases and prepare a response strategy.</li>\n    <li>Issue a public statement on road safety to reassure the public.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad</b>: Focus on Hyderabad due to reported road accidents resulting in fatalities. [5, 9]</li>\n    <li><b>Suryapet</b>: Focus on Suryapet due to a reported road accident resulting in fatalities. [10]</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "37.7°C",
-      "humidity": "19%",
-      "wind": "8.2 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 67,
-      "pm25": 22.4,
-      "goldPerGram": "₹8,971",
-      "newsCount": 53,
-      "topHeadlines": [
-        "Kerala Assembly polls: Congress leaders criticise Pinarayi Vijayan’s remarks against Revanth Reddy - The Hindu",
-        "Kerala Assembly Elections 2026: Pinarayi Vijayan and Revanth Reddy skirmish on X over use of coarse language in politics - The Hindu",
-        "Cong Leaders Criticize Kerala CM's Remarks against Revanth Reddy - Deccan Chronicle",
-        "Eight killed in three separate road accidents in Telangana - Punjab News Express",
-        "Hyderabad: Three youths killed in road crash on Sagar Road - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-08T10:59:16.747Z",
     "timestampIST": "8/4/2026, 4:29:16 pm",
     "executiveSummary": "<p>The Chief Minister met with the Ghana High Commissioner to strengthen ties (1, 3).  Political tensions are escalating between CM Revanth Reddy and Kerala CM Pinarayi Vijayan, with criticism exchanged regarding development models and language used (2, 4, 7, 8, 9, 10, 11, 19).  Multiple road accidents in Telangana resulted in at least eight fatalities (12, 14).</p>",
@@ -6556,6 +6533,29 @@
         "Telangana government considers 10-year age relaxation in job recruitments - EdexLive",
         "India carries out maiden flight-trial of new weapon system - Telangana Today",
         "The man who built a forest from scratch in Telangana was almost murdered in it - The Siasat Daily"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-08T09:24:18.628Z",
+    "timestampIST": "8/5/2026, 2:54:18 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is scheduled to launch development projects in Kodangal today (Headline 11). Prime Minister Modi will hold a rally in Hyderabad on May 10 (Headlines 14, 15). Harish Rao has raised concerns about the law and order situation in Telangana (Headline 2).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is scheduled to launch development projects in Kodangal today (Headline 11). Prime Minister Modi will hold a rally in Hyderabad on May 10 (Headlines 14, 15). Harish Rao has raised concerns about the law and order situation in Telangana (Headline 2).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BJP is organizing a rally in Hyderabad on May 10, potentially leading to increased political activity and possible disruptions. (Headlines 9, 14, 15)</li>\n    <li><span class=\"risk-medium\">Law and Order:</span> Harish Rao has raised concerns over the collapse of law and order in Telangana. (Headline 2)</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> Chenchu relocation in Amrabad is alleged to violate constitutional and tribal rights. (Headline 19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's directive against VIP culture (Headline 7) contrasts with the upcoming large-scale rally planned by the BJP (Headlines 9, 14, 15), which may require significant security and traffic management.</li>\n    <li>The focus on Hyderabad as a global city to woo investors (Headline 13) is juxtaposed with the potential for disruptions related to the PM's rally.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review security protocols and traffic management plans for the Prime Minister's rally on May 10 in Hyderabad.</li>\n    <li>Assess the concerns raised by Harish Rao regarding the law and order situation.</li>\n    <li>Monitor the situation in Amrabad regarding the Chenchu relocation and potential protests.</li>\n    <li>Ensure smooth execution of the Chief Minister's development project launch in Kodangal today.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the upcoming Prime Minister's rally on May 10, increased security and vigilance are required. (Headlines 9, 14, 15)</li>\n    <li><b>Kodangal:</b> Monitor the launch of development projects by the Chief Minister today. (Headline 11)</li>\n    <li><b>Amrabad:</b> Monitor the situation regarding the Chenchu relocation. (Headline 19)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35°C",
+      "humidity": "34%",
+      "wind": "7.6 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 62,
+      "pm25": 12,
+      "goldPerGram": "₹9,092",
+      "newsCount": 33,
+      "topHeadlines": [
+        "Chief Minister Revanth Reddy Ditches VIP Route To Travel In Public Traffic: Viral Video - NDTV",
+        "Harish Rao raises concern over collapse of law and order in Telangana - Telangana Today",
+        "Telangana HC refuses to stay appointment of ex DGP as security advisor - The Siasat Daily",
+        "Telangana government considers 10-year age relaxation in job recruitments - EdexLive",
+        "India carries out maiden flight-trial of new weapon system - Telangana Today"
       ]
     }
   }
