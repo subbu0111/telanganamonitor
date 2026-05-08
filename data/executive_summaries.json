@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08T05:48:11.713Z",
-    "timestampIST": "8/4/2026, 11:18:11 am",
-    "executiveSummary": "<p>A verbal exchange has escalated between Telangana CM Revanth Reddy and Kerala CM Pinarayi Vijayan, with both trading insults ahead of the Kerala Assembly Polls 2026 (headlines 5, 12, 14, 15, 17, 18, 19, 20). Two fatal road accidents occurred in Hyderabad (3) and Suryapet (4). The Telangana government launched a trauma care policy to reduce road accident deaths (16).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A verbal exchange has escalated between Telangana CM Revanth Reddy and Kerala CM Pinarayi Vijayan, with both trading insults ahead of the Kerala Assembly Polls 2026 (headlines 5, 12, 14, 15, 17, 18, 19, 20). Two fatal road accidents occurred in Hyderabad (3) and Suryapet (4). The Telangana government launched a trauma care policy to reduce road accident deaths (16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Escalation of Verbal Duel:</span> The ongoing exchange between CMs Revanth Reddy and Pinarayi Vijayan could potentially escalate tensions (5, 12, 14, 15, 17, 18, 19, 20).</li>\n    <li><span class=\"risk-medium\">Public Perception:</span> The CM's involvement in a public spat could negatively impact public perception (5, 12, 14, 15, 17, 18, 19, 20).</li>\n    <li><span class=\"risk-low\">Road Safety Concerns:</span> Two fatal road accidents in Hyderabad and Suryapet highlight ongoing road safety concerns, despite the launch of a new trauma care policy (3, 4, 16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The verbal exchange between CMs Revanth Reddy and Pinarayi Vijayan is directly linked to the upcoming Kerala Assembly Polls 2026 (5, 7, 10, 15, 20).</li>\n    <li>The launch of the trauma care policy (16) is directly relevant to the reported road accident fatalities in Hyderabad and Suryapet (3, 4).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the ongoing verbal exchange between CM Revanth Reddy and CM Vijayan for any further escalation and potential impact on public sentiment.</li>\n    <li>Assess the effectiveness of the newly launched trauma care policy in reducing road accident fatalities.</li>\n    <li>Review the Huzurnagar by-poll cases, as Revanth Reddy has moved the HC to quash them (9).</li>\n    <li>Prepare a statement addressing the public perception of the CM's involvement in the political spat.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on immediate implementation of the trauma care policy to address road safety concerns following the reported fatal car crash (3, 16).</li>\n    <li><b>Suryapet:</b> Implement the trauma care policy and investigate the road accident (4, 16).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35°C",
-      "humidity": "27%",
-      "wind": "9.4 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 66,
-      "pm25": 25.6,
-      "goldPerGram": "₹8,971",
-      "newsCount": 58,
-      "topHeadlines": [
-        "‘CM upheld Kerala’s dignity”; Maala Parvathi steps forward supporting CM - Kerala Kaumudi",
-        "Trump says moment could mark new ‘Golden Age’ for Mideast - Telangana Today",
-        "Car crash claims two lives in Hyderabad - lokmattimes.com",
-        "Telangana: Two killed in road accident in Suryapet - The Siasat Daily",
-        "'Nee po mone' meets 'Dash mone Revanth' as two CMs trade barbs across state line - The News Minute"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-08T07:24:10.812Z",
     "timestampIST": "8/4/2026, 12:54:10 pm",
     "executiveSummary": "<p>Eight fatalities were reported in three separate road accidents across Telangana. (1) A car crash in Hyderabad claimed two lives. (4) The Chief Ministers of Telangana and Kerala are engaged in a public exchange of insults ahead of the Kerala Assembly polls. (6, 13, 15, 16, 18, 19, 20) The NGT refused to stay the Telangana government’s Bharat Future City project. (14)</p>",
@@ -6556,6 +6533,29 @@
         "PM Modi to hold rally in Hyderabad on May 10 as BJP aims for double-engine government in Telangana - The News Mill",
         "LPG cylinder price today: Check cooking gas rates in New Delhi, Kolkata, Mumbai, Bengaluru, Hyderabad on 8 May - Mint",
         "Gold Rate Today in Hyderabad: Latest 18K, 22K &amp; 24K Gold Prices on 08 May 2026 - ET Now"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-08T05:58:39.868Z",
+    "timestampIST": "8/5/2026, 11:28:39 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy will launch development projects in Kodangal today (6). Prime Minister Modi will hold a rally in Hyderabad on May 10 (9, 10). The CM's convoy is now moving in regular traffic (17, 18, 19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will launch development projects in Kodangal today (6). Prime Minister Modi will hold a rally in Hyderabad on May 10 (9, 10). The CM's convoy is now moving in regular traffic (17, 18, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for disruption</span>: PM Modi's rally in Hyderabad on May 10 could cause traffic congestion and require significant security arrangements (9, 10).</li>\n    <li><span class=\"risk-low\">Public perception</span>: Allegations of corruption in the Telangana education sector could impact public trust (15).</li>\n    <li><span class=\"risk-low\">Political activity</span>: BJP is mobilizing cadre for PM Modi's Hyderabad visit (4).</li>\n    <li><span class=\"risk-low\">Potential for unrest</span>: Chenchu relocation in Amrabad is alleged to violate constitutional and tribal rights (13).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's directive to avoid VIP culture (2) is directly reflected in his convoy moving with regular traffic (17, 18, 19).</li>\n    <li>PM Modi's upcoming rally (9, 10) is being actively supported by the BJP (4).</li>\n    <li>The CM is launching development projects today (6) while also managing his schedule, leading to the cancellation of a tour (20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure adequate security and traffic management for PM Modi's rally on May 10.</li>\n    <li>Monitor public sentiment regarding the allegations of corruption in the education sector.</li>\n    <li>Review the Chenchu relocation in Amrabad to ensure compliance with constitutional and tribal rights.</li>\n    <li>Coordinate with relevant departments for the launch of development projects in Kodangal.</li>\n    <li>Assess the impact of petrol and diesel price hikes on public sentiment. (12)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on security and traffic management due to PM Modi's rally (9, 10).</li>\n    <li><b>Kodangal:</b> Monitor the launch of development projects (6).</li>\n    <li><b>Amrabad:</b> Monitor the Chenchu relocation situation (13).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.5°C",
+      "humidity": "44%",
+      "wind": "9.2 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 43,
+      "pm25": 10,
+      "goldPerGram": "₹9,092",
+      "newsCount": 29,
+      "topHeadlines": [
+        "The man who built a forest from scratch in Telangana was almost murdered in it - The Siasat Daily",
+        "'Don't stop traffic for my convoy': CM Revanth Reddy's directive ends VIP culture in the state - NewsMeter",
+        "Revanth Reddy Salutes Volunteers on World Red Cross Day - Deccan Chronicle",
+        "BJP urges cadre to make PM Modi’s Hyderabad visit a success - The Hans India",
+        "Hyderabad Weather Today, May 8, 2026: Heat Alert Issued As City To Witness Hot And Dry Conditions - NativePlanet"
       ]
     }
   }
