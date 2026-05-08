@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08T15:12:54.249Z",
-    "timestampIST": "8/4/2026, 8:42:54 pm",
-    "executiveSummary": "<p>BRS is strongly criticizing CM Revanth Reddy regarding his campaigning in Kerala, alleging unfulfilled promises and corruption (1, 2, 8, 13, 14).  A war of words has escalated between Revanth Reddy and Pinarayi Vijayan concerning the Kerala Assembly Elections 2026 (5, 10, 15, 16, 17).  Tata Lockheed Martin is exploring investment opportunities in Telangana's defense sector, and the CM met with their COO (3, 4).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>BRS is strongly criticizing CM Revanth Reddy regarding his campaigning in Kerala, alleging unfulfilled promises and corruption (1, 2, 8, 13, 14).  A war of words has escalated between Revanth Reddy and Pinarayi Vijayan concerning the Kerala Assembly Elections 2026 (5, 10, 15, 16, 17).  Tata Lockheed Martin is exploring investment opportunities in Telangana's defense sector, and the CM met with their COO (3, 4).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> BRS is actively criticizing the CM, potentially escalating into a more significant political challenge (1, 2, 5, 8, 13, 14).</li>\n  <li><span class=\"risk-low\">Public Safety:</span> Eight fatalities were reported in three separate road accidents across Telangana (18, 20).  Another road crash in Hyderabad resulted in three deaths (19).</li>\n  <li><span class=\"risk-low\">Diplomatic Relations:</span> While positive, the meeting with the Ghana diplomat requires monitoring to ensure successful strengthening of ties (7, 9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The BRS criticism of CM Revanth Reddy (1, 2, 8, 13, 14) is directly linked to his campaigning in Kerala and the ongoing Kerala Assembly Elections 2026 (10, 15, 16, 17).</li>\n  <li>The meeting between CM Revanth Reddy and the Tata Lockheed Martin COO (4) indicates potential future economic activity in the defense sector (3).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the BRS's criticism of the CM and assess its potential impact on the government's stability.</li>\n  <li>Review and enhance road safety measures in light of the recent road accident fatalities.</li>\n  <li>Prepare a response strategy to address the allegations of unfulfilled promises and corruption raised by BRS.</li>\n  <li>Follow up on the meeting with the Ghana diplomat to solidify relations.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Immediate attention is needed to address the recent road accidents and improve road safety measures (6, 19).</li>\n  <li><b>All Districts:</b> Monitor political developments and public sentiment related to the CM's Kerala campaign and the BRS's criticisms.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "32.6°C",
-      "humidity": "34%",
-      "wind": "1.3 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 65,
-      "pm25": 49.9,
-      "goldPerGram": "₹8,895",
-      "newsCount": 50,
-      "topHeadlines": [
-        "BRS slams CM Revanth Reddy over Keralam campaigning, alleges 'unfulfilled promises' and corruption - lokmattimes.com",
-        "BRS criticises CM Revanth Reddy for Kerala campaigning, alleges unfulfilled promises and corruption - The News Mill",
-        "Tata Lockheed Martin eyes investment opportunities in Telangana's defence sector - Asianet Newsable",
-        "Hyderabad: Revanth Reddy Meets Tata Lockheed Martin COO #Gallery - Social News XYZ",
-        "BRS joins Revanth Reddy-Pinarayi Vijayan war of words - The Federal"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-08T17:05:49.541Z",
     "timestampIST": "8/4/2026, 10:35:49 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from BRS regarding his campaigning in Kerala and alleged unfulfilled promises (4, 5, 11, 16, 17).  Tata Lockheed Martin is considering further investments in Telangana's defense sector (6). The CM met with the Ghana High Commissioner to strengthen ties (10, 12).</p>",
@@ -6556,6 +6533,29 @@
         "Law and order collapsed under Revanth govt: KTR - Telangana Today",
         "Telangana will be an aerospace &amp; defence hub by 2030: Minister Uttam Kumar Reddy - BusinessLine",
         "Musi rejuvenation: Dy CM assures support to Madhu Park residents in Hyderabad - The Siasat Daily"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-08T15:25:31.308Z",
+    "timestampIST": "8/5/2026, 8:55:31 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy directed officials to complete the Narayanpet-Kodangal Lift Irrigation Scheme within one-and-a-half years (1). The Telangana government will bear extra costs for Hajj pilgrims (2, 5, 7). The government released Rs 375 crore for the Musi rejuvenation project (19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy directed officials to complete the Narayanpet-Kodangal Lift Irrigation Scheme within one-and-a-half years (1). The Telangana government will bear extra costs for Hajj pilgrims (2, 5, 7). The government released Rs 375 crore for the Musi rejuvenation project (19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public Sentiment:</span> Anger against the Telangana government regarding the Save KBR campaign is reported (11).</li>\n  <li><span class=\"risk-medium\">Political Opposition:</span> BRS criticized the Congress over farmers’ issues (12). KTR stated that law and order has collapsed under the Revanth government (13).</li>\n  <li><span class=\"risk-low\">Religious Sensitivity:</span> The razing of an 800-year-old Kakatiya temple in Warangal has caused backlash (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The government's commitment to bear extra costs for Hajj pilgrims (2, 5, 7) and the CM flagging off Hajj pilgrim buses (4) demonstrate government support for minority welfare (10).</li>\n  <li>The Musi rejuvenation project (15, 19) and the CM's focus on fast-track development (17) indicate a focus on infrastructure and urban development.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor public sentiment regarding the Save KBR campaign and address any negative perceptions (11).</li>\n  <li>Address the concerns raised by BRS regarding farmers' issues and KTR's claims about law and order (12, 13).</li>\n  <li>Assess the situation and manage the backlash related to the Kakatiya temple demolition in Warangal (16).</li>\n  <li>Ensure timely execution of the Musi rejuvenation project (15, 19).</li>\n  <li>Prioritize the completion of the Narayanpet-Kodangal Lift Irrigation Scheme (1).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Warangal:</b> Requires immediate attention due to the backlash over the Kakatiya temple demolition (16).</li>\n  <li><b>Kodangal:</b> Requires attention due to the focus on the Lift Irrigation Scheme and the CM's statement that it will become an education and industrial hub (1, 9, 20).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.8°C",
+      "humidity": "55%",
+      "wind": "15.9 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 39,
+      "pm25": 17.1,
+      "goldPerGram": "₹9,114",
+      "newsCount": 41,
+      "topHeadlines": [
+        "Complete Narayanpet-Kodangal Lift Irrigation Scheme works within one-and-a-half years, Revanth directs officials - Telangana Today",
+        "Telangana To Bear Extra Hajj Costs Amid US Iran Conflict - INDToday",
+        "Govt to cover Rs 1.20 lakh retrofitting cost for every auto within ORR: CM Revanth - Telangana Today",
+        "Revanth Reddy Flags Off Hajj Pilgrims Buses In Hyderabad - INDToday",
+        "Telangana to bear additional burden faced by Hajj pilgrims​ - lokmattimes.com"
       ]
     }
   }
