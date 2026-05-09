@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09T20:54:27.206Z",
-    "timestampIST": "10/4/2026, 2:24:27 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered immediate repairs for the Kaleshwaram barrages (1, 2, 3). The CM finalized 650 acres near Shamshabad Airport for a Hyderabad Bullet Train Hub (17). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to protests (9).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has ordered immediate repairs for the Kaleshwaram barrages (1, 2, 3). The CM finalized 650 acres near Shamshabad Airport for a Hyderabad Bullet Train Hub (17). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to protests (9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public unrest:</span> Protests have erupted in Amberpet following the death of a GHMC worker in an RTC bus accident (9).</li>\n    <li><span class=\"risk-low\">Political Instability:</span> Ongoing political maneuvering with BRS inviting Jeevan Reddy to join the party and TPCC criticizing him (5, 6, 7, 8, 11, 12, 14, 15).</li>\n    <li><span class=\"risk-low\">Infrastructure Failure:</span> CM ordered fast-track repairs of Kaleshwaram barrages (1, 2, 3).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on infrastructure is evident in both the Kaleshwaram barrage repairs and the Hyderabad Bullet Train Hub (1, 2, 3, 17).</li>\n    <li>Political activity is high, with invitations to join BRS and criticism from TPCC, indicating potential shifts in political alliances (5, 6, 7, 8, 11, 12, 14, 15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Police to monitor the situation in Amberpet and ensure public order following the RTC bus accident (9).</li>\n    <li>Expedite the Kaleshwaram barrage repair efforts, ensuring timely completion (1, 2, 3).</li>\n    <li>Assess the potential impact of the political developments involving Jeevan Reddy and the BRS on the ruling party (5, 6, 7, 8, 11, 12, 14, 15).</li>\n    <li>Ensure effective communication with corporates regarding CSR spending as requested by the CM (18, 19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor Amberpet due to the ongoing protests following the RTC bus accident (9).</li>\n    <li><b>Ranga Reddy:</b> Focus on the area around Shamshabad Airport for the development of the Hyderabad Bullet Train Hub (17).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "27.7°C",
-      "humidity": "64%",
-      "wind": "4.8 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 66,
-      "pm25": 35.9,
-      "goldPerGram": "₹8,937",
-      "newsCount": 23,
-      "topHeadlines": [
-        "CM orders fast-track repairs of Kaleshwaram barrages - The Hindu",
-        "Telangana CM orders speedy repairs of Kaleshwaram barrages - The Siasat Daily",
-        "Kaleshwaram project repairs: TG CM A Revanth Reddy orders immediate restoration - Hyderabad Mail",
-        "Telangana Chief Secy asks Collectors to find innovative road safety solutions - The Siasat Daily",
-        "'Experienced leaders essential for rebuilding Telangana’s growth trajectory': KTR invites Jeevan Reddy to join BRS - Deccan Herald"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-09T22:42:51.100Z",
-    "timestampIST": "10/4/2026, 4:12:51 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered immediate repairs for the Kaleshwaram barrages (1, 2, 3). The CM finalized 650 acres near Shamshabad Airport for a Hyderabad Bullet Train Hub (17). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to protests (9).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has ordered immediate repairs for the Kaleshwaram barrages (1, 2, 3). The CM finalized 650 acres near Shamshabad Airport for a Hyderabad Bullet Train Hub (17). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to protests (9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public unrest:</span> A GHMC worker's death in an RTC bus accident in Amberpet has triggered protests (9).</li>\n    <li><span class=\"risk-low\">Political Instability:</span> Ongoing political maneuvering, including invitations to join the BRS party and criticism of the current CM, could lead to political instability (5, 6, 7, 8, 11, 12, 14, 15).</li>\n    <li><span class=\"risk-low\">Infrastructure Failure:</span> The CM has ordered fast-track repairs of the Kaleshwaram barrages (1, 2, 3), indicating potential infrastructure concerns.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on infrastructure is evident in the orders for Kaleshwaram barrage repairs (1, 2, 3) and the finalization of land for the bullet train hub (17).</li>\n    <li>The political landscape is active, with invitations to join the BRS party (5, 6, 7, 12, 15) and criticism of the CM (8, 11, 14).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in Amberpet closely and ensure law and order are maintained following the RTC bus accident (9).</li>\n    <li>Expedite the Kaleshwaram barrage repair work and provide regular updates to the CM (1, 2, 3).</li>\n    <li>Assess the potential impact of the ongoing political developments on governance and public perception (5, 6, 7, 8, 11, 12, 14, 15).</li>\n    <li>Ensure effective communication with the public regarding infrastructure projects and CSR initiatives (13, 17, 18, 19).</li>\n    <li>Review road safety measures in light of the Chief Secretary's directive to Collectors (4).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor Amberpet due to the RTC bus accident and resulting protests (9).</li>\n    <li><b>Shamshabad:</b> Focus on land acquisition and planning for the Hyderabad Bullet Train Hub (17).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "26.7°C",
-      "humidity": "67%",
-      "wind": "3.1 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 66,
-      "pm25": 41.3,
-      "goldPerGram": "₹8,937",
-      "newsCount": 21,
-      "topHeadlines": [
-        "CM orders fast-track repairs of Kaleshwaram barrages - The Hindu",
-        "Telangana CM orders speedy repairs of Kaleshwaram barrages - The Siasat Daily",
-        "Kaleshwaram project repairs: TG CM A Revanth Reddy orders immediate restoration - Hyderabad Mail",
-        "Telangana Chief Secy asks Collectors to find innovative road safety solutions - The Siasat Daily",
-        "'Experienced leaders essential for rebuilding Telangana’s growth trajectory': KTR invites Jeevan Reddy to join BRS - Deccan Herald"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-10T02:43:49.967Z",
     "timestampIST": "10/4/2026, 8:13:49 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is scheduled to travel to Delhi today for a CWC meeting (1). The CM has ordered the swift repair of the Kaleshwaram barrages (2, 3, 4, 5). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to a protest (12).</p>",
@@ -6550,6 +6504,29 @@
         "Singareni plans 9 new mines to offset production losses - Telangana Today",
         "Jagan accuses Naidu government of misusing police machinery in Andhra Pradesh - Telangana Today",
         "Telangana Government To Revise Land Prices - INDToday"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-09T22:49:26.968Z",
+    "timestampIST": "10/5/2026, 4:19:26 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy announced plans to make Hyderabad a signal-free city, seeking central government support for the Musi River rejuvenation. The government is also planning to establish minority degree colleges in 10 districts with an AI focus. A thunderstorm is forecast for four Telangana districts today.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy announced plans to make Hyderabad a signal-free city, seeking central government support for the Musi River rejuvenation. The government is also planning to establish minority degree colleges in 10 districts with an AI focus. A thunderstorm is forecast for four Telangana districts today.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Potential disruption due to a thunderstorm</span> is forecast in four Telangana districts today (Headline 12).</li>\n  <li><span class=\"risk-low\">Public perception risk</span> related to BJP MP Laxman's criticism of CM Revanth Reddy's remarks (Headline 8).</li>\n  <li><span class=\"risk-low\">Potential for increased traffic congestion</span> during the implementation of the signal-free city plan (multiple headlines).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's push for a signal-free Hyderabad (Headlines 1, 9, 10, 13, 15, 17, 18, 20) is linked to seeking central government support for Musi River rejuvenation (Headline 10).</li>\n  <li>The government's plan to establish minority degree colleges in 10 districts (Headline 16) could be connected to the broader goal of improving infrastructure and services across the state.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the four districts under thunderstorm forecast for potential impacts and coordinate with disaster response teams (Headline 12).</li>\n  <li>Prepare a public statement addressing BJP MP Laxman's criticism to mitigate negative public perception (Headline 8).</li>\n  <li>Assess the feasibility and resource requirements for the signal-free Hyderabad initiative, including the Musi River rejuvenation project (Headlines 1, 9, 10, 13, 15, 17, 18, 20).</li>\n  <li>Coordinate with relevant departments to expedite the establishment of minority degree colleges in the 10 identified districts (Headline 16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>The four districts under thunderstorm forecast require immediate attention to assess and mitigate potential risks (Headline 12).</li>\n  <li>The 10 districts where minority degree colleges are planned need focused attention for infrastructure and resource allocation (Headline 16).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "25.2°C",
+      "humidity": "72%",
+      "wind": "7.2 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 31,
+      "pm25": 11.5,
+      "goldPerGram": "₹9,114",
+      "newsCount": 40,
+      "topHeadlines": [
+        "Hyderabad To Be Developed As A Signal-Free City: CM Revanth Reddy - The Morning Voice",
+        "ZERO Farmer Suicides in Telangana Under Revanth Reddy: NCRB Data Drops a Nuclear Bomb on Opposition &amp; Godi Media - indiaherald.com",
+        "CM Seeks Modi Nod For Metro Expansion - Deccan Chronicle",
+        "Gold Rate Today in Hyderabad: Latest 18K, 22K &amp; 24K Gold Prices on 09 May 2026 - ET Now",
+        "Singareni plans 9 new mines to offset production losses - Telangana Today"
       ]
     }
   }
