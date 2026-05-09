@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09T11:01:21.573Z",
-    "timestampIST": "9/4/2026, 4:31:21 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy met with the COO of Tata Lockheed Martin (19). The CM unveiled the IGBC Green Property Show 2026 and announced the Adilabad Airport foundation and revival of an irrigation project (4, 18). Several news sources report criticism of CM Revanth Reddy from Jeevan Reddy and Dasoju Sravan (2, 3, 5, 13).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with the COO of Tata Lockheed Martin (19). The CM unveiled the IGBC Green Property Show 2026 and announced the Adilabad Airport foundation and revival of an irrigation project (4, 18). Several news sources report criticism of CM Revanth Reddy from Jeevan Reddy and Dasoju Sravan (2, 3, 5, 13).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Jeevan Reddy's criticism of the CM and reports of his potential move to BRS could destabilize the political landscape. (2, 5, 7)</li>\n    <li><span class=\"risk-low\">Cybersecurity Threat:</span> An MLA in Telangana was targeted by cyber fraud using a fake Central scheme loan promise. (9)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A GHMC worker died in a bus accident in Amberpet. (6)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM is actively engaging with corporates, urging them to prioritize CSR spending for state development, particularly in education and healthcare (11, 12, 15, 20).</li>\n    <li>Jeevan Reddy's criticism of CM Revanth Reddy is a recurring theme across multiple news outlets (2, 3, 5, 7).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political situation closely, particularly regarding Jeevan Reddy's activities and any potential shifts in party affiliations.</li>\n    <li>Assess the cyber security threat landscape and brief all MLAs on the current threats.</li>\n    <li>Review safety protocols for GHMC workers and other government employees.</li>\n    <li>Prepare a detailed plan for the Adilabad development project, including timelines and resource allocation (16, 18).</li>\n    <li>Prepare a press release to highlight the CM's initiatives to boost CSR spending.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad:</b> Requires immediate attention due to the CM's focus on development, including the airport foundation and irrigation project (16, 18).</li>\n    <li><b>Amberpet:</b> Requires attention due to the recent bus accident involving a GHMC worker (6).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "36.8°C",
-      "humidity": "21%",
-      "wind": "13.8 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 68,
-      "pm25": 18.7,
-      "goldPerGram": "₹8,895",
-      "newsCount": 28,
-      "topHeadlines": [
-        "Tata Lockheed eyes Telangana - EdexLive",
-        "Jeevan Reddy’s criticism of Telangana CM unwarranted: TPCC president - The Hindu",
-        "Telangana: KCR’s rule better than Revanth, says Jeevan Reddy - The Siasat Daily",
-        "CM Revanth Reddy Unveils IGBC Green Property Show 2026, Boosting Telangana’s Net Zero Vision - SolarQuarter",
-        "Defeat of Revanth Reddy inevitable: Jeevan Reddy - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-09T13:46:06.246Z",
     "timestampIST": "9/4/2026, 7:16:06 pm",
     "executiveSummary": "<p>A GHMC worker died in an RTC bus accident in Amberpet, leading to protests (2, 8). CM Revanth Reddy is facing criticism from within the TPCC and by Jeevan Reddy (1, 4, 5, 7, 9, 15). The CM announced the Adilabad Airport foundation and revival of an irrigation project, targeting Adilabad development by 2034 (18, 20).</p>",
@@ -6556,6 +6533,29 @@
         "CM Revanth Reddy outlines Hyderabad’s future urban vision at Parliamentary Standing Committee meeting - The Hindu",
         "Vijay Deverakonda’s new ‘Rowdy Janardhana’ still released on his birthday - Telangana Today",
         "Laxma Reddy slams Congress over maize transport delays, farmers protest in Mahabubnagar - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-09T13:21:46.797Z",
+    "timestampIST": "9/5/2026, 6:51:46 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy outlined Hyderabad's urban vision at a Parliamentary Standing Committee meeting (11). The Telangana government plans a three-level traffic system to make Hyderabad signal-free (3). The government aims to establish minority degree colleges with AI focus across 10 districts (6, 15, 16, 20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy outlined Hyderabad's urban vision at a Parliamentary Standing Committee meeting (11). The Telangana government plans a three-level traffic system to make Hyderabad signal-free (3). The government aims to establish minority degree colleges with AI focus across 10 districts (6, 15, 16, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for public unrest:</span> Laxma Reddy criticized the Congress over maize transport delays and farmer protests in Mahabubnagar (13).</li>\n    <li><span class=\"risk-medium\">Political Fallout:</span> Harish Rao demanded immediate Medigadda repairs and called the Tummidihatti visit a publicity stunt (14).</li>\n    <li><span class=\"risk-high\">Public Sentiment:</span> An 800-year-old Kakatiya temple was razed in Warangal, and the Congress government promised reconstruction after backlash (17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Telangana government's focus on making Hyderabad signal-free (3, 5, 7, 8, 10) is a key aspect of CM Revanth Reddy's urban vision (11).</li>\n    <li>The government's plan to establish minority degree colleges with AI focus (6, 15, 16, 20) aligns with the CM's vision for Kodangal to become an education hub (18).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in Mahabubnagar closely due to farmer protests and maize transport delays (13).</li>\n    <li>Assess the public reaction and manage the fallout from the Kakatiya temple demolition in Warangal (17).</li>\n    <li>Prepare a response to Harish Rao's criticism regarding Medigadda repairs (14).</li>\n    <li>Prioritize the implementation of the signal-free traffic system in Hyderabad (3, 5, 7, 8, 10).</li>\n    <li>Expedite the establishment of minority degree colleges in the 10 identified districts (6, 15, 16, 20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Mahabubnagar:</b> Requires immediate attention due to farmer protests and maize transport delays (13).</li>\n    <li><b>Warangal:</b> Requires immediate attention due to the demolition of the Kakatiya temple and the ensuing public backlash (17).</li>\n    <li><b>Kodangal:</b> Monitor progress towards becoming an education and industries hub (18, 19).</li>\n    <li><b>10 Districts (unspecified):</b> Focus on the establishment of special minority degree colleges (6, 15, 16, 20).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "33.4°C",
+      "humidity": "32%",
+      "wind": "8.9 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 60,
+      "pm25": 14.2,
+      "goldPerGram": "₹9,114",
+      "newsCount": 48,
+      "topHeadlines": [
+        "PSG to face Arsenal in Enthralling 2026 Champions League Final Clash as UEFA Eyes New Kickoff Era - Telangana Today",
+        "Viral video: Telangana man appeals rescue after Saudi shepherd job fraud - The Siasat Daily",
+        "Telangana Government Plans Three-Level Traffic System to Make Hyderabad Signal-Free - Telangana Tribune",
+        "What is Special about Colleges for Minorities Telangana plans to establish - ummid.com",
+        "A Revanth Reddy says govt aims to make Hyderabad signal-free - Awaz The Voice"
       ]
     }
   }
