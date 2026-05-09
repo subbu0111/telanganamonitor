@@ -6535,5 +6535,28 @@
         "Telangana: 800-Year-Old Kakatiya temple razed in Warangal, Congress govt promises reconstruction after backlash - VSK Telangana"
       ]
     }
+  },
+  {
+    "timestamp": "2026-05-09T10:58:43.326Z",
+    "timestampIST": "9/5/2026, 4:28:43 pm",
+    "executiveSummary": "<p>HYDRAA and DRF teams rescued a woman from the Musi River in Hyderabad (1). CM Revanth Reddy outlined Hyderabad's urban vision and plans to make the city signal-free (2, 3). The Congress government is promising reconstruction of an 800-year-old Kakatiya temple razed in Warangal (9). The CM will bear additional levy of Rs 10,000 charged from Telangana Haj pilgrims (16).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>HYDRAA and DRF teams rescued a woman from the Musi River in Hyderabad (1). CM Revanth Reddy outlined Hyderabad's urban vision and plans to make the city signal-free (2, 3). The Congress government is promising reconstruction of an 800-year-old Kakatiya temple razed in Warangal (9). The CM will bear additional levy of Rs 10,000 charged from Telangana Haj pilgrims (16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public Backlash:</span> The razing of an 800-year-old Kakatiya temple in Warangal could lead to public discontent (9).</li>\n  <li><span class=\"risk-low\">Farmer Protests:</span> Maize transport delays and farmer protests in Mahabubnagar are reported (5).</li>\n  <li><span class=\"risk-low\">Road Safety:</span> Hyderabad is the third most accident-prone city in India, with nearly 8,000 road deaths in Telangana in 2024 (13).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy is focused on urban development in Hyderabad (2, 3) while also addressing issues related to Haj pilgrims (16, 17).</li>\n  <li>The government is establishing minority degree colleges (7, 8, 12, 18) and also focusing on Kodangal's development (10, 11).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Assess the situation in Warangal and expedite the promised reconstruction of the Kakatiya temple to mitigate public backlash (9).</li>\n  <li>Monitor the maize transport delays and farmer protests in Mahabubnagar and take necessary actions (5).</li>\n  <li>Review and strengthen road safety measures in Hyderabad, given its high accident rate (13).</li>\n  <li>Ensure the timely establishment of the AI-driven minority degree colleges across the 10 districts (7, 8, 12, 18).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Warangal:</b> Requires immediate attention due to the demolition of the Kakatiya temple and potential for public unrest (9).</li>\n  <li><b>Mahabubnagar:</b> Requires monitoring due to reported maize transport delays and farmer protests (5).</li>\n  <li><b>Kodangal:</b> Requires monitoring to ensure the CM's vision for education and industries is achieved (10, 11).</li>\n</ul>\n```\n",
+    "dataSnapshot": {
+      "temperature": "35.8°C",
+      "humidity": "23%",
+      "wind": "11.7 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 65,
+      "pm25": 12.1,
+      "goldPerGram": "₹9,114",
+      "newsCount": 45,
+      "topHeadlines": [
+        "HYDRAA, DRF teams rescue woman from Musi River in Hyderabad - Telangana Today",
+        "Plans Afoot to Make Hyderabad Signal Free City: Revanth Reddy - Deccan Chronicle",
+        "CM Revanth Reddy outlines Hyderabad’s future urban vision at Parliamentary Standing Committee meeting - The Hindu",
+        "Vijay Deverakonda’s new ‘Rowdy Janardhana’ still released on his birthday - Telangana Today",
+        "Laxma Reddy slams Congress over maize transport delays, farmers protest in Mahabubnagar - Telangana Today"
+      ]
+    }
   }
 ]
