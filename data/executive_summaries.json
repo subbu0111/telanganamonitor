@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09T17:10:11.569Z",
-    "timestampIST": "9/4/2026, 10:40:11 pm",
-    "executiveSummary": "<p>KTR has invited Jeevan Reddy to join the BRS party. (1, 2, 3) A GHMC worker was killed in an RTC bus accident in Amberpet, leading to a protest. (5) CM Revanth Reddy finalized 650 acres for a Hyderabad Bullet Train Hub near Shamshabad Airport. (13) The CM is urging corporates to use CSR funds for education and healthcare. (18)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>KTR has invited Jeevan Reddy to join the BRS party. (1, 2, 3) A GHMC worker was killed in an RTC bus accident in Amberpet, leading to a protest. (5) CM Revanth Reddy finalized 650 acres for a Hyderabad Bullet Train Hub near Shamshabad Airport. (13) The CM is urging corporates to use CSR funds for education and healthcare. (18)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Jeevan Reddy's statements criticizing the current government and potential defection to BRS could destabilize the political landscape. (4, 7, 8, 10, 11)</li>\n    <li><span class=\"risk-medium\">Public Unrest:</span> The protest following the GHMC worker's death in Amberpet could escalate. (5)</li>\n    <li><span class=\"risk-low\">Legal:</span> The Telangana High Court will hear Khera’s anticipatory bail application today. (20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Jeevan Reddy's statements criticizing the current government (4, 7, 8, 10, 11) are directly linked to KTR's invitation for him to join the BRS (1, 2, 3).</li>\n    <li>CM Revanth Reddy's focus on CSR spending (14, 15, 18) is linked to his broader development goals, including targeting Adilabad development by 2034. (19)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in Amberpet closely and ensure law and order are maintained. (5)</li>\n    <li>Assess the potential impact of Jeevan Reddy's political moves and prepare a response strategy. (1, 2, 3, 4, 7, 8, 10, 11)</li>\n    <li>Prepare for potential legal outcomes related to Khera’s anticipatory bail application. (20)</li>\n    <li>Coordinate with relevant departments to facilitate the allocation of 650 acres for the Hyderabad Bullet Train Hub. (13)</li>\n    <li>Follow up with corporates on their CSR spending plans. (14, 15, 18)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor the situation around the Hyderabad Bullet Train Hub near Shamshabad Airport (13) and any potential fallout from the political developments. (1, 2, 3, 4, 7, 8, 10, 11)</li>\n    <li><b>Adilabad:</b> Focus on the CM's stated development goals for Adilabad by 2034. (19)</li>\n    <li><b>Hyderabad (Amberpet):</b> Monitor the situation following the RTC bus accident and the resulting protest. (5)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29.8°C",
-      "humidity": "49%",
-      "wind": "3.3 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 67,
-      "pm25": 33.4,
-      "goldPerGram": "₹8,937",
-      "newsCount": 23,
-      "topHeadlines": [
-        "'Experienced leaders essential for rebuilding Telangana’s growth trajectory': KTR invites Jeevan Reddy to join BRS - Deccan Herald",
-        "BRS invites Jeevan Reddy to join party in Telangana - The News Mill",
-        "KTR Invites Former Minister Jeevan Reddy to Join BRS - Hyderabad Mail",
-        "TPCC Chief slams Jeevan Reddy over demand to oust Revanth Reddy - Telangana Today",
-        "GHMC worker killed in RTC bus accident in Amberpet, protest erupts - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-09T19:10:51.990Z",
     "timestampIST": "10/4/2026, 12:40:51 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered immediate repairs to the Kaleshwaram barrages (1, 2). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to a protest (8). The CM finalized 650 acres near Shamshabad Airport for a Hyderabad Bullet Train Hub (16).</p>",
@@ -6550,6 +6527,29 @@
         "Telangana Government To Revise Land Prices - INDToday",
         "BJP MP Laxman Slams Revanth Reddy Over Muslim Remarks - INDToday",
         "Telangana Plans ‘Traffic-Free Hyderabad’, Seeks Centre’s Support for Musi Rejuvenation - Telugu360"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-09T19:05:37.442Z",
+    "timestampIST": "10/5/2026, 12:35:37 am",
+    "executiveSummary": "<p>The Telangana government is focused on making Hyderabad signal-free, with the CM outlining the urban vision at a Parliamentary Standing Committee meeting (5, 6, 9, 11, 13, 14, 16, 18). Singareni plans to open 9 new mines (1). BJP MP Laxman criticized Revanth Reddy over remarks (4), and Laxma Reddy also criticized Congress over maize transport delays and farmer protests in Mahabubnagar (20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is focused on making Hyderabad signal-free, with the CM outlining the urban vision at a Parliamentary Standing Committee meeting (5, 6, 9, 11, 13, 14, 16, 18). Singareni plans to open 9 new mines (1). BJP MP Laxman criticized Revanth Reddy over remarks (4), and Laxma Reddy also criticized Congress over maize transport delays and farmer protests in Mahabubnagar (20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for public unrest in Mahabubnagar due to farmer protests over maize transport delays. (20)</span></li>\n    <li><span class=\"risk-low\">Political criticism from BJP MP Laxman regarding Revanth Reddy's remarks. (4)</span></li>\n    <li><span class=\"risk-low\">Public concern regarding job fraud involving a Telangana man in Saudi Arabia. (8)</span></li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Telangana government's focus on making Hyderabad signal-free (5, 6, 9, 11, 13, 14, 16, 18) could be linked to the Musi River rejuvenation plan (6, 15).</li>\n    <li>The government's plans for Hyderabad's traffic management (5, 6, 9, 11, 13, 14, 16, 18) and the rescue operation from the Musi River (15) highlight urban challenges.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in Mahabubnagar closely and assess the farmer protests. (20)</li>\n    <li>Review the government's plans for making Hyderabad signal-free and ensure coordination between relevant departments. (5, 6, 9, 11, 13, 14, 16, 18)</li>\n    <li>Assess the public sentiment regarding the job fraud case and provide necessary support to the affected individual. (8)</li>\n    <li>Monitor political reactions to the remarks made by Revanth Reddy. (4)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Mahabubnagar:</b> Requires immediate attention due to farmer protests related to maize transport delays. (20)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.8°C",
+      "humidity": "43%",
+      "wind": "8.2 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 30,
+      "pm25": 15.7,
+      "goldPerGram": "₹9,114",
+      "newsCount": 40,
+      "topHeadlines": [
+        "Singareni plans 9 new mines to offset production losses - Telangana Today",
+        "Jagan accuses Naidu government of misusing police machinery in Andhra Pradesh - Telangana Today",
+        "Telangana Government To Revise Land Prices - INDToday",
+        "BJP MP Laxman Slams Revanth Reddy Over Muslim Remarks - INDToday",
+        "State govt aiming to make Hyderabad free of traffic woes, signal-free: CM - The Siasat Daily"
       ]
     }
   }
