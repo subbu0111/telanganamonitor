@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09T07:26:40.026Z",
-    "timestampIST": "9/4/2026, 12:56:40 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism regarding his campaigning in Kerala and is involved in a war of words with Pinarayi Vijayan. (1, 18, 19, 20) The government is focusing on leveraging Corporate Social Responsibility (CSR) funds for development, with pledges totaling ₹110 Cr from Raheja Group, Ramky Group, and Yashoda Foundation. (2, 5, 6, 8, 13, 14, 15, 16) The CM announced the Adilabad Airport foundation and revived an irrigation project. (11)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism regarding his campaigning in Kerala and is involved in a war of words with Pinarayi Vijayan. (1, 18, 19, 20) The government is focusing on leveraging Corporate Social Responsibility (CSR) funds for development, with pledges totaling ₹110 Cr from Raheja Group, Ramky Group, and Yashoda Foundation. (2, 5, 6, 8, 13, 14, 15, 16) The CM announced the Adilabad Airport foundation and revived an irrigation project. (11)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political:</span> Criticism of CM Revanth Reddy's campaigning in Kerala and allegations of unfulfilled promises and corruption from BRS. (18, 19)</li>\n  <li><span class=\"risk-low\">Legal:</span> Telangana High Court to hear Khera’s anticipatory bail application today. (10)</li>\n  <li><span class=\"risk-low\">Financial:</span> Cyber fraud targeting an MLA using a fake Central scheme loan promise. (3)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The focus on CSR funding (2, 5, 6, 8, 13, 14, 15, 16) is likely driven by fiscal strain, as indicated by Telangana Today. (16)</li>\n  <li>CM Revanth Reddy's meetings with Tata Lockheed Martin (12, 17) align with the government's push for development and investment.</li>\n  <li>The CM's focus on Adilabad development (9, 11) indicates a specific district focus.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the legal proceedings related to Khera's anticipatory bail application. (10)</li>\n  <li>Assess the potential impact of the cyber fraud targeting the MLA and implement preventative measures. (3)</li>\n  <li>Prepare a response to the criticisms leveled against the CM regarding his Kerala campaigning. (18, 19)</li>\n  <li>Prioritize the effective utilization of the pledged CSR funds for education and healthcare. (2, 8)</li>\n  <li>Review and expedite the Adilabad development projects, including the airport and irrigation project. (9, 11)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>Adilabad requires immediate attention due to the CM's focus on development, including the airport foundation and irrigation project. (9, 11)</p>\n```",
-    "dataSnapshot": {
-      "temperature": "37.1°C",
-      "humidity": "22%",
-      "wind": "10.1 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 69,
-      "pm25": 26.9,
-      "goldPerGram": "₹8,895",
-      "newsCount": 33,
-      "topHeadlines": [
-        "CM Revanth, Pinarayi war of words peaks - The New Indian Express",
-        "Raheja Group, Ramky Group, Yashoda Foundation pledge ₹110 Cr for Telangana under CSR - NewsMeter",
-        "Cyber Fraud Targets MLA in Telangana Using Fake Central Scheme Loan Promise - The South India Times",
-        "Telangana Government to Provide Milk to Students from Class 1 to Intermediate Across State - The South India Times",
-        "CM Revanth Reddy asks corporates to prioritise CSR spending - The New Indian Express"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-09T09:11:10.194Z",
-    "timestampIST": "9/4/2026, 2:41:10 pm",
-    "executiveSummary": "<p>A GHMC worker died in a bus accident in Amberpet (1). The Chief Minister is focusing on leveraging Corporate Social Responsibility (CSR) funds for state development, particularly in education and healthcare (7, 11, 16, 17, 18, 19). The CM announced the Adilabad Airport foundation and revived an irrigation project, targeting development by 2034 (12, 14). The High Court will hear Khera’s anticipatory bail application today (13).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A GHMC worker died in a bus accident in Amberpet (1). The Chief Minister is focusing on leveraging Corporate Social Responsibility (CSR) funds for state development, particularly in education and healthcare (7, 11, 16, 17, 18, 19). The CM announced the Adilabad Airport foundation and revived an irrigation project, targeting development by 2034 (12, 14). The High Court will hear Khera’s anticipatory bail application today (13).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> Jeevan Reddy is likely to join BRS (2).</li>\n    <li><span class=\"risk-medium\">Financial:</span> Congress government is turning to CSR as fiscal strain deepens (19).</li>\n    <li><span class=\"risk-low\">Cybersecurity:</span> Cyber fraud targeted an MLA using a fake Central scheme loan promise (5).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A GHMC worker died in a bus accident in Amberpet (1).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on CSR spending (7, 8, 11, 16, 17, 18) is linked to the Congress government's fiscal situation (19).</li>\n    <li>The CM's meetings with corporates (15) are likely related to the push for increased CSR spending (7, 8, 11, 16, 17, 18).</li>\n    <li>The CM is targeting Adilabad development (12, 14) which may require CSR funding.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Assess the circumstances surrounding the GHMC worker's death in Amberpet (1).</li>\n    <li>Review the financial implications of relying on CSR funds (19).</li>\n    <li>Investigate the cyber fraud targeting the MLA (5) and enhance cybersecurity protocols.</li>\n    <li>Prepare a briefing on the CM's meetings with Tata Lockheed Martin (15, 20) and potential investment opportunities.</li>\n    <li>Monitor the High Court hearing regarding Khera's anticipatory bail application (13).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad:</b> The CM has announced plans for Adilabad, including an airport foundation and an irrigation project (12, 14). Monitor progress and resource allocation.</li>\n    <li><b>Amberpet:</b> Address the incident involving the GHMC worker's death (1).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "37.9°C",
-      "humidity": "20%",
-      "wind": "10 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 68,
-      "pm25": 24.3,
-      "goldPerGram": "₹8,895",
-      "newsCount": 31,
-      "topHeadlines": [
-        "Amberpet: GHMC worker dies in bus accident - Hyderabad Mail",
-        "Jeevan Reddy likely to join BRS, flays Congress govt - The Hans India",
-        "CM Revanth, Pinarayi war of words peaks - The New Indian Express",
-        "Raheja Group, Ramky Group, Yashoda Foundation pledge ₹110 Cr for Telangana under CSR - NewsMeter",
-        "Cyber Fraud Targets MLA in Telangana Using Fake Central Scheme Loan Promise - The South India Times"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-09T11:01:21.573Z",
     "timestampIST": "9/4/2026, 4:31:21 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy met with the COO of Tata Lockheed Martin (19). The CM unveiled the IGBC Green Property Show 2026 and announced the Adilabad Airport foundation and revival of an irrigation project (4, 18). Several news sources report criticism of CM Revanth Reddy from Jeevan Reddy and Dasoju Sravan (2, 3, 5, 13).</p>",
@@ -6556,6 +6510,29 @@
         "Will bear additional levy of Rs 10000 charged from Telangana Haj pilgrims: CM Revanth - NewsMeter",
         "CM flags off Haj pilgrims at Haj House - The Hans India",
         "AI-driven minority degree colleges soon in Telangana - The Hans India"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-09T09:21:00.736Z",
+    "timestampIST": "9/5/2026, 2:51:00 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on minority welfare initiatives, including the establishment of special degree colleges with AI and skill training across multiple districts (3, 4, 8, 13, 20).  The CM is also prioritizing the development of Kodangal, aiming to irrigate lands with Krishna water within 18 months (6, 7, 16).  Concerns remain regarding road safety, with Hyderabad being the third most accident-prone city in India, and nearly 8,000 road deaths recorded in Telangana in 2024 (9).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focused on minority welfare initiatives, including the establishment of special degree colleges with AI and skill training across multiple districts (3, 4, 8, 13, 20).  The CM is also prioritizing the development of Kodangal, aiming to irrigate lands with Krishna water within 18 months (6, 7, 16).  Concerns remain regarding road safety, with Hyderabad being the third most accident-prone city in India, and nearly 8,000 road deaths recorded in Telangana in 2024 (9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for farmer unrest in Mahabubnagar due to maize transport delays. (1)</span></li>\n    <li><span class=\"risk-low\">Public backlash possible regarding the razing of the 800-year-old Kakatiya temple in Warangal. (5)</span></li>\n    <li><span class=\"risk-medium\">Continued high road fatality rate in Telangana, particularly in Hyderabad. (9)</span></li>\n    <li><span class=\"risk-low\">Political implications of Modi's visit to Telangana. (10)</span></li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The establishment of minority degree colleges (3, 4, 8, 13, 20) aligns with CM Revanth Reddy's review of minority welfare initiatives (18).</li>\n    <li>CM Revanth Reddy's focus on Kodangal (6, 7, 16) suggests a strategic development plan for the region.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in Mahabubnagar closely, given the farmers' protest over maize transport delays. (1)</li>\n    <li>Assess and address the public sentiment regarding the demolition of the Kakatiya temple in Warangal. (5)</li>\n    <li>Prioritize road safety measures in Hyderabad and across Telangana to reduce fatalities. (9)</li>\n    <li>Review and expedite the implementation of the minority degree college initiative. (3, 4, 8, 13, 20)</li>\n    <li>Monitor the progress of the Kodangal development plan, particularly the irrigation project. (7)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Mahabubnagar:</b> Requires immediate attention due to the farmers' protest. (1)</li>\n    <li><b>Warangal:</b> Requires monitoring due to the temple demolition and potential public reaction. (5)</li>\n    <li><b>Hyderabad:</b> Needs immediate focus due to its high accident rate and road fatalities. (9)</li>\n    <li><b>Kodangal:</b> Requires monitoring due to the CM's focus on development. (6, 7, 16)</li>\n    <li><b>10 Districts:</b> Requires focus for the establishment of special minority degree colleges. (3)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36°C",
+      "humidity": "23%",
+      "wind": "9 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 64,
+      "pm25": 11.8,
+      "goldPerGram": "₹9,114",
+      "newsCount": 43,
+      "topHeadlines": [
+        "Laxma Reddy slams Congress over maize transport delays, farmers protest in Mahabubnagar - Telangana Today",
+        "Harish Rao demands immediate Medigadda repairs, calls Tummidihatti visit publicity stunt - Telangana Today",
+        "Telangana to Establish Special Minority Degree Colleges with AI and Skill Training Across 10 Districts - Jagran Josh",
+        "Telangana to launch minority degree colleges with AI - newsage.in",
+        "Telangana: 800-Year-Old Kakatiya temple razed in Warangal, Congress govt promises reconstruction after backlash - VSK Telangana"
       ]
     }
   }
