@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09T02:33:00.577Z",
-    "timestampIST": "9/4/2026, 8:03:00 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy met with the Ghana High Commissioner and Lockheed Martin officials. (2, 3, 13, 14) The CM is also facing criticism from BRS regarding his campaigning in Kerala and remarks made there. (9, 10, 11, 18, 19) The Telangana High Court will hear Khera's anticipatory bail application today. (1)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with the Ghana High Commissioner and Lockheed Martin officials. (2, 3, 13, 14) The CM is also facing criticism from BRS regarding his campaigning in Kerala and remarks made there. (9, 10, 11, 18, 19) The Telangana High Court will hear Khera's anticipatory bail application today. (1)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS criticism of CM Revanth Reddy's Kerala campaign and allegations of unfulfilled promises and corruption could escalate political tensions. (9, 10)</li>\n    <li><span class=\"risk-low\">Legal:</span> The Telangana High Court will hear Khera's anticipatory bail application today. (1)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A teen was killed in Hyderabad after a bike crashed into a pole. (12)</li>\n    <li><span class=\"risk-low\">Economic:</span> The Centre introduced a new LPG allocation formula amid Middle East tensions. (17)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's meetings with Lockheed Martin officials (2, 3) coincide with Lockheed Martin expressing interest in investing in Telangana (7, 8).</li>\n    <li>The CM's campaigning in Kerala (9, 10, 15) has led to a war of words with Pinarayi Vijayan (11, 15, 20) and criticism from BRS (9, 10, 18, 19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the Telangana High Court proceedings regarding Khera's anticipatory bail application. (1)</li>\n    <li>Assess the potential impact of the new LPG allocation formula on Telangana. (17)</li>\n    <li>Prepare a response to the BRS criticisms regarding the CM's Kerala campaign and allegations of unfulfilled promises. (9, 10)</li>\n    <li>Review the details of the meetings with Lockheed Martin and Ghana High Commissioner to understand the potential benefits for the state. (2, 3, 13, 14)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor the situation following the bike accident that resulted in a fatality. (12)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "27.7°C",
-      "humidity": "52%",
-      "wind": "7.8 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 67,
-      "pm25": 44.8,
-      "goldPerGram": "₹8,895",
-      "newsCount": 34,
-      "topHeadlines": [
-        "Telangana HC to hear Khera’s anticipatory bail application today - The Indian Express",
-        "CM Revanth Reddy Meets Ghana High Commissioner, Lockheed Martin Officials - The Morning Voice",
-        "Hyderabad: Revanth Reddy Meets Tata Lockheed Martin COO #Gallery - Social News XYZ",
-        "Telangana CM urges corporates to maximise CSR impact for state development - BusinessLine",
-        "Telangana CM A Revanth Reddy on maximizing CSR spending impact - The News Mill"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-09T05:49:53.238Z",
     "timestampIST": "9/4/2026, 11:19:53 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is focusing on leveraging Corporate Social Responsibility (CSR) funds for Telangana's development, particularly in education and healthcare. Raheja Group, Ramky Group, and Yashoda Foundation have pledged ₹110 Cr for Telangana under CSR (1). The CM is facing criticism from BRS regarding his campaigning in Kerala and allegations of unfulfilled promises (17, 18).</p>",
@@ -6556,6 +6533,29 @@
         "Rohit Sharma features in new Sony Pictures Networks India teaser campaign - Telangana Today",
         "Telangana to set up skill development colleges for minorities - The Siasat Daily",
         "Revanth announces special degree colleges for minorities across Telangana - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-09T02:58:08.101Z",
+    "timestampIST": "9/5/2026, 8:28:08 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is focusing on minority welfare, announcing new skill development and degree colleges. He also directed officials to complete the Narayanpet-Kodangal Lift Irrigation Scheme within one-and-a-half years (10). The government will cover retrofitting costs for autos within the ORR (12).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focusing on minority welfare, announcing new skill development and degree colleges. He also directed officials to complete the Narayanpet-Kodangal Lift Irrigation Scheme within one-and-a-half years (10). The government will cover retrofitting costs for autos within the ORR (12).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<p><span class=\"risk-medium\">Political:</span> BRS is criticizing the Congress government over farmers’ issues (19).</p>\n<p><span class=\"risk-medium\">Public Sentiment:</span> Anger exists against the Telangana government regarding the Save KBR campaign (18).</p>\n<p><span class=\"risk-low\">Law and Order:</span> KTR claims law and order has collapsed under the Revanth government (20).</p>\n\n<h3>🔗 Cross-Correlation</h3>\n<p>1.  CM Revanth is actively involved in minority welfare initiatives (4, 6, 7), which is a key focus area.</p>\n<p>2.  The government is bearing additional costs for Haj pilgrims (9, 11, 15), potentially due to external factors.</p>\n\n<h3>💡 Recommendations</h3>\n<p>1.  Monitor BRS's criticism regarding farmers' issues and prepare a response strategy (19).</p>\n<p>2.  Address public concerns related to the Save KBR campaign to mitigate negative sentiment (18).</p>\n<p>3.  Assess the claims of law and order collapse made by KTR and take necessary actions (20).</p>\n<p>4.  Ensure timely completion of the Narayanpet-Kodangal Lift Irrigation Scheme as per CM's directive (10).</p>\n\n<h3>🗺️ District Focus</h3>\n<p>1.  **Kodangal:** Requires attention due to the CM's focus on transforming it into a 'national model' and the ongoing irrigation scheme (2, 10, 17).</p>\n<p>2.  **Narayanpet:** Needs focus due to the ongoing Narayanpet-Kodangal Lift Irrigation Scheme (10).</p>\n```\n",
+    "dataSnapshot": {
+      "temperature": "27.2°C",
+      "humidity": "67%",
+      "wind": "7.5 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 24,
+      "pm25": 9.3,
+      "goldPerGram": "₹9,114",
+      "newsCount": 41,
+      "topHeadlines": [
+        "In a stark departure, Revanth refrains from political criticism - The Hans India",
+        "CM Revanth vows to transform Kodangal into a ‘national model’ - The Hans India",
+        "Gold Rate Today in Hyderabad: Latest 18K, 22K &amp; 24K Gold Prices on 08 May 2026 - ET Now",
+        "Revanth Reddy Reviews Minority Welfare Initiatives - INDToday",
+        "Rohit Sharma features in new Sony Pictures Networks India teaser campaign - Telangana Today"
       ]
     }
   }
