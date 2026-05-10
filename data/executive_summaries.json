@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T02:43:49.967Z",
-    "timestampIST": "10/4/2026, 8:13:49 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is scheduled to travel to Delhi today for a CWC meeting (1). The CM has ordered the swift repair of the Kaleshwaram barrages (2, 3, 4, 5). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to a protest (12).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is scheduled to travel to Delhi today for a CWC meeting (1). The CM has ordered the swift repair of the Kaleshwaram barrages (2, 3, 4, 5). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to a protest (12).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public unrest:</span> A protest has erupted in Amberpet following the death of a GHMC worker in an RTC bus accident (12).</li>\n    <li><span class=\"risk-medium\">Infrastructure Failure:</span> The CM has ordered swift repairs of the Kaleshwaram barrages, indicating potential issues (2, 3, 4, 5).</li>\n    <li><span class=\"risk-low\">Political Instability:</span> Ongoing political discourse between BRS and Congress leaders, including invitations to join parties and criticism of the CM (7, 8, 9, 11, 14, 15, 17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on infrastructure is evident through the orders for Kaleshwaram barrage repairs (2, 3, 4, 5) and the finalization of land for the Hyderabad Bullet Train Hub (19).</li>\n    <li>Political activity is heightened with BRS inviting Jeevan Reddy to join the party (7, 8, 9, 15), and TPCC criticizing Jeevan Reddy (11, 14).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in Amberpet closely and ensure law and order following the GHMC worker's death (12).</li>\n    <li>Expedite the repair of the Kaleshwaram barrages and provide regular updates on progress (2, 3, 4, 5).</li>\n    <li>Prepare for the CM's travel to Delhi for the CWC meeting (1).</li>\n    <li>Assess the potential impact of the ongoing political discourse on public sentiment and stability (7, 8, 9, 11, 14, 15, 17).</li>\n    <li>Ensure effective communication with Collectors regarding road safety solutions (6).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor the situation in Amberpet due to the protest following the RTC bus accident (12).</li>\n    <li><b>Jayashankar Bhupalpally/Mulugu (Kaleshwaram Project Area):</b> Closely monitor the progress of the Kaleshwaram barrage repairs (2, 3, 4, 5).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.3°C",
-      "humidity": "71%",
-      "wind": "0.4 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 66,
-      "pm25": 51.9,
-      "goldPerGram": "₹8,937",
-      "newsCount": 23,
-      "topHeadlines": [
-        "CM heads to Delhi for CWC meet today - The Times of India",
-        "Kaleshwaram Project: Revanth Reddy orders swift repair of 3 barrages - Asianet Newsable",
-        "CM orders fast-track repairs of Kaleshwaram barrages - The Hindu",
-        "Telangana CM orders speedy repairs of Kaleshwaram barrages - The Siasat Daily",
-        "Kaleshwaram project repairs: TG CM A Revanth Reddy orders immediate restoration - Hyderabad Mail"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-10T05:59:28.639Z",
     "timestampIST": "10/4/2026, 11:29:28 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi today for a CWC meet (5). He has ordered swift repairs of the Kaleshwaram barrages (6, 7, 8, 9). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to a protest (16).</p>",
@@ -6527,6 +6504,29 @@
         "CM Seeks Modi Nod For Metro Expansion - Deccan Chronicle",
         "Gold Rate Today in Hyderabad: Latest 18K, 22K &amp; 24K Gold Prices on 09 May 2026 - ET Now",
         "Singareni plans 9 new mines to offset production losses - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-10T03:30:46.124Z",
+    "timestampIST": "10/5/2026, 9:00:46 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy announced plans to make Hyderabad a \"traffic signal-free\" city, seeking central government aid and planning a three-level traffic system. (1, 2, 3, 6, 14, 15, 18, 20) The CM has been invited to PM Modi’s project launch events. (5) A movie titled \"Oka Yodhuni Praja Palana\" on CM Revanth has been released. (4)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy announced plans to make Hyderabad a \"traffic signal-free\" city, seeking central government aid and planning a three-level traffic system. (1, 2, 3, 6, 14, 15, 18, 20) The CM has been invited to PM Modi’s project launch events. (5) A movie titled \"Oka Yodhuni Praja Palana\" on CM Revanth has been released. (4)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BJP MP Laxman has criticized Revanth Reddy over Muslim remarks. (13)</li>\n    <li><span class=\"risk-low\">Infrastructure:</span> The government is seeking central support for Musi rejuvenation. (15)</li>\n    <li><span class=\"risk-low\">Environmental:</span> Thunderstorm forecast in four Telangana districts today. (17)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on a \"traffic signal-free\" Hyderabad (1, 3, 6, 14, 18, 20) is linked to seeking central government aid (2, 15).</li>\n    <li>The CM has been invited to PM Modi’s project launch events (5), which could be related to the need for central aid for Hyderabad's development. (2, 15)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prepare a detailed plan for the \"traffic signal-free\" Hyderabad initiative, including cost estimates and timelines.</li>\n    <li>Assess the potential impact of the thunderstorm forecast in the affected districts and ensure preparedness.</li>\n    <li>Monitor the political fallout from BJP MP Laxman's criticism of the CM.</li>\n    <li>Coordinate with the Central Government regarding the CM's invitation to project launch events.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Four districts are under a thunderstorm forecast today. (17) Specific districts not mentioned. Monitor weather updates and coordinate with local authorities for disaster preparedness.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.8°C",
+      "humidity": "62%",
+      "wind": "5.5 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 32,
+      "pm25": 10.2,
+      "goldPerGram": "₹9,114",
+      "newsCount": 39,
+      "topHeadlines": [
+        "Revanth Reddy Unveils Traffic-Free Hyderabad Plan - Hyderabad Mail",
+        "Need Centre’s aid to make Hyd signal &amp; traffic-free: Revanth - The Times of India",
+        "Hyd will be a ‘traffic signal-free’ city: CM - The Hans India",
+        "Oka Yodhuni Praja Palana, movie on CM Revanth released - The Hans India",
+        "CM invited to PM Modi’s project launch events - The Hans India"
       ]
     }
   }
