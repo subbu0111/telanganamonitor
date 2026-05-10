@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T05:59:28.639Z",
-    "timestampIST": "10/4/2026, 11:29:28 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi today for a CWC meet (5). He has ordered swift repairs of the Kaleshwaram barrages (6, 7, 8, 9). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to a protest (16).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is in Delhi today for a CWC meet (5). He has ordered swift repairs of the Kaleshwaram barrages (6, 7, 8, 9). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to a protest (16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for public unrest</span>: A protest has erupted in Amberpet following the death of a GHMC worker in an RTC bus accident (16).</li>\n    <li><span class=\"risk-low\">Political Instability</span>: TPCC Chief and others are criticizing Jeevan Reddy (15, 18), and BRS is inviting him to join their party (11, 12, 13, 19).</li>\n    <li><span class=\"risk-low\">Infrastructure Concerns</span>: The CM has ordered the swift repair of 3 barrages in the Kaleshwaram project (6, 7, 8, 9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's order for Kaleshwaram barrage repairs (6, 7, 8, 9) highlights potential infrastructure vulnerabilities.</li>\n    <li>The invitation to Jeevan Reddy to join BRS (11, 12, 13, 19) and the criticism from TPCC (15, 18) indicate ongoing political maneuvering.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the protest in Amberpet and ensure law and order are maintained (16).</li>\n    <li>Assess the status of the Kaleshwaram barrage repairs and provide regular updates to the CM. (6, 7, 8, 9).</li>\n    <li>Monitor political developments related to Jeevan Reddy and any potential shifts in party affiliations (11, 12, 13, 15, 18, 19).</li>\n    <li>Ensure the Collectors are implementing innovative road safety solutions as directed by the Chief Secretary (10).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the protest in Amberpet following the death of a GHMC worker (16).</li>\n    <li><b>Jayashankar Bhupalpally/Mulugu (Kaleshwaram Project Area):</b> Focus on the swift repair of the barrages (6, 7, 8, 9).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35.9°C",
-      "humidity": "27%",
-      "wind": "8 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 67,
-      "pm25": 31.2,
-      "goldPerGram": "₹8,937",
-      "newsCount": 23,
-      "topHeadlines": [
-        "Telangana HRF urges CM to pardon prisoners ahead of Ambedkar Jayanti - The Siasat Daily",
-        "Telangana Free Sarees Scheme 2026 Begins with New Design and Color for Women - The South India Times",
-        "Hyderabad Gold Silver Rate Today (10 April 2026): Latest 22K, 24K, 18K Gold, Silver Rates In Nizam City - Oneindia",
-        "Telangana struggling with excess stocks due to Centre’s policy: Min Uttam - The Siasat Daily",
-        "CM heads to Delhi for CWC meet today - The Times of India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-10T07:55:17.970Z",
     "timestampIST": "10/4/2026, 1:25:17 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi for a CWC meeting today (9). The CM has ordered swift repairs of the Kaleshwaram barrages (10, 11, 12, 13). A GHMC worker was killed in an RTC bus accident in Amberpet, leading to protests (20).</p>",
@@ -6527,6 +6504,29 @@
         "Hyd will be a ‘traffic signal-free’ city: CM - The Hans India",
         "Oka Yodhuni Praja Palana, movie on CM Revanth released - The Hans India",
         "CM invited to PM Modi’s project launch events - The Hans India"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-10T06:34:21.163Z",
+    "timestampIST": "10/5/2026, 12:04:21 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy announced the continuation of intermediate admissions for the 2026-27 academic year (1, 2, 4). Prime Minister Modi is in Hyderabad today to launch projects worth Rs 9,400 crore (9, 11, 17). The Chief Minister unveiled a plan for a traffic-free Hyderabad and seeks central aid for metro expansion (10, 12, 13, 14, 18, 20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy announced the continuation of intermediate admissions for the 2026-27 academic year (1, 2, 4). Prime Minister Modi is in Hyderabad today to launch projects worth Rs 9,400 crore (9, 11, 17). The Chief Minister unveiled a plan for a traffic-free Hyderabad and seeks central aid for metro expansion (10, 12, 13, 14, 18, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public Perception:</span> Opposition criticism regarding state's irrigation interests (3).</li>\n  <li><span class=\"risk-low\">Traffic Management:</span> Implementation of the traffic-free Hyderabad plan may face logistical challenges (10, 12, 13, 14, 18).</li>\n  <li><span class=\"risk-low\">Public Safety:</span> A crash in Hastinapuram resulted in one death and one injury (8).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The Prime Minister's visit to Hyderabad (9, 11, 17) presents an opportunity for the Chief Minister to seek central aid for metro expansion (20).</li>\n  <li>The Chief Minister's plan for a traffic-free Hyderabad (10, 12, 14, 18) requires central aid (13).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Prepare a detailed briefing for the Chief Minister on the projects to be launched by Prime Minister Modi in Hyderabad.</li>\n  <li>Prepare a comprehensive plan for traffic management in Hyderabad, including strategies to secure central aid.</li>\n  <li>Monitor public sentiment regarding the state's irrigation interests.</li>\n  <li>Review and assess the circumstances of the Hastinapuram crash and provide necessary support.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Focus on traffic management and security arrangements due to the Prime Minister's visit and the launch of projects (9, 11, 17). Monitor the implementation of the traffic-free plan (10, 12, 14, 18).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35.1°C",
+      "humidity": "33%",
+      "wind": "1.7 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 61,
+      "pm25": 16.6,
+      "goldPerGram": "₹9,114",
+      "newsCount": 41,
+      "topHeadlines": [
+        "Inter admissions to continue as usual for 2026-27 academic year: Telangana CM - The Siasat Daily",
+        "CM Revanth Reddy Orders Continuation of Intermediate Admissions as usual - The Hans India",
+        "Govt neglecting State’s irrigation interest: Harish Rao - The Hans India",
+        "Revanth Reddy Clears Confusion On Telangana Intermediate Admissions - INDToday",
+        "Revanth Congratulates Vijay on Taking Oath as Tamil Nadu Chief Minister - Deccan Chronicle"
       ]
     }
   }
