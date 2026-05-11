@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11T20:36:54.973Z",
-    "timestampIST": "12/4/2026, 2:06:54 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy paid tribute to Jyotirao Phule (1, 18). KTR criticized Revanth Reddy, stating he deceived people (7, 11). An advocate died in a tanker crash near Keesara, Andhra Pradesh (8). Ten people were injured in a bus accident in Suryapet (19). Revanth Reddy warned of public agitation over a Lok Sabha seat increase proposal (20).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy paid tribute to Jyotirao Phule (1, 18). KTR criticized Revanth Reddy, stating he deceived people (7, 11). An advocate died in a tanker crash near Keesara, Andhra Pradesh (8). Ten people were injured in a bus accident in Suryapet (19). Revanth Reddy warned of public agitation over a Lok Sabha seat increase proposal (20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public unrest:</span> Revanth Reddy warned of public agitation over a Lok Sabha seat increase proposal (20).</li>\n  <li><span class=\"risk-low\">Political tensions:</span> KTR's criticism of Revanth Reddy could escalate political tensions (7, 11).</li>\n  <li><span class=\"risk-low\">Traffic incidents:</span> A bus accident in Suryapet injured 10 people (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>Revanth Reddy's public image is under scrutiny, with both tributes to Jyotirao Phule (1, 18) and criticism from KTR (7, 11) appearing in the news.</li>\n  <li>The upcoming IPL match between Punjab Kings and Sunrisers Hyderabad (12, 13, 14, 16, 17) is generating significant media coverage.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor public sentiment regarding the Lok Sabha seat increase proposal and assess potential for protests (20).</li>\n  <li>Monitor political rhetoric and be prepared for potential escalation of tensions between parties (7, 11).</li>\n  <li>Review safety protocols for public transport, particularly in light of the Suryapet bus accident (19).</li>\n  <li>Assess the impact of the Excise Commissioner row (2).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Suryapet:</b> Immediate attention is needed due to the bus accident that injured 10 people (19).</li>\n  <li><b>Adilabad:</b> Monitor developments related to the 2029 delimitation and the creation of new Assembly constituencies (9).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.7°C",
-      "humidity": "56%",
-      "wind": "5.1 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 69,
-      "pm25": 37.7,
-      "goldPerGram": "₹8,959",
-      "newsCount": 23,
-      "topHeadlines": [
-        "Hyderabad: Revanth Reddy pays tribute to Mahatma Jyotirao Phule #Gallery - Social News XYZ",
-        "Excise Commissioner row sparks outrage in Telangana. - en.etemaaddaily.com",
-        "TS Inter Results 2026 LIVE: TSBIE confirms 1st, 2nd year result date for over 9 lakh; pass percentage - Careers360",
-        "Telangana: KCR's rule better than Revanth, says Jeevan Reddy - MSN",
-        "TS Inter Results 2026 Live Updates: Telangana 1st &amp; 2nd Year Results Expected at tgbie.cgg.gov.in - sainikschoolsambalpur.in"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-11T22:35:10.975Z",
     "timestampIST": "12/4/2026, 4:05:10 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy paid tribute to Mahatma Jyotirao Phule (1, 17).  A bus accident in Suryapet resulted in 10 injuries (18). The CM warned of public agitation regarding the Lok Sabha seat increase proposal and called it a regional issue (19, 20).</p>",
@@ -6436,6 +6413,23 @@
         "Revanth Reddy Hits Back At PM Modi Over Remarks On Congress, Calls BJP ‘British Janata Party’ - News18",
         "Chief Minister Revanth Reddy meets Governor - The Hindu"
       ]
+    }
+  },
+  {
+    "timestamp": "2026-05-11T21:19:23.041Z",
+    "timestampIST": "12/5/2026, 2:49:23 am",
+    "executiveSummary": "<p>No critical developments were reported in the last 24 hours.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>No critical developments were reported in the last 24 hours.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<p>No risks can be assessed based on the provided data.</p>\n\n<h3>🔗 Cross-Correlation</h3>\n<p>No cross-correlations can be identified from the available data.</p>\n\n<h3>💡 Recommendations</h3>\n<p>No recommendations can be made based on the available data.</p>\n\n<h3>🗺️ District Focus</h3>\n<p>No district focus can be determined from the provided data.</p>\n```",
+    "dataSnapshot": {
+      "temperature": "26.6°C",
+      "humidity": "69%",
+      "wind": "7.4 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 33,
+      "pm25": 11.1,
+      "goldPerGram": "₹9,194",
+      "newsCount": 0,
+      "topHeadlines": []
     }
   }
 ]
