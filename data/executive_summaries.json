@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11T02:29:21.923Z",
-    "timestampIST": "11/4/2026, 7:59:21 am",
-    "executiveSummary": "<p>Kavitha has alleged large-scale corruption in GHMC, specifically mentioning a Rs 1,148 Cr contract scam. (1, 12) Ex-Minister Jeevan Reddy met with KCR and is reportedly set to join BRS. (4, 10) Telangana Inter Results are scheduled to be declared on April 12 by CM Revanth Reddy. (7, 11, 18) The state has been declared Maoist-free after 42 cadres surrendered. (8, 9)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Kavitha has alleged large-scale corruption in GHMC, specifically mentioning a Rs 1,148 Cr contract scam. (1, 12) Ex-Minister Jeevan Reddy met with KCR and is reportedly set to join BRS. (4, 10) Telangana Inter Results are scheduled to be declared on April 12 by CM Revanth Reddy. (7, 11, 18) The state has been declared Maoist-free after 42 cadres surrendered. (8, 9)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> Jeevan Reddy's potential shift to BRS and calls for CM Revanth Reddy's removal could destabilize the current government. (4, 5)</li>\n  <li><span class=\"risk-medium\">Corruption Allegations:</span> Allegations of a Rs 1,148 Cr GHMC contract scam by Kavitha could lead to public scrutiny and potential investigations. (1, 12)</li>\n  <li><span class=\"risk-low\">Public Discontent:</span> Potential delays in providing new school uniforms could cause public discontent. (16)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The allegations of corruption in GHMC (1, 12) could be linked to the political maneuvering of figures like Kavitha and Jeevan Reddy (4, 5), potentially impacting the current government.</li>\n  <li>The upcoming Inter Results announcement (7, 11, 18) by CM Revanth Reddy could be impacted by the political climate.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the political activities of Jeevan Reddy and KCR closely. (4, 10)</li>\n  <li>Initiate a preliminary assessment of the GHMC corruption allegations. (1, 12)</li>\n  <li>Prepare for the announcement of Inter Results on April 12 and manage potential public reactions. (7, 11, 18)</li>\n  <li>Assess the status of school uniform distribution and address any potential delays. (16)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Due to the GHMC corruption allegations (1, 12) and the car crash in Gachibowli (20), Hyderabad requires immediate attention.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.6°C",
-      "humidity": "66%",
-      "wind": "4 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 69,
-      "pm25": 52.4,
-      "goldPerGram": "₹8,959",
-      "newsCount": 24,
-      "topHeadlines": [
-        "Kavitha alleges large-scale corruption in GHMC - The Hans India",
-        "Where a government school meets private aspirations - The Hindu",
-        "CM Revanth shares his views on delimitation at the CWC meeting - The Hindu",
-        "Telangana: Ex‑Minister Jeevan Reddy meets KCR, set to join BRS​ - The Hans India",
-        "‘Revanth Reddy must go, KCR must return,’ says T Jeevan Reddy - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-11T05:25:42.333Z",
     "timestampIST": "11/4/2026, 10:55:42 am",
     "executiveSummary": "<p>Ten individuals were injured in Suryapet when a bus collided with a lorry (1). CM Revanth Reddy warned of \"serious damage\" to southern states due to the delimitation proposal (3). Former Minister Jeevan Reddy met with KCR and is set to join BRS (8, 14).</p>",
@@ -6504,6 +6481,29 @@
         "Telangana To Continue Intermediate Admissions As Usual This Year - The Morning Voice",
         "‘Better if you join me’: PM Modi jokes with CM Revanth Reddy at Hyderabad event - The Indian Express",
         "Telangana CM Revanth Reddy congratulates Tamil Nadu CM Joseph C Vijay on assuming office - The News Mill"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-11T03:42:04.456Z",
+    "timestampIST": "11/5/2026, 9:12:04 am",
+    "executiveSummary": "<p>Five fatalities were reported in a road accident in Mahabubnagar (1). Chief Minister Revanth Reddy will launch Telangana Education Week today (2, 11). Prime Minister Modi launched Rs 9,400 crore in development works in Telangana (3). The Chief Minister is aiming for a $1 trillion economy (4, 7).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Five fatalities were reported in a road accident in Mahabubnagar (1). Chief Minister Revanth Reddy will launch Telangana Education Week today (2, 11). Prime Minister Modi launched Rs 9,400 crore in development works in Telangana (3). The Chief Minister is aiming for a $1 trillion economy (4, 7).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Fatal road accident in Mahabubnagar (1).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Potential for political friction between CM Revanth Reddy and PM Modi regarding project clearances and alignment with the central government (8, 9, 10, 20).</li>\n    <li><span class=\"risk-low\">LOW:</span> Criticism of the Telangana government regarding paddy procurement delays (14).</li>\n    <li><span class=\"risk-low\">LOW:</span> Actor and cameraman killed in a car accident on the ORR (12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's focus on economic development ($1 trillion economy) (4, 7) is potentially linked to his requests for project clearances from the Prime Minister (10).</li>\n    <li>The launch of Telangana Education Week (2, 11) is a key initiative of the current government.</li>\n    <li>The PM's comments on aligning with him (8) and the BRS MLC's demand for a white paper on Central funds (17) indicate potential political tensions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to investigate the fatal road accident in Mahabubnagar and ensure immediate support to the victims' families (1).</li>\n    <li>Monitor the launch of Telangana Education Week and ensure smooth execution (2, 11).</li>\n    <li>Assess the status of pending Telangana projects and prepare a briefing for the CM on the progress and any potential roadblocks (10).</li>\n    <li>Prepare a response to the BRS MLC's demand for a white paper on Central funds (17).</li>\n    <li>Monitor public sentiment regarding the government's handling of paddy procurement (14).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Mahabubnagar:</b> Immediate attention is required due to the fatal road accident (1).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.6°C",
+      "humidity": "62%",
+      "wind": "6.7 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 32,
+      "pm25": 8.6,
+      "goldPerGram": "₹9,114",
+      "newsCount": 74,
+      "topHeadlines": [
+        "Five Die in Fatal Road Accident at Mahabubnagar - INDToday",
+        "Revanth Reddy To Launch Telangana Education Week Today - INDToday",
+        "PM Modi launches Rs 9,400 crore development works in Telangana - The New Indian Express",
+        "Telangana eyes $1 trillion economy, aligns with Viksit Bharat: CM - Asianet Newsable",
+        "End of anxiety: Telangana CM Revanth orders regular Inter admissions - The New Indian Express"
       ]
     }
   }
