@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11T13:03:22.316Z",
-    "timestampIST": "11/4/2026, 6:33:22 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism regarding delimitation proposals and the Kaleshwaram project. Former Congress leader Jeevan Reddy is likely to join BRS on April 20. A bus accident in Suryapet resulted in 10 injuries.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism regarding delimitation proposals and the Kaleshwaram project. Former Congress leader Jeevan Reddy is likely to join BRS on April 20. A bus accident in Suryapet resulted in 10 injuries.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public agitation</span>: Revanth Reddy has warned of public agitation over the Lok Sabha seat increase proposal. (12)</li>\n    <li><span class=\"risk-medium\">Political Instability</span>: Criticism of Revanth Reddy from KTR and Jeevan Reddy's potential BRS joining could destabilize the political landscape. (3, 19, 18)</li>\n    <li><span class=\"risk-low\">Public Safety</span>: A bus accident in Suryapet resulted in 10 injuries. (11)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's stance on delimitation (12, 13, 17) is a key topic of discussion, with potential for public unrest.</li>\n    <li>Jeevan Reddy's meetings with KCR and his likely shift to BRS (18) are directly related to the ongoing political dynamics and criticism of the current government (3, 19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment and potential for protests related to the delimitation proposal.</li>\n    <li>Assess the political implications of Jeevan Reddy's potential move to BRS.</li>\n    <li>Ensure adequate medical support and investigation into the bus accident in Suryapet.</li>\n    <li>Prepare a communication strategy to address criticisms regarding the Kaleshwaram project.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Suryapet:</b> Immediate attention is needed to address the aftermath of the bus accident and provide necessary support to the injured. (11)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "36.9°C",
-      "humidity": "24%",
-      "wind": "7.6 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 68,
-      "pm25": 32,
-      "goldPerGram": "₹8,959",
-      "newsCount": 25,
-      "topHeadlines": [
-        "TS Inter Results 2026 LIVE: TSBIE confirms 1st, 2nd year result date for over 9 lakh; pass percentage - Careers360",
-        "Why Revanth Reddy matters the most for Congress - The South First",
-        "Revanth Reddy will be remembered as leader who deceived people: KTR - Telangana Today",
-        "IPL 2026: Why Pat Cummins Is Not Playing in Today’s Punjab Kings vs Sunrisers Hyderabad Match? EXPLAINED - lokmattimes.com",
-        "Telangana: Ex-Congress leader Jeevan Reddy likely to join BRS on April 20 - The Siasat Daily"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-11T14:37:46.313Z",
-    "timestampIST": "11/4/2026, 8:07:46 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy paid tribute to Jyotirao Phule. (3, 10) Revanth Reddy warned of public agitation over the Lok Sabha seat increase proposal and called delimitation a regional issue. (13, 14) Former Congress leader Jeevan Reddy is likely to join BRS on April 20. (7) A bus rammed a lorry in Suryapet, injuring 10 people. (12)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy paid tribute to Jyotirao Phule. (3, 10) Revanth Reddy warned of public agitation over the Lok Sabha seat increase proposal and called delimitation a regional issue. (13, 14) Former Congress leader Jeevan Reddy is likely to join BRS on April 20. (7) A bus rammed a lorry in Suryapet, injuring 10 people. (12)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public unrest:</span> Revanth Reddy warned of public agitation regarding the Lok Sabha seat increase proposal. (13)</li>\n    <li><span class=\"risk-low\">Political Instability:</span> Former Congress leader Jeevan Reddy is likely to join BRS. (7, 19)</li>\n    <li><span class=\"risk-low\">Potential for Regional Tension:</span> Revanth Reddy views the delimitation as a regional issue, warning of \"serious damage\" to southern states. (14)</li>\n    <li><span class=\"risk-low\">Traffic Accident:</span> 10 people were injured in a bus accident in Suryapet. (12)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's tributes to Jyotirao Phule (3, 10) are juxtaposed with criticism from KTR (5) and discussions about delimitation (13, 14, 18).</li>\n    <li>The news of Jeevan Reddy potentially joining BRS (7, 19) is linked to the political commentary on Revanth Reddy's leadership (4, 5, 20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment and any potential mobilization related to the Lok Sabha seat increase proposal. (13)</li>\n    <li>Assess the political implications of Jeevan Reddy's potential move to BRS. (7, 19)</li>\n    <li>Review safety protocols and emergency response in Suryapet following the bus accident. (12)</li>\n    <li>Prepare a communication strategy to address public concerns regarding delimitation. (13, 14)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Suryapet:</b> Immediate attention is required due to the bus accident that injured 10 people. (12)</li>\n    <li><b>Erstwhile Adilabad:</b> Monitor developments related to the five new Assembly constituencies under the 2029 delimitation. (2)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "34.4°C",
-      "humidity": "30%",
-      "wind": "4.5 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 68,
-      "pm25": 37.7,
-      "goldPerGram": "₹8,959",
-      "newsCount": 22,
-      "topHeadlines": [
-        "TS Inter Results 2026 LIVE: TSBIE confirms 1st, 2nd year result date for over 9 lakh; pass percentage - Careers360",
-        "Erstwhile Adilabad set for five new Assembly constituencies under 2029 delimitation - Telangana Today",
-        "Hyderabad: Revanth Reddy pays tribute to Mahatma Jyotirao Phule #Gallery - Social News XYZ",
-        "His government’s chips are down but Revanth Reddy’s stock is up in Congress - The South First",
-        "Revanth Reddy will be remembered as leader who deceived people: KTR - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-11T16:40:09.582Z",
     "timestampIST": "11/4/2026, 10:10:09 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from KTR regarding his leadership. A bus accident in Suryapet resulted in 10 injuries. The CM has warned of public agitation and \"serious damage\" related to the Lok Sabha seat increase proposal and delimitation.</p>",
@@ -6458,6 +6412,29 @@
         "Revanth Reddy Orders Immediate Probe Into Bandi Bageerath Case - Telugu360",
         "Revanth Reddy Welcomes PM Modi’s Call For Cooperation - INDToday",
         "FSSAI sets new standards for Hyderabadi Haleem - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-11T14:58:03.737Z",
+    "timestampIST": "11/5/2026, 8:28:03 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered multiple probes: one into a POCSO case involving Bandi Sanjay's son (15, 17), and another into the case of Bandi Bhagirath (9, 11, 19, 20). The CM also criticized PM Modi's remarks on gold and foreign policy (3, 13, 14, 18).</p>\n<p>A fatal accident involving a speeding Hayabusa resulted in 5 fatalities in Telangana (10).</p>\n<p>Thunderstorm forecast in five Telangana districts today (6).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has ordered multiple probes: one into a POCSO case involving Bandi Sanjay's son (15, 17), and another into the case of Bandi Bhagirath (9, 11, 19, 20). The CM also criticized PM Modi's remarks on gold and foreign policy (3, 13, 14, 18).</p>\n<p>A fatal accident involving a speeding Hayabusa resulted in 5 fatalities in Telangana (10).</p>\n<p>Thunderstorm forecast in five Telangana districts today (6).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH</span>: The death of 5 people in a superbike accident (10) requires immediate investigation and public safety measures.</li>\n  <li><span class=\"risk-medium\">MEDIUM</span>: The ongoing investigations into cases involving Bandi Sanjay's son and Bandi Bhagirath (9, 11, 15, 17, 19, 20) could escalate political tensions.</li>\n  <li><span class=\"risk-low\">LOW</span>: Potential public criticism of the Prime Minister's remarks on gold and foreign policy by the CM (3, 13, 14, 18) could lead to political friction.</li>\n  <li><span class=\"risk-low\">LOW</span>: Thunderstorm forecast in five districts (6) may cause localized disruptions.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's criticism of PM Modi's remarks on gold and foreign policy (3, 13, 14, 18) highlights a developing political disagreement.</li>\n  <li>The CM's orders for probes into cases involving Bandi Sanjay's son and Bandi Bhagirath (9, 11, 15, 17, 19, 20) indicate a focus on addressing specific legal matters.</li>\n  <li>The superbike accident (10) highlights potential public safety concerns.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>DGP should ensure swift and thorough investigations into the superbike accident (10) and the cases involving Bandi Sanjay's son and Bandi Bhagirath (9, 11, 15, 17, 19, 20).</li>\n  <li>Monitor public sentiment and media coverage regarding the CM's statements on PM Modi's remarks (3, 13, 14, 18).</li>\n  <li>Coordinate with relevant departments to prepare for potential disruptions due to the thunderstorm forecast in five districts (6).</li>\n  <li>Review and strengthen traffic regulations and enforcement, particularly concerning high-speed vehicles.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>Districts affected by the thunderstorm forecast (6) require immediate attention for disaster preparedness and response.</li>\n  <li>The district where the superbike accident occurred (10) needs immediate attention for investigation and public safety.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "33.5°C",
+      "humidity": "33%",
+      "wind": "8.7 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 51,
+      "pm25": 26.8,
+      "goldPerGram": "₹9,194",
+      "newsCount": 76,
+      "topHeadlines": [
+        "Ambati Rayudu announces new HCA selection panels - Telangana Today",
+        "We Will Develop Kodangal In A Way That The Entire Country Looks Towards It: CM Revanth - INDToday",
+        "CM Revanth Reddy calls PM Modi’s gold remark ‘irresponsible’, seeks all-party meet on West Asia crisis - The New Indian Express",
+        "Lexus launches all-new ES 500e electric sedan in Hyderabad - Telangana Today",
+        "Modi-Revanth bonhomie: Is it smoke without fire or fire without smoke ? - NewsMeter"
       ]
     }
   }
