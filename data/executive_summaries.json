@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11T16:40:09.582Z",
-    "timestampIST": "11/4/2026, 10:10:09 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from KTR regarding his leadership. A bus accident in Suryapet resulted in 10 injuries. The CM has warned of public agitation and \"serious damage\" related to the Lok Sabha seat increase proposal and delimitation.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism from KTR regarding his leadership. A bus accident in Suryapet resulted in 10 injuries. The CM has warned of public agitation and \"serious damage\" related to the Lok Sabha seat increase proposal and delimitation.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public unrest</span>: Revanth Reddy warns of public agitation over the Lok Sabha seat increase proposal (17).</li>\n  <li><span class=\"risk-low\">Political tension</span>: KTR criticizes Revanth Reddy (2, 8).</li>\n  <li><span class=\"risk-low\">Potential for protests</span>: CM Revanth Reddy calls delimitation a regional issue (18).</li>\n  <li><span class=\"risk-low\">Public Safety</span>: 10 injured in a bus accident in Suryapet (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>KTR's criticism of Revanth Reddy (2, 8) suggests potential political instability.</li>\n  <li>Revanth Reddy's warning of public agitation (17) and concerns about delimitation (18) indicate potential for public demonstrations or unrest.</li>\n  <li>The bus accident in Suryapet (16) highlights a need for immediate attention to public safety.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor public sentiment and social media for reactions to the Lok Sabha seat increase proposal and delimitation plans.</li>\n  <li>Assess the political implications of KTR's statements and potential impact on governance.</li>\n  <li>Ensure adequate medical support and investigation into the bus accident in Suryapet.</li>\n  <li>Prepare a contingency plan to address potential public agitations related to the delimitation issue.</li>\n  <li>Review and analyze the delimitation proposal's impact on Telangana.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Suryapet</b>: Immediate attention needed due to the bus accident (16). Ensure proper medical care and investigation.</li>\n  <li><b>Erstwhile Adilabad</b>: Monitor developments related to the five new Assembly constituencies under the 2029 delimitation (5).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "32.4°C",
-      "humidity": "43%",
-      "wind": "6.5 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 69,
-      "pm25": 40.7,
-      "goldPerGram": "₹8,959",
-      "newsCount": 22,
-      "topHeadlines": [
-        "Congress govt education priority: Shabbir Ali - newsage.in",
-        "Revanth Reddy a ‘leader who deceived all sections’ of society: KTR - Telangana Today",
-        "Hyderabad advocate dies in tanker crash near Keesara in AP - Telangana Today",
-        "TS Inter Results 2026 LIVE: TSBIE confirms 1st, 2nd year result date for over 9 lakh; pass percentage - Careers360",
-        "Erstwhile Adilabad set for five new Assembly constituencies under 2029 delimitation - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-11T18:50:12.867Z",
     "timestampIST": "12/4/2026, 12:20:12 am",
     "executiveSummary": "<p>TSBIE has confirmed the result date for the 1st and 2nd year Inter results, affecting over 9 lakh students (1).  Chief Minister Revanth Reddy paid tribute to Mahatma Jyotirao Phule (8, 17).  A bus accident in Suryapet resulted in 10 injuries (18).  The CM has warned of public agitation over the Lok Sabha seat increase proposal and views delimitation as a regional issue (19, 20).</p>",
@@ -6435,6 +6412,29 @@
         "CM Revanth Reddy calls PM Modi’s gold remark ‘irresponsible’, seeks all-party meet on West Asia crisis - The New Indian Express",
         "Lexus launches all-new ES 500e electric sedan in Hyderabad - Telangana Today",
         "Modi-Revanth bonhomie: Is it smoke without fire or fire without smoke ? - NewsMeter"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-11T17:55:41.862Z",
+    "timestampIST": "11/5/2026, 11:25:41 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy met with the Governor and criticized Prime Minister Modi on multiple policy issues, including remarks on gold and the West Asia crisis (2, 5, 9, 19). A POCSO case investigation against Bandi Sanjay’s son is ongoing, with a new SIT being formed (4, 16, 20). A superbike race resulted in a fatal accident with 5 fatalities in Telangana (17).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with the Governor and criticized Prime Minister Modi on multiple policy issues, including remarks on gold and the West Asia crisis (2, 5, 9, 19). A POCSO case investigation against Bandi Sanjay’s son is ongoing, with a new SIT being formed (4, 16, 20). A superbike race resulted in a fatal accident with 5 fatalities in Telangana (17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> CM Revanth Reddy's strong criticism of PM Modi and the BJP could escalate political tensions (1, 5, 9, 14, 19).</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> A superbike race resulted in 5 fatalities, highlighting potential public safety concerns related to reckless driving (17).</li>\n    <li><span class=\"risk-medium\">Social Unrest:</span> The ongoing POCSO case investigation involving Bandi Sanjay's son and the BRS leader's demand for a lookout notice could lead to public scrutiny and potential unrest (4, 15, 16, 20).</li>\n    <li><span class=\"risk-low\">Weather-Related Disruptions:</span> Thunderstorm forecast in five Telangana districts today (12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The POCSO case investigation against Bandi Sanjay's son (4, 16, 20) and the BRS leader's demand for a lookout notice (15) are related, suggesting potential political implications.</li>\n    <li>CM Revanth Reddy's meetings with the Governor (2) and his criticisms of PM Modi (1, 5, 9, 14, 19) indicate potential political friction.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political climate closely, particularly regarding the CM's statements and the BJP's response.</li>\n    <li>Review and strengthen traffic regulations and enforcement, especially concerning high-speed vehicles and racing events, following the superbike accident.</li>\n    <li>Closely monitor the POCSO case investigation and any public reactions or protests.</li>\n    <li>Prepare for potential disruptions in the five districts with a thunderstorm forecast.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Focus:</b> The five districts with a thunderstorm forecast (12).</li>\n    <li><b>Reason:</b> Potential for weather-related disruptions.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30.3°C",
+      "humidity": "44%",
+      "wind": "9.4 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 38,
+      "pm25": 25.1,
+      "goldPerGram": "₹9,194",
+      "newsCount": 62,
+      "topHeadlines": [
+        "Revanth Reddy Hits Back At PM Modi Over Remarks On Congress, Calls BJP ‘British Janata Party’ - News18",
+        "Chief Minister Revanth Reddy meets Governor - The Hindu",
+        "Telangana's United Stand Against Drugs - Devdiscourse",
+        "Telangana Leadership Intensifies Probe in High-Profile POCSO Case - Devdiscourse",
+        "Telangana CM Critiques Modi's Policies Amid Push for Collaboration - Devdiscourse"
       ]
     }
   }
