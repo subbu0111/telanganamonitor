@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12T22:37:19.914Z",
-    "timestampIST": "13/4/2026, 4:07:19 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from KTR regarding alleged corruption and deceptive leadership within the Telangana government (3, 4, 5, 17, 18). TS Inter Results for 2026 have been released (2, 12, 15, 16). An investigation is underway in Meerpet after a speeding car critically injured two girls (11).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism from KTR regarding alleged corruption and deceptive leadership within the Telangana government (3, 4, 5, 17, 18). TS Inter Results for 2026 have been released (2, 12, 15, 16). An investigation is underway in Meerpet after a speeding car critically injured two girls (11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> KTR's accusations of corruption and deceptive leadership against CM Revanth Reddy could escalate political tensions (3, 4, 5, 17, 18).</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> Negative statements from KTR regarding CM Revanth Reddy could impact public perception (14, 17, 18).</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> Two girls were critically injured in Meerpet due to a speeding car, requiring immediate police attention (11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>KTR's statements criticizing Revanth Reddy (3, 4, 5, 14, 17, 18) are a direct challenge to the current government.</li>\n    <li>The release of the TS Inter Results (2, 12, 15, 16) is a significant event that requires monitoring for any potential issues.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric from KTR and other opposition leaders for any escalation of accusations (3, 4, 5, 14, 17, 18).</li>\n    <li>Ensure a swift and thorough investigation into the Meerpet car accident and provide support to the injured girls and their families (11).</li>\n    <li>Monitor the aftermath of the TS Inter Results release for any protests or public dissatisfaction (2, 12, 15, 16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Meerpet:</b> Immediate attention is required due to the critical injuries sustained by two girls in a speeding car incident (11). Police investigation and public safety are paramount.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.6°C",
-      "humidity": "55%",
-      "wind": "5.9 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 63,
-      "pm25": 32.2,
-      "goldPerGram": "₹8,959",
-      "newsCount": 18,
-      "topHeadlines": [
-        "Telangana CM Revanth Reddy mourns Asha Bhosle's death - The News Mill",
-        "TS Inter Results 2026 Out: Check Telangana 1st &amp; 2nd Year Results at tgbie.cgg.gov.in, Topper List available - sainikschoolsambalpur.in",
-        "Congress leaders busy with ‘loot-and-stash’ operation across Telangana: KTR - Telangana Today",
-        "KTR alleges ‘Loot-and-Hide’ corruption by Revanth Reddy govt - Hyderabad Mail",
-        "Congress running ‘loot-and-hide’ scheme in Telangana: KTR - The Siasat Daily"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-13T02:53:03.915Z",
     "timestampIST": "13/4/2026, 8:23:03 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy mourned the death of Asha Bhosle. KTR has accused the Revanth Reddy government of corruption. TS Inter Results for 2026 have been released.</p>",
@@ -6331,6 +6308,29 @@
       "pm25": 12.5,
       "goldPerGram": "₹9,225",
       "newsCount": 34,
+      "topHeadlines": [
+        "Procure Paddy by May End: Revanth - Deccan Chronicle",
+        "Congress, netizens flay Telangana govt over delay in POCSO case against Bandi Sanjay’s son - Telangana Today",
+        "Ensure speedy completion of paddy, maize procurement, Revanth tells officials - BusinessLine",
+        "Telangana govt plans to administer pledge to students against tobacco, alcohol, drugs - EdexLive",
+        "IPL 2026, GT vs SRH: Why Gujarat Titans changed jersey colour against Sunrisers Hyderabad - The Times of India"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-12T23:04:25.049Z",
+    "timestampIST": "13/5/2026, 4:34:25 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has directed officials to expedite paddy and maize procurement, with a deadline of May end. (1, 3, 11, 14) The government is facing criticism regarding delays in a POCSO case involving Bandi Sanjay's son. (2) Admissions for Telangana Inter 2026 are starting immediately. (10, 19)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has directed officials to expedite paddy and maize procurement, with a deadline of May end. (1, 3, 11, 14) The government is facing criticism regarding delays in a POCSO case involving Bandi Sanjay's son. (2) Admissions for Telangana Inter 2026 are starting immediately. (10, 19)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Delays in paddy and maize procurement could lead to farmer distress and political repercussions. (1, 3, 11, 14, 16, 17)</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Public and political pressure related to the POCSO case against Bandi Sanjay's son. (2, 18, 20)</li>\n    <li><span class=\"risk-low\">LOW:</span> Potential for traffic incidents on the Karnataka-Telangana border. (9)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on grain procurement (1, 3, 11, 14, 16, 17) is occurring amid a farmer crisis (16), indicating a potential vulnerability.</li>\n    <li>The Telangana government is facing criticism (2) while simultaneously making key decisions on rice procurement (8), suggesting a need for effective communication and action.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize and closely monitor grain procurement progress, ensuring timely completion by the May end deadline. (1, 3, 11, 14)</li>\n    <li>Address the concerns regarding the POCSO case expeditiously and transparently. (2, 18, 20)</li>\n    <li>Issue clear directives to Collectors regarding grain procurement targets and timelines. (11, 17)</li>\n    <li>Monitor the Karnataka-Telangana border for any potential issues arising from the recent bus accident. (9)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>All districts involved in paddy and maize procurement require immediate attention to ensure timely completion. (1, 3, 11, 14, 17)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "26.9°C",
+      "humidity": "70%",
+      "wind": "5.2 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 37,
+      "pm25": 9.9,
+      "goldPerGram": "₹9,225",
+      "newsCount": 32,
       "topHeadlines": [
         "Procure Paddy by May End: Revanth - Deccan Chronicle",
         "Congress, netizens flay Telangana govt over delay in POCSO case against Bandi Sanjay’s son - Telangana Today",
