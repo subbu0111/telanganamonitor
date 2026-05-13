@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13T11:24:06.782Z",
-    "timestampIST": "13/4/2026, 4:54:06 pm",
-    "executiveSummary": "<p>Multiple news sources report on the ongoing debate surrounding delimitation proposals, with CM Revanth Reddy advocating for specific changes and facing criticism. (1, 4, 6, 7, 8, 10)  A defection of an MLA has exposed internal conflicts within the Telangana Congress. (2)  Four fatalities were reported in separate road accidents in Vikarabad. (3, 11)  An IPL match between SRH and RR is scheduled for today. (15, 17, 18, 19)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Multiple news sources report on the ongoing debate surrounding delimitation proposals, with CM Revanth Reddy advocating for specific changes and facing criticism. (1, 4, 6, 7, 8, 10)  A defection of an MLA has exposed internal conflicts within the Telangana Congress. (2)  Four fatalities were reported in separate road accidents in Vikarabad. (3, 11)  An IPL match between SRH and RR is scheduled for today. (15, 17, 18, 19)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span>  Defection of an MLA and internal criticism of the Congress government suggest potential instability. (2)</li>\n  <li><span class=\"risk-low\">Public Discontent:</span>  Debate around delimitation could lead to public discontent if not managed effectively. (1, 4, 6, 7, 8, 10)</li>\n  <li><span class=\"risk-low\">Potential for Labour Unrest:</span>  A CPI MLA urges the government to avert an RTC strike. (20)</li>\n  <li><span class=\"risk-low\">Road Safety Concerns:</span>  Four fatalities in Vikarabad due to road accidents highlight a need for increased road safety measures. (3, 11)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>Delimitation proposals (1, 4, 6, 7, 8, 10) are a central political issue, with Revanth Reddy at the forefront, creating potential friction within the state.</li>\n  <li>The accidents in Vikarabad (3, 11) highlight a need for immediate attention to road safety measures.</li>\n  <li>The CPI MLA's call to avert a RTC strike (20) indicates potential labour unrest, which could impact public services.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>The Chief Minister should address the concerns raised by the defected MLA and internal conflicts within the Congress. (2)</li>\n  <li>Monitor public sentiment regarding the delimitation proposals and proactively communicate the government's stance. (1, 4, 6, 7, 8, 10)</li>\n  <li>Initiate an immediate review of road safety measures in Vikarabad. (3, 11)</li>\n  <li>Engage with the CPI MLA to understand and address the concerns regarding the potential RTC strike. (20)</li>\n  <li>Monitor the ongoing political discourse and be prepared to respond to any allegations or accusations. (9, 12, 14)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Vikarabad:</b> Immediate attention is required due to the reported road accident fatalities. (3, 11)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "38.9°C",
-      "humidity": "22%",
-      "wind": "2.4 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 67,
-      "pm25": 34.6,
-      "goldPerGram": "₹8,959",
-      "newsCount": 28,
-      "topHeadlines": [
-        "Is Revanth’s delimitation formula for fair South representation reasonable? - The Federal",
-        "CM, ministers don’t respond: Defected MLA exposes cracks in Telangana Congress - The Siasat Daily",
-        "Vikarabad Seperate Road Accidents Claim Four Lives - INDToday",
-        "Population-based delimitation unjust to South, smaller states; put nation above party interest: Telangana ... - The Hans India",
-        "BRS turncoat MLA Pocharam Srinivas Reddy slams Congress government - Telangana Today"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-13T13:43:24.234Z",
-    "timestampIST": "13/4/2026, 7:13:24 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is advocating for a hybrid model of delimitation, expressing concerns that population-based delimitation will be unjust to southern states. (1, 2, 3, 4, 5) Four fatalities were reported in separate road accidents in Vikarabad. (11, 19) The CM has written to the Prime Minister regarding delimitation. (6)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is advocating for a hybrid model of delimitation, expressing concerns that population-based delimitation will be unjust to southern states. (1, 2, 3, 4, 5) Four fatalities were reported in separate road accidents in Vikarabad. (11, 19) The CM has written to the Prime Minister regarding delimitation. (6)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Defected MLA exposes cracks in Telangana Congress. (9)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> Four fatalities in Vikarabad due to road accidents. (11, 19)</li>\n    <li><span class=\"risk-medium\">Delimitation Disputes:</span> CM Revanth Reddy's stance on delimitation could lead to political friction. (1, 2, 3, 4, 5)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The delimitation issue is a recurring theme, with multiple headlines focusing on CM Revanth Reddy's proposals and concerns. (1, 2, 3, 4, 5, 6, 8, 12, 14, 15, 17, 18)</li>\n    <li>Road accidents in Vikarabad (11, 19) highlight potential safety concerns.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political situation within the Congress party, particularly regarding the defection of the MLA. (9)</li>\n    <li>Review road safety measures in Vikarabad district. (11, 19)</li>\n    <li>Prepare a briefing on the CM's delimitation proposal for the cabinet. (1, 2, 3, 4, 5)</li>\n    <li>Assess the potential impact of the CM's letter to the PM on inter-state relations. (6)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Vikarabad:</b> Immediate attention is required due to the reported road accident fatalities. (11, 19)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35.8°C",
-      "humidity": "29%",
-      "wind": "6.4 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 66,
-      "pm25": 40.5,
-      "goldPerGram": "₹8,959",
-      "newsCount": 31,
-      "topHeadlines": [
-        "Delimitation: Telangana CM proposes hybrid model for increasing LS seats - The Siasat Daily",
-        "Telangana CM Revanth says delimitation based on population will do 'injustice' to southern states - The New Indian Express",
-        "Revanth Reddy Seeks Delimitation Based on 2026 Census - Deccan Chronicle",
-        "Telangana CM opposes present delimitation exercise; proposes hybrid model based on pro-rata and GSDP of States - The Hindu",
-        "Telangana CM Advocates Hybrid Delimitation for Fair Representation - Devdiscourse"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-13T15:16:41.758Z",
     "timestampIST": "13/4/2026, 8:46:41 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is advocating for a \"hybrid\" delimitation model for Lok Sabha seats, opposing a population-based approach, and seeking an all-party meet (1, 2, 4, 5, 7, 8, 9, 10, 12, 17, 18, 20). He is also concerned about linking delimitation with women's reservation (1, 10, 20). A defected MLA has exposed cracks in the Telangana Congress (13).</p>",
@@ -6337,6 +6291,29 @@
         "Telangana CM Revanth Reddy inspects breakfast items served to students - The Hindu",
         "Hyderabad: Two killed as car hits motorcycle in Mallapur - Telangana Today",
         "Congress’ Reddy warns action in case against Bandi Sanjay’s son - Awaz The Voice"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-13T14:38:45.396Z",
+    "timestampIST": "13/5/2026, 8:08:45 pm",
+    "executiveSummary": "<p>Uber is planning significant expansion in Hyderabad, including a new corporate office and expansion of its Centre of Excellence. Chief Minister Revanth Reddy met with Uber's CEO and suggested establishing multi-level parking facilities and EV charging stations. The CM also inspected breakfast items served to students.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Uber is planning significant expansion in Hyderabad, including a new corporate office and expansion of its Centre of Excellence. Chief Minister Revanth Reddy met with Uber's CEO and suggested establishing multi-level parking facilities and EV charging stations. The CM also inspected breakfast items served to students.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Traffic Congestion:</span> Uber's expansion plans in Hyderabad may exacerbate existing traffic and parking issues. (Headlines 1, 3, 5, 6, 8)</li>\n  <li><span class=\"risk-low\">Procurement Delays:</span> The CM has ordered expeditious procurement of paddy and maize, with warnings of consequences for delays. (Headlines 18, 19, 20)</li>\n  <li><span class=\"risk-low\">Potential Legal Issues:</span> Congress’ Reddy warned of action in a case against Bandi Sanjay’s son. (Headline 15)</li>\n  <li><span class=\"risk-low\">Road Safety:</span> Two fatalities resulted from a car hitting a motorcycle in Mallapur. (Headline 14)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's meeting with Uber (Headline 7) directly relates to the company's expansion plans in Hyderabad (Headlines 1, 3, 4).</li>\n  <li>The CM's suggestion for parking facilities (Headlines 5, 6, 8) is a direct response to the potential increase in vehicles due to Uber's expansion.</li>\n  <li>The CM's focus on procurement (Headlines 18, 19, 20) indicates a priority on agricultural matters.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Direct the Transport Department to collaborate with Uber on parking solutions and traffic management strategies in Hyderabad. (Headlines 5, 6, 8)</li>\n  <li>Monitor the progress of paddy and maize procurement and ensure timely completion. (Headlines 18, 19, 20)</li>\n  <li>Review the status of the case mentioned in Headline 15 and assess potential implications.</li>\n  <li>Review road safety measures in Mallapur and other areas to prevent further accidents. (Headline 14)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Focus on traffic management and parking solutions due to Uber's expansion. (Headlines 1, 3, 4, 5, 6, 7, 8)</li>\n  <li><b>All Districts:</b> Monitor procurement operations to ensure timely completion, especially for paddy and maize. (Headlines 18, 19, 20)</li>\n  <li><b>Mallapur:</b> Review road safety measures following the fatal accident. (Headline 14)</li>\n</ul>\n```\n",
+    "dataSnapshot": {
+      "temperature": "34°C",
+      "humidity": "37%",
+      "wind": "6.3 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 45,
+      "pm25": 30.6,
+      "goldPerGram": "₹9,228",
+      "newsCount": 25,
+      "topHeadlines": [
+        "Uber's Ambitious Expansion in Telangana: A New Corporate Office and Multilevel Parking Plans - Devdiscourse",
+        "How to read Narendra Modi's 'mere se hi judo' offer to Revanth Reddy - India Today",
+        "Uber plans expansion in Hyderabad, explores corporate office in Future City - Telangana Today",
+        "Uber to expand Centre of Excellence in Hyderabad - The Siasat Daily",
+        "CM Revanth asks Uber to help solve parking crisis in Hyderabad and other major cities - NewsMeter"
       ]
     }
   }
