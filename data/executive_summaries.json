@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13T09:57:47.761Z",
-    "timestampIST": "13/4/2026, 3:27:47 pm",
-    "executiveSummary": "<p>Several political figures are engaged in public disputes, with BRS and Congress leaders trading accusations (2, 6, 9, 11, 20). Delimitation and women's reservation are key topics of discussion (1, 3, 4, 5, 7). Four fatalities were reported in separate accidents in Vikarabad (8).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Several political figures are engaged in public disputes, with BRS and Congress leaders trading accusations (2, 6, 9, 11, 20). Delimitation and women's reservation are key topics of discussion (1, 3, 4, 5, 7). Four fatalities were reported in separate accidents in Vikarabad (8).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Ongoing accusations between BRS and Congress leaders could escalate tensions. (2, 6, 9, 11, 20)</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Discussions around delimitation and women's reservation may generate public debate and potential unrest. (1, 3, 4, 5, 7)</li>\n    <li><span class=\"risk-low\">Potential Labor Unrest:</span> A CPI MLA urges the government to avert an RTC strike. (16)</li>\n    <li><span class=\"risk-low\">Traffic and Public Safety:</span> Four fatalities in Vikarabad indicate a need for increased vigilance. (8)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Political discourse is heavily focused on delimitation and women's reservation, indicating a potential legislative focus. (1, 3, 4, 5, 7)</li>\n    <li>Accusations between KTR and Congress leaders (6, 9, 11, 20) suggest a deepening political rift.</li>\n    <li>The upcoming IPL match (12, 14, 15) may impact traffic and public gatherings in Hyderabad.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor political rhetoric closely for escalation and potential public order implications.</li>\n    <li>Assess the potential for labor unrest related to the RTC.</li>\n    <li>Review road safety measures in Vikarabad, given the recent fatalities.</li>\n    <li>Monitor public sentiment regarding delimitation and women's reservation.</li>\n    <li>Ensure adequate security and traffic management for the IPL match in Hyderabad.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Vikarabad:</b> Increased police presence and road safety checks are needed due to the reported accidents. (8)</li>\n    <li><b>Hyderabad:</b> Monitor traffic and public gatherings due to the IPL match. (12, 14, 15)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "39.4°C",
-      "humidity": "22%",
-      "wind": "4 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 66,
-      "pm25": 33.2,
-      "goldPerGram": "₹8,959",
-      "newsCount": 24,
-      "topHeadlines": [
-        "Population-based delimitation unjust to South, smaller states; put nation above party interest: Telangana ... - The Hans India",
-        "BRS turncoat MLA Pocharam Srinivas Reddy slams Congress government - Telangana Today",
-        "Telangana MP Seats Proposal by Revanth Reddy Suggests 13 Additional Seats Based on Economy - The South India Times",
-        "Build National Consensus on Delimitation: Revanth Reddy - Deccan Chronicle",
-        "Revanth Reddy urges PM Modi to separate women's quota, delimitation - Asianet Newsable"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-13T11:24:06.782Z",
     "timestampIST": "13/4/2026, 4:54:06 pm",
     "executiveSummary": "<p>Multiple news sources report on the ongoing debate surrounding delimitation proposals, with CM Revanth Reddy advocating for specific changes and facing criticism. (1, 4, 6, 7, 8, 10)  A defection of an MLA has exposed internal conflicts within the Telangana Congress. (2)  Four fatalities were reported in separate road accidents in Vikarabad. (3, 11)  An IPL match between SRH and RR is scheduled for today. (15, 17, 18, 19)</p>",
@@ -6337,6 +6314,29 @@
         "SRH head coach stands by batters after hitting new low in loss vs GT - India Today",
         "Gold Silver Rate Today (May 13): Gold Near Record High, Silver Explodes Past Rs 2.9 Lakh Check Latest City-Wise Rates In India - ABP News",
         "Procurement operations to be sped up in Telangana - newsage.in"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-13T10:30:03.014Z",
+    "timestampIST": "13/5/2026, 4:00:03 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy inspected breakfast items for students (3) and ordered expedited paddy and maize procurement (9). He also warned collectors about procurement delays (11) and sought PM support for the Tummidihatti project (17). A fatal car accident occurred in Mallapur, Hyderabad (4).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy inspected breakfast items for students (3) and ordered expedited paddy and maize procurement (9). He also warned collectors about procurement delays (11) and sought PM support for the Tummidihatti project (17). A fatal car accident occurred in Mallapur, Hyderabad (4).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Procurement Delays:</span> CM has warned collectors about procurement delays (11), indicating potential for farmer unrest or supply chain disruptions.</li>\n  <li><span class=\"risk-low\">POCSO Case Controversy:</span> Congress and netizens are criticizing the government over delays in a POCSO case involving Bandi Sanjay's son (15), potentially leading to political fallout.</li>\n  <li><span class=\"risk-low\">Traffic Incident:</span> A car accident in Mallapur, Hyderabad resulted in two fatalities (4), requiring immediate police response and investigation.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's focus on procurement (8, 9, 11, 14, 16) highlights a critical area of concern, potentially linked to farmer distress and political pressure.</li>\n  <li>The news about the POCSO case against Bandi Sanjay's son (5, 15) and the BJP's response (10) indicates a developing political narrative.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Direct the Agriculture Department to expedite paddy and maize procurement, as per CM's orders (9).</li>\n  <li>Instruct the relevant authorities to investigate the car accident in Mallapur (4) and provide immediate assistance.</li>\n  <li>Monitor the political fallout from the POCSO case and the BJP's response (5, 10, 15).</li>\n  <li>Ensure the effective implementation of the CM's directives regarding paddy storage using function halls and rythu bazaars (16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>All Districts:</b> Focus on expediting paddy and maize procurement (9, 14), with special attention to districts experiencing delays.</li>\n  <li><b>Hyderabad:</b> Monitor the situation in Mallapur following the fatal car accident (4).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "38.1°C",
+      "humidity": "24%",
+      "wind": "1.5 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 66,
+      "pm25": 25.3,
+      "goldPerGram": "₹9,225",
+      "newsCount": 24,
+      "topHeadlines": [
+        "Hyderabad's new 'Feel the Jail' museum lets visitors see what prison life feels like - India Today",
+        "UNITED NEWS OF INDIA - UNITED NEWS OF INDIA",
+        "Telangana CM Revanth Reddy inspects breakfast items served to students - The Hindu",
+        "Hyderabad: Two killed as car hits motorcycle in Mallapur - Telangana Today",
+        "Congress’ Reddy warns action in case against Bandi Sanjay’s son - Awaz The Voice"
       ]
     }
   }
