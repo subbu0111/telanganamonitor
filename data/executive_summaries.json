@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13T22:46:04.479Z",
-    "timestampIST": "14/4/2026, 4:16:04 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in the delimitation debate, opposing population-based models and proposing a \"hybrid model\" (1, 2, 3, 5, 6, 10, 11, 12, 14, 15, 19). He is seeking an all-party meet and urging a nationwide debate on delimitation and the Women's Bill (2, 5). The Telangana High Court has ordered HYDRAA to stop demolitions (4).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaged in the delimitation debate, opposing population-based models and proposing a \"hybrid model\" (1, 2, 3, 5, 6, 10, 11, 12, 14, 15, 19). He is seeking an all-party meet and urging a nationwide debate on delimitation and the Women's Bill (2, 5). The Telangana High Court has ordered HYDRAA to stop demolitions (4).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> The ongoing debate over delimitation, with CM Revanth Reddy's strong stance and accusations of bias, could escalate tensions between the state and the Centre, and potentially between North and South India (1, 3, 5, 8, 10, 15, 19).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Opposition from BJP, specifically Bandi Sanjay, to the CM's delimitation proposals could lead to political friction and public discourse (9, 20).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> The HYDRAA demolition halt ordered by the High Court requires immediate attention to avoid legal complications and potential public unrest (4).</li>\n    <li><span class=\"risk-low\">LOW:</span> Public input is open until May 13 for Telangana Fire Services Act amendments (18).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's actions and statements on delimitation are consistently reported across multiple news outlets (1, 2, 3, 5, 6, 10, 11, 12, 14, 15, 19), indicating a high-profile and ongoing issue.</li>\n    <li>Bandi Sanjay's rejection of Revanth Reddy's delimitation proposal (9) and accusations against the CM (20) highlight a direct political conflict.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>The Chief Minister's Office should prepare a detailed briefing on the legal implications of the High Court's order regarding HYDRAA demolitions (4).</li>\n    <li>Monitor public sentiment and media coverage related to the delimitation debate, especially regarding the \"hybrid model\" and potential North-South divide concerns (1, 3, 5, 6, 10, 11, 12, 14, 15, 19).</li>\n    <li>Prepare a response strategy to address BJP's criticisms of the CM's delimitation proposals (9, 20).</li>\n    <li>Assess the potential impact of the proposed amendments to the Telangana Fire Services Act and prepare for public feedback (18).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Kamareddy: Monitor the situation regarding support to Haj pilgrims, as mentioned by Shabbir Ali (16).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "27.6°C",
-      "humidity": "62%",
-      "wind": "3.6 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 69,
-      "pm25": 22.8,
-      "goldPerGram": "₹9,002",
-      "newsCount": 52,
-      "topHeadlines": [
-        "Revanth Reddy accuses Centre of using delimitation as political tool - Asianet Newsable",
-        "Revanth Reddy urges nationwide debate on delimitation and Women’s Bill - The News Mill",
-        "Revanth to unite southern states on delimitation bill - The Times of India",
-        "Breaking: Telangana HC Orders HYDRAA To Stop Demolitions! - Gulte",
-        "Revanth Reddy seeks all-party meet on delimitation, opposes population-based model. - en.etemaaddaily.com"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-14T02:45:42.872Z",
     "timestampIST": "14/4/2026, 8:15:42 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in the delimitation debate, opposing population-based models and proposing a \"hybrid model\" (1, 2, 3, 4, 8, 9, 10, 12, 13, 20). He has called for a national debate and an all-party meet on the issue (2, 3). The BJP, represented by Bandi Sanjay, has criticized Reddy's stance (6, 7, 18). Concerns regarding a North-South divide are being raised (6, 13, 17, 20).</p>",
@@ -6268,6 +6245,29 @@
         "Visionary Urban Expansion: Telangana to Transform with New Infrastructure - Devdiscourse",
         "Revanth Reddy stresses future-ready urban development for Mega Growth Corridor - Telangana Today",
         "Telangana CM positive on Ex-Servicemen Corporation - metroindia.net"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-13T23:06:12.740Z",
+    "timestampIST": "14/5/2026, 4:36:12 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on urban development, including plans for urban and temple corridors across Telangana (1, 2, 4, 5). He is also considering the establishment of an Ex-Servicemen Corporation (6, 8, 18). Uber plans to expand its presence in Hyderabad, including a new corporate office and Centre of Excellence, and is discussing solutions for parking issues (9, 11, 12, 13, 15, 16, 17).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focused on urban development, including plans for urban and temple corridors across Telangana (1, 2, 4, 5). He is also considering the establishment of an Ex-Servicemen Corporation (6, 8, 18). Uber plans to expand its presence in Hyderabad, including a new corporate office and Centre of Excellence, and is discussing solutions for parking issues (9, 11, 12, 13, 15, 16, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-low\">Potential for political friction:</span> PM Modi sent a message to CM Revanth Reddy (7), and there is commentary on the relationship (10).</li>\n    <li><span class=\"risk-low\">Legal/Political:</span> Congress' Sama Ram Mohan Reddy commented on a case against Bandi Sanjay's son (14).</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> The opening of a \"Feel the Jail\" museum in Hyderabad may generate public interest or controversy (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is actively pursuing urban development initiatives (1, 2, 3, 4, 5), and is also engaging with Uber on infrastructure solutions (9, 11, 13, 15, 16, 17).</li>\n    <li>The Telangana government is considering establishing an Ex-Servicemen Corporation (6, 8, 18).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Brief the CM on the specifics of the proposed urban growth corridors and temple corridors, including timelines and budgetary allocations (1, 2, 3, 4, 5).</li>\n    <li>Prepare a detailed plan for the Ex-Servicemen Corporation, including its scope and potential impact (6, 8, 18).</li>\n    <li>Monitor Uber's expansion plans and the discussions regarding parking solutions, ensuring alignment with the city's infrastructure needs (9, 11, 12, 13, 15, 16, 17).</li>\n    <li>Monitor public and political reactions to the \"Feel the Jail\" museum (20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on the Uber expansion plans, parking solutions, and the opening of the \"Feel the Jail\" museum (9, 11, 12, 13, 15, 16, 17, 20).</li>\n    <li><b>Khammam, Warangal, Karimnagar:</b> Monitor the planning and development of ORRs (3).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.9°C",
+      "humidity": "52%",
+      "wind": "4.3 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 38,
+      "pm25": 24,
+      "goldPerGram": "₹9,228",
+      "newsCount": 28,
+      "topHeadlines": [
+        "Telangana govt plans urban, temple corridors across state - The Times of India",
+        "Revanth Unveils Mega Urban Growth Corridors Across State - Deccan Chronicle",
+        "CM Revanth Reddy Plans ORRs for Khammam, Warangal, Karimnagar Corporations - Telangana Tribune",
+        "Visionary Urban Expansion: Telangana to Transform with New Infrastructure - Devdiscourse",
+        "Revanth Reddy stresses future-ready urban development for Mega Growth Corridor - Telangana Today"
       ]
     }
   }
