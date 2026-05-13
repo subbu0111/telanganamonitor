@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13T06:16:57.920Z",
-    "timestampIST": "13/4/2026, 11:46:57 am",
-    "executiveSummary": "<p>Four fatalities were reported in separate accidents in Vikarabad. (1) KTR has made allegations of corruption against the Revanth Reddy government, specifically mentioning a \"loot-and-hide\" scheme. (11, 12, 13) The CPI MLA urged the government to avert an RTC strike. (7) The CM Revanth Reddy mourned Asha Bhosle's death. (9, 17)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Four fatalities were reported in separate accidents in Vikarabad. (1) KTR has made allegations of corruption against the Revanth Reddy government, specifically mentioning a \"loot-and-hide\" scheme. (11, 12, 13) The CPI MLA urged the government to avert an RTC strike. (7) The CM Revanth Reddy mourned Asha Bhosle's death. (9, 17)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Potential for public unrest</span>: KTR's allegations of corruption against the Revanth Reddy government could lead to public dissatisfaction. (11, 12, 13)</li>\n  <li><span class=\"risk-medium\">Labor unrest</span>: The CPI MLA's call to avert an RTC strike indicates a potential disruption to public transport. (7)</li>\n  <li><span class=\"risk-low\">Road Safety Concerns</span>: Four deaths in accidents in Vikarabad highlight road safety issues. (1)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>KTR's allegations of corruption (11, 12, 13) and the Congress MP Chamala Kumar Reddy rejecting KTR's allegations (2) suggest a developing political conflict.</li>\n  <li>The CM's mourning of Asha Bhosle's death (9, 17) reflects a public figure's response to a significant event.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the situation in Vikarabad and assess the causes of the accidents. (1)</li>\n  <li>Assess the validity of KTR's allegations and prepare a response. (11, 12, 13)</li>\n  <li>Engage with the CPI MLA and RTC representatives to prevent a potential strike. (7)</li>\n  <li>Review and address road safety measures in Vikarabad. (1)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Vikarabad</b>: Immediate attention is required due to the reported fatalities from accidents. (1)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "37.9°C",
-      "humidity": "27%",
-      "wind": "11.6 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 65,
-      "pm25": 32.9,
-      "goldPerGram": "₹8,959",
-      "newsCount": 17,
-      "topHeadlines": [
-        "Telangana: Four killed in separate accidents in Vikarabad - The Siasat Daily",
-        "Congress MP Chamala Kumar Reddy rejects KTR's allegations in Telangana - The News Mill",
-        "Allocation for NH projects in Telangana down by Rs 634 crore - The New Indian Express",
-        "KTR dares CM Revanth to order probe into Srujan-Singareni nexus - The Hans India",
-        "IPL match today, SRH vs RR: Predicted playing XI, head-to-head, pitch report, Hyderabad weather update - The Times of India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-13T09:57:47.761Z",
     "timestampIST": "13/4/2026, 3:27:47 pm",
     "executiveSummary": "<p>Several political figures are engaged in public disputes, with BRS and Congress leaders trading accusations (2, 6, 9, 11, 20). Delimitation and women's reservation are key topics of discussion (1, 3, 4, 5, 7). Four fatalities were reported in separate accidents in Vikarabad (8).</p>",
@@ -6337,6 +6314,29 @@
         "TPCC may have woman working president soon - The Hans India",
         "Collectors will face the music for procurement delays: CM - The Hans India",
         "IPL 2026 Points Table Today: GT vs SRH Update Orange &amp; Purple Cap, Runs and Wickets List - The Indian Express"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-13T06:49:23.891Z",
+    "timestampIST": "13/5/2026, 12:19:23 pm",
+    "executiveSummary": "<p>A fatal car accident in Mallapur, Hyderabad resulted in two fatalities (1). The Chief Minister has ordered expeditious procurement of paddy and maize, warning collectors of consequences for delays (6, 8). Political tensions are rising due to a POCSO case involving Bandi Sanjay's son, with both Congress and BJP figures involved (2, 12, 15).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A fatal car accident in Mallapur, Hyderabad resulted in two fatalities (1). The Chief Minister has ordered expeditious procurement of paddy and maize, warning collectors of consequences for delays (6, 8). Political tensions are rising due to a POCSO case involving Bandi Sanjay's son, with both Congress and BJP figures involved (2, 12, 15).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> The POCSO case against Bandi Sanjay's son is triggering a political storm, potentially leading to protests or increased political rhetoric (15).</li>\n  <li><span class=\"risk-medium\">Procurement Delays:</span> Delays in paddy and maize procurement could lead to farmer unrest, especially given the CM's warning to collectors (6, 8, 11).</li>\n  <li><span class=\"risk-low\">Public Safety:</span> A fatal car accident in Hyderabad highlights ongoing road safety concerns (1).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's focus on procurement (6, 8, 11) is directly linked to the need to address farmer concerns and ensure timely agricultural operations.</li>\n  <li>The political fallout from the POCSO case (2, 12, 15) could potentially impact the government's ability to focus on other critical areas, such as procurement.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the political situation closely, especially regarding the POCSO case, and assess potential public reactions (2, 12, 15).</li>\n  <li>Ensure all district collectors are aware of the CM's directive regarding procurement and provide necessary resources to expedite the process (6, 8).</li>\n  <li>Review and strengthen road safety measures in Hyderabad, particularly in areas like Mallapur (1).</li>\n  <li>Coordinate with the PM regarding the Tummidihatti project (14).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>All districts: Focus on expediting paddy and maize procurement as directed by the CM (6, 8, 11).</li>\n  <li>Hyderabad: Monitor the political situation closely and review road safety measures following the fatal accident in Mallapur (1, 12, 15).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36.4°C",
+      "humidity": "33%",
+      "wind": "3.6 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 64,
+      "pm25": 20.3,
+      "goldPerGram": "₹9,225",
+      "newsCount": 28,
+      "topHeadlines": [
+        "Hyderabad: Two killed as car hits motorcycle in Mallapur - Telangana Today",
+        "Congress’ Reddy warns action in case against Bandi Sanjay’s son - Awaz The Voice",
+        "SRH head coach stands by batters after hitting new low in loss vs GT - India Today",
+        "Gold Silver Rate Today (May 13): Gold Near Record High, Silver Explodes Past Rs 2.9 Lakh Check Latest City-Wise Rates In India - ABP News",
+        "Procurement operations to be sped up in Telangana - newsage.in"
       ]
     }
   }
