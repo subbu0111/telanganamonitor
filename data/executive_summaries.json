@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14T20:57:11.244Z",
-    "timestampIST": "15/4/2026, 2:27:11 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaging with other Southern state leaders and the Prime Minister regarding the Centre's delimitation plans, urging a united front against the proposed changes. (1, 5, 8, 9, 10, 11, 12, 13, 14, 15, 17) He has also met with Jagtial leaders and criticized Jeevan Reddy's departure. (5, 16) The BJP has criticized CM Revanth Reddy's stance on the women's reservation bill and delimitation. (6, 7)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaging with other Southern state leaders and the Prime Minister regarding the Centre's delimitation plans, urging a united front against the proposed changes. (1, 5, 8, 9, 10, 11, 12, 13, 14, 15, 17) He has also met with Jagtial leaders and criticized Jeevan Reddy's departure. (5, 16) The BJP has criticized CM Revanth Reddy's stance on the women's reservation bill and delimitation. (6, 7)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for inter-state political friction:</span> CM Revanth Reddy's call for Southern states to unite against the Centre's delimitation drive could escalate tensions with the Union Government. (1, 9, 10, 15)</li>\n    <li><span class=\"risk-medium\">Political Opposition:</span> The BJP's criticism of CM Revanth Reddy's actions regarding the women's reservation bill and delimitation could lead to increased political opposition. (6, 7)</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Stalin's threat of mass agitation over the Centre's delimitation push could potentially trigger public unrest. (19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's actions regarding delimitation (1, 8, 9, 10, 11, 12, 13, 14, 15, 17, 19) are directly linked to the BJP's criticism of his stance (6, 7).</li>\n    <li>The delimitation issue (1, 8, 9, 10, 11, 12, 13, 14, 15, 17, 19) is a central focus of CM Revanth Reddy's recent communications and meetings.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the evolving situation regarding the Centre's delimitation plans and the responses from other Southern states.</li>\n    <li>Assess the potential impact of the BJP's criticism on public sentiment and political stability.</li>\n    <li>Prepare a communication strategy to address the concerns raised by the opposition regarding delimitation and the women's reservation bill.</li>\n    <li>Brief the CM on the details of the \"hybrid model\" proposed by CM Revanth Reddy to the PM. (11)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Jagtial:</b> Monitor the political situation following CM Revanth Reddy's meeting with local leaders and criticism of Jeevan Reddy's exit. (5, 16)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.3°C",
-      "humidity": "53%",
-      "wind": "3.6 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 67,
-      "pm25": 26.7,
-      "goldPerGram": "₹8,979",
-      "newsCount": 76,
-      "topHeadlines": [
-        "Delimitation Row: Revanth Reddy urges southern states to unite - Asianet Newsable",
-        "A promising Bill in Telangana against hate speech but gaps remain - The Hindu",
-        "BRS Betrayed Dalits, Says Revanth - Deccan Chronicle",
-        "Harvey Weinstein faces retrial in New York rape case - Telangana Today",
-        "Revanth Reddy meets Jagtial leaders, slams Jeevan Reddy’s exit - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-14T22:49:50.076Z",
     "timestampIST": "15/4/2026, 4:19:50 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in the delimitation debate, writing to Prime Minister Modi and other Chief Ministers to advocate for a GSDP-based seat formula and a united Southern states resistance to the Union Government's population-based delimitation drive (1, 3, 10, 12, 17). He is also calling for an all-party meet on the issue (14, 15). The BJP has criticized CM Revanth Reddy's stance on women's reservation and delimitation (8, 9).</p>",
@@ -6222,6 +6199,29 @@
         "Telangana CM congratulates VD Satheesan on appointment as Keralam chief minister - The News Mill",
         "CM Revanth congratulates Satheesan - metroindia.net",
         "RTC bus accident at Rathifile leaves one seriously injured - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-14T21:12:03.144Z",
+    "timestampIST": "15/5/2026, 2:42:03 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has congratulated VD Satheesan on his appointment as Kerala Chief Minister (1, 3, 4, 5, 10). The CM has demanded a transparent probe into the NEET-UG 2026 paper leak (12, 14, 15, 17, 19, 20). A BRS MLC has criticized the Congress government for fiscal mismanagement (2, 9).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has congratulated VD Satheesan on his appointment as Kerala Chief Minister (1, 3, 4, 5, 10). The CM has demanded a transparent probe into the NEET-UG 2026 paper leak (12, 14, 15, 17, 19, 20). A BRS MLC has criticized the Congress government for fiscal mismanagement (2, 9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> The NEET-UG 2026 paper leak, as the CM has demanded a transparent probe (12, 14, 15, 17, 19, 20).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> BRS MLC criticism of the Congress government's fiscal management (2, 9).</li>\n    <li><span class=\"risk-low\">LOW:</span> RTC bus accident at Rathifile, resulting in one serious injury (6).</li>\n    <li><span class=\"risk-low\">LOW:</span> Telangana Minister Adluri Laxman Kumar survived an elevator crash (11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's demand for a probe into the NEET-UG 2026 paper leak (12, 14, 15, 17, 19, 20) is directly related to concerns about the future of students (8, 17, 19, 20).</li>\n    <li>The CM's congratulations to VD Satheesan (1, 3, 4, 5, 10) may indicate a developing political relationship.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the relevant authorities to expedite the investigation into the NEET-UG 2026 paper leak.</li>\n    <li>Assess the fiscal management criticisms leveled by the BRS MLC.</li>\n    <li>Review safety protocols for public transport, especially in light of the RTC bus accident.</li>\n    <li>Review safety protocols for government buildings.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Rathifile: Monitor the situation following the RTC bus accident (6).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.1°C",
+      "humidity": "59%",
+      "wind": "6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 68,
+      "pm25": 18.6,
+      "goldPerGram": "₹9,237",
+      "newsCount": 33,
+      "topHeadlines": [
+        "Revanth Wishes Satheesan as Kerala CM - Deccan Chronicle",
+        "BRS MLC Sravan targets Congress govt for fiscal mismanagement - Telangana Today",
+        "Telangana CM hails VD Satheesan's appointment as Keralam Chief Minister - Asianet Newsable",
+        "Telangana CM congratulates VD Satheesan on appointment as Keralam chief minister - The News Mill",
+        "CM Revanth congratulates Satheesan - metroindia.net"
       ]
     }
   }
