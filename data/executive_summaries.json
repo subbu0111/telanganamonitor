@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14T11:05:04.108Z",
-    "timestampIST": "14/4/2026, 4:35:04 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively criticizing the NDA government's delimitation plans, alleging injustice to Southern states and calling for a \"struggle\" to increase Lok Sabha seats (1, 2, 9). The CM is also commemorating Ambedkar Jayanti, emphasizing welfare and social justice (5, 6, 12, 13, 15, 18). An ASI was killed in an accident in Sangareddy (16).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively criticizing the NDA government's delimitation plans, alleging injustice to Southern states and calling for a \"struggle\" to increase Lok Sabha seats (1, 2, 9). The CM is also commemorating Ambedkar Jayanti, emphasizing welfare and social justice (5, 6, 12, 13, 15, 18). An ASI was killed in an accident in Sangareddy (16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> CM Reddy's strong criticism of the NDA government and calls for \"struggle\" could escalate tensions and potentially lead to protests or political unrest (1, 2, 9).</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Activists are urging CM Reddy to intervene in a Satavahana University row (7).</li>\n    <li><span class=\"risk-low\">Negative Press:</span> BJP is criticizing Revanth Reddy over women's reservation remarks (19).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> An ASI was killed in an accident in Sangareddy (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is simultaneously addressing delimitation concerns (1, 2, 3, 4, 9) and commemorating Ambedkar Jayanti, highlighting welfare and social justice (5, 6, 12, 13, 15, 18), potentially linking his political stance with social welfare initiatives.</li>\n    <li>The CM's statements on delimitation (1, 2, 3, 4, 9) could be connected to the ongoing debate over women's reservation (19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political climate closely, especially regarding the delimitation issue and potential reactions from various political parties (1, 2, 3, 4, 9).</li>\n    <li>Assess the situation at Satavahana University and prepare a response to the activists' concerns (7).</li>\n    <li>Review and address any public concerns related to the CM's remarks on women's reservation (19).</li>\n    <li>Ensure appropriate support and investigation into the death of the ASI in Sangareddy (16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Sangareddy:</b> Immediate attention is required due to the death of an ASI in an accident (16). Ensure proper investigation and support for the family.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "39.5°C",
-      "humidity": "22%",
-      "wind": "3.3 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 69,
-      "pm25": 33.8,
-      "goldPerGram": "₹9,002",
-      "newsCount": 60,
-      "topHeadlines": [
-        "Telangana CM calls for ‘struggle’ against BJP for more LS seats in South India - The Siasat Daily",
-        "Telangana CM Reddy Slams NDA Over Delimitation, Flags ‘Injustice’ To Southern States - ABP News",
-        "Revanth Reddy roots for hybrid model of delimitation - News Arena India",
-        "50pc Seat Increase Formula Injustice to South India: Revanth Reddy - Deccan Chronicle",
-        "Ambedkar’s ideals form foundation of our people-centric governance: Telangana CM Revanth Reddy - The Hindu"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-14T13:46:44.584Z",
-    "timestampIST": "14/4/2026, 7:16:44 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively opposing the proposed increase in Lok Sabha seats, particularly the 50-50 split formula, citing potential disadvantage to southern states (headlines 4, 6, 16). He has called for a \"protracted struggle\" and warned of agitations against the BJP (headlines 5, 11, 13).  The CM is also facing pressure from activists regarding a Dalit professor and the Satavahana University row (headlines 7, 20).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively opposing the proposed increase in Lok Sabha seats, particularly the 50-50 split formula, citing potential disadvantage to southern states (headlines 4, 6, 16). He has called for a \"protracted struggle\" and warned of agitations against the BJP (headlines 5, 11, 13).  The CM is also facing pressure from activists regarding a Dalit professor and the Satavahana University row (headlines 7, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Potential for protests and agitations in Telangana and other southern states due to the delimitation debate and CM Reddy's call for struggle against the BJP (headlines 5, 11, 13).</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Public unrest or demonstrations related to the Satavahana University row and the targeting of a Dalit professor (headlines 7, 20).</li>\n    <li><span class=\"risk-low\">LOW</span>: Increased political tension and potential for clashes between the ruling party and the BJP, as evidenced by the sharp responses to BJP allegations (headline 10).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The delimitation debate is a central theme, with CM Revanth Reddy leading the opposition and clashing with the BJP (headlines 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16).</li>\n    <li>The CM's statements on Ambedkar Jayanti (headlines 17, 18, 19) are juxtaposed with the political tensions surrounding delimitation and the university row.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor and assess the potential for protests and public gatherings related to the delimitation issue and the Satavahana University row.</li>\n    <li>Prepare a communication strategy to address public concerns regarding the delimitation proposal and the CM's stance.</li>\n    <li>Liaise with law enforcement to ensure public order and prevent any escalation of tensions during potential protests.</li>\n    <li>Brief the CM on the latest developments in the delimitation debate and the responses from other southern states.</li>\n    <li>Review and address the concerns raised by activists regarding the Dalit professor and the Satavahana University row.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific districts are mentioned in the headlines as requiring immediate attention. However, all districts should be monitored for potential protests or gatherings related to the delimitation issue and the Satavahana University row.</p>\n```",
-    "dataSnapshot": {
-      "temperature": "35.2°C",
-      "humidity": "37%",
-      "wind": "9 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 67,
-      "pm25": 39.2,
-      "goldPerGram": "₹9,002",
-      "newsCount": 60,
-      "topHeadlines": [
-        "Samrat Choudhary Is The New CM Of Bihar - INDToday",
-        "Delimitation: Revanth Reddy Calls Fight Against BJP - INDToday",
-        "Delimitation Debate: Kishan Reddy Rejects Hybrid Model Proposal - INDToday",
-        "Southern states oppose pro rata Lok Sabha seat increase, seek hybrid model: Revanth Reddy - Hyderabad Mail",
-        "CMs Stalin, Revanth Reddy sharpen attack against Centre over delimitation, warn of agitations - MillenniumPost"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-14T15:15:47.032Z",
     "timestampIST": "14/4/2026, 8:45:47 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively opposing the Centre's proposed increase in Lok Sabha seats, particularly the \"pro-rata\" model, and advocating for a \"hybrid model\" to protect Southern states' interests. He has written to Prime Minister Modi and other Southern CMs, including Stalin, to garner support. Concerns have been raised regarding potential political marginalization of Southern states due to delimitation.</p>",
@@ -6268,6 +6222,29 @@
         "Woman dead, two injured in accident in Telangana’s Sircilla - The Siasat Daily",
         "Revanth Reddy plans outer ring roads - Hyderabad Mail",
         "Growth corridors to temple tourism circuits: CM Revanth unveils blueprint to redefine urban landscape - NewsMeter"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-14T14:19:08.602Z",
+    "timestampIST": "14/5/2026, 7:49:08 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy congratulated VD Satheesan on becoming Kerala CM (1). Minister Adluri Laxman Kumar survived an elevator crash (2). The CM has demanded a transparent probe into the NEET-UG 2026 paper leak (4, 5). The government is planning urban growth corridors and Outer Ring Roads for Warangal, Karimnagar, and Khammam (10, 11).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy congratulated VD Satheesan on becoming Kerala CM (1). Minister Adluri Laxman Kumar survived an elevator crash (2). The CM has demanded a transparent probe into the NEET-UG 2026 paper leak (4, 5). The government is planning urban growth corridors and Outer Ring Roads for Warangal, Karimnagar, and Khammam (10, 11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Potential for public unrest</span> due to the NEET-UG 2026 paper leak and associated distress (4, 5).</li>\n    <li><span class=\"risk-medium\">Safety concerns</span> following the elevator crash involving Minister Adluri Laxman Kumar (2).</li>\n    <li><span class=\"risk-low\">Traffic and logistical challenges</span> may arise during the planning and construction of Outer Ring Roads and urban corridors in Warangal, Karimnagar, and Khammam (10, 11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on urban development (8, 11, 12, 13, 14) and planning ORRs (10, 11) indicates a strategic push for infrastructure improvement and economic growth.</li>\n    <li>The NEET-UG 2026 paper leak (4, 5) and the CM's demand for a transparent probe highlight the importance of maintaining public trust and ensuring fair examination processes.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to enhance security and surveillance to prevent any potential protests or law and order issues related to the NEET-UG 2026 paper leak.</li>\n    <li>Order a thorough investigation into the elevator crash incident to determine the cause and implement necessary safety measures.</li>\n    <li>Instruct the relevant departments to expedite the planning and land acquisition processes for the Outer Ring Roads and urban corridors in Warangal, Karimnagar, and Khammam.</li>\n    <li>Issue a public statement reassuring citizens about the government's commitment to a fair and transparent investigation into the NEET-UG 2026 paper leak.</li>\n    <li>Assess the feasibility of establishing an Ex-Servicemen Corporation (15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Warangal, Karimnagar, and Khammam:</b> Immediate attention is required for the planning and implementation of Outer Ring Roads and urban corridors (10, 11). Monitor public sentiment and potential disruptions during the planning and construction phases.</li>\n    <li><b>Sircilla:</b> Monitor the situation following the accident where a woman died and two were injured (7).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34°C",
+      "humidity": "40%",
+      "wind": "6.4 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 65,
+      "pm25": 49.7,
+      "goldPerGram": "₹9,228",
+      "newsCount": 15,
+      "topHeadlines": [
+        "Telangana CM Revanth Reddy Congratulates VD Satheesan On Becoming Kerala CM - Deccan Chronicle",
+        "Telangana minister Adluri Laxman Kumar survives elevator crash - The Siasat Daily",
+        "Demand for Transparent Probe as NEET Exam Scandal Unfolds - Devdiscourse",
+        "Telangana CM demands transparent probe after NEET-UG 2026 paper leak causes distress - The News Mill",
+        "Paper leaks ‘Demonetised’ students’ future: Telangana CM Revanth Reddy - The Hindu"
       ]
     }
   }
