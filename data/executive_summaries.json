@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14T02:45:42.872Z",
-    "timestampIST": "14/4/2026, 8:15:42 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in the delimitation debate, opposing population-based models and proposing a \"hybrid model\" (1, 2, 3, 4, 8, 9, 10, 12, 13, 20). He has called for a national debate and an all-party meet on the issue (2, 3). The BJP, represented by Bandi Sanjay, has criticized Reddy's stance (6, 7, 18). Concerns regarding a North-South divide are being raised (6, 13, 17, 20).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaged in the delimitation debate, opposing population-based models and proposing a \"hybrid model\" (1, 2, 3, 4, 8, 9, 10, 12, 13, 20). He has called for a national debate and an all-party meet on the issue (2, 3). The BJP, represented by Bandi Sanjay, has criticized Reddy's stance (6, 7, 18). Concerns regarding a North-South divide are being raised (6, 13, 17, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> The ongoing debate over delimitation, with opposing viewpoints from the CM and BJP, could escalate political tensions. (1, 6, 7, 18)</li>\n    <li><span class=\"risk-medium\">Regional Discontent:</span> Revanth Reddy's warnings of potential injustice to Southern states regarding delimitation could fuel regional sentiments. (13, 17, 20)</li>\n    <li><span class=\"risk-low\">Public Misinformation:</span> The complex delimitation issue and the CM's stance could be subject to misinterpretation and spread of misinformation. (1, 2, 3, 4, 8, 9, 10, 12, 13, 17, 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's proposals for a \"hybrid model\" for delimitation are directly opposed by Bandi Sanjay of the BJP. (4, 7)</li>\n    <li>The delimitation debate is linked to concerns about a potential North-South divide, as highlighted by Revanth Reddy. (13, 20)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public statements and social media activity related to the delimitation debate to identify potential flashpoints.</li>\n    <li>Prepare a communication strategy to address public concerns and clarify the government's position on delimitation.</li>\n    <li>Facilitate dialogue with all political parties to foster consensus on the delimitation issue.</li>\n    <li>Assess the potential impact of the proposed \"hybrid model\" on different constituencies.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are highlighted in the provided news headlines that require immediate attention.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30.9°C",
-      "humidity": "52%",
-      "wind": "7.6 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 68,
-      "pm25": 26,
-      "goldPerGram": "₹9,002",
-      "newsCount": 49,
-      "topHeadlines": [
-        "Revanth Reddy accuses Centre of using delimitation as political tool - Asianet Newsable",
-        "Revanth Reddy urges nationwide debate on delimitation and Women’s Bill - The News Mill",
-        "Revanth Reddy seeks all-party meet on delimitation, opposes population-based model. - en.etemaaddaily.com",
-        "Reddy pitches hybrid model for Lok Sabha seat increase amid row - Asianet Newsable",
-        "Southern CMs Demand Dialogue on Delimitation Amid Women's Reservation Push - Devdiscourse"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-14T06:01:43.105Z",
     "timestampIST": "14/4/2026, 11:31:43 am",
     "executiveSummary": "<p>An Assistant Sub-Inspector (ASI) was killed in an accident in Sangareddy. (1) Chief Minister Revanth Reddy paid tributes to Dr. B.R. Ambedkar on his birth anniversary and is facing criticism from the BJP regarding his remarks on women's reservation and delimitation. (3, 4, 6, 16) The CM proposed a hybrid delimitation model and is calling for a national debate on the issue. (8, 9, 12, 19) Bandi Sanjay rejected the CM's hybrid model proposal. (17)</p>",
@@ -6268,6 +6245,29 @@
         "CM Revanth Reddy Plans ORRs for Khammam, Warangal, Karimnagar Corporations - Telangana Tribune",
         "Visionary Urban Expansion: Telangana to Transform with New Infrastructure - Devdiscourse",
         "Revanth Reddy stresses future-ready urban development for Mega Growth Corridor - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-14T03:36:16.696Z",
+    "timestampIST": "14/5/2026, 9:06:16 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy announced new Urban Growth Corridors and Outer Ring Roads (ORRs) for Warangal, Karimnagar, and Khammam. (1, 2, 3, 6, 10) Uber is exploring multi-level parking projects in Hyderabad and plans expansion, including a corporate office in Future City. (7, 18, 20) The government is urged to set up an Ex-Servicemen Corporation. (16)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy announced new Urban Growth Corridors and Outer Ring Roads (ORRs) for Warangal, Karimnagar, and Khammam. (1, 2, 3, 6, 10) Uber is exploring multi-level parking projects in Hyderabad and plans expansion, including a corporate office in Future City. (7, 18, 20) The government is urged to set up an Ex-Servicemen Corporation. (16)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for land acquisition disputes related to Future City. (17)</span></li>\n    <li><span class=\"risk-low\">Political implications of the Prime Minister's message to the Chief Minister. (15, 19)</span></li>\n    <li><span class=\"risk-low\">Possible criticism regarding the CM's alleged shielding of Bandi's son. (5)</span></li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The announcement of ORRs for Warangal, Karimnagar, and Khammam (2, 3, 6, 10) aligns with the broader vision of urban development and infrastructure expansion. (11, 12)</li>\n    <li>Uber's interest in multi-level parking projects (7) and corporate office in Future City (18, 20) demonstrates potential for economic growth.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Assess the feasibility and timelines for the proposed ORR projects in Warangal, Karimnagar, and Khammam.</li>\n    <li>Conduct due diligence on Uber's expansion plans, including the proposed multi-level parking projects and corporate office in Future City.</li>\n    <li>Evaluate the proposal for establishing an Ex-Servicemen Corporation.</li>\n    <li>Monitor public sentiment regarding the land acquisition in Future City.</li>\n    <li>Analyze the implications of the Prime Minister's message to the Chief Minister.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Warangal, Karimnagar, and Khammam:</b> Immediate attention is required due to the announced ORR projects. (2, 3, 6, 10)</li>\n    <li><b>Hyderabad:</b> Focus on facilitating Uber's expansion plans, especially regarding multi-level parking and Future City. (7, 18, 20)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32°C",
+      "humidity": "42%",
+      "wind": "4 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 46,
+      "pm25": 23.2,
+      "goldPerGram": "₹9,228",
+      "newsCount": 30,
+      "topHeadlines": [
+        "Revanth Reddy announces new Urban Growth Corridors for Telangana's dev - Asianet Newsable",
+        "CM Revanth directs officials to plan ORRs for Warangal, Karimnagar, Khammam - The New Indian Express",
+        "Telangana plans urban growth corridors and Outer Ring Roads for three cities - The News Mill",
+        "ORRs, Airports and Tourism Corridors: Revanth’s Big Vision for Telangana - RTV English",
+        "CM shielding Bandi’s son due to friendship, alleges BRS leader - The Hans India"
       ]
     }
   }
