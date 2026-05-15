@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15T11:01:14.423Z",
-    "timestampIST": "15/4/2026, 4:31:14 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in the delimitation issue, opposing seat increases based on population and advocating for a \"hybrid model\" (3, 6, 11, 12, 14, 15, 16). KTR has criticized the Revanth Reddy government regarding a student's death (1, 9). Road accidents in Hyderabad have surged, with 82 deaths in the last three months (7).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaged in the delimitation issue, opposing seat increases based on population and advocating for a \"hybrid model\" (3, 6, 11, 12, 14, 15, 16). KTR has criticized the Revanth Reddy government regarding a student's death (1, 9). Road accidents in Hyderabad have surged, with 82 deaths in the last three months (7).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> KTR's criticism of the Revanth Reddy government (1, 9) and Jeevan Reddy's actions (5, 13, 19) indicate potential political friction.</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span> The surge in Hyderabad road accident fatalities (7) could lead to public dissatisfaction and calls for government action.</li>\n    <li><span class=\"risk-low\">Delimitation Disputes:</span> The ongoing debate over delimitation and seat allocation (3, 6, 8, 10, 11, 12, 15, 16) could escalate tensions with other states and political parties.</li>\n    <li><span class=\"risk-low\">Social Unrest:</span> Kavitha alleges anti-Ambedkar stance against Revanth Reddy (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The delimitation issue (3, 6, 8, 10, 11, 12, 15, 16) is a central focus for CM Revanth Reddy, and he is actively engaging with other states and the central government.</li>\n    <li>Political opposition is evident, with KTR criticizing the government (1, 9) and Jeevan Reddy's actions being condemned by the CM (5, 13, 19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric surrounding the delimitation issue and the government's response.</li>\n    <li>Initiate a review of road safety measures in Hyderabad to address the rising number of accidents.</li>\n    <li>Prepare a detailed briefing for the CM on the proposed \"hybrid model\" for delimitation.</li>\n    <li>Assess the potential impact of Kavitha's allegations on public sentiment.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the surge in road accidents (7) and the ongoing political activity (1, 2, 4, 5, 7, 9, 13, 18, 20).</li>\n    <li><b>Ranga Reddy:</b> As it is reported to gain the most seats in Telangana due to delimitation (18).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "39.8°C",
-      "humidity": "18%",
-      "wind": "4.3 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 69,
-      "pm25": 26,
-      "goldPerGram": "₹8,979",
-      "newsCount": 72,
-      "topHeadlines": [
-        "KTR blames Revanth Reddy Govt. Over Student’s Death - INDToday",
-        "Revanth Reddy Meets Meenakshi Natarajan Over Political Developments in Hyderabad - INDToday",
-        "Delimitation row: Telangana CM Revanth Reddy flags power shift in letter to TN's Stalin - The News Minute",
-        "BJP organises women’s scooty rally in Hyderabad supporting 33% Women’s Reservation Bill - The News Mill",
-        "Telangana Congress turned into Revanth’s private company: Jeevan Reddy - The Siasat Daily"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-15T13:42:19.774Z",
-    "timestampIST": "15/4/2026, 7:12:19 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively opposing the delimitation plan, writing to both Prime Minister Modi and Tamil Nadu Chief Minister Stalin, who has extended support.  KTR has criticized the Revanth Reddy government regarding a student's death and the delimitation issue. Road safety remains a critical concern, with a 20% rise in road accidents over two years and 82 deaths in Hyderabad in the last three months.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively opposing the delimitation plan, writing to both Prime Minister Modi and Tamil Nadu Chief Minister Stalin, who has extended support.  KTR has criticized the Revanth Reddy government regarding a student's death and the delimitation issue. Road safety remains a critical concern, with a 20% rise in road accidents over two years and 82 deaths in Hyderabad in the last three months.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Rising road accident fatalities. 7,500 deaths in 2025 and 82 deaths in Hyderabad in the last three months. (Headline 4, 16)</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Political tensions surrounding delimitation. CM Revanth Reddy and KTR are in disagreement. (Headline 2, 3, 5, 10, 12, 15, 17, 18, 19, 20)</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Potential for political instability due to internal conflicts within the Congress party, as indicated by Jeevan Reddy's comments. (Headline 14)</li>\n    <li><span class=\"risk-low\">LOW</span>:  A senior Congress leader from Khammam died in a road accident in Suryapet. (Headline 7)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Road safety concerns are highlighted by both the rise in road accidents and the example set by Nandagokul village. (Headline 4, 6, 16)</li>\n    <li>The delimitation issue is a point of contention between the Telangana government and the Centre, with CM Revanth Reddy actively opposing the plan. (Headline 3, 15, 20)</li>\n    <li>KTR's criticism of the Revanth Reddy government on the student's death and the delimitation issue reveals political friction. (Headline 10, 18)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Initiate an immediate review of road safety measures and enforcement across the state, focusing on Hyderabad.</li>\n    <li>Monitor the political discourse surrounding delimitation and its potential impact on inter-state relations.</li>\n    <li>Assess the internal dynamics within the Congress party and address any emerging conflicts.</li>\n    <li>Review the High Court's refusal to issue a passport to Minister Adluri Lakshman. (Headline 8)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the high number of road accident fatalities (82 deaths in 3 months) (Headline 16).</li>\n    <li><b>Suryapet:</b> Following the death of a senior Congress leader in a road accident. (Headline 7)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "36.5°C",
-      "humidity": "24%",
-      "wind": "4.3 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 63,
-      "pm25": 33.1,
-      "goldPerGram": "₹8,979",
-      "newsCount": 67,
-      "topHeadlines": [
-        "Congress to fast-track nominated posts in Telangana - Telangana Today",
-        "KTR warns Centre against ‘injustice’ to southern states in delimitation - The New Indian Express",
-        "CM Stalin sharpens attack on delimitation plan; Telangana CM writes to him sharing concerns - The New Indian Express",
-        "Telangana Road Accidents Rise By 20% In 2 Years, 7,500 Lives Lost In 2025 Alone - News18",
-        "CM Revanth False Campaign On Delimitation: Ramchandra Rao - INDToday"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-15T15:06:27.292Z",
     "timestampIST": "15/4/2026, 8:36:27 pm",
     "executiveSummary": "<p>Vehicle registrations are halted due to a glitch in the Vaahan portal. (1) Road accidents in Telangana have risen by 20% in two years, with 7,500 lives lost in 2025. (9) The Chief Minister Revanth Reddy is facing criticism from BJP leaders and KTR regarding delimitation and other issues. (2, 4, 7, 10, 15, 17, 20)</p>",
@@ -6222,6 +6176,29 @@
         "Petrol, Diesel prices hiked in Telangana: Check new rates in Hyderabad, Warangal , Nizamabad and other cities - Business Today",
         "New Republican bill tightens H-1B, asylum rules - Telangana Today",
         "Newlywed woman dies in road accident in Hyderabad - Telangana Tribune"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-15T14:10:54.440Z",
+    "timestampIST": "15/5/2026, 7:40:54 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on national political strategy, aiming to support Rahul Gandhi's bid for Prime Minister (Headline 1). The CM has directed officials to expedite Outer Ring Road construction in Warangal (Headline 2) and paddy procurement, with Minister Uttam setting a 10-day deadline (Headline 13). Fuel prices have increased across Telangana, with Hyderabad recording the highest petrol and diesel prices among metro cities (Headlines 7, 8, 20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focused on national political strategy, aiming to support Rahul Gandhi's bid for Prime Minister (Headline 1). The CM has directed officials to expedite Outer Ring Road construction in Warangal (Headline 2) and paddy procurement, with Minister Uttam setting a 10-day deadline (Headline 13). Fuel prices have increased across Telangana, with Hyderabad recording the highest petrol and diesel prices among metro cities (Headlines 7, 8, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Protests related to the NEET-UG 2026 paper leak, with NSUI staging a protest at Kishan Reddy’s residence (Headline 4) and CM Revanth Reddy criticizing the central government (Headline 14, 17).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Farmer protests over delayed crop procurement (Headline 11).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Public discontent over rising fuel prices, with calls for VAT reduction (Headline 5).</li>\n    <li><span class=\"risk-low\">LOW:</span> Potential for unrest related to the \"renewal\" of nominated posts (Headline 15).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Rising fuel prices (Headline 7, 8, 20) may exacerbate public dissatisfaction, potentially fueling protests or criticism of the government (Headline 5).</li>\n    <li>The NEET-UG paper leak (Headline 4, 14, 17) is a politically sensitive issue that could lead to further protests and criticism of the central government, potentially impacting the state government's relationship with the Centre.</li>\n    <li>The CM's focus on Warangal (Headline 2) and paddy procurement (Headline 13) indicates a focus on infrastructure and agricultural issues.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor and proactively manage the fallout from the NEET-UG paper leak, including potential protests and public sentiment.</li>\n    <li>Assess the impact of rising fuel prices on the public and consider mitigation strategies.</li>\n    <li>Ensure effective communication regarding the government's fuel and power saving measures (Headline 10).</li>\n    <li>Closely monitor the progress of paddy procurement and address any farmer grievances promptly.</li>\n    <li>Prepare a response to the \"renewal\" of nominated posts issue to address potential political challenges.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Warangal:</b> Focus on Outer Ring Road construction (Headline 2) and monitor for any impact of fuel price hikes.</li>\n    <li><b>Areas with Farmer Protests:</b> Monitor and address the issues related to delayed crop procurement (Headline 11).</li>\n    <li><b>Hyderabad:</b> Monitor public sentiment regarding fuel prices (Headline 8).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35.3°C",
+      "humidity": "32%",
+      "wind": "3.9 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 73,
+      "pm25": 53.4,
+      "goldPerGram": "₹9,257",
+      "newsCount": 32,
+      "topHeadlines": [
+        "Revanth Reddy Maps Out 2034 National Plans; Aims To Propel Rahul Gandhi As PM - Deccan Chronicle",
+        "CM Revanth Reddy Asks Officials To Complete Construction of Outer Ring Road In Warangal Region - ETV Bharat",
+        "Degree admissions Phase-I sees BCom as most sought-after programme - EdexLive",
+        "NSUI stages protest at Kishan Reddy’s residence over NEET-UG 2026 paper leak - The Siasat Daily",
+        "Watch: People remind Revanth Reddy of past fuel price remarks, seek VAT reduction - Telangana Today"
       ]
     }
   }
