@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15T09:22:34.387Z",
-    "timestampIST": "15/4/2026, 2:52:34 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively opposing the proposed delimitation exercise, writing to both Tamil Nadu's Stalin and Prime Minister Modi, and advocating for a 'hybrid model' (1, 5, 10, 14). The BJP organized women's scooty rallies in Hyderabad in support of the Women's Reservation Bill (2, 3). KTR has criticized the Revanth Reddy government following a student's death (8).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively opposing the proposed delimitation exercise, writing to both Tamil Nadu's Stalin and Prime Minister Modi, and advocating for a 'hybrid model' (1, 5, 10, 14). The BJP organized women's scooty rallies in Hyderabad in support of the Women's Reservation Bill (2, 3). KTR has criticized the Revanth Reddy government following a student's death (8).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Criticism of CM Revanth Reddy from KTR (8), Jeevan Reddy (4, 12, 18), and Kavitha (19), along with the delimitation debate, could lead to increased political tension.</li>\n    <li><span class=\"risk-medium\">Public Safety:</span>  A surge in Hyderabad road accidents has resulted in 82 deaths in the last 3 months (6).</li>\n    <li><span class=\"risk-low\">Delimitation Concerns:</span> The delimitation issue, with the CM's opposition and upcoming parliamentary discussions, could potentially lead to unrest or legal challenges (1, 5, 7, 9, 10, 11, 13, 14, 15, 16, 20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The delimitation issue is a central focus, with CM Revanth Reddy actively engaging with both the Prime Minister and other state leaders (1, 5, 7, 9, 10, 11, 13, 14, 15, 16, 20).</li>\n    <li>The BJP's women's scooty rallies (2, 3) are directly related to the upcoming parliamentary discussion on the Women's Reservation Bill (16).</li>\n    <li>The CM's actions on delimitation are being directly criticized by multiple political opponents (4, 8, 12, 18, 19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review and enhance road safety measures in Hyderabad to address the surge in accidents (6).</li>\n    <li>Monitor public sentiment and political discourse surrounding the delimitation issue and the CM's stance (1, 5, 7, 9, 10, 11, 13, 14, 15, 16, 20).</li>\n    <li>Prepare a communication strategy to address criticisms leveled against the government by opposition leaders (4, 8, 12, 18, 19).</li>\n    <li>Assess the potential impact of the Women's Reservation Bill and the BJP's rallies on public opinion (2, 3, 16).</li>\n    <li>Prepare for the upcoming parliamentary discussion on delimitation and the Women's Reservation Bill (16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the high number of road fatalities (6) and the location of the BJP rallies (2, 3).</li>\n    <li><b>Ranga Reddy:</b> As it is expected to gain the most in the Telangana seat increase (17).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "40°C",
-      "humidity": "18%",
-      "wind": "5.2 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 68,
-      "pm25": 25.5,
-      "goldPerGram": "₹8,979",
-      "newsCount": 77,
-      "topHeadlines": [
-        "Delimitation row: Telangana CM Revanth Reddy flags power shift in letter to TN's Stalin - The News Minute",
-        "BJP organises women’s scooty rally in Hyderabad supporting 33% Women’s Reservation Bill - The News Mill",
-        "BJP holds women's scooty rally in Hyderabad backing Women's Reservation Bill - ANI News",
-        "Telangana Congress turned into Revanth’s private company: Jeevan Reddy - The Siasat Daily",
-        "Revanth Reddy Writes To PM Modi On Delimitation, Opposes Seat Increase Based On Population - News18"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-15T11:01:14.423Z",
     "timestampIST": "15/4/2026, 4:31:14 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in the delimitation issue, opposing seat increases based on population and advocating for a \"hybrid model\" (3, 6, 11, 12, 14, 15, 16). KTR has criticized the Revanth Reddy government regarding a student's death (1, 9). Road accidents in Hyderabad have surged, with 82 deaths in the last three months (7).</p>",
@@ -6222,6 +6199,29 @@
         "KGBV student Keerthana Jyothi excels in JEE Main - The Hans India",
         "NEET UG paper leak: Telangana CM Revanth says Modi govt 'demonetised' future of youth - The New Indian Express",
         "Telangana Congress govt faces fresh predicament over 'renewal' of nominated posts - The New Indian Express"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-15T10:26:03.235Z",
+    "timestampIST": "15/5/2026, 3:56:03 pm",
+    "executiveSummary": "<p>Petrol and diesel prices have increased across multiple cities including Hyderabad, Warangal, and Nizamabad. A Telangana minister, Adluri Laxman Kumar, survived an elevator crash. A newlywed woman died in a road accident in Hyderabad.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Petrol and diesel prices have increased across multiple cities including Hyderabad, Warangal, and Nizamabad. A Telangana minister, Adluri Laxman Kumar, survived an elevator crash. A newlywed woman died in a road accident in Hyderabad.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Discontent:</span> Rising fuel prices in Hyderabad, Warangal, and Nizamabad may lead to public dissatisfaction. (1, 3, 6)</li>\n    <li><span class=\"risk-medium\">Infrastructure Safety:</span> The elevator crash involving Minister Adluri Laxman Kumar raises concerns about infrastructure safety. (9)</li>\n    <li><span class=\"risk-low\">Road Safety:</span> A fatal road accident in Hyderabad highlights ongoing road safety concerns. (5)</li>\n    <li><span class=\"risk-low\">Public Transport Safety:</span> An RTC bus accident in Rathifile resulted in one serious injury. (8)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Rising fuel prices (1, 3, 6) may indirectly impact transportation costs, potentially affecting the cost of goods and services.</li>\n    <li>The RTC bus accident (8) and the road accident (5) both highlight potential safety concerns within the transportation sector.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment regarding the fuel price increases in Hyderabad, Warangal, and Nizamabad.</li>\n    <li>Initiate an immediate review of elevator safety protocols across government buildings.</li>\n    <li>Review and enhance road safety measures in Hyderabad.</li>\n    <li>Conduct a thorough investigation into the RTC bus accident at Rathifile.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Requires immediate attention due to the fatal road accident (5) and rising fuel prices (3, 6).</li>\n    <li><b>Warangal & Nizamabad:</b> Monitor public reaction to fuel price hikes. (3, 6)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36.7°C",
+      "humidity": "29%",
+      "wind": "8.4 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 73,
+      "pm25": 53.3,
+      "goldPerGram": "₹9,237",
+      "newsCount": 10,
+      "topHeadlines": [
+        "Petrol, diesel prices hiked: Check latest fuel rates after Rs 3 increase in Delhi, Mumbai, Bengaluru, Kol - The Times of India",
+        "Life-Size Gorillas Become The New Wedding Obsession - Telangana Today",
+        "Petrol, Diesel prices hiked in Telangana: Check new rates in Hyderabad, Warangal , Nizamabad and other cities - Business Today",
+        "New Republican bill tightens H-1B, asylum rules - Telangana Today",
+        "Newlywed woman dies in road accident in Hyderabad - Telangana Tribune"
       ]
     }
   }
