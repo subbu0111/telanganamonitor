@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15T19:21:25.990Z",
-    "timestampIST": "16/4/2026, 12:51:25 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi ahead of the Delimitation Bill in Parliament (6). Delimitation discussions are ongoing, with both BJP and Congress leaders involved (3, 4, 7, 10, 19). Road accidents in Telangana have increased by 20% in two years, with 7,500 lives lost in 2025 (18).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is in Delhi ahead of the Delimitation Bill in Parliament (6). Delimitation discussions are ongoing, with both BJP and Congress leaders involved (3, 4, 7, 10, 19). Road accidents in Telangana have increased by 20% in two years, with 7,500 lives lost in 2025 (18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability:</span>  Disagreements over delimitation are escalating, with accusations of divisive politics and unconstitutional proposals (4, 7, 10, 19).</li>\n    <li><span class=\"risk-medium\">Public Safety:</span>  A 20% increase in road accidents over two years, with 7,500 fatalities in 2025, indicates a serious public safety concern (18).</li>\n    <li><span class=\"risk-low\">Administrative Disruption:</span> Vaahan portal glitch is halting new vehicle registrations (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Delimitation discussions involve both the CM and BJP leaders, indicating a high-stakes political issue (3, 4, 7, 10, 19).</li>\n    <li>The CM's travel to Delhi (6) is directly linked to the upcoming Delimitation Bill in Parliament.</li>\n    <li>Rising road accidents (18) and the launch of a trauma response pilot program (5) suggest a need for improved road safety measures.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the progress of the Delimitation Bill and its potential impact on Telangana.</li>\n    <li>Assess the Vaahan portal issue and expedite its resolution to minimize disruption to vehicle registrations.</li>\n    <li>Initiate an immediate review of road safety measures, focusing on the areas with the highest accident rates.</li>\n    <li>Brief the CM on the political implications of the delimitation debate.</li>\n    <li>Coordinate with the Union government on the delimitation plan.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>Focus on districts with high road accident rates, as the data indicates a statewide trend (18). Further investigation is needed to identify specific districts with the highest number of accidents.</p>\n```",
-    "dataSnapshot": {
-      "temperature": "29.8°C",
-      "humidity": "47%",
-      "wind": "3.7 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 64,
-      "pm25": 38,
-      "goldPerGram": "₹9,012",
-      "newsCount": 52,
-      "topHeadlines": [
-        "CM Revanth Reddy Moots Solar Power for Houses in Tribal Areas - Deccan Chronicle",
-        "Hyderabad Heritage Restoration Gains Pace Under New Policy - INDToday",
-        "Congress leaders discuss delimitation strategy with Telangana CM Revanth Reddy - The Siasat Daily",
-        "Delimitation row: Telangana BJP accuses CM Revanth of divisive politics - The Siasat Daily",
-        "Telangana Launches Pilots Trauma Response On NH 44 - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-15T20:53:10.369Z",
     "timestampIST": "16/4/2026, 2:23:10 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi ahead of the Delimitation Bill in Parliament (7).  Political tensions are high, with the BJP accusing CM Reddy of divisive politics regarding delimitation (5, 8, 12, 14). KTR has warned the Centre against 'injustice' in delimitation (18), and CM Reddy has written to CM Stalin sharing concerns (19).</p>",
@@ -6176,6 +6153,29 @@
         "Revanth Reddy Says His Goal Is to Make Rahul Gandhi Prime Minister - RTV English",
         "Rahul Gandhi will be INDIA bloc’s PM candidate: Revanth Reddy - The Hindu",
         "'Will continue to lead Telangana until 2034, won't become opportunistic for positions': Revanth Reddy - Deccan Herald"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-15T19:40:47.028Z",
+    "timestampIST": "16/5/2026, 1:10:47 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on the Bandi Sanjay case, urging cooperation with the investigation and demanding Bandi Sanjay hand over his son to the police (8, 9, 10). The CM has established a committee to identify Telangana Statehood Activists (2) and is also promoting the Musi project (12). The state will conduct mock exercises on May 18 (3).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focused on the Bandi Sanjay case, urging cooperation with the investigation and demanding Bandi Sanjay hand over his son to the police (8, 9, 10). The CM has established a committee to identify Telangana Statehood Activists (2) and is also promoting the Musi project (12). The state will conduct mock exercises on May 18 (3).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for political friction:</span> Revanth Reddy's statements and actions regarding Bandi Sanjay and the probe could escalate tensions (1, 8, 9, 10).</li>\n    <li><span class=\"risk-low\">Public perception:</span> The CM's focus on national politics and support for Rahul Gandhi could be perceived as a distraction from state governance (4, 5, 13, 14, 17).</li>\n    <li><span class=\"risk-low\">Operational challenges:</span> State-wide mock exercises on May 18 require careful planning and execution (3).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's focus on the Bandi Sanjay case (1, 8, 9, 10) and his political ambitions (4, 5, 6, 13, 14, 17) demonstrate a clear political strategy.</li>\n    <li>The CM's emphasis on the Musi project (12) and the Outer Ring Road in Warangal (18) indicates a focus on infrastructure development.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the Bandi Sanjay case closely and assess any potential for public unrest or political backlash.</li>\n    <li>Prepare for the state-wide mock exercises on May 18, ensuring effective coordination and communication.</li>\n    <li>Review the progress of the Musi project and the Outer Ring Road in Warangal.</li>\n    <li>Assess public sentiment regarding the CM's focus on national politics.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Warangal:</b> Immediate attention is needed to monitor progress on the Outer Ring Road construction (18).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.8°C",
+      "humidity": "37%",
+      "wind": "5 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 77,
+      "pm25": 58.8,
+      "goldPerGram": "₹9,257",
+      "newsCount": 42,
+      "topHeadlines": [
+        "Bandi Sanjay case questioned by Revanth Reddy - newsage.in",
+        "CM Revanth Sets Up Committee to Identify Telangana Statehood Activists - Deccan Chronicle",
+        "Telangana to conduct state-wide mock exercises on May 18 - The Siasat Daily",
+        "Revanth Reddy Says His Goal Is to Make Rahul Gandhi Prime Minister - RTV English",
+        "Rahul Gandhi will be INDIA bloc’s PM candidate: Revanth Reddy - The Hindu"
       ]
     }
   }
