@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15T20:53:10.369Z",
-    "timestampIST": "16/4/2026, 2:23:10 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi ahead of the Delimitation Bill in Parliament (7).  Political tensions are high, with the BJP accusing CM Reddy of divisive politics regarding delimitation (5, 8, 12, 14). KTR has warned the Centre against 'injustice' in delimitation (18), and CM Reddy has written to CM Stalin sharing concerns (19).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is in Delhi ahead of the Delimitation Bill in Parliament (7).  Political tensions are high, with the BJP accusing CM Reddy of divisive politics regarding delimitation (5, 8, 12, 14). KTR has warned the Centre against 'injustice' in delimitation (18), and CM Reddy has written to CM Stalin sharing concerns (19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span>  Political tensions surrounding delimitation are escalating, with accusations of divisive politics against the CM from the BJP (5, 8, 12, 14).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span>  Rising road accidents in Telangana, with a 20% increase in two years and 7,500 lives lost in 2025 (20).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span>  Potential for protests or public reaction related to the Transgender Amendment Act, as activists urge Telangana to pass a resolution against it (15).</li>\n    <li><span class=\"risk-low\">LOW:</span>  Vaahan portal glitch halting new vehicle registrations (11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The delimitation issue is a central theme, with multiple headlines addressing it from different political perspectives (1, 4, 5, 7, 8, 12, 18, 19).</li>\n    <li>The CM's actions are under scrutiny, with both positive initiatives (solar power for tribal areas (2)) and criticism (delimitation) being reported (1, 5, 8, 12, 14).</li>\n    <li>The rise in road accidents (20) presents a public safety concern, potentially requiring immediate attention.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the parliamentary proceedings related to the Delimitation Bill closely.</li>\n    <li>Assess the potential impact of the Vaahan portal glitch on vehicle registrations and revenue.</li>\n    <li>Review and strengthen road safety measures in light of the rising accident rate.</li>\n    <li>Prepare a response to the BJP's accusations regarding delimitation and divisive politics.</li>\n    <li>Prepare for potential public reaction regarding the Transgender Amendment Act.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the headlines that require immediate attention. However, the rise in road accidents necessitates a statewide review of road safety measures, requiring a focus on all districts. (20)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.8°C",
-      "humidity": "56%",
-      "wind": "2.3 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 64,
-      "pm25": 30.3,
-      "goldPerGram": "₹9,012",
-      "newsCount": 52,
-      "topHeadlines": [
-        "KTR Calls Revanth Reddy 'Hybrid CM', Opposes Lok Sabha Seat Increase Based on Population - Telangana Tribune",
-        "CM Revanth Reddy Moots Solar Power for Houses in Tribal Areas - Deccan Chronicle",
-        "Hyderabad Heritage Restoration Gains Pace Under New Policy - INDToday",
-        "Congress leaders discuss delimitation strategy with Telangana CM Revanth Reddy - The Siasat Daily",
-        "Delimitation row: Telangana BJP accuses CM Revanth of divisive politics - The Siasat Daily"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-15T22:43:17.388Z",
     "timestampIST": "16/4/2026, 4:13:17 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi ahead of the Delimitation Bill in Parliament (7). Delimitation is a major point of contention, with KTR and BJP leaders accusing the CM of divisive politics and unconstitutional proposals (1, 5, 8). Road accidents in Telangana have risen by 20% in two years, with 7,500 lives lost in 2025 (19).</p>",
@@ -6176,6 +6153,29 @@
         "Telangana to conduct state-wide mock exercises on May 18 - The Siasat Daily",
         "Revanth Reddy Says His Goal Is to Make Rahul Gandhi Prime Minister - RTV English",
         "Rahul Gandhi will be INDIA bloc’s PM candidate: Revanth Reddy - The Hindu"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-15T21:03:43.716Z",
+    "timestampIST": "16/5/2026, 2:33:43 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on national political ambitions, including supporting Rahul Gandhi for Prime Minister (5, 6, 14, 18). He has instructed officials to complete the Outer Ring Road construction in the Warangal region (19). The state will conduct mock exercises on May 18 (4).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focused on national political ambitions, including supporting Rahul Gandhi for Prime Minister (5, 6, 14, 18). He has instructed officials to complete the Outer Ring Road construction in the Warangal region (19). The state will conduct mock exercises on May 18 (4).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Revanth Reddy's focus on national politics and support for Rahul Gandhi could potentially create friction or challenges within the state (5, 6, 14, 18).</li>\n    <li><span class=\"risk-low\">Public Health Concerns:</span> Hyderabad has the highest cancer cases in Telangana, with 52 cases per lakh (1).</li>\n    <li><span class=\"risk-low\">Infrastructure Delays:</span> Potential for delays in the Outer Ring Road construction in Warangal (19).</li>\n    <li><span class=\"risk-low\">Legal/Political Disputes:</span> Bandi Sanjay's case is being questioned, and CM Revanth Reddy is involved in the matter (2, 9, 10, 11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's statements about supporting Rahul Gandhi for Prime Minister (5, 6, 14, 18) are linked to his long-term political plans, including a move to national politics after 2034 (15).</li>\n    <li>The CM's focus on the Musi project (13) and the Outer Ring Road in Warangal (19) indicates a focus on infrastructure development.</li>\n    <li>The CM's statements regarding Bandi Sanjay (9, 10, 11) and the probe into his case are connected to the political landscape of the state (2).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment regarding CM Revanth Reddy's national political ambitions and its potential impact on state governance.</li>\n    <li>Ensure timely completion of the Outer Ring Road project in Warangal.</li>\n    <li>Oversee the state-wide mock exercises scheduled for May 18.</li>\n    <li>Monitor the progress of the Bandi Sanjay case and any related political developments.</li>\n    <li>Review and support the Telangana Rising Vision to achieve the three trillion dollar economy target (16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Warangal:</b> Immediate attention is needed to ensure the timely completion of the Outer Ring Road construction (19).</li>\n    <li><b>Hyderabad:</b> Monitor and address the high cancer incidence rate (1).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.1°C",
+      "humidity": "40%",
+      "wind": "6.6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 78,
+      "pm25": 44.9,
+      "goldPerGram": "₹9,257",
+      "newsCount": 41,
+      "topHeadlines": [
+        "Hyderabad Tops Telangana Cancer Chart, State Records 52 Cases Per Lakh: Cancer Atlas - Deccan Chronicle",
+        "Bandi Sanjay case questioned by Revanth Reddy - newsage.in",
+        "CM Revanth Sets Up Committee to Identify Telangana Statehood Activists - Deccan Chronicle",
+        "Telangana to conduct state-wide mock exercises on May 18 - The Siasat Daily",
+        "Revanth Reddy Says His Goal Is to Make Rahul Gandhi Prime Minister - RTV English"
       ]
     }
   }
