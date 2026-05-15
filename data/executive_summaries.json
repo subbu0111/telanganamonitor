@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15T15:06:27.292Z",
-    "timestampIST": "15/4/2026, 8:36:27 pm",
-    "executiveSummary": "<p>Vehicle registrations are halted due to a glitch in the Vaahan portal. (1) Road accidents in Telangana have risen by 20% in two years, with 7,500 lives lost in 2025. (9) The Chief Minister Revanth Reddy is facing criticism from BJP leaders and KTR regarding delimitation and other issues. (2, 4, 7, 10, 15, 17, 20)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Vehicle registrations are halted due to a glitch in the Vaahan portal. (1) Road accidents in Telangana have risen by 20% in two years, with 7,500 lives lost in 2025. (9) The Chief Minister Revanth Reddy is facing criticism from BJP leaders and KTR regarding delimitation and other issues. (2, 4, 7, 10, 15, 17, 20)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Road Safety:</span> A 20% increase in road accidents over two years, with 7,500 fatalities in 2025, indicates a critical public safety issue. (9)</li>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Ongoing criticism of CM Revanth Reddy from BJP and other political figures regarding delimitation and other matters could escalate political tensions. (2, 3, 4, 7, 10, 15, 17, 19, 20)</li>\n    <li><span class=\"risk-medium\">Administrative Disruption:</span>  A glitch in the Vaahan portal is halting new vehicle registrations, potentially impacting revenue and citizen services. (1)</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span>  Activists are urging the Telangana government to pass a resolution against the Transgender Amendment Act. (5)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The delimitation issue is a recurring theme, with multiple news sources reporting on CM Revanth Reddy's concerns and opposition from BJP leaders and KTR. (2, 4, 7, 10, 17, 20)</li>\n    <li>Road safety concerns are highlighted by the rise in accidents and fatalities. (9, 11)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Transport Department to immediately address and resolve the Vaahan portal glitch to resume vehicle registrations. (1)</li>\n    <li>Initiate an immediate review of road safety measures and enforcement strategies to address the rising number of accidents and fatalities. (9)</li>\n    <li>Monitor political discourse surrounding delimitation and proactively engage with relevant stakeholders to mitigate potential unrest. (2, 4, 7, 10, 17, 20)</li>\n    <li>Review the status of the Transgender Amendment Act and assess the potential impact of activist demands. (5)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Suryapet:</b>  Focus on this district due to the recent road accident resulting in the death of a senior Congress leader. (12)</li>\n    <li><b>Hyderabad:</b> Monitor political developments and public sentiment, particularly in light of the BJP's women's scooty rally. (18)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "34.4°C",
-      "humidity": "32%",
-      "wind": "2.4 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 62,
-      "pm25": 58.9,
-      "goldPerGram": "₹8,979",
-      "newsCount": 66,
-      "topHeadlines": [
-        "Vaahan portal glitch halts new vehicle registrations in Telangana - Telangana Today",
-        "No injustice in delimitation, says Telangana BJP chief, slams CM Reddy - The New Indian Express",
-        "Mallu Ravi Condemns Kishan Reddy Remarks On CM Revanth - INDToday",
-        "BJP MP K Laxman Targets CM Revanth Reddy Over Remarks - INDToday",
-        "Activists urge Telangana to pass resolution against Transgender Amendment Act - The South First"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-15T17:07:03.036Z",
-    "timestampIST": "15/4/2026, 10:37:03 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi ahead of the Delimitation Bill in Parliament (2). The CM's delimitation proposal is being challenged by BJP MP Dr. K Laxman (3). Road accidents in Telangana have risen by 20% in two years, with 7,500 lives lost in 2025 (14).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is in Delhi ahead of the Delimitation Bill in Parliament (2). The CM's delimitation proposal is being challenged by BJP MP Dr. K Laxman (3). Road accidents in Telangana have risen by 20% in two years, with 7,500 lives lost in 2025 (14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability:</span>  Ongoing disputes regarding delimitation, with criticism from BJP leaders (3, 6, 8, 15) and KTR (12).</li>\n    <li><span class=\"risk-high\">Public Safety:</span>  A 20% rise in road accidents over two years, with 7,500 deaths in 2025 (14).</li>\n    <li><span class=\"risk-medium\">Administrative Disruption:</span> Vaahan portal glitch halting new vehicle registrations (5).</li>\n    <li><span class=\"risk-medium\">Public Outcry:</span> Activists urging Telangana to pass resolution against Transgender Amendment Act (9).</li>\n    <li><span class=\"risk-low\">Loss of Life:</span> Senior Congress leader of Khammam dies in road accident in Suryapet (17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's visit to Delhi (2) is directly related to the Delimitation Bill, which is also the subject of criticism from BJP leaders (3, 6, 8, 15) and KTR (12).</li>\n    <li>Rising road accidents (14) and the death of a senior Congress leader in a road accident (17) highlight the need for immediate action on road safety.</li>\n    <li>KTR's criticism of the Revanth Reddy government (20) and the ongoing delimitation debate (3, 6, 8, 12, 15) suggest potential political friction.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>The CM should address the concerns raised by BJP leaders and KTR regarding the delimitation proposal.</li>\n    <li>Initiate an immediate review of road safety measures and enforcement, given the rise in accidents and fatalities.</li>\n    <li>Address the Vaahan portal glitch to minimize disruption to vehicle registrations.</li>\n    <li>Review the Transgender Amendment Act and consider the activists' resolution.</li>\n    <li>Assess the political fallout from KTR's criticism of the government.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Suryapet:</b> Immediate attention is needed due to the death of a senior Congress leader in a road accident (17).</li>\n    <li><b>All Districts:</b> Given the statewide rise in road accidents (14), all districts require heightened road safety enforcement and awareness campaigns.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.6°C",
-      "humidity": "42%",
-      "wind": "5.2 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 63,
-      "pm25": 62.6,
-      "goldPerGram": "₹9,012",
-      "newsCount": 60,
-      "topHeadlines": [
-        "Telangana Launches Pilots Trauma Response On NH 44 - Deccan Chronicle",
-        "CM Revanth Leaves for Delhi Ahead of Delimitation Bill in Parliament - Deccan Chronicle",
-        "Telangana CM Revanth Reddy’s delimitation proposal unconstitutional, says BJP MP Dr K Laxman - Organiser",
-        "University of London to Set Foot in Hyderabad: An Academic Revolution - Devdiscourse",
-        "Vaahan portal glitch halts new vehicle registrations in Telangana - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-15T19:21:25.990Z",
     "timestampIST": "16/4/2026, 12:51:25 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi ahead of the Delimitation Bill in Parliament (6). Delimitation discussions are ongoing, with both BJP and Congress leaders involved (3, 4, 7, 10, 19). Road accidents in Telangana have increased by 20% in two years, with 7,500 lives lost in 2025 (18).</p>",
@@ -6199,6 +6153,29 @@
         "Degree admissions Phase-I sees BCom as most sought-after programme - EdexLive",
         "NSUI stages protest at Kishan Reddy’s residence over NEET-UG 2026 paper leak - The Siasat Daily",
         "Watch: People remind Revanth Reddy of past fuel price remarks, seek VAT reduction - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-15T17:40:19.419Z",
+    "timestampIST": "15/5/2026, 11:10:19 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has established a committee to identify Telangana Statehood activists (1). He is focused on the Musi project and has warned against encroachments (11). NSUI staged a protest at Kishan Reddy’s residence (20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has established a committee to identify Telangana Statehood activists (1). He is focused on the Musi project and has warned against encroachments (11). NSUI staged a protest at Kishan Reddy’s residence (20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Potential for unrest:</span> NSUI staged a protest at Kishan Reddy’s residence (20).</li>\n  <li><span class=\"risk-low\">Political tension:</span> CM Revanth Reddy is involved in a public dispute with Bandi Sanjay (7, 8, 9).</li>\n  <li><span class=\"risk-low\">Public perception:</span> CM Revanth Reddy's statements regarding Rahul Gandhi's future and his own political plans could be perceived as controversial (3, 4, 12, 13, 16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy is focused on the Musi project (11), while also planning for national politics after 2034 (13, 16).</li>\n  <li>CM Revanth Reddy is publicly urging Bandi Sanjay to cooperate with an ongoing probe (7, 8, 9).</li>\n  <li>CM Revanth Reddy is actively promoting Rahul Gandhi's future as Prime Minister (3, 4, 12, 16).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the situation at Kishan Reddy’s residence and assess the potential for escalation (20).</li>\n  <li>Assess public sentiment regarding CM Revanth Reddy's political statements (3, 4, 12, 13, 16).</li>\n  <li>Ensure the probe involving Bandi Sanjay is handled with transparency and adherence to legal protocols (7, 8, 9).</li>\n  <li>Prepare for state-wide mock exercises on May 18 (2).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Warangal:</b> Focus on the Outer Ring Road construction (17).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34°C",
+      "humidity": "37%",
+      "wind": "3.2 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 75,
+      "pm25": 64.5,
+      "goldPerGram": "₹9,257",
+      "newsCount": 42,
+      "topHeadlines": [
+        "CM Revanth Sets Up Committee to Identify Telangana Statehood Activists - Deccan Chronicle",
+        "Telangana to conduct state-wide mock exercises on May 18 - The Siasat Daily",
+        "Revanth Reddy Says His Goal Is to Make Rahul Gandhi Prime Minister - RTV English",
+        "Rahul Gandhi will be INDIA bloc’s PM candidate: Revanth Reddy - The Hindu",
+        "'Will continue to lead Telangana until 2034, won't become opportunistic for positions': Revanth Reddy - Deccan Herald"
       ]
     }
   }
