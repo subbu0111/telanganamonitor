@@ -1,22 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T11:06:00.848Z",
-    "timestampIST": "16/4/2026, 4:36:00 pm",
-    "executiveSummary": "<p>No critical developments were reported in the last 24 hours.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>No critical developments were reported in the last 24 hours.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<p>No risks are identified based on the provided data.</p>\n\n<h3>🔗 Cross-Correlation</h3>\n<p>No cross-correlations can be established with the available data.</p>\n\n<h3>💡 Recommendations</h3>\n<p>No recommendations can be made based on the provided data.</p>\n\n<h3>🗺️ District Focus</h3>\n<p>No district focus is possible based on the provided data.</p>\n```",
-    "dataSnapshot": {
-      "temperature": "37.3°C",
-      "humidity": "26%",
-      "wind": "9.9 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 71,
-      "pm25": 29.7,
-      "goldPerGram": "₹9,012",
-      "newsCount": 0,
-      "topHeadlines": []
-    }
-  },
-  {
     "timestamp": "2026-04-16T13:50:40.002Z",
     "timestampIST": "16/4/2026, 7:20:40 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy's remarks on delimitation have triggered a political row, with criticism from BRS and BJP leaders. (4, 5, 7, 8) The CM is scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage. (9) Telangana launched India’s first post-crash trauma response system on NH44. (12, 15)</p>",
@@ -6199,6 +6182,29 @@
         "Revanth Reddy Leaves for Delhi, to Attend Wedding Reception of HC CJ's Son - Deccan Chronicle",
         "Telangana CM Revanth Reddy pitches Rahul Gandhi for PM candidate in 2029, says will convince INDIA bloc allies - Public TV English",
         "Fuel Price Hike: Revanth Reddy Exposes Centre's 4-Year Stunning Delay - Hindustan Herald"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-16T13:26:19.828Z",
+    "timestampIST": "16/5/2026, 6:56:19 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi to attend a wedding reception. He has strongly criticized the central government over a recent fuel price hike, demanding its rollback. BRS MLA Sudheer Reddy has demanded a SIT probe into Group-I recruitment and the repeal of GO 29 and GO 46.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is in Delhi to attend a wedding reception. He has strongly criticized the central government over a recent fuel price hike, demanding its rollback. BRS MLA Sudheer Reddy has demanded a SIT probe into Group-I recruitment and the repeal of GO 29 and GO 46.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span>  The CM's strong criticism of the central government's fuel price hike could escalate political tensions. (Headlines 9, 11, 12, 13, 14, 18, 19, 20)</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> Rising fuel prices and the CM's statements could influence public perception of the government's economic policies. (Headlines 11, 13)</li>\n    <li><span class=\"risk-low\">Recruitment Concerns:</span> BRS MLA Sudheer Reddy's demand for a SIT probe into Group-I recruitment could lead to public scrutiny and potential unrest. (Headline 10)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's criticism of the fuel price hike (Headlines 9, 11, 12, 13, 14, 18, 19, 20) is linked to rising economic concerns (Headline 13).</li>\n    <li>The CM's presence in Delhi (Headline 7, 16) is related to attending a wedding reception (Headline 7).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public and media reactions to the fuel price hike and the CM's statements.</li>\n    <li>Assess the potential impact of BRS MLA Sudheer Reddy's demand for a SIT probe on public sentiment and recruitment processes.</li>\n    <li>Prepare a response strategy to address the criticism regarding fuel price increases.</li>\n    <li>Brief the CM on the latest developments related to the fuel price hike and the political implications.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>All Districts:</b> Monitor public sentiment regarding fuel prices and potential economic impacts, as the issue affects all districts. (Headlines 9, 11, 12, 13, 14, 18, 19, 20)</li>\n    <li><b>All Districts:</b> Monitor for any potential protests or public gatherings related to the fuel price hike.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "33.7°C",
+      "humidity": "43%",
+      "wind": "8.2 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 87,
+      "pm25": 40.7,
+      "goldPerGram": "₹9,257",
+      "newsCount": 50,
+      "topHeadlines": [
+        "Thunderstorm forecast in nine Telangana districts today - The Hindu",
+        "RS Praveen Kumar demands action in Bandi Sai Bhageerath POCSO case - Hyderabad Mail",
+        "8th Pay Commission meeting on May 18–19 in Telangana: Top demands, pay hike talks &amp; key updates - The Economic Times",
+        "Revanth Reddy Condoles Demise of Former Judge Justice Chandrayya - Deccan Chronicle",
+        "Gold Rate Today in Hyderabad: Latest 18K, 22K &amp; 24K Gold Prices on 16 May 2026 - ET Now"
       ]
     }
   }
