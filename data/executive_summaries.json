@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T13:50:40.002Z",
-    "timestampIST": "16/4/2026, 7:20:40 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy's remarks on delimitation have triggered a political row, with criticism from BRS and BJP leaders. (4, 5, 7, 8) The CM is scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage. (9) Telangana launched India’s first post-crash trauma response system on NH44. (12, 15)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy's remarks on delimitation have triggered a political row, with criticism from BRS and BJP leaders. (4, 5, 7, 8) The CM is scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage. (9) Telangana launched India’s first post-crash trauma response system on NH44. (12, 15)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Revanth Reddy's delimitation proposal is facing strong opposition from BRS and BJP, potentially escalating political tensions. (4, 5, 7, 8, 17)</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> The ongoing debate regarding delimitation could lead to public dissatisfaction. (1, 3, 4, 10)</li>\n    <li><span class=\"risk-low\">Health Concerns:</span> A heatwave alert is in effect for Telangana, potentially impacting public health. (13)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's delimitation proposal is a central theme, drawing criticism from multiple political parties. (4, 5, 7, 17)</li>\n    <li>The launch of the post-crash trauma response system on NH44 is a positive development, potentially mitigating the impact of road accidents. (12, 15)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political fallout from Revanth Reddy's delimitation remarks and prepare a response strategy. (4, 5, 7, 8, 17)</li>\n    <li>Ensure adequate resources and preparedness for the heatwave alert, focusing on vulnerable populations. (13)</li>\n    <li>Review and support the newly launched post-crash trauma response system on NH44. (12, 15)</li>\n    <li>Prepare for the filling of nominated posts and party positions within the next two days. (14, 20)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Suryapet:</b> Monitor the situation following the death of a Congress leader in Suryapet. (11)</li>\n    <li><b>Medak/Jayashankar Bhupalapally:</b> Focus on the Kaleshwaram Project and Medigadda Barrage, as the CM is scheduled to visit. (9)</li>\n    <li><b>All Districts:</b> Monitor public health due to the heatwave alert. (13)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "33.7°C",
-      "humidity": "38%",
-      "wind": "8 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 65,
-      "pm25": 35.3,
-      "goldPerGram": "₹9,012",
-      "newsCount": 35,
-      "topHeadlines": [
-        "Is Revanth Reddy's hybrid model for Lok Sabha size a fairer deal for South states? - India Today",
-        "Tejasvi Surya equates AP-Telangana bifurcation with India-Pak partition, faces ire - The Siasat Daily",
-        "How Revanth Reddy emerged a prominent voice in Congress in protest against delimitation - theweek.in",
-        "Revanth Reddy’s ‘hybrid delimitation’ remarks trigger political row - Hyderabad Mail",
-        "BRS slams Revanth Reddy on ‘hybrid delimitation’ proposal - The Siasat Daily"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-16T15:27:46.514Z",
     "timestampIST": "16/4/2026, 8:57:46 pm",
     "executiveSummary": "<p>Former Minister Motkupalli Narsimhulu claims Revanth Reddy's government is ready to collapse (1). Revanth Reddy is facing criticism regarding his 'hybrid delimitation' proposal, with BRS and BJP leaders publicly criticizing his remarks (5, 6, 8, 9). The Chief Minister is scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage (10).</p>",
@@ -6199,6 +6176,29 @@
       "pm25": 40.7,
       "goldPerGram": "₹9,257",
       "newsCount": 50,
+      "topHeadlines": [
+        "Thunderstorm forecast in nine Telangana districts today - The Hindu",
+        "RS Praveen Kumar demands action in Bandi Sai Bhageerath POCSO case - Hyderabad Mail",
+        "8th Pay Commission meeting on May 18–19 in Telangana: Top demands, pay hike talks &amp; key updates - The Economic Times",
+        "Revanth Reddy Condoles Demise of Former Judge Justice Chandrayya - Deccan Chronicle",
+        "Gold Rate Today in Hyderabad: Latest 18K, 22K &amp; 24K Gold Prices on 16 May 2026 - ET Now"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-16T14:57:53.538Z",
+    "timestampIST": "16/5/2026, 8:27:53 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi to attend a wedding reception. He has strongly criticized the central government regarding the recent fuel price hike, demanding a rollback. BRS MLA Sudheer Reddy has demanded an SIT probe into Group-I recruitment.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is in Delhi to attend a wedding reception. He has strongly criticized the central government regarding the recent fuel price hike, demanding a rollback. BRS MLA Sudheer Reddy has demanded an SIT probe into Group-I recruitment.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Discontent:</span> The CM's repeated criticism of the fuel price hike and its impact on the economy could lead to public dissatisfaction.</li>\n    <li><span class=\"risk-low\">Political Fallout:</span> BRS MLA Sudheer Reddy's demand for an SIT probe into Group-I recruitment could escalate political tensions.</li>\n    <li><span class=\"risk-low\">Weather Alert:</span> Thunderstorm forecast in nine Telangana districts today.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's criticism of the fuel price hike (headlines 9, 11, 12, 13, 14, 18, 19, 20) is likely to be a recurring theme in upcoming political discussions.</li>\n    <li>The CM is currently in Delhi (headline 7, 16).</li>\n    <li>RS Praveen Kumar demands action in Bandi Sai Bhageerath POCSO case (headline 2) and CM Revanth urges Union Min to hand over son to cops (headline 15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment regarding the fuel price hike and its economic impact.</li>\n    <li>Assess the potential political ramifications of the BRS MLA's demand for an SIT probe.</li>\n    <li>Prepare for potential disruptions in the nine districts forecast to experience thunderstorms.</li>\n    <li>Brief the CM on the latest developments regarding the fuel price hike and the Group-I recruitment issue upon his return.</li>\n    <li>Monitor media coverage for any further developments related to the Bandi Sai Bhageerath POCSO case.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Nine Districts:</b> Monitor for potential disruptions due to the thunderstorm forecast. (Headline 1)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.9°C",
+      "humidity": "47%",
+      "wind": "8.2 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 87,
+      "pm25": 41.4,
+      "goldPerGram": "₹9,257",
+      "newsCount": 44,
       "topHeadlines": [
         "Thunderstorm forecast in nine Telangana districts today - The Hindu",
         "RS Praveen Kumar demands action in Bandi Sai Bhageerath POCSO case - Hyderabad Mail",
