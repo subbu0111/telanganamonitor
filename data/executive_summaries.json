@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T15:27:46.514Z",
-    "timestampIST": "16/4/2026, 8:57:46 pm",
-    "executiveSummary": "<p>Former Minister Motkupalli Narsimhulu claims Revanth Reddy's government is ready to collapse (1). Revanth Reddy is facing criticism regarding his 'hybrid delimitation' proposal, with BRS and BJP leaders publicly criticizing his remarks (5, 6, 8, 9). The Chief Minister is scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage (10).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Former Minister Motkupalli Narsimhulu claims Revanth Reddy's government is ready to collapse (1). Revanth Reddy is facing criticism regarding his 'hybrid delimitation' proposal, with BRS and BJP leaders publicly criticizing his remarks (5, 6, 8, 9). The Chief Minister is scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage (10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Former Minister Motkupalli Narsimhulu's statement suggesting the government's imminent collapse indicates potential political maneuvering and challenges to the current administration (1).</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span> Revanth Reddy's delimitation proposal has triggered a political row, with BRS and BJP leaders criticizing his stance. This could lead to public discontent and protests (5, 6, 8, 9, 11).</li>\n    <li><span class=\"risk-low\">Infrastructure Concerns:</span> The Chief Minister's visit to the Kaleshwaram Project and Medigadda Barrage indicates potential infrastructure concerns and the need for damage assessment (10).</li>\n    <li><span class=\"risk-low\">Health Risks:</span> Heatwave alert issued for Telangana, with a potential 3 to 4°C spike in mercury (14).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's delimitation remarks are a central point of criticism, with multiple political parties and leaders reacting to his statements (5, 6, 8, 9, 11).</li>\n    <li>The Chief Minister's focus on the Kaleshwaram Project and Medigadda Barrage (10) could be linked to the ongoing political discussions surrounding infrastructure and governance.</li>\n    <li>The launch of the post-crash trauma response system (13, 16) is a positive development, but the heatwave alert (14) could increase the risk of accidents and the need for emergency services.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor political developments closely, particularly statements from opposition leaders regarding the government's stability (1).</li>\n    <li>Assess the public's reaction to the delimitation proposal and proactively address any emerging concerns or misinformation (5, 6, 8, 9, 11).</li>\n    <li>Ensure adequate security and logistical arrangements for the Chief Minister's visit to the Kaleshwaram Project and Medigadda Barrage (10).</li>\n    <li>Issue public health advisories and preparedness measures in response to the heatwave alert (14).</li>\n    <li>Expedite the filling of nominated posts and party positions (15, 20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Suryapet:</b> Focus on Suryapet due to the death of a Congress leader in the district (12). Ensure law and order and provide necessary support.</li>\n    <li><b>Areas near NH44:</b> Monitor areas along NH44 due to the launch of the post-crash trauma response system (13, 16).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "32.3°C",
-      "humidity": "42%",
-      "wind": "6.5 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 65,
-      "pm25": 46.8,
-      "goldPerGram": "₹8,993",
-      "newsCount": 29,
-      "topHeadlines": [
-        "Former Minister Motkupalli Narsimhulu says Revanth’s government ready to collapse - Telangana Today",
-        "Is Revanth Reddy's hybrid model for Lok Sabha size a fairer deal for South states? - India Today",
-        "Tejasvi Surya equates AP-Telangana bifurcation with India-Pak partition, faces ire - The Siasat Daily",
-        "How Revanth Reddy emerged a prominent voice in Congress in protest against delimitation - theweek.in",
-        "Revanth Reddy’s ‘hybrid delimitation’ remarks trigger political row - Hyderabad Mail"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-16T17:17:52.338Z",
     "timestampIST": "16/4/2026, 10:47:52 pm",
     "executiveSummary": "<p>Political tensions are escalating following comments by Tejaswi Surya and Revanth Reddy regarding delimitation, triggering criticism from multiple parties and leaders. (1, 4, 7, 8, 10, 11, 13) A road accident in Kurnool resulted in eight fatalities and twelve injuries. (6) The Chief Minister is scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage. (12)</p>",
@@ -6205,6 +6182,29 @@
         "8th Pay Commission meeting on May 18–19 in Telangana: Top demands, pay hike talks &amp; key updates - The Economic Times",
         "Revanth Reddy Condoles Demise of Former Judge Justice Chandrayya - Deccan Chronicle",
         "Gold Rate Today in Hyderabad: Latest 18K, 22K &amp; 24K Gold Prices on 16 May 2026 - ET Now"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-16T17:00:21.147Z",
+    "timestampIST": "16/5/2026, 10:30:21 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has publicly criticized the central government regarding a fuel price hike, demanding its rollback (Headlines 9, 11, 12, 13, 14, 18, 19, 20). The CM is in Delhi to attend a wedding reception (Headlines 7, 16). The CM has endorsed Rahul Gandhi as the INDIA bloc's PM candidate for 2029 (Headlines 1, 8, 17).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has publicly criticized the central government regarding a fuel price hike, demanding its rollback (Headlines 9, 11, 12, 13, 14, 18, 19, 20). The CM is in Delhi to attend a wedding reception (Headlines 7, 16). The CM has endorsed Rahul Gandhi as the INDIA bloc's PM candidate for 2029 (Headlines 1, 8, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Discontent:</span> The CM's criticism of the fuel price hike (Headlines 9, 11, 12, 13, 14, 18, 19, 20) could potentially incite public unrest due to rising commodity prices (Headline 13).</li>\n    <li><span class=\"risk-low\">Political Fallout:</span> Criticism of the central government by the CM (Headlines 9, 11, 12, 13, 14, 18, 19, 20) may escalate political tensions.</li>\n    <li><span class=\"risk-low\">Legal Scrutiny:</span> RS Praveen Kumar demands action in the Bandi Sai Bhageerath POCSO case (Headline 4).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's criticism of the fuel price hike (Headlines 9, 11, 12, 13, 14, 18, 19, 20) is linked to rising economic concerns (Headline 20) and the impact on essential commodity prices (Headline 13).</li>\n    <li>The CM's endorsement of Rahul Gandhi (Headlines 1, 8, 17) may be perceived as a strategic move within the INDIA bloc.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment regarding the fuel price hike and its impact on essential commodities.</li>\n    <li>Prepare a response strategy to address potential criticism of the CM's stance on the fuel price hike.</li>\n    <li>Monitor developments in the Bandi Sai Bhageerath POCSO case (Headline 4).</li>\n    <li>Assess the potential political ramifications of the CM's endorsement of Rahul Gandhi.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Monitor all districts for potential public unrest related to rising fuel and commodity prices.</li>\n    <li>Monitor districts where the nine districts with thunderstorm forecast today (Headline 3).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31°C",
+      "humidity": "54%",
+      "wind": "7.7 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 83,
+      "pm25": 35.4,
+      "goldPerGram": "₹9,257",
+      "newsCount": 37,
+      "topHeadlines": [
+        "Telangana CM backs Rahul as INDIA bloc’s 2029 PM face: Says allies will be convinced; raises concern over v... - Bhaskar English",
+        "Bangladesh BNP links India ties to new Ganges treaty - Telangana Today",
+        "Thunderstorm forecast in nine Telangana districts today - The Hindu",
+        "RS Praveen Kumar demands action in Bandi Sai Bhageerath POCSO case - Hyderabad Mail",
+        "Revanth Reddy Condoles Demise of Former Judge Justice Chandrayya - Deccan Chronicle"
       ]
     }
   }
