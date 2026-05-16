@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T17:17:52.338Z",
-    "timestampIST": "16/4/2026, 10:47:52 pm",
-    "executiveSummary": "<p>Political tensions are escalating following comments by Tejaswi Surya and Revanth Reddy regarding delimitation, triggering criticism from multiple parties and leaders. (1, 4, 7, 8, 10, 11, 13) A road accident in Kurnool resulted in eight fatalities and twelve injuries. (6) The Chief Minister is scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage. (12)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions are escalating following comments by Tejaswi Surya and Revanth Reddy regarding delimitation, triggering criticism from multiple parties and leaders. (1, 4, 7, 8, 10, 11, 13) A road accident in Kurnool resulted in eight fatalities and twelve injuries. (6) The Chief Minister is scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage. (12)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Disagreements over delimitation and comments by prominent figures like Tejaswi Surya and Revanth Reddy are fueling political rows and criticism. (1, 4, 7, 8, 10, 11, 13)</li>\n    <li><span class=\"risk-low\">Public Safety:</span>  A road accident in Kurnool resulted in casualties, requiring immediate attention to rescue and medical efforts. (6)</li>\n    <li><span class=\"risk-low\">Public Health:</span>  A heatwave alert is in effect for Telangana, potentially impacting public health. (16)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Political discourse surrounding delimitation (3, 5, 7, 8, 10, 13) is linked to comments made by Tejaswi Surya (1, 4), highlighting a broader political debate.</li>\n    <li>The Chief Minister's upcoming visit to the Kaleshwaram Project (12) and the launch of a trauma response system on NH44 (15, 18) suggest a focus on infrastructure and public safety.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political fallout from the delimitation debate and comments made by key political figures.</li>\n    <li>Ensure adequate medical and support services are deployed to Kurnool following the road accident.</li>\n    <li>Prepare for potential public health impacts due to the heatwave, including public awareness campaigns.</li>\n    <li>Prepare for the Chief Minister's visit to the Kaleshwaram Project and Medigadda Barrage.</li>\n    <li>Monitor the filling of nominated posts and party positions. (17)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Kurnool:</b> Immediate attention is required due to the road accident to manage rescue operations and provide medical assistance. (6)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30.2°C",
-      "humidity": "50%",
-      "wind": "4.8 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 64,
-      "pm25": 36.2,
-      "goldPerGram": "₹8,993",
-      "newsCount": 26,
-      "topHeadlines": [
-        "Row Over Tejaswi Surya's Comments On Telangana In Lok Sabha, Parties Demand Apology - ETV Bharat",
-        "Former Minister Motkupalli Narsimhulu says Revanth’s government ready to collapse - Telangana Today",
-        "Is Revanth Reddy's hybrid model for Lok Sabha size a fairer deal for South states? - India Today",
-        "Tejasvi Surya equates AP-Telangana bifurcation with India-Pak partition, faces ire - The Siasat Daily",
-        "How Revanth Reddy emerged a prominent voice in Congress in protest against delimitation - theweek.in"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-16T19:19:05.355Z",
     "timestampIST": "17/4/2026, 12:49:05 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy will inaugurate the Shastripuram Flyover on April 17, a ₹71 crore project. The CM is also scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage. Political tensions are rising due to comments made by Tejaswi Surya regarding Telangana and Revanth Reddy's 'hybrid delimitation' proposal, drawing criticism from multiple parties.</p>",
@@ -6199,6 +6176,29 @@
       "pm25": 35.4,
       "goldPerGram": "₹9,257",
       "newsCount": 37,
+      "topHeadlines": [
+        "Telangana CM backs Rahul as INDIA bloc’s 2029 PM face: Says allies will be convinced; raises concern over v... - Bhaskar English",
+        "Bangladesh BNP links India ties to new Ganges treaty - Telangana Today",
+        "Thunderstorm forecast in nine Telangana districts today - The Hindu",
+        "RS Praveen Kumar demands action in Bandi Sai Bhageerath POCSO case - Hyderabad Mail",
+        "Revanth Reddy Condoles Demise of Former Judge Justice Chandrayya - Deccan Chronicle"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-16T19:07:11.268Z",
+    "timestampIST": "17/5/2026, 12:37:11 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has strongly criticized the central government regarding a recent fuel price hike, demanding its rollback. (10, 12, 13, 14, 15, 19, 20) He is also advocating for Rahul Gandhi as the INDIA bloc's Prime Ministerial candidate for 2029. (1, 9, 18) The CM is currently in Delhi to attend a wedding reception. (8, 17)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has strongly criticized the central government regarding a recent fuel price hike, demanding its rollback. (10, 12, 13, 14, 15, 19, 20) He is also advocating for Rahul Gandhi as the INDIA bloc's Prime Ministerial candidate for 2029. (1, 9, 18) The CM is currently in Delhi to attend a wedding reception. (8, 17)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Discontent:</span> The CM's criticism of the fuel price hike and its impact on essential commodity prices could lead to public dissatisfaction. (14)</li>\n    <li><span class=\"risk-low\">Political Fallout:</span> The CM's support for Rahul Gandhi as PM candidate may create friction with other political parties. (1, 9, 18)</li>\n    <li><span class=\"risk-low\">Legal Scrutiny:</span> RS Praveen Kumar has demanded action in the Bandi Sai Bhageerath POCSO case. (4)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's criticism of the fuel price hike (10, 12, 13, 14, 15, 19, 20) is likely to be amplified by the rising cost of essential commodities (14).</li>\n    <li>The CM's trip to Delhi (8, 17) coincides with his advocacy for Rahul Gandhi (1, 9, 18).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment regarding the fuel price hike and its impact on the economy.</li>\n    <li>Prepare a response to potential criticism from opposing political parties regarding the CM's support for Rahul Gandhi.</li>\n    <li>Stay informed on developments in the Bandi Sai Bhageerath POCSO case.</li>\n    <li>Prepare a statement on the fuel price hike and its impact on the state.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Nine districts</b>: Monitor for potential weather-related incidents due to the thunderstorm forecast. (3)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.8°C",
+      "humidity": "57%",
+      "wind": "5.2 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 79,
+      "pm25": 23.6,
+      "goldPerGram": "₹9,257",
+      "newsCount": 33,
       "topHeadlines": [
         "Telangana CM backs Rahul as INDIA bloc’s 2029 PM face: Says allies will be convinced; raises concern over v... - Bhaskar English",
         "Bangladesh BNP links India ties to new Ganges treaty - Telangana Today",
