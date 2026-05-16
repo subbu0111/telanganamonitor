@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T19:19:05.355Z",
-    "timestampIST": "17/4/2026, 12:49:05 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will inaugurate the Shastripuram Flyover on April 17, a ₹71 crore project. The CM is also scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage. Political tensions are rising due to comments made by Tejaswi Surya regarding Telangana and Revanth Reddy's 'hybrid delimitation' proposal, drawing criticism from multiple parties.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will inaugurate the Shastripuram Flyover on April 17, a ₹71 crore project. The CM is also scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage. Political tensions are rising due to comments made by Tejaswi Surya regarding Telangana and Revanth Reddy's 'hybrid delimitation' proposal, drawing criticism from multiple parties.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Row over Tejaswi Surya's comments and Revanth Reddy's delimitation proposal are triggering political reactions and demands for apologies (4, 7, 10, 11, 13, 14).</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> Heatwave alert issued for Telangana, potentially impacting public health (19).</li>\n    <li><span class=\"risk-low\">Infrastructure Concerns:</span> The CM's visit to inspect the Medigadda Barrage suggests potential infrastructure issues (15).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The inauguration of the Shastripuram Flyover (2, 3) and the launch of Project Sanjeevani on NH44 (18) highlight the government's focus on infrastructure and emergency response.</li>\n    <li>Revanth Reddy's remarks on delimitation (10, 16) are directly linked to the criticism from BJP and BRS (11, 13, 14).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prepare for the inauguration of the Shastripuram Flyover on April 17, ensuring security and smooth traffic flow (2, 3).</li>\n    <li>Monitor the political fallout from Tejaswi Surya's comments and Revanth Reddy's delimitation proposal, preparing a response strategy (4, 7, 10, 11, 13, 14).</li>\n    <li>Issue public health advisories and deploy necessary resources in response to the heatwave alert (19).</li>\n    <li>Ensure adequate security and logistical support for the CM's visit to the Kaleshwaram Project and Medigadda Barrage (15).</li>\n    <li>Monitor the situation in Suryapet following the death of a Congress leader (17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on security and traffic management for the Shastripuram Flyover inauguration (2, 3).</li>\n    <li><b>Suryapet:</b> Monitor the situation following the death of a Congress leader (17).</li>\n    <li><b>All Districts:</b> Implement heatwave preparedness measures (19).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29°C",
-      "humidity": "59%",
-      "wind": "2.3 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 64,
-      "pm25": 25,
-      "goldPerGram": "₹8,993",
-      "newsCount": 25,
-      "topHeadlines": [
-        "Pic Talk: Revanth Reddy Meets Dynamic TDP Mahilas! - Gulte",
-        "CM Revanth Reddy to inaugurate Shastripuram Flyover on April 17 - The Siasat Daily",
-        "CM Revanth Reddy to Inaugurate ₹71 Crore Grade Separator at Shastripuram Hyderabad - Telangana Tribune",
-        "Row Over Tejaswi Surya's Comments On Telangana In Lok Sabha, Parties Demand Apology - ETV Bharat",
-        "Former Minister Motkupalli Narsimhulu says Revanth’s government ready to collapse - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-16T20:51:59.454Z",
     "timestampIST": "17/4/2026, 2:21:59 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy will inaugurate the Shastripuram Flyover on April 17, a ₹71 crore project.  Political tensions are rising due to comments made by Tejaswi Surya regarding the AP-Telangana bifurcation and CM Reddy's remarks on delimitation, drawing criticism from multiple parties and BJP leaders.  The CM is scheduled to visit the Kaleshwaram Project and inspect the Medigadda Barrage damage.</p>",
@@ -6199,6 +6176,29 @@
       "pm25": 23.6,
       "goldPerGram": "₹9,257",
       "newsCount": 33,
+      "topHeadlines": [
+        "Telangana CM backs Rahul as INDIA bloc’s 2029 PM face: Says allies will be convinced; raises concern over v... - Bhaskar English",
+        "Bangladesh BNP links India ties to new Ganges treaty - Telangana Today",
+        "Thunderstorm forecast in nine Telangana districts today - The Hindu",
+        "RS Praveen Kumar demands action in Bandi Sai Bhageerath POCSO case - Hyderabad Mail",
+        "Revanth Reddy Condoles Demise of Former Judge Justice Chandrayya - Deccan Chronicle"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-16T20:51:31.636Z",
+    "timestampIST": "17/5/2026, 2:21:31 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has publicly criticized the central government regarding a recent fuel price hike, demanding its rollback (10, 12, 13, 14, 15, 19, 20). The CM is in Delhi to attend a wedding reception (8, 17). The CM has also endorsed Rahul Gandhi as the INDIA bloc's Prime Ministerial candidate for 2029 (1, 9, 18).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has publicly criticized the central government regarding a recent fuel price hike, demanding its rollback (10, 12, 13, 14, 15, 19, 20). The CM is in Delhi to attend a wedding reception (8, 17). The CM has also endorsed Rahul Gandhi as the INDIA bloc's Prime Ministerial candidate for 2029 (1, 9, 18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public Discontent:</span> The CM's criticism of the fuel price hike (10, 12, 13, 14, 15, 19, 20) could lead to public demonstrations or criticism of the central government.</li>\n  <li><span class=\"risk-low\">Political Fallout:</span> The CM's endorsement of Rahul Gandhi (1, 9, 18) may draw criticism from opposing political parties.</li>\n  <li><span class=\"risk-low\">Legal Scrutiny:</span> RS Praveen Kumar has demanded action in the Bandi Sai Bhageerath POCSO case (4).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's criticism of the fuel price hike (10, 12, 13, 14, 15, 19, 20) is likely to be a recurring theme in the coming days, potentially impacting public sentiment and political discourse.</li>\n  <li>The CM's presence in Delhi (8, 17) for a wedding reception provides an opportunity for political discussions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor public reaction to the fuel price hike and the CM's statements.</li>\n  <li>Prepare a response to potential criticism regarding the CM's endorsement of Rahul Gandhi.</li>\n  <li>Monitor developments in the Bandi Sai Bhageerath POCSO case.</li>\n  <li>Prepare a statement on the fuel price hike to address public concerns.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>No specific districts require immediate attention based on the provided news.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29°C",
+      "humidity": "55%",
+      "wind": "6.9 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 77,
+      "pm25": 19.3,
+      "goldPerGram": "₹9,257",
+      "newsCount": 32,
       "topHeadlines": [
         "Telangana CM backs Rahul as INDIA bloc’s 2029 PM face: Says allies will be convinced; raises concern over v... - Bhaskar English",
         "Bangladesh BNP links India ties to new Ganges treaty - Telangana Today",
