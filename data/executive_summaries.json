@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T02:50:45.343Z",
-    "timestampIST": "16/4/2026, 8:20:45 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi ahead of the Delimitation Bill in Parliament (9). The BJP is actively opposing the CM's delimitation proposals (7, 10, 15, 17). Over 200 activists are urging the CM to pass an Assembly resolution against the Transgender Amendment Act, 2026 (12, 18).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is in Delhi ahead of the Delimitation Bill in Parliament (9). The BJP is actively opposing the CM's delimitation proposals (7, 10, 15, 17). Over 200 activists are urging the CM to pass an Assembly resolution against the Transgender Amendment Act, 2026 (12, 18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> BJP is actively criticizing CM Revanth Reddy's delimitation proposals, potentially leading to increased political tension (7, 10, 15, 17).</li>\n  <li><span class=\"risk-low\">Public Discontent:</span> Activists are urging the CM to pass a resolution against the Transgender Amendment Act, potentially leading to protests or public pressure (12, 18).</li>\n  <li><span class=\"risk-low\">Administrative Disruption:</span> Vaahan portal glitch is halting new vehicle registrations (14).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The delimitation issue is a central point of contention, with both the CM and the BJP actively involved (3, 6, 7, 10, 15, 17).</li>\n  <li>Activists' calls for a resolution against the Transgender Amendment Act (12, 18) could potentially intersect with political discussions.</li>\n  <li>The CM's travel to Delhi (9) is directly linked to the upcoming Delimitation Bill in Parliament.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the progress of the Delimitation Bill in Parliament and the CM's activities in Delhi (9).</li>\n  <li>Assess the potential impact of the activists' demands regarding the Transgender Amendment Act and prepare a response (12, 18).</li>\n  <li>Address the Vaahan portal glitch to minimize disruption to vehicle registrations (14).</li>\n  <li>Monitor BJP's activities, particularly their rallies and statements regarding the delimitation issue (2, 7, 11).</li>\n  <li>Prepare for the filling of nominated posts in two days (1, 20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Focus on monitoring political activities, including BJP rallies and any potential protests related to the Transgender Amendment Act (2, 7, 11, 12, 18).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.6°C",
-      "humidity": "45%",
-      "wind": "4.7 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 65,
-      "pm25": 19.7,
-      "goldPerGram": "₹9,012",
-      "newsCount": 45,
-      "topHeadlines": [
-        "Nominated posts to be filled in 2 days - The Hans India",
-        "BJP organises women’s scooty rally in Hyderabad supporting 33% Women’s Reservation Bill - The News Mill",
-        "KTR Calls Revanth Reddy 'Hybrid CM', Opposes Lok Sabha Seat Increase Based on Population - Telangana Tribune",
-        "CM Revanth Reddy Moots Solar Power for Houses in Tribal Areas - Deccan Chronicle",
-        "Hyderabad Heritage Restoration Gains Pace Under New Policy - INDToday"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-16T06:03:16.261Z",
     "timestampIST": "16/4/2026, 11:33:16 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is in Delhi ahead of the Delimitation Bill in Parliament (18). Delimitation concerns are a key focus, with the CM seeking a joint southern stand (1, 15) and facing criticism from BJP leaders who call his proposal unconstitutional (7, 19).</p>\n<p>The state has launched India’s first post-crash trauma response system on NH44 (3, 5, 17). Nominated posts are expected to be filled within two days (10).</p>",
@@ -6176,6 +6153,29 @@
         "CM Revanth Sets Up Committee to Identify Telangana Statehood Activists - Deccan Chronicle",
         "Telangana to conduct state-wide mock exercises on May 18 - The Siasat Daily",
         "Revanth Reddy Says His Goal Is to Make Rahul Gandhi Prime Minister - RTV English"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-16T03:23:58.418Z",
+    "timestampIST": "16/5/2026, 8:53:58 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy declared Rahul Gandhi as the INDIA alliance's PM candidate (1, 2, 12, 13). The CM has formed a panel to identify and honor statehood activists (3, 4, 10). The CM has also addressed the case of Bandi Sanjay's son, urging cooperation with the probe and advising him to surrender (1, 9, 16, 17, 18).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy declared Rahul Gandhi as the INDIA alliance's PM candidate (1, 2, 12, 13). The CM has formed a panel to identify and honor statehood activists (3, 4, 10). The CM has also addressed the case of Bandi Sanjay's son, urging cooperation with the probe and advising him to surrender (1, 9, 16, 17, 18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> CM Revanth's public statements regarding Rahul Gandhi's PM candidacy and the ongoing case involving Bandi Sanjay's son could escalate political tensions. (1, 2, 9, 16, 17, 18)</li>\n    <li><span class=\"risk-low\">Public Health Concerns:</span> Cancer incidence in Telangana averages 52 cases per lakh population, with Hyderabad recording the highest number of cases. (5, 8)</li>\n    <li><span class=\"risk-low\">Encroachment on Musi Project:</span> The CM has warned against encroachments on the Musi project. (20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth's focus on national politics (1, 2, 6, 7, 12, 13, 14, 15) is directly linked to his statements regarding Rahul Gandhi's PM candidacy.</li>\n    <li>The formation of a panel to honor statehood activists (3, 4, 10) may be linked to the CM's broader political strategy.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor political reactions to CM Revanth's statements on Rahul Gandhi and the Bandi Sanjay case.</li>\n    <li>Ensure the smooth and transparent functioning of the panel identifying statehood activists.</li>\n    <li>Review and strengthen security protocols for the CM.</li>\n    <li>Assess the current status of the Musi project and take necessary measures to prevent encroachments.</li>\n    <li>Prepare for state-wide mock exercises scheduled for May 18. (11)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the highest reported cancer incidence in the state. (8)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31.8°C",
+      "humidity": "56%",
+      "wind": "1.4 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 87,
+      "pm25": 32.2,
+      "goldPerGram": "₹9,257",
+      "newsCount": 39,
+      "topHeadlines": [
+        "CM Revanth declares Rahul Gandhi as INDIA alliance’s PM candidate; asks Bandi Sanjay's son Bhageerath to surrender - NewsMeter",
+        "Telangana CM Revanth Reddy pitches Rahul Gandhi for PM candidate in 2029, says will convince INDIA bloc allies - ANI News",
+        "Govt forms panel to honour statehood activists - The Hans India",
+        "Telangana govt sets up panel to identify, honour statehood activists - The Siasat Daily",
+        "Cancer incidence in Telangana averages 52 cases per lakh population: Atlas - Hyderabad Mail"
       ]
     }
   }
