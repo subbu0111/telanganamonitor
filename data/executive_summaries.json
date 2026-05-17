@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17T20:49:40.963Z",
-    "timestampIST": "18/4/2026, 2:19:40 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy met with Prahlad Joshi in New Delhi (6). The CM is urging the Centre to procure 30 LMT of boiled rice from Telangana (1, 8, 13, 16, 17, 18, 19). The CM is also calling the defeat of the Women's Reservation and delimitation Bills a \"red-letter day\" (2, 5).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with Prahlad Joshi in New Delhi (6). The CM is urging the Centre to procure 30 LMT of boiled rice from Telangana (1, 8, 13, 16, 17, 18, 19). The CM is also calling the defeat of the Women's Reservation and delimitation Bills a \"red-letter day\" (2, 5).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political:</span> Kishan Reddy took a u-turn on Tejasvi Surya’s Telangana remarks as protests erupted (14).</li>\n  <li><span class=\"risk-low\">Public Sentiment:</span> Harish Rao criticized CM Reddy for failing to provide compensation to Sigachi victims (12).</li>\n  <li><span class=\"risk-low\">Farmer Unrest:</span> Prashanth Reddy condemned cases against farmers protesting for farm loan waivers (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's meetings with the Centre regarding rice procurement (1, 8, 13, 16, 17, 18, 19) are potentially linked to the state's agricultural needs and the upcoming Kharif season.</li>\n  <li>The CM's positive statements regarding the defeat of the Women's Reservation Bill (2, 3, 4, 5) may be viewed negatively by some.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the situation regarding Kishan Reddy's u-turn and any related protests (14).</li>\n  <li>Assess the impact of Harish Rao's criticism regarding Sigachi victims and prepare a response (12).</li>\n  <li>Review the status of farm loan waivers and address the concerns of protesting farmers (9).</li>\n  <li>Expedite the process of rice procurement with the Centre (1, 8, 13, 16, 17, 18, 19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>No specific districts are mentioned in the provided news headlines.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.3°C",
-      "humidity": "65%",
-      "wind": "1.8 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 63,
-      "pm25": 23.3,
-      "goldPerGram": "₹8,953",
-      "newsCount": 34,
-      "topHeadlines": [
-        "Telangana seeks procurement of 30 LMT boiled rice - The Times of India",
-        "‘Red-letter day in Indian history’, says Telangana CM Revanth Reddy - english.punjabkesari.com",
-        "Averted national disaster: CM Reddy on defeat of women’s quota, delimitation Bills - The Siasat Daily",
-        "Telangana CM Revanth Reddy praises Opposition for rejecting Women’s Reservation Bill - The Hans India",
-        "Revanth Calls BJP’s Defeat A Red-Letter Day - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-17T22:42:00.200Z",
     "timestampIST": "18/4/2026, 4:12:00 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy met with Prahlad Joshi in New Delhi. (2) The CM is urging the Central government to procure 30 lakh metric tonnes of boiled rice from Telangana. (3, 4, 12, 18)  A public hearing on a new power distribution license is scheduled for May 28. (6)</p>",
@@ -6182,6 +6159,29 @@
         "Kishan Reddy slams Telangana govt over delay in paddy procurement - Cityairnews",
         "Kishan Reddy Hits Out At Revanth Govt on Fuel, Paddy - Deccan Chronicle",
         "Telangana statehood movement activists to be identified in four categories - lokmattimes.com"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-17T20:55:24.212Z",
+    "timestampIST": "18/5/2026, 2:25:24 am",
+    "executiveSummary": "<p>Union Minister G. Kishan Reddy has criticized the Telangana government on multiple fronts, including paddy procurement and electoral roll revision (1, 4, 5, 9, 13). A Hyderabad-bound flight from Frankfurt received a bomb threat (14). Stone pelting occurred in Hyderabad following a dispute over suspected cattle transportation (17).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Union Minister G. Kishan Reddy has criticized the Telangana government on multiple fronts, including paddy procurement and electoral roll revision (1, 4, 5, 9, 13). A Hyderabad-bound flight from Frankfurt received a bomb threat (14). Stone pelting occurred in Hyderabad following a dispute over suspected cattle transportation (17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Security Threat:</span> Bomb threat received for a Hyderabad-bound flight from Frankfurt (14).</li>\n    <li><span class=\"risk-medium\">Public Order:</span> Stone pelting erupted in Hyderabad after a dispute over suspected cattle transportation (17).</li>\n    <li><span class=\"risk-medium\">Political Instability:</span> Continued criticism of the state government by Union Minister G. Kishan Reddy, potentially escalating political tensions (1, 4, 5, 9, 13).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Union Minister G. Kishan Reddy is actively criticizing the Telangana government on multiple issues, including paddy procurement and electoral roll revision (1, 4, 5, 9, 13).</li>\n    <li>Both CM Revanth Reddy and Bhatti Vikramarka are scheduled to attend the swearing-in ceremony of Kerala's new CM (3, 15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately coordinate with airport authorities and security agencies to address the bomb threat to the Hyderabad-bound flight (14).</li>\n    <li>Deploy additional police personnel in Hyderabad to manage the situation and prevent further escalation of violence related to the stone pelting incident (17).</li>\n    <li>Monitor the political rhetoric from Union Minister G. Kishan Reddy and assess its potential impact on public sentiment and law and order (1, 4, 5, 9, 13).</li>\n    <li>Ensure effective communication and coordination between the state government and the Centre regarding the Indiramma housing scheme (16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the bomb threat to a flight and the stone pelting incident, Hyderabad requires immediate attention for security and public order management (14, 17).</li>\n    <li><b>Hanamkonda:</b> Hanamkonda has the highest disease incidence rates in Telangana (8).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29°C",
+      "humidity": "61%",
+      "wind": "9.1 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 38,
+      "pm25": 17.8,
+      "goldPerGram": "₹9,257",
+      "newsCount": 20,
+      "topHeadlines": [
+        "Congress, BRS Politicising SIR Exercise: Kishan Reddy - INDToday",
+        "Centre Funding Every Paisa For Grain Purchase: Kishan Reddy - INDToday",
+        "Revanth to Attend Swearing-in of Kerala's New CM - Deccan Chronicle",
+        "Kishan Reddy slams Telangana govt over delay in paddy procurement - Cityairnews",
+        "Kishan Reddy Hits Out At Revanth Govt on Fuel, Paddy - Deccan Chronicle"
       ]
     }
   }
