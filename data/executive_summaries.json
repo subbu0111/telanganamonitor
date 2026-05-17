@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17T09:20:42.782Z",
-    "timestampIST": "17/4/2026, 2:50:42 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is scheduled to inaugurate the ₹71 crore Shastripuram Flyover in Hyderabad today, April 17th (16, 19). He is also urging the Centre to procure 30 LMT of boiled rice (1, 3, 5).  A fire accident in Hyderabad resulted in a death (7), and another accident in Kothagudem resulted in two deaths and four injuries (6).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is scheduled to inaugurate the ₹71 crore Shastripuram Flyover in Hyderabad today, April 17th (16, 19). He is also urging the Centre to procure 30 LMT of boiled rice (1, 3, 5).  A fire accident in Hyderabad resulted in a death (7), and another accident in Kothagudem resulted in two deaths and four injuries (6).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Safety:</span> Two separate accidents, one in Kothagudem (6) and one fire accident in Hyderabad (7), indicate potential risks to public safety.</li>\n    <li><span class=\"risk-medium\">Political Fallout:</span>  Controversy surrounds Tejaswi Surya's comments on Telangana (14, 20) and the delimitation process (15, 18), potentially leading to political unrest.</li>\n    <li><span class=\"risk-low\">Rice Procurement:</span>  The ongoing request for the Centre to procure 30 LMT of boiled rice (1, 3, 5) could face delays or rejection, impacting farmers and potentially leading to political criticism.</li>\n    <li><span class=\"risk-low\">Weather:</span> The IMD forecasts rain for 3 days starting April 19th (9), and a peak heatwave is expected on April 17th (10), which could impact public health and daily activities.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on rice procurement (1, 3, 4, 5) and the inauguration of the Shastripuram Flyover (16, 19) highlight the government's dual focus on agricultural support and infrastructure development.</li>\n    <li>The ongoing debate around delimitation (12, 15, 18) and Tejaswi Surya's comments (14, 20) suggest a potential for increased political tension and scrutiny of the government.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure adequate security and traffic management for the Shastripuram Flyover inauguration today.</li>\n    <li>Monitor the political fallout from Tejaswi Surya's comments and the delimitation process, preparing for potential public statements or protests.</li>\n    <li>Coordinate with the Centre regarding the rice procurement request, providing necessary data and support.</li>\n    <li>Issue public health advisories regarding the heatwave and upcoming rain, especially in vulnerable areas.</li>\n    <li>Review and expedite aid to the families affected by the accidents in Kothagudem and Begumpet.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Immediate attention is needed due to the fire accident (7) and the inauguration of the Shastripuram Flyover (16, 19). Monitor the weather forecast and potential for political demonstrations.</li>\n    <li><b>Kothagudem:</b> Focus on providing immediate assistance to the families affected by the accident (6) and ensuring proper medical care for the injured.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "41.1°C",
-      "humidity": "17%",
-      "wind": "9.7 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 69,
-      "pm25": 24.4,
-      "goldPerGram": "₹8,993",
-      "newsCount": 27,
-      "topHeadlines": [
-        "CM Revanth and Minister Uttam urge Centre to procure 30 LMT boiled rice; release ₹1,468.94 crore arrears - The Hindu",
-        "Pic Talk: Revanth Reddy Meets Dynamic TDP Mahilas! - Gulte",
-        "Telangana urges Centre to lift 30 LMT boiled rice procurement target - The Siasat Daily",
-        "Telangana CM Revanth Reddy urges centre to procure Support from Union Minister - The Hans India",
-        "Telangana urges Centre to procure 30 LMT parboiled rice for 2025-26 crop season - ANI News"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-17T10:58:48.527Z",
     "timestampIST": "17/4/2026, 4:28:48 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is urging the Centre to procure 30 LMT of boiled rice and has requested support from the Union Minister. Harish Rao criticized CM Reddy regarding compensation for Sigachi victims. Protests erupted following remarks by Tejasvi Surya, prompting a response from Kishan Reddy.</p>",
@@ -6182,6 +6159,29 @@
         "TG EAPCET-2026 results today - The Hans India",
         "Stop daydreaming, focus on public issues: Aruna to CM - The Hans India",
         "CM Revanth Reddy Demands Rollback of Fuel Price Hike - The Morning Voice"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-17T09:48:07.529Z",
+    "timestampIST": "17/5/2026, 3:18:07 pm",
+    "executiveSummary": "<p>A Hyderabad-bound flight from Frankfurt received a bomb threat (3). CM Revanth Reddy is attending the Kerala CM's swearing-in ceremony (4). Union Minister G. Kishan Reddy alleges the Telangana government is deceiving farmers over paddy procurement (2). The CM demanded a rollback of the fuel price hike (7).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A Hyderabad-bound flight from Frankfurt received a bomb threat (3). CM Revanth Reddy is attending the Kerala CM's swearing-in ceremony (4). Union Minister G. Kishan Reddy alleges the Telangana government is deceiving farmers over paddy procurement (2). The CM demanded a rollback of the fuel price hike (7).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">Security Threat:</span> A Hyderabad-bound flight from Frankfurt received a bomb threat (3).</li>\n  <li><span class=\"risk-medium\">Political Instability:</span> Union Minister G. Kishan Reddy alleges the Congress government is deceiving farmers (2).</li>\n  <li><span class=\"risk-low\">Public Discontent:</span> CM Revanth Reddy demanded a rollback of the fuel price hike (7).</li>\n  <li><span class=\"risk-low\">Weather Hazard:</span> Thunderstorm forecast in nine Telangana districts today (14).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's demand for a fuel price rollback (7) may be linked to public sentiment and potential criticism.</li>\n  <li>The political accusations regarding farmer deception (2) could be amplified by the CM's absence at a meeting with Congress bigwigs (8).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Coordinate with relevant agencies to investigate the bomb threat to the Hyderabad-bound flight from Frankfurt (3).</li>\n  <li>Monitor public sentiment regarding fuel prices and potential reactions to the CM's demand (7).</li>\n  <li>Assess the veracity of Union Minister G. Kishan Reddy's allegations regarding paddy procurement (2).</li>\n  <li>Prepare for potential disruptions due to the thunderstorm forecast in nine districts (14).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>Nine districts are under a thunderstorm forecast today (14). Monitor these districts for potential weather-related incidents.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36.2°C",
+      "humidity": "33%",
+      "wind": "6.1 km/h",
+      "weatherDesc": "Drizzle",
+      "aqi": 62,
+      "pm25": 22,
+      "goldPerGram": "₹9,257",
+      "newsCount": 16,
+      "topHeadlines": [
+        "Fuel savings, lower emissions: New tech gains attention in India - Telangana Today",
+        "Union Minister G. Kishan Reddy alleges Congress govt in Telangana deceiving farmers over paddy procurement - News On AIR",
+        "Hyderabad-bound flight from Frankfurt receives bomb threat via email - India Today",
+        "Telangana CM Reddy, Bhatti Vikramarka to attend Kerala CM swearing-in ceremony - UNITED NEWS OF INDIA",
+        "Telangana awaiting Centre’s share for Indiramma housing scheme: Ponguleti - The Siasat Daily"
       ]
     }
   }
