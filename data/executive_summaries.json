@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18T10:42:44.659Z",
-    "timestampIST": "18/4/2026, 4:12:44 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is advocating for a green steel plant in Bayyaram and an EV battery manufacturing hub in Hyderabad. (2, 4, 8, 10, 18) A breakfast meeting between CM Reddy and BJP leaders in Delhi has sparked political controversy. (6, 11, 15) The Telangana BJP chief was placed under house arrest before a planned protest outside the CM's residence. (12)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is advocating for a green steel plant in Bayyaram and an EV battery manufacturing hub in Hyderabad. (2, 4, 8, 10, 18) A breakfast meeting between CM Reddy and BJP leaders in Delhi has sparked political controversy. (6, 11, 15) The Telangana BJP chief was placed under house arrest before a planned protest outside the CM's residence. (12)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> The breakfast meeting between CM Reddy and BJP leaders has drawn criticism from BRS, potentially escalating political tensions. (6, 11, 15)</li>\n    <li><span class=\"risk-medium\">Public Disruption:</span> The Telangana BJP chief was placed under house arrest before a planned protest, indicating potential for unrest. (12)</li>\n    <li><span class=\"risk-low\">Policy Disputes:</span> CM Reddy's criticism of the BJP's women's reservation bill strategy and his delimitation proposal, which \"backfired,\" could lead to policy disagreements. (1, 3, 5, 7, 9, 14)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is simultaneously pushing for industrial development (green steel plant, EV hub) and facing political challenges from the BJP. (2, 4, 8, 10, 12)</li>\n    <li>The breakfast meeting in Delhi (6, 11, 15) is directly linked to the political tensions and the BJP's actions, including the planned protest. (12)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political fallout from CM Reddy's breakfast meeting with BJP leaders and BRS's response. (6, 11, 15)</li>\n    <li>Assess the potential for public disruption related to the house arrest of the Telangana BJP chief and the planned protest. (12)</li>\n    <li>Prepare a response to any criticism regarding the CM's delimitation proposal. (14)</li>\n    <li>Review security protocols at the CM's residence. (12)</li>\n    <li>Evaluate the feasibility and potential impact of the proposed green steel plant in Bayyaram and the EV hub in Hyderabad. (2, 4, 8, 10, 18)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor for any potential disruptions related to political activity and the proposed EV battery manufacturing hub. (8, 10)</li>\n    <li><b>Bayyaram:</b> Monitor developments related to the proposed green steel plant. (2, 4, 8, 10, 18)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "38.6°C",
-      "humidity": "24%",
-      "wind": "14.5 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 68,
-      "pm25": 29.3,
-      "goldPerGram": "₹8,953",
-      "newsCount": 55,
-      "topHeadlines": [
-        "BJP Used Women's Quota As Mask To Raise Seats: Revanth Reddy - Deccan Chronicle",
-        "CM Revanth Reddy pushes for green steel plant in Bayyaram - NewsMeter",
-        "Revanth Reddy Slams Modi Over Women Reservation Bill, Questions Centre Intent - The South India Times",
-        "Revanth Reddy Pushes for Bayyaram Green Steel Plant in Telangana Development Plan - The South India Times",
-        "Telangana CM Revanth Reddy demands centre to implement 2023 women's bill - The Hans India"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-18T13:06:51.456Z",
-    "timestampIST": "18/4/2026, 6:36:51 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy has criticized the BJP regarding the Women's Reservation Bill and its alleged hidden agenda. A BJP Mahila Morcha protest took place at the CM's residence in Hyderabad (9). The CM is advocating for a green steel plant in Bayyaram and an EV hub for Telangana in meetings with the central government (11, 12, 17, 20).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has criticized the BJP regarding the Women's Reservation Bill and its alleged hidden agenda. A BJP Mahila Morcha protest took place at the CM's residence in Hyderabad (9). The CM is advocating for a green steel plant in Bayyaram and an EV hub for Telangana in meetings with the central government (11, 12, 17, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Potential for increased political tension:</span> The CM's criticism of the BJP and the BJP Mahila Morcha protest (9) at his residence indicate rising political friction.</li>\n  <li><span class=\"risk-low\">Public perception of government actions:</span> The ongoing debate surrounding the Women's Reservation Bill (8, 10, 14, 15, 18) could influence public opinion.</li>\n  <li><span class=\"risk-low\">Disruptions related to protest:</span> The BJP Mahila Morcha protest at the CM's residence (9) may cause minor disruptions.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's statements regarding the BJP's intentions on the Women's Reservation Bill (2, 5, 10, 13, 14, 15, 18) are directly linked to the BJP Mahila Morcha protest (9).</li>\n  <li>The CM's advocacy for the Bayyaram steel plant (11, 17, 20) and EV hub (12) highlights the government's focus on economic development.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the political climate and public response to the CM's statements and the BJP's actions.</li>\n  <li>Assess the security situation around the CM's residence and other potential protest sites.</li>\n  <li>Prepare a public statement addressing the Women's Reservation Bill controversy.</li>\n  <li>Continue to actively pursue the Bayyaram steel plant and EV hub proposals with the central government.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Due to the BJP Mahila Morcha protest at the CM's residence (9), increased security and monitoring are recommended.</li>\n  <li><b>Bayyaram:</b> The CM's focus on the Bayyaram steel plant (11, 17, 20) suggests a need for monitoring developments related to this project.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35°C",
-      "humidity": "35%",
-      "wind": "9.7 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 66,
-      "pm25": 35.4,
-      "goldPerGram": "₹8,953",
-      "newsCount": 70,
-      "topHeadlines": [
-        "TGSRTC to add 70 new electric buses in Hyderabad fleet - Telangana Today",
-        "BJP aimed to amend Constitution and scrap reservations: Telangana CM Revanth Reddy - The Hindu",
-        "SRH vs CSK pitch report &amp; Hyderabad weather today: One element could decide the game - The Economic Times",
-        "IPL 2026: Will Pat Cummins Play in Today’s Sunrisers Hyderabad vs Chennai Super Kings Match? - lokmattimes.com",
-        "BJP wanted to hike seats in guise of women's quota: Revanth Reddy - Asianet Newsable"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-18T14:41:59.328Z",
     "timestampIST": "18/4/2026, 8:11:59 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism and political attacks, with the BJP Mahila Morcha protesting at his residence (16). He is also in the news regarding the Women's Reservation Bill and the upcoming Medigadda visit (3, 5, 8, 11, 13, 17, 20). The CM is seeking a steel plant and EV hub for Telangana from the Centre (18, 19).</p>",
@@ -6159,6 +6113,29 @@
         "Revanth Reddy's 2034 Delhi ambition is both a dare and a risk - India Today",
         "OU to reschedule exams in view of Bakrid 2026 - The Siasat Daily",
         "IPL Match Today, CSK vs SRH: Predicted playing XI, head-to-head, pitch report, Chennai weather update - The Times of India"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-18T13:48:34.143Z",
+    "timestampIST": "18/5/2026, 7:18:34 pm",
+    "executiveSummary": "<p>Union Minister Kishan Reddy urged Chief Minister Revanth Reddy to expedite road widening at Cherlapalli railway station (1). Discussions are ongoing regarding Telangana Cabinet expansion (17). The government is planning to change the holiday for Bakrid 2026 (20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Union Minister Kishan Reddy urged Chief Minister Revanth Reddy to expedite road widening at Cherlapalli railway station (1). Discussions are ongoing regarding Telangana Cabinet expansion (17). The government is planning to change the holiday for Bakrid 2026 (20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> Arvind's comments on Modi's remarks have sparked controversy (2, 5).</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> A Telangana student was killed in a road accident near Chicago (14).</li>\n    <li><span class=\"risk-low\">Logistical:</span> OU to reschedule exams in view of Bakrid 2026 (12). The government is changing the holiday for Bakrid 2026 (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Union Minister Kishan Reddy is involved in two separate issues: urging the CM on road widening (1) and advocating for removal of names from the voter list (10).</li>\n    <li>The news regarding the Bakrid holiday (12, 20) indicates potential disruption and requires coordination.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public reaction to Arvind's comments (2, 5).</li>\n    <li>Assess the impact of the Bakrid holiday change on public services and educational institutions (12, 20).</li>\n    <li>Review the status of road widening works at Cherlapalli railway station (1).</li>\n    <li>Prepare for the all-party meet on Telangana activists’ recognition (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor public sentiment regarding the NTR Statue (11) and any potential fallout from political controversies (2, 3, 5, 6, 9, 10).</li>\n    <li><b>Dharmapuri:</b> Monitor public reaction to Arvind's comments (5).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34.8°C",
+      "humidity": "33%",
+      "wind": "4.4 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 54,
+      "pm25": 18.6,
+      "goldPerGram": "₹9,257",
+      "newsCount": 37,
+      "topHeadlines": [
+        "Union Minister Kishan Reddy urges Chief Minister Revanth Reddy to speed up road widening works at Cherlapalli railway station - The Hindu",
+        "Arvind stokes controversy over Modi’s ‘Mujh Se Hi Jodo’ remark in Telangana - Telangana Today",
+        "BJP MP compares Revanth Reddy to Suvendu Adhikari, who switched from Congress - The Siasat Daily",
+        "Chennai Weather Forecast for CSK vs SRH IPL 2026 Match: Will Rain Play Spoilsport in Today's Chennai Super... - lokmattimes.com",
+        "Dharmapuri Arvind Comments On Modi And Revanth Go Viral - INDToday"
       ]
     }
   }
