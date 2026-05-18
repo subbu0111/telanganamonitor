@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18T02:36:37.071Z",
-    "timestampIST": "18/4/2026, 8:06:37 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy met with Prahlad Joshi in New Delhi (5). The CM is requesting the central government to procure 30 lakh metric tonnes of boiled rice (6, 7, 15). The CM has hailed \"Oppn unity\" and praised the Opposition for rejecting the Women's Reservation Bill (2, 11).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with Prahlad Joshi in New Delhi (5). The CM is requesting the central government to procure 30 lakh metric tonnes of boiled rice (6, 7, 15). The CM has hailed \"Oppn unity\" and praised the Opposition for rejecting the Women's Reservation Bill (2, 11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for unrest:</span> Prashanth Reddy condemns cases against farmers protesting for farm loan waiver (16).</li>\n    <li><span class=\"risk-low\">Political criticism:</span> Harish Rao slams CM Reddy for failing to provide compensation to Sigachi victims (20).</li>\n    <li><span class=\"risk-low\">Rice procurement challenges:</span> The CM is requesting the Centre to procure 30 lakh metric tonnes of boiled rice (6, 7, 15).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's meetings in New Delhi (5) likely relate to the rice procurement request (6, 7, 15).</li>\n    <li>The CM's praise for the Opposition (2, 11) could be related to the rejection of the Women’s Reservation Bill (10).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation regarding the farmers protesting for farm loan waivers (16).</li>\n    <li>Prepare a response to the criticism from Harish Rao regarding the Sigachi victims (20).</li>\n    <li>Expedite efforts to secure central government approval for the procurement of 30 lakh metric tonnes of boiled rice (6, 7, 15).</li>\n    <li>Prepare for the public hearing on the new power distribution license scheduled for May 28 (9).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the provided headlines that require immediate attention.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30.2°C",
-      "humidity": "62%",
-      "wind": "6.6 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 65,
-      "pm25": 34.8,
-      "goldPerGram": "₹8,953",
-      "newsCount": 37,
-      "topHeadlines": [
-        "CM Revanth, Ministers greet Vem Narender Reddy - The Hans India",
-        "CM Revanth hails ‘Oppn unity’ in Lok Sabha - The Hans India",
-        "Revanth Reddy Southern Hero: Telangana CM Leads South’s Voice Against Delimitation - Good Morning Andhra",
-        "Procure 3 million metric tonnes of parboiled rice: CM Revanth Reddy - The Morning Voice",
-        "New Delhi: Revanth Reddy Meets Prahlad Joshi #Gallery - Social News XYZ"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-18T05:42:02.609Z",
     "timestampIST": "18/4/2026, 11:12:02 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in rice procurement discussions with the central government, requesting the procurement of 30 LMT of boiled rice (3, 17, 18). The CM is also celebrating the defeat of the delimitation bill in the Lok Sabha, praising opposition unity (9, 12, 14).  The BJP alleges their chief was placed under house arrest before a women’s bill protest (2).</p>",
@@ -6182,6 +6159,29 @@
         "Revanth to Attend Swearing-in of Kerala's New CM - Deccan Chronicle",
         "Kishan Reddy slams Telangana govt over delay in paddy procurement - Cityairnews",
         "Rohingya, Bangladeshi names should be removed during SIR: Kishan Reddy - The Siasat Daily"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-18T03:53:16.805Z",
+    "timestampIST": "18/5/2026, 9:23:16 am",
+    "executiveSummary": "<p>Union Minister G. Kishan Reddy has criticized the Telangana government on multiple fronts, including paddy procurement delays and alleged false propaganda regarding the SIR process and electoral roll revision (1, 3, 6, 7, 8, 10, 11, 14, 15, 17). A Hyderabad-bound flight from Frankfurt received a bomb threat (18). The Chief Minister and Bhatti Vikramarka are scheduled to attend the Kerala CM's swearing-in ceremony (19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Union Minister G. Kishan Reddy has criticized the Telangana government on multiple fronts, including paddy procurement delays and alleged false propaganda regarding the SIR process and electoral roll revision (1, 3, 6, 7, 8, 10, 11, 14, 15, 17). A Hyderabad-bound flight from Frankfurt received a bomb threat (18). The Chief Minister and Bhatti Vikramarka are scheduled to attend the Kerala CM's swearing-in ceremony (19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Bomb threat received by a Hyderabad-bound flight from Frankfurt (18).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Continued criticism from Union Minister G. Kishan Reddy regarding government policies and alleged misinformation campaigns could escalate political tensions (1, 3, 6, 7, 8, 10, 11, 14, 15, 17).</li>\n    <li><span class=\"risk-low\">LOW:</span> Asaduddin Owaisi urges the Telangana government to postpone OU exams falling on Eid day (12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Union Minister G. Kishan Reddy is actively criticizing the Telangana government on multiple issues, including paddy procurement and the SIR process (1, 3, 6, 7, 8, 10, 11, 14, 15, 17).</li>\n    <li>The Chief Minister and Bhatti Vikramarka are both attending the Kerala CM's swearing-in ceremony (19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately investigate the bomb threat to the Hyderabad-bound flight from Frankfurt and coordinate with relevant agencies (18).</li>\n    <li>Monitor and address the concerns raised by Union Minister G. Kishan Reddy regarding paddy procurement and the SIR process (1, 3, 6, 7, 8, 10, 11, 14, 15, 17).</li>\n    <li>Assess the potential impact of Asaduddin Owaisi's request regarding OU exams falling on Eid (12).</li>\n    <li>Prepare a response to the allegations of false propaganda made by Union Minister G. Kishan Reddy (1, 3, 6, 7, 8, 10, 11, 14, 15, 17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hanamkonda and Hyderabad:</b> Monitor disease incidence rates, as these districts are reported to have the highest rates in Telangana (13).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.2°C",
+      "humidity": "48%",
+      "wind": "2.8 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 34,
+      "pm25": 14.1,
+      "goldPerGram": "₹9,257",
+      "newsCount": 19,
+      "topHeadlines": [
+        "Farmers in distress: Kishan fires failure salvo against Cong govt - The Hans India",
+        "Telangana woman dies in US road accident - The Siasat Daily",
+        "Congress Spreading False Propaganda on SIR Process: Union Minister G. Kishan Reddy - The Morning Voice",
+        "Petrol, diesel, LPG rates today on May 18: Have OMCs increased fuel prices again? Check rates in Delhi, Hyderabad, Kolkata - Full list - Moneycontrol.com",
+        "How to watch today's Chennai Super Kings vs Sunrisers Hyderabad: Live stream, TV channel, and start time - Goal.com"
       ]
     }
   }
