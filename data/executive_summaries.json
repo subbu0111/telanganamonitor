@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18T05:42:02.609Z",
-    "timestampIST": "18/4/2026, 11:12:02 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in rice procurement discussions with the central government, requesting the procurement of 30 LMT of boiled rice (3, 17, 18). The CM is also celebrating the defeat of the delimitation bill in the Lok Sabha, praising opposition unity (9, 12, 14).  The BJP alleges their chief was placed under house arrest before a women’s bill protest (2).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaged in rice procurement discussions with the central government, requesting the procurement of 30 LMT of boiled rice (3, 17, 18). The CM is also celebrating the defeat of the delimitation bill in the Lok Sabha, praising opposition unity (9, 12, 14).  The BJP alleges their chief was placed under house arrest before a women’s bill protest (2).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> The BJP's claim of house arrest for their chief before a protest could escalate tensions (2).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A private bus caught fire in KPHB, though passengers escaped unhurt (19).</li>\n    <li><span class=\"risk-low\">Labor:</span> The BJP chief flays the government for ignoring RTC and Secretariat staff demands (8).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is actively involved in both rice procurement efforts (3, 11, 17, 18) and political matters, including the defeat of the delimitation bill (9, 12, 14).</li>\n    <li>The CM's interactions with central government figures, specifically Pralhad Joshi (3, 16), are directly related to rice procurement.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor BJP's response to the alleged house arrest of their chief and any potential protests (2).</li>\n    <li>Assess the situation regarding RTC and Secretariat staff demands (8).</li>\n    <li>Follow up on the progress of rice procurement with the central government (3, 17, 18).</li>\n    <li>Review the status of repairs to the KLIS barrages (4).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>KPHB: Monitor the area due to the private bus fire incident (19).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "37.4°C",
-      "humidity": "25%",
-      "wind": "6.4 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 65,
-      "pm25": 31.9,
-      "goldPerGram": "₹8,953",
-      "newsCount": 41,
-      "topHeadlines": [
-        "Historic Win: Open letter to Telangana CM Revanth Reddy - NewsMeter",
-        "Telangana BJP says chief placed under house arrest before women’s bill protest - The Siasat Daily",
-        "Procure 30 LMT boiled rice: CM Revanth Reddy to Pralhad Joshi - The New Indian Express",
-        "Telangana government constitutes committee to expedite repairs to KLIS barrages - The New Indian Express",
-        "IPL 2026: Will MS Dhoni play today against SRH? Latest update on CSK legend's return - The Times of India"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-18T07:12:19.606Z",
-    "timestampIST": "18/4/2026, 12:42:19 pm",
-    "executiveSummary": "<p>BJP Telangana Chief Ramchander was detained/placed under house arrest before a planned protest at CM Revanth Reddy's residence regarding the Women's Bill (4, 5). CM Revanth Reddy met with Pralhad Joshi (19) and requested the procurement of 30 lakh metric tonnes of boiled rice (6, 20). The CM is also facing criticism from the BJP regarding RTC and Secretariat staff demands (11).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>BJP Telangana Chief Ramchander was detained/placed under house arrest before a planned protest at CM Revanth Reddy's residence regarding the Women's Bill (4, 5). CM Revanth Reddy met with Pralhad Joshi (19) and requested the procurement of 30 lakh metric tonnes of boiled rice (6, 20). The CM is also facing criticism from the BJP regarding RTC and Secretariat staff demands (11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for unrest:</span> BJP's planned protest at the CM's residence was disrupted by the detention of the BJP chief (4, 5).</li>\n    <li><span class=\"risk-low\">Political tensions:</span> BJP is criticizing the government regarding RTC and Secretariat staff demands (11).</li>\n    <li><span class=\"risk-low\">Rice procurement issues:</span> The CM is requesting the procurement of 30 lakh metric tonnes of boiled rice from the Centre (6, 20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is actively engaging with the central government, meeting with Pralhad Joshi (19) and requesting rice procurement (6, 20).</li>\n    <li>The BJP is protesting against the government (4, 5) while also criticizing the government on other issues (11).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation surrounding the BJP chief's detention and any potential fallout.</li>\n    <li>Assess the demands of the RTC and Secretariat staff to mitigate potential unrest.</li>\n    <li>Expedite the process of rice procurement with the central government.</li>\n    <li>Review the security protocols at the CM's residence in light of the planned protest.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the news headlines that require immediate attention.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "39°C",
-      "humidity": "22%",
-      "wind": "4.7 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 68,
-      "pm25": 30.6,
-      "goldPerGram": "₹8,953",
-      "newsCount": 40,
-      "topHeadlines": [
-        "Priyanka Gandhi praises Revanth’s alternative suggestions on delimitation - The Hindu",
-        "Establish Green Steel Plant in Bayyaram: Revanth Reddy to Centre - Deccan Chronicle",
-        "Historic Win: Open letter to Telangana CM Revanth Reddy - NewsMeter",
-        "BJP Telangana Chief Ramchander Detained Ahead Of Protest At CM Reddy’s Residence Over Women’s Bill - ABP News",
-        "Telangana BJP says chief placed under house arrest before women’s bill protest - The Siasat Daily"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-18T10:42:44.659Z",
     "timestampIST": "18/4/2026, 4:12:44 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is advocating for a green steel plant in Bayyaram and an EV battery manufacturing hub in Hyderabad. (2, 4, 8, 10, 18) A breakfast meeting between CM Reddy and BJP leaders in Delhi has sparked political controversy. (6, 11, 15) The Telangana BJP chief was placed under house arrest before a planned protest outside the CM's residence. (12)</p>",
@@ -6182,6 +6136,29 @@
         "Congress Spreading False Propaganda on SIR Process: Union Minister G. Kishan Reddy - The Morning Voice",
         "Petrol, diesel, LPG rates today on May 18: Have OMCs increased fuel prices again? Check rates in Delhi, Hyderabad, Kolkata - Full list - Moneycontrol.com",
         "How to watch today's Chennai Super Kings vs Sunrisers Hyderabad: Live stream, TV channel, and start time - Goal.com"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-18T08:06:00.881Z",
+    "timestampIST": "18/5/2026, 1:36:00 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy attended the UDF government oath-taking ceremony (1, 13). An all-party meet is planned soon regarding Telangana activists' recognition (11). Two Telangana residents died in separate road accidents in the US (6, 17).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy attended the UDF government oath-taking ceremony (1, 13). An all-party meet is planned soon regarding Telangana activists' recognition (11). Two Telangana residents died in separate road accidents in the US (6, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> Union Minister Kishan Reddy is criticizing the Congress government, alleging false propaganda regarding the SIR process and farmer distress (14, 16, 18).</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> News of Telangana residents' deaths in the US could generate negative sentiment (6, 17).</li>\n    <li><span class=\"risk-low\">Administrative:</span> Government employees are attempting to influence postings (12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's attendance at the UDF government oath taking ceremony (1, 13) and his reported \"Delhi ambition\" (3) could be linked.</li>\n    <li>The deaths of Telangana residents in the US (6, 17) may require consular assistance and public communication.</li>\n    <li>Union Minister Kishan Reddy's criticism of the Congress government (14, 16, 18) indicates potential political friction.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public reaction to the deaths of Telangana residents in the US and provide necessary support to the families (6, 17).</li>\n    <li>Assess the potential impact of Union Minister Kishan Reddy's criticisms (14, 16, 18) and prepare a response.</li>\n    <li>Review the SIR process in light of the political controversy (14, 18).</li>\n    <li>Monitor the all-party meet regarding Telangana activists' recognition (11).</li>\n    <li>Address the issue of government employees attempting to influence postings (12).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts require immediate attention based on the provided data.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37.5°C",
+      "humidity": "29%",
+      "wind": "5.1 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 64,
+      "pm25": 18.6,
+      "goldPerGram": "₹9,257",
+      "newsCount": 33,
+      "topHeadlines": [
+        "Reunion of Friends, Colleagues: Revanth After Attending UDF Govt Oath Taking - Deccan Chronicle",
+        "UNITED NEWS OF INDIA - UNITED NEWS OF INDIA",
+        "Revanth Reddy's 2034 Delhi ambition is both a dare and a risk - India Today",
+        "OU to reschedule exams in view of Bakrid 2026 - The Siasat Daily",
+        "IPL Match Today, CSK vs SRH: Predicted playing XI, head-to-head, pitch report, Chennai weather update - The Times of India"
       ]
     }
   }
