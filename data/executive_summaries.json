@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19T02:53:14.082Z",
-    "timestampIST": "19/4/2026, 8:23:14 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism following a breakfast meeting with Union Ministers, sparking political debate.  The CM is also seeking central government approval for a green steel plant in Bayyaram.  The government plans to release ₹5,653 crore in Rythu Bharosa benefits to Telangana farmers on April 20.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism following a breakfast meeting with Union Ministers, sparking political debate.  The CM is also seeking central government approval for a green steel plant in Bayyaram.  The government plans to release ₹5,653 crore in Rythu Bharosa benefits to Telangana farmers on April 20.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Revanth Reddy's meetings and remarks on the Women's Reservation Bill and other political issues are generating controversy and criticism from opposition parties, potentially escalating political tensions. (Headlines 2, 3, 5, 11, 15, 16, 17, 19, 20)</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Criticism of the government's actions, including the handling of the Women's Reservation Bill, could lead to public dissatisfaction. (Headlines 5, 11, 18, 19)</li>\n    <li><span class=\"risk-low\">Financial Strain:</span> The release of ₹5,653 crore in Rythu Bharosa benefits on April 20 could place a strain on government finances. (Headline 12)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's breakfast meeting with Union Ministers (Headline 2, 15, 16) is directly linked to criticism from BRS and other political rivals (Headlines 15, 17, 20).</li>\n    <li>The CM's push for a green steel plant in Bayyaram (Headlines 1, 8, 14) is a key policy initiative.</li>\n    <li>The Women's Reservation Bill is a point of contention, with both Revanth Reddy and Kishan Reddy making statements about it (Headlines 5, 11, 19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public and political reactions to Revanth Reddy's recent meetings and statements, particularly regarding the Women's Reservation Bill.</li>\n    <li>Prepare a communication strategy to address criticisms related to the government's actions and policies.</li>\n    <li>Ensure smooth and transparent distribution of the Rythu Bharosa benefits on April 20.</li>\n    <li>Assess the feasibility and potential economic impact of the proposed green steel plant in Bayyaram.</li>\n    <li>Monitor the political situation in the wake of the breakfast meeting.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Bayyaram:</b> Monitor developments related to the proposed green steel plant, as this is a key focus area for the CM. (Headlines 1, 8, 14)</li>\n    <li><b>Jagtial:</b> Monitor the BRS meeting and the political activity in the area. (Headline 17)</li>\n    <li><b>Warangal, Adilabad, and Bhadrachalam:</b> Monitor the progress of airport plans. (Headline 13)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29.9°C",
-      "humidity": "60%",
-      "wind": "1.3 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 69,
-      "pm25": 36,
-      "goldPerGram": "₹8,953",
-      "newsCount": 69,
-      "topHeadlines": [
-        "CM urges Centre to establish steel plant in Bayyaram - The Hans India",
-        "Revanth’s ‘breakfast’ meeting with Union Ministers sparks political row - The Hans India",
-        "Naidu will face fate 'a la Nitish, Shinde: Revanth - The Hans India",
-        "Cong will defeat BJP in next elections: CM - The Hans India",
-        "Revanth Reddy Slams BJP Over Bill Defeat, Calls Women’s Quota a “Pretext” - The Morning Voice"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-19T05:59:34.198Z",
     "timestampIST": "19/4/2026, 11:29:34 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is scheduled to meet with the Telangana Governor regarding MLC nominations (2). He has urged the central government to establish a greenfield steel plant in Bayyaram (6, 12, 20) and to purchase 30 LMT of parboiled rice (16). The CM has also commented on the Women's Reservation Bill and the BJP's approach to delimitation (5, 7, 8, 17).</p>",
@@ -6113,6 +6090,29 @@
         "Musi riverfront development project is a hydraulic bomb: Hyderabad activists - The Siasat Daily",
         "Union Minister G. Kishan Reddy alleges Congress govt in Telangana deceiving farmers over paddy procurement - News On AIR",
         "Signal, warning or invitation? Decoding Modi’s “mere se jud jao” message to Revanth - The South First"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-19T03:43:19.251Z",
+    "timestampIST": "19/5/2026, 9:13:19 am",
+    "executiveSummary": "<p>The Deputy Chief Minister of Telangana has departed for Delhi to attend a Swachh Bharat Mission meeting (1). Petrol and Diesel prices have increased by 90 paise (2). Union Minister G. Kishan Reddy has accused the Telangana government of deceiving farmers regarding paddy procurement (7), and has requested the Chief Minister to expedite road widening at Cherlapalli railway station (9). Revanth Reddy is expressing confidence in Rahul Gandhi becoming Prime Minister (3, 15, 16).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Deputy Chief Minister of Telangana has departed for Delhi to attend a Swachh Bharat Mission meeting (1). Petrol and Diesel prices have increased by 90 paise (2). Union Minister G. Kishan Reddy has accused the Telangana government of deceiving farmers regarding paddy procurement (7), and has requested the Chief Minister to expedite road widening at Cherlapalli railway station (9). Revanth Reddy is expressing confidence in Rahul Gandhi becoming Prime Minister (3, 15, 16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Union Minister Kishan Reddy's allegations of deceiving farmers (7) and BJP MP's comparison of Revanth Reddy to Suvendu Adhikari (12) could escalate political tensions.</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Petrol and diesel price hikes (2) may cause public dissatisfaction.</li>\n    <li><span class=\"risk-low\">Potential for Controversy:</span> Arvind's comments on Modi's \"Mujh Se Hi Jodo\" remark (11) and Dharmapuri Arvind's comments going viral (5) could spark controversy.</li>\n    <li><span class=\"risk-low\">Environmental Concerns:</span> Activists are calling the Musi riverfront development project a hydraulic bomb (6).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Union Minister Kishan Reddy is criticizing the Telangana government (7, 9, 20), indicating potential friction between the state and central governments.</li>\n    <li>Revanth Reddy's focus on Rahul Gandhi's potential as PM (3, 15, 16) is being discussed alongside Modi's message to Revanth (8, 11), suggesting a political narrative is developing.</li>\n    <li>The rise in petrol and diesel prices (2) may impact public sentiment and could be linked to the government's handling of other issues.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public reaction to the petrol and diesel price increases (2).</li>\n    <li>Assess the veracity of Union Minister Kishan Reddy's claims regarding paddy procurement (7).</li>\n    <li>Prepare a response to the allegations of deceiving farmers (7).</li>\n    <li>Review the Musi riverfront development project in light of activist concerns (6).</li>\n    <li>Prepare a response to the comments made by BJP MP (12).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor the Musi riverfront development project (6) and any potential protests or public reactions.</li>\n    <li><b>Cherlapalli (within Hyderabad district):</b> Monitor the progress of road widening works at Cherlapalli railway station (9).</li>\n    <li><b>All Districts:</b> Monitor public sentiment regarding petrol and diesel price hikes (2) and any potential impact on local economies.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.1°C",
+      "humidity": "54%",
+      "wind": "8 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 45,
+      "pm25": 24.5,
+      "goldPerGram": "₹9,293",
+      "newsCount": 32,
+      "topHeadlines": [
+        "Telangana Dy CM leaves for Delhi to attend Swachh Bharat Mission meet - The Siasat Daily",
+        "Petrol Diesel Prices Hiked By 90 Paise On May 19! Check New Rates In Mumbai, Delhi, Hyderabad, Kolkata, Chennai And More - NDTV Profit",
+        "Revanth Reddy Says Congress United in Goal to Make Rahul Gandhi PM - The Morning Voice",
+        "Revanth Reddy attends VD Satheesan swearing-in in Kerala - newsage.in",
+        "Dharmapuri Arvind Comments On Modi And Revanth Go Viral - INDToday"
       ]
     }
   }
