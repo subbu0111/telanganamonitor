@@ -1,74 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20T11:37:59.068Z",
-    "timestampIST": "20/4/2026, 5:07:59 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will inspect the Medigadda barrage and inaugurate development works at the Kaleshwaram temple today, April 20th. The CM met with the Governor to seek approval for Azharuddin and Kodandaram's MLC nominations. A fire broke out in the TNGO Colony cellar in Hyderabad, destroying several vehicles.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will inspect the Medigadda barrage and inaugurate development works at the Kaleshwaram temple today, April 20th. The CM met with the Governor to seek approval for Azharuddin and Kodandaram's MLC nominations. A fire broke out in the TNGO Colony cellar in Hyderabad, destroying several vehicles.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> Harish Rao's opposition to Jeevan Reddy joining BRS and the ongoing MLC nomination row for Azharuddin could potentially escalate political tensions. (3, 4, 5)</li>\n  <li><span class=\"risk-low\">Public Sentiment:</span>  Reports of public sentiment such as \"Revanth must go\" and \"KCR must return\" indicate potential dissatisfaction. (7)</li>\n  <li><span class=\"risk-low\">Infrastructure Safety:</span> The fire in the TNGO Colony cellar highlights potential safety concerns. (8, 18)</li>\n  <li><span class=\"risk-low\">Security Threat:</span> Intel reports of a new three-pronged strategy adopted by ISI in Punjab. (2)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's meetings with the Governor (13, 15) regarding anti-drug awareness and MLC nominations (4, 5, 15, 19) suggest a focus on governance and potential political maneuvering.</li>\n  <li>The CM's visit to the Kaleshwaram temple (10, 11) and inspection of the Medigadda barrage (9, 16) highlights infrastructure and development priorities.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the political situation surrounding the MLC nominations of Azharuddin and Kodandaram and the reactions of key political figures.</li>\n  <li>Assess the cause of the fire in the TNGO Colony cellar and review fire safety protocols in public areas.</li>\n  <li>Review and enhance security measures in light of the reported ISI strategy in Punjab.</li>\n  <li>Prepare for potential public reactions during the CM's visits to Kaleshwaram and Medigadda.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Jayashankar Bhupalpally:</b>  The CM will participate in bhoomi pujan for development works at the Kaleshwaram temple. (11)</li>\n  <li><b>Medak:</b> The CM will inspect the Medigadda barrage. (9, 16)</li>\n  <li><b>Hyderabad:</b>  Address the aftermath of the fire in the TNGO Colony. (8, 18)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "37.6°C",
-      "humidity": "24%",
-      "wind": "1.8 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 74,
-      "pm25": 40.4,
-      "goldPerGram": "₹8,953",
-      "newsCount": 37,
-      "topHeadlines": [
-        "AFMS doctors may practise across India under new NMC draft rules - Telangana Today",
-        "ISI adopts new three-pronged strategy in Punjab: Intel reports - Telangana Today",
-        "Harish Rao against Congress’ Jeevan Reddy joining BRS: Jagtial MLA - The Siasat Daily",
-        "Azharuddin's ministerial seat in limbo as Telangana Governor delays MLC nomination approval - theweek.in",
-        "Telangana: MLC Nomination Row Heats Up As Deadline Looms For Azharuddin, CM Meets Governor - ETV Bharat"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-20T13:47:21.753Z",
-    "timestampIST": "20/4/2026, 7:17:21 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively involved in Kaleshwaram, inaugurating and laying foundation stones for temple development works. The CM is also scheduled to inspect the Medigadda barrage today. A fire broke out in the TNGO Colony cellar in Hyderabad, resulting in vehicle damage. The Governor and CM discussed an anti-drug awareness drive.</p>",
-    "fullAnalysis": "```html\n<!DOCTYPE html>\n<html>\n<head>\n<title>Telangana Intelligence Briefing</title>\n<style>\n.risk-high { color: red; font-weight: bold; }\n.risk-medium { color: orange; font-weight: bold; }\n.risk-low { color: green; }\n</style>\n</head>\n<body>\n\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively involved in Kaleshwaram, inaugurating and laying foundation stones for temple development works. The CM is also scheduled to inspect the Medigadda barrage today. A fire broke out in the TNGO Colony cellar in Hyderabad, resulting in vehicle damage. The Governor and CM discussed an anti-drug awareness drive.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> Harish Rao made statements against the current government, including the phrase \"Revanth must go\" (13).</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> A fire occurred in the TNGO Colony cellar in Hyderabad, causing damage (14).</li>\n    <li><span class=\"risk-low\">Political:</span> Azharuddin's ministerial seat nomination is delayed, creating political uncertainty (10, 11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is focusing on Kaleshwaram, with multiple events related to temple development (2, 3, 4, 6, 16, 18).</li>\n    <li>The CM met with the Governor to discuss an anti-drug awareness drive (20), indicating a focus on this issue.</li>\n    <li>The CM is scheduled to inspect the Medigadda barrage today (15), and has already laid foundation stones for Kaleshwaram temple development (3, 4, 6, 16, 18).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure adequate security and crowd control measures at Kaleshwaram and Bhupalpally, given the CM's visits and Bhoomi puja events (2, 3, 4, 6, 16, 17, 18).</li>\n    <li>Assess the damage and investigate the cause of the fire in the TNGO Colony cellar in Hyderabad (14).</li>\n    <li>Monitor the political situation surrounding Azharuddin's nomination and its potential impact (10, 11).</li>\n    <li>Prepare a briefing for the CM regarding the anti-drug awareness drive discussed with the Governor (20).</li>\n    <li>Provide an update on the CM's inspection of the Medigadda barrage (15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Jayashankar Bhupalpally:</b> Due to the CM's visit for bhoomi pujan at the Kaleshwaram temple development works (17, 18).</li>\n    <li><b>Hyderabad:</b> Due to the fire incident in the TNGO Colony cellar (14) and the meeting between the Norway Envoy and the CM (5).</li>\n</ul>\n\n</body>\n</html>\n```",
-    "dataSnapshot": {
-      "temperature": "33.4°C",
-      "humidity": "34%",
-      "wind": "4.8 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 74,
-      "pm25": 45.5,
-      "goldPerGram": "₹8,953",
-      "newsCount": 41,
-      "topHeadlines": [
-        "Norway’s Ambassador to India Meets Telangana CM, Discusses Cooperation - Deccan Chronicle",
-        "Kaleshwaram: Revanth Reddy launches temple, bus station works - Hyderabad Mail",
-        "Telangana CM Revanth lays foundation stone for redevelopment of Kaleshwaram temple, inspects Medigadda - The Hindu",
-        "Telangana CM performs Bhoomi puja for Kaleshwaram temple’s development works - Social News XYZ",
-        "Hyderabad: Norway Envoy Meets Revanth Reddy #Gallery - Social News XYZ"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-20T15:17:17.668Z",
-    "timestampIST": "20/4/2026, 8:47:17 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from Harish Rao regarding the Kaleshwaram project, with accusations of a cover-up and wasted funds (Headlines 1, 2, 5, 18). The CM is scheduled to inspect the Medigadda barrage today (Headline 20).  T. Jeevan Reddy has joined the BRS party and been appointed as General Secretary by KCR (Headlines 3, 4).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism from Harish Rao regarding the Kaleshwaram project, with accusations of a cover-up and wasted funds (Headlines 1, 2, 5, 18). The CM is scheduled to inspect the Medigadda barrage today (Headline 20).  T. Jeevan Reddy has joined the BRS party and been appointed as General Secretary by KCR (Headlines 3, 4).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH:</span> Political tensions are escalating between the Congress and BRS parties, with accusations and counter-accusations regarding the Kaleshwaram project and potential CBI investigations (Headlines 1, 2, 5).</li>\n  <li><span class=\"risk-medium\">MEDIUM:</span> The delay in approving Azharuddin's MLC nomination by the Governor could lead to political instability (Headlines 16, 17).</li>\n  <li><span class=\"risk-medium\">MEDIUM:</span> A fire broke out in the TNGO Colony cellar in Hyderabad, potentially causing public unrest and requiring immediate response (Headline 19).</li>\n  <li><span class=\"risk-low\">LOW:</span>  ISI is adopting a new three-pronged strategy in Punjab, according to intel reports (Headline 14).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The Kaleshwaram project is a central point of contention, with both Revanth Reddy and Harish Rao making statements regarding its status and investigation (Headlines 1, 2, 5, 9, 10, 12, 18, 20).</li>\n  <li>The CM's actions regarding Kaleshwaram, including launching temple development works and inspecting the barrage, are directly linked to the ongoing political controversy (Headlines 7, 9, 10, 12, 20).</li>\n  <li>The meeting between the Norway Ambassador and CM Revanth Reddy (Headlines 8, 11) is separate from the political events.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Prepare a detailed briefing for the CM on the current status of the Kaleshwaram project, including all allegations and potential legal ramifications.</li>\n  <li>Monitor the Governor's decision regarding Azharuddin's MLC nomination and prepare for potential political fallout.</li>\n  <li>Ensure immediate and effective response to the fire incident in TNGO Colony, Hyderabad, and provide necessary support to affected residents.</li>\n  <li>Review and analyze the intelligence reports regarding the ISI's new strategy in Punjab.</li>\n  <li>Prepare a public statement addressing the allegations regarding the Kaleshwaram project to mitigate public perception.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Jagtial:</b> Monitor the political situation closely, given the statements from the Jagtial MLA regarding Jeevan Reddy's joining BRS (Headline 15).</li>\n  <li><b>Hyderabad:</b> Prioritize the response to the fire incident in TNGO Colony and monitor any potential unrest.</li>\n  <li><b>Medak/Jayashankar Bhupalpally:</b> Closely monitor the CM's inspection of the Medigadda barrage and any related developments regarding the Kaleshwaram project.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.5°C",
-      "humidity": "44%",
-      "wind": "2.5 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 75,
-      "pm25": 52.3,
-      "goldPerGram": "₹8,977",
-      "newsCount": 45,
-      "topHeadlines": [
-        "Revanth Reddy Targets Harish Rao Over Kaleshwaram Probe - INDToday",
-        "Revanth accuses Harish Rao of trying to block CBI probe into Kaleshwaram scam - The Siasat Daily",
-        "KCR welcomes Jeevan Reddy into BRS, makes him general secretary - The Siasat Daily",
-        "T Jeevan Reddy joins BRS, KCR makes him party’s general secretary - The Siasat Daily",
-        "Medigadda Cover-Up Exposed: CM Revanth Reddy Slams KCR Over Ignored Warnings and ₹1.50 Lakh Cr Waste - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-20T17:06:15.485Z",
     "timestampIST": "20/4/2026, 10:36:15 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy inspected the Medigadda barrage and launched development works for the Kaleshwaram temple, laying the foundation stone. (6, 14, 16, 17, 19) He also criticized KCR and Harish Rao, alleging irregularities and a cover-up related to Kaleshwaram. (2, 4, 6, 8, 9, 12)  Jeevan Reddy joined the BRS and was made general secretary by KCR. (1, 10, 11)</p>",
@@ -6021,6 +5952,29 @@
         "Centre Ready In Principle for 50:50 Funding of Hyderabad Metro Phase II: Kishan Reddy - Deccan Chronicle",
         "Telangana student declared brain dead saves four lives through organ donation - The Siasat Daily",
         "Union government ready for in-principle approval for Hyderabad Metro Phase-II: Kishan Reddy - The News Minute"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-20T15:25:27.030Z",
+    "timestampIST": "20/5/2026, 8:55:27 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy launched the Indiramma housing programme in Asifabad (1). He has directed officials to formulate a GCC policy (4, 11) and ordered land acquisition for a bullet train as part of the Future City plan (10). The CM has issued heatwave alerts and urged public vigilance due to intensifying heat conditions across Telangana (3, 14, 15, 17).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy launched the Indiramma housing programme in Asifabad (1). He has directed officials to formulate a GCC policy (4, 11) and ordered land acquisition for a bullet train as part of the Future City plan (10). The CM has issued heatwave alerts and urged public vigilance due to intensifying heat conditions across Telangana (3, 14, 15, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Health Crisis:</span> Intensifying heatwave conditions across Telangana pose a significant risk to public health (3, 14, 15, 17).</li>\n    <li><span class=\"risk-medium\">Financial Risk:</span> Two price hikes are reported, the timing of which is questioned (16).</li>\n    <li><span class=\"risk-low\">Security Threat:</span> A man was arrested for impersonating CM Revanth Reddy's PA and attempting extortion (18).</li>\n    <li><span class=\"risk-low\">Public Unrest:</span> Musi Riverfront project boundary works are intensifying amid protests in Hyderabad (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy is actively involved in both the Future City plan (2, 10, 12) and addressing the ongoing heatwave (3, 14, 15, 17).</li>\n    <li>The Centre's in-principle approval for Hyderabad Metro Phase 2 (8, 9, 20) indicates potential infrastructure development alongside the Future City initiative.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure immediate implementation of heatwave preparedness measures across all districts, including public awareness campaigns and readily available medical assistance (3, 14, 15, 17).</li>\n    <li>Review and monitor the impact of the reported price hikes (16).</li>\n    <li>Enhance security protocols to prevent further impersonation attempts and extortion (18).</li>\n    <li>Monitor the Musi Riverfront project protests and ensure law and order (19).</li>\n    <li>Expedite the formulation of the GCC policy as directed by the CM (4, 11).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Asifabad:</b> Focus on the successful launch and initial implementation of the Indiramma housing programme (1).</li>\n    <li><b>Hyderabad:</b> Monitor the Musi Riverfront project protests and manage the heatwave impact (19, 3, 14, 15, 17).</li>\n    <li><b>All Districts:</b> Prioritize public health and safety due to the widespread heatwave alert (3, 14, 15, 17).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "34.1°C",
+      "humidity": "38%",
+      "wind": "11.7 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 67,
+      "pm25": 54.7,
+      "goldPerGram": "₹9,339",
+      "newsCount": 47,
+      "topHeadlines": [
+        "Indiramma housing programme launch in Asifabad - newsage.in",
+        "Revanth Reddy sets June deadline for industrial park groundbreaking at Future City - Telangana Today",
+        "Amid intense heat conditions, Telangana CM Revanth Reddy appeals to people to remain vigilant, take precautionary measures - ANI News",
+        "Telangana CM Revanth Reddy directs officials to formulate GCC policy - ANI News",
+        "Telangana Dy CM Bhatti Vikramarka Mallu meets Union Minister Kishan Reddy - ANI News"
       ]
     }
   }
