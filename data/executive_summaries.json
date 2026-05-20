@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20T02:53:52.465Z",
-    "timestampIST": "20/4/2026, 8:23:52 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy met with the Governor to seek approval for MLC nominations, including Azharuddin's. (3, 11, 14, 15, 17) The CM will visit the Kaleshwaram project's Medigadda barrage today. (5) Political tensions are rising, with the BJP criticizing the CM for comparing PM Modi to a demon. (12, 13, 20) The CM will release the 2nd installment of 'Rythu Bharosa' on Monday. (19)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with the Governor to seek approval for MLC nominations, including Azharuddin's. (3, 11, 14, 15, 17) The CM will visit the Kaleshwaram project's Medigadda barrage today. (5) Political tensions are rising, with the BJP criticizing the CM for comparing PM Modi to a demon. (12, 13, 20) The CM will release the 2nd installment of 'Rythu Bharosa' on Monday. (19)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li>Political Instability: <span class=\"risk-medium\">HIGH</span> -  Ongoing clashes between the ruling party and BJP, with accusations of abuse and insults. (1, 2, 4, 12, 13, 20)</li>\n  <li>Public Discontent: <span class=\"risk-medium\">MEDIUM</span> -  Potential for negative public perception due to the CM's comments regarding the PM. (12, 13, 20)</li>\n  <li>Law and Order: <span class=\"risk-low\">LOW</span> - A biker died in a road accident on the Cable Bridge in Madhapur. (6)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's meetings with the Governor (3, 9, 10, 11, 14, 15, 17) are focused on multiple issues, including MLC nominations and narcotics control.</li>\n  <li>The political criticism of the CM (1, 4, 12, 13, 20) is linked to his statements about the Prime Minister and the failure of the women's reservation bill.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the political fallout from the CM's comments regarding the PM. (12, 13, 20)</li>\n  <li>Prepare for potential media scrutiny and public reaction to the CM's visit to the Kaleshwaram project. (5)</li>\n  <li>Ensure adequate security measures are in place for the CM's visit to the Kaleshwaram project. (5)</li>\n  <li>Review the implications of the IPS officer reshuffle. (18)</li>\n  <li>Prepare for the release of the 2nd installment of 'Rythu Bharosa' on Monday. (19)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Medak</b>: The CM's visit to the Kaleshwaram project's Medigadda barrage requires heightened security and administrative oversight. (5)</li>\n  <li><b>Hyderabad</b>: Monitor the situation in Madhapur following the road accident. (6)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.2°C",
-      "humidity": "58%",
-      "wind": "2.3 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 71,
-      "pm25": 46.2,
-      "goldPerGram": "₹8,953",
-      "newsCount": 35,
-      "topHeadlines": [
-        "Shehzad Poonawala accuses Revanth Reddy of abusing PM over women’s reservation bill failure - The News Mill",
-        "North Telangana Heats Up as KCR and Revanth Face Off - metroindia.net",
-        "Telangana CM meets Governor, seeks early approval for Azharuddin’s nomination as MLC - Social News XYZ",
-        "Revanth Reddy Became CM On Lies: Bandi Sanjay - INDToday",
-        "CM Revanth to visit Kaleshwaram project’s Medigadda barrage on April 20 - The Siasat Daily"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-20T06:16:35.275Z",
     "timestampIST": "20/4/2026, 11:46:35 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in political activities, including visits to Jayashankar Bhupalpally and Medigadda, and seeking Governor approval for MLC nominations for Kodandaram and Azharuddin (1, 6, 5, 8, 9, 16).</p>\n<p>Political tensions are rising, with criticism of CM Revanth Reddy from Bandi Sanjay and Shehzad Poonawala (4, 18, 20), and parallel meetings being held by Revanth Reddy and KCR in Karimnagar and North Telangana (12, 17, 19).</p>\n<p>The Governor and CM discussed an anti-drug awareness drive (3).</p>",
@@ -6021,6 +5998,29 @@
         "Expedite Palamuru-Rangareddy Scheme on Priority: CM Revanth Reddy to Officials - Deccan Chronicle",
         "Telangana CM urges faster completion of irrigation projects in Mahboobnagar district - The News Mill",
         "Telangana cabinet meeting on May 23, austerity measures on agenda - The Times of India"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-20T03:45:41.873Z",
+    "timestampIST": "20/5/2026, 9:15:41 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has prioritized the Palamuru-Rangareddy Lift Irrigation (LI) project, setting deadlines for its completion and assuring funds. A cabinet meeting is scheduled for May 23rd, now to be held at Yadagirigutta, with austerity measures on the agenda. Fuel prices have increased again on May 20th.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has prioritized the Palamuru-Rangareddy Lift Irrigation (LI) project, setting deadlines for its completion and assuring funds. A cabinet meeting is scheduled for May 23rd, now to be held at Yadagirigutta, with austerity measures on the agenda. Fuel prices have increased again on May 20th.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political:</span> BJP MP's comments comparing CM Revanth Reddy to Suvendu Adhikari have sparked political buzz. (12, 16)</li>\n  <li><span class=\"risk-low\">Public Sentiment:</span> Aspirants are upset with the Telangana government's new age limit for jobs. (13)</li>\n  <li><span class=\"risk-low\">Economic:</span> Fuel prices have increased. (1, 3, 4)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's focus on Palamuru-Rangareddy LI (2, 6, 7, 8, 11, 20) is likely a key topic for discussion at the upcoming cabinet meeting on May 23rd (9, 10).</li>\n  <li>Increased fuel prices (1, 3, 4) may impact public sentiment and could be a factor in the cabinet's austerity measures (9).</li>\n  <li>The political commentary from the BJP MP (12, 16) could potentially influence the government's focus on irrigation projects (2, 6, 7, 8, 11, 20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Prepare a detailed briefing on the Palamuru-Rangareddy LI project's progress for the CM.</li>\n  <li>Monitor public reaction to the new age limit for jobs and fuel price increases.</li>\n  <li>Assess the potential political fallout from the BJP MP's remarks.</li>\n  <li>Prepare a response to the BJP MP's criticism, focusing on the government's initiatives for farmers. (19)</li>\n  <li>Ensure all necessary arrangements are in place for the cabinet meeting on May 23rd at Yadagirigutta. (10)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Mahboobnagar:</b> Immediate attention is required due to the CM's focus on irrigation projects in the district. (6, 7, 8)</li>\n  <li><b>Yadagirigutta:</b> Preparations for the cabinet meeting on May 23rd require immediate attention. (10)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "33.5°C",
+      "humidity": "45%",
+      "wind": "11.9 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 65,
+      "pm25": 27.1,
+      "goldPerGram": "₹9,311",
+      "newsCount": 42,
+      "topHeadlines": [
+        "Petrol, Diesel prices today, May 20: Fuel prices up again! Check new rates in Delhi, Mumbai, Chennai - Business Today",
+        "Put Palamuru-Rangareddy LI on fast track: CM - The Hans India",
+        "Another Hike In Petrol, Diesel Prices On May 20? Check New Rates In Mumbai, Hyderabad, Kolkata, Chennai And More - NDTV Profit",
+        "Petrol, diesel, LPG rates today on May 20: Check fuel prices in Delhi, Mumbai, Kolkata Hyderabad; full... - Moneycontrol.com",
+        "Gold Rate Today in Hyderabad: Latest 18K, 22K &amp; 24K Gold Prices on 19 May 2026 - ET Now"
       ]
     }
   }
