@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20T09:59:59.043Z",
-    "timestampIST": "20/4/2026, 3:29:59 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is scheduled to inspect the Medigadda barrage and inaugurate development works at the Kaleshwaram temple today, April 20th.  The Chief Minister met with the Governor to seek clearance for the nomination of Azharuddin and Kodandaram as MLCs. Political tensions are rising, with parallel meetings held by CM Revanth Reddy and KCR in Karimnagar.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is scheduled to inspect the Medigadda barrage and inaugurate development works at the Kaleshwaram temple today, April 20th.  The Chief Minister met with the Governor to seek clearance for the nomination of Azharuddin and Kodandaram as MLCs. Political tensions are rising, with parallel meetings held by CM Revanth Reddy and KCR in Karimnagar.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Headlines indicate rising political tensions with criticisms against CM Revanth Reddy and parallel meetings by KCR in Karimnagar. (3, 20)</li>\n    <li><span class=\"risk-low\">Public Discontent:</span>  Reports of public sentiment, \"Revanth must go,\" suggest potential for public unrest. (3)</li>\n    <li><span class=\"risk-low\">Security Concerns:</span> A fire broke out in the TNGO Colony cellar in Hyderabad, causing panic and vehicle damage. (4, 14)</li>\n    <li><span class=\"risk-low\">MLC Nomination Delays:</span> The MLC nomination row for Azharuddin and Kodandaram is ongoing, potentially causing political friction. (1, 11, 15, 17)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's visit to the Kaleshwaram temple (6, 7) and the inspection of the Medigadda barrage (5, 12) highlight infrastructure-related activities.</li>\n    <li>The CM's meetings with the Governor regarding MLC nominations (1, 11, 15, 17) and the political rally in Karimnagar (20) indicate a focus on political maneuvering.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure adequate security and crowd control measures are in place for the CM's visit to Kaleshwaram and Medigadda.</li>\n    <li>Monitor the political situation in Karimnagar closely, given the parallel meetings.</li>\n    <li>Assess the potential impact of the fire in TNGO Colony and provide necessary support.</li>\n    <li>Monitor public sentiment and address any grievances.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Jayashankar Bhupalpally:</b>  The CM is scheduled to participate in bhoomi pujan for development works at the Kaleshwaram temple. (7)</li>\n    <li><b>Karimnagar:</b>  Rising political tensions due to parallel meetings require increased monitoring. (20)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "39.2°C",
-      "humidity": "21%",
-      "wind": "8.4 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 72,
-      "pm25": 37.4,
-      "goldPerGram": "₹8,953",
-      "newsCount": 34,
-      "topHeadlines": [
-        "Telangana: MLC Nomination Row Heats Up As Deadline Looms For Azharuddin, CM Meets Governor - ETV Bharat",
-        "T'gana CM, leaders greet Chandrababu Naidu on birthday - Devdiscourse",
-        "People’s mantra 'Revanth must go', 'KCR must return', quips Harish - The Hans India",
-        "Hyderabad: Fire breaks out in TNGO Colony cellar, sparks panic; several vehicles destroyed - The Hans India",
-        "CM Revanth to inspect Medigadda barrage today - The Hans India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-20T11:37:59.068Z",
     "timestampIST": "20/4/2026, 5:07:59 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy will inspect the Medigadda barrage and inaugurate development works at the Kaleshwaram temple today, April 20th. The CM met with the Governor to seek approval for Azharuddin and Kodandaram's MLC nominations. A fire broke out in the TNGO Colony cellar in Hyderabad, destroying several vehicles.</p>",
@@ -6021,6 +5998,29 @@
         "Union Minister Kishan Reddy meets Manohar Lal Khattar, discuss Urban Development in Hyderabad - The Hans India",
         "Trainee IAS Officers Meet Revanth Reddy - Deccan Chronicle",
         "Don’t resort to personal attacks against CM, Adluri tells Arvind - The Hans India"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-20T10:52:17.345Z",
+    "timestampIST": "20/5/2026, 4:22:17 pm",
+    "executiveSummary": "<p>A man was arrested in Hyderabad for impersonating CM Revanth Reddy's PA and extorting money (1). The Centre has given in-principle approval for Hyderabad Metro Phase II with a 50:50 funding model (3, 5, 6, 8, 9). The Telangana Cabinet meeting has been shifted to May 23 and will be held in Yadadri, with land prices on the agenda (10, 16).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A man was arrested in Hyderabad for impersonating CM Revanth Reddy's PA and extorting money (1). The Centre has given in-principle approval for Hyderabad Metro Phase II with a 50:50 funding model (3, 5, 6, 8, 9). The Telangana Cabinet meeting has been shifted to May 23 and will be held in Yadadri, with land prices on the agenda (10, 16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Extortion:</span> An individual was arrested for impersonating the CM's PA and extorting money, indicating a potential security vulnerability and reputational risk (1).</li>\n    <li><span class=\"risk-low\">Public Protest:</span> Protests are ongoing regarding the Musi Riverfront project boundary works in Hyderabad (2).</li>\n    <li><span class=\"risk-low\">Accident:</span> Three fatalities occurred in an accident in Mahabubabad (11).</li>\n    <li><span class=\"risk-low\">Political Criticism:</span> Telangana Congress has criticized BJP MP Arvind (17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Centre's in-principle approval for Hyderabad Metro Phase II (3, 5, 6, 8, 9) and the discussion of the ₹3,975 Crore Musi River Project (6) indicate ongoing urban development initiatives.</li>\n    <li>The meeting of trainee IAS officers with CM Revanth Reddy (7, 13) highlights administrative engagement.</li>\n    <li>The Cabinet meeting on May 23 in Yadadri (10, 16) with land prices on the agenda suggests a focus on land-related matters.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review and strengthen security protocols around the Chief Minister's office and personnel to prevent further extortion attempts (1).</li>\n    <li>Monitor the ongoing protests related to the Musi Riverfront project and assess potential for escalation (2).</li>\n    <li>Prepare for the Cabinet meeting on May 23 in Yadadri, focusing on the land price agenda (10, 16).</li>\n    <li>Assess the impact of rising fuel prices on public sentiment (20).</li>\n    <li>Brief the CM on the political criticism from the Congress (17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Mahabubabad:</b> Immediate attention is needed due to the reported accident resulting in three fatalities (11).</li>\n    <li><b>Hyderabad:</b> Monitor the Musi Riverfront project protests (2) and address security concerns related to the extortion case (1).</li>\n    <li><b>Yadadri:</b> Prepare for the Cabinet meeting scheduled for May 23 (10, 16).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "39.8°C",
+      "humidity": "19%",
+      "wind": "9.1 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 66,
+      "pm25": 31.5,
+      "goldPerGram": "₹9,311",
+      "newsCount": 41,
+      "topHeadlines": [
+        "Hyderabad man posed as CM Revanth Reddy’s PA to extort money, arrested - The Siasat Daily",
+        "Musi Riverfront project boundary works intensify amid protests in Hyderabad - Telangana Today",
+        "Centre Ready In Principle for 50:50 Funding of Hyderabad Metro Phase II: Kishan Reddy - Deccan Chronicle",
+        "Telangana student declared brain dead saves four lives through organ donation - The Siasat Daily",
+        "Union government ready for in-principle approval for Hyderabad Metro Phase-II: Kishan Reddy - The News Minute"
       ]
     }
   }
