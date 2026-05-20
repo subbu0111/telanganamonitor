@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20T17:06:15.485Z",
-    "timestampIST": "20/4/2026, 10:36:15 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy inspected the Medigadda barrage and launched development works for the Kaleshwaram temple, laying the foundation stone. (6, 14, 16, 17, 19) He also criticized KCR and Harish Rao, alleging irregularities and a cover-up related to Kaleshwaram. (2, 4, 6, 8, 9, 12)  Jeevan Reddy joined the BRS and was made general secretary by KCR. (1, 10, 11)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy inspected the Medigadda barrage and launched development works for the Kaleshwaram temple, laying the foundation stone. (6, 14, 16, 17, 19) He also criticized KCR and Harish Rao, alleging irregularities and a cover-up related to Kaleshwaram. (2, 4, 6, 8, 9, 12)  Jeevan Reddy joined the BRS and was made general secretary by KCR. (1, 10, 11)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span>  Continued political accusations and counter-accusations between the ruling Congress and the BRS regarding the Kaleshwaram project, potentially escalating tensions. (2, 4, 6, 8, 9, 12)</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span>  Allegations of a cover-up and attempts to block a CBI probe into the Kaleshwaram project could lead to public unrest or legal challenges. (9)</li>\n    <li><span class=\"risk-low\">LOW:</span>  The joining of T Jeevan Reddy into BRS and his appointment as general secretary may lead to internal party dynamics changes. (1, 10, 11)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's inspection of Medigadda (6, 17) is directly linked to his criticism of KCR and allegations of irregularities (2, 4, 6, 8, 9, 12).</li>\n    <li>The focus on Kaleshwaram (4, 6, 8, 12, 14, 16, 17, 19) is a recurring theme, with both the CM and KCR involved, indicating a potential political flashpoint.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor media coverage and social media for reactions to the Kaleshwaram allegations and counter-allegations.</li>\n    <li>Prepare a public statement addressing the allegations of irregularities and cover-up related to the Kaleshwaram project.</li>\n    <li>Assess the potential impact of Jeevan Reddy's joining BRS on the political landscape.</li>\n    <li>Ensure security is heightened around key political figures involved in the Kaleshwaram controversy.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Jayashankar Bhupalpally District:</b> Due to the focus on Kaleshwaram, which is located in this district, monitor the situation closely for any public gatherings or protests. (14, 16, 17, 19)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29.8°C",
-      "humidity": "52%",
-      "wind": "2.3 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 75,
-      "pm25": 51.5,
-      "goldPerGram": "₹8,977",
-      "newsCount": 48,
-      "topHeadlines": [
-        "Do you have any shame? Telangana CM charges at Jeevan Reddy who joined BRS - The Siasat Daily",
-        "Revanth Reddy says Medigadda inspection pre-planned, slams BRS - Telangana Today",
-        "KCR Recalls Telangana Struggle, Targets Congress - INDToday",
-        "Revanth Reddy Targets KCR Over Kaleshwaram - INDToday",
-        "CEO Telangana Reviews Voter Mapping Under SIR In Hyderabad - INDToday"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-20T19:09:03.428Z",
     "timestampIST": "21/4/2026, 12:39:03 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy met with the Norway Envoy in Hyderabad (1). The CM is actively involved in the Kaleshwaram project, inspecting the Medigadda barrage and vowing action regarding the inquiry (3, 16). Political tensions are escalating, with CM Reddy challenging KCR ahead of the 2028 elections, and KCR criticizing the Congress (5, 6).</p>",
@@ -5975,6 +5952,29 @@
         "Amid intense heat conditions, Telangana CM Revanth Reddy appeals to people to remain vigilant, take precautionary measures - ANI News",
         "Telangana CM Revanth Reddy directs officials to formulate GCC policy - ANI News",
         "Telangana Dy CM Bhatti Vikramarka Mallu meets Union Minister Kishan Reddy - ANI News"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-20T18:20:20.235Z",
+    "timestampIST": "20/5/2026, 11:50:20 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered a police overhaul with a zero-tolerance policy on corruption and negligence (1). He will launch the second phase of the Indiramma housing program from Asifabad on June 2 (2, 4). The CM has also set a June deadline for the industrial park groundbreaking at Future City (5) and is focusing on heatwave preparedness, urging citizens to stay indoors (3, 6, 16, 18, 20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has ordered a police overhaul with a zero-tolerance policy on corruption and negligence (1). He will launch the second phase of the Indiramma housing program from Asifabad on June 2 (2, 4). The CM has also set a June deadline for the industrial park groundbreaking at Future City (5) and is focusing on heatwave preparedness, urging citizens to stay indoors (3, 6, 16, 18, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Health:</span> Intense heatwave conditions pose a significant risk to public health, requiring immediate precautionary measures (3, 6, 16, 18, 20).</li>\n    <li><span class=\"risk-medium\">Public Perception:</span> Potential negative public reaction to \"Two Big Price Hikes\" (19).</li>\n    <li><span class=\"risk-medium\">Operational Readiness:</span> The CM's order for a police overhaul requires immediate implementation and monitoring (1).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on heatwave preparedness (3, 6, 16, 18, 20) requires coordination with the Indiramma housing program launch in Asifabad (2, 4) to ensure the safety of the public.</li>\n    <li>The CM's directives on Future City (5, 12, 14) and the proposed investment promotion cell (8) suggest a focus on economic development.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Issue immediate directives to all district administrations regarding heatwave preparedness, including public awareness campaigns and emergency response protocols.</li>\n    <li>Ensure the timely and effective implementation of the police overhaul, with a focus on monitoring and accountability.</li>\n    <li>Coordinate with relevant departments to ensure the successful launch of the Indiramma housing program in Asifabad on June 2.</li>\n    <li>Assess the potential impact of the \"Two Big Price Hikes\" and prepare a communication strategy to address public concerns (19).</li>\n    <li>Prioritize land acquisition for the Bullet Train as ordered by the CM (12).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Asifabad:</b> Requires immediate attention due to the upcoming launch of the Indiramma housing program (2, 4) and the ongoing heatwave conditions (3, 6, 16, 18, 20).</li>\n    <li><b>All Districts:</b> Need to implement heatwave preparedness measures (3, 6, 16, 18, 20).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31.6°C",
+      "humidity": "46%",
+      "wind": "10.1 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 68,
+      "pm25": 41.3,
+      "goldPerGram": "₹9,339",
+      "newsCount": 45,
+      "topHeadlines": [
+        "Revanth orders police overhaul, zero tolerance on corruption and negligence - Telangana Today",
+        "Revanth Reddy to launch Indiramma housing 2nd phase from Asifabad on June 2 - The Siasat Daily",
+        "Telangana CM urges people to stay indoors amid heatwave - Telangana Today",
+        "Indiramma housing programme launch in Asifabad - newsage.in",
+        "Revanth Reddy sets June deadline for industrial park groundbreaking at Future City - Telangana Today"
       ]
     }
   }
