@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20T22:47:13.053Z",
-    "timestampIST": "21/4/2026, 4:17:13 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy and KCR are engaging in a political rivalry, with both holding public rallies. (1) Revanth Reddy inspected the Medigadda barrage and criticized KCR. (19) Jeevan Reddy joined the BRS and was welcomed by KCR. (11, 13, 14)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy and KCR are engaging in a political rivalry, with both holding public rallies. (1) Revanth Reddy inspected the Medigadda barrage and criticized KCR. (19) Jeevan Reddy joined the BRS and was welcomed by KCR. (11, 13, 14)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> The ongoing public challenges and accusations between KCR and Revanth Reddy could escalate political tensions. (1, 10)</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span> The focus on the Kaleshwaram project and related allegations could lead to public dissatisfaction. (7, 9, 17, 18)</li>\n    <li><span class=\"risk-low\">Potential for Disruptions:</span> The political showdown between KCR and Revanth Reddy may lead to rallies or events that could disrupt public order. (1, 2)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Kaleshwaram project is a central point of contention, with both Revanth Reddy and KCR making statements and accusations related to it. (4, 7, 8, 9, 16, 17, 18, 19)</li>\n    <li>Jeevan Reddy's joining of the BRS is directly linked to KCR's political strategy and the ongoing political rivalry. (2, 11, 13, 14, 15, 20)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the public rallies and political events organized by KCR and Revanth Reddy for any potential law and order issues. (1, 2)</li>\n    <li>Assess the public sentiment regarding the Kaleshwaram project and its related allegations. (7, 9, 17, 18)</li>\n    <li>Review security protocols for any public appearances by CM Revanth Reddy, given the heightened political climate. (1, 10)</li>\n    <li>Prepare a communication strategy to address public concerns regarding the Kaleshwaram project. (4, 5, 7, 8, 9, 16, 17, 18, 19)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Jagtial:</b> Due to KCR's speech and presence. (2)</li>\n    <li><b>Medigadda:</b> Given the CM's inspection and focus on the barrage. (19)</li>\n    <li><b>Areas where public rallies are planned:</b> Monitor these areas for potential law and order issues. (1, 2)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "26°C",
-      "humidity": "65%",
-      "wind": "4 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 72,
-      "pm25": 22,
-      "goldPerGram": "₹8,977",
-      "newsCount": 60,
-      "topHeadlines": [
-        "'KCR, Revanth Reddy challenge each other with rival public rallies' - The Morning Voice",
-        "KCR in Jagtial: Powerful Speech, Jeevan Reddy’s Entry, Telangana Narrative &amp; Sharp Attack on Congress - Telangana Tribune",
-        "Hyderabad: Norway Envoy Meets Revanth Reddy #Gallery - Social News XYZ",
-        "Revanth Reddy vows Kaleshwaram repair, targets Harish Rao's Delhi visit - Asianet Newsable",
-        "Clarity on The Way Forward For Barrage Repairs: Revanth - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-21T02:46:57.868Z",
     "timestampIST": "21/4/2026, 8:16:57 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on the Kaleshwaram project, launching works and vowing repairs, while also questioning CBI silence on the inquiry.  Political tensions are high, with Revanth Reddy and KCR engaging in a public challenge ahead of the 2028 elections. Harish Rao's Delhi visit is drawing scrutiny, with allegations of a rift within the BRS.</p>",
@@ -5946,6 +5923,29 @@
       "pm25": 28.1,
       "goldPerGram": "₹9,339",
       "newsCount": 41,
+      "topHeadlines": [
+        "CM Revanth Warns Police Against Negligence in Maintaining Law and Order - Deccan Chronicle",
+        "Revanth orders police overhaul, zero tolerance on corruption and negligence - Telangana Today",
+        "2025 Batch Trainee IAS Officers Meet CM Revanth Reddy - INDToday",
+        "Revanth Reddy to launch Indiramma housing 2nd phase from Asifabad on June 2 - The Siasat Daily",
+        "Telangana CM urges people to stay indoors amid heatwave - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-20T23:17:21.291Z",
+    "timestampIST": "21/5/2026, 4:47:21 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered a police overhaul with a zero-tolerance policy on corruption and negligence (2). He will launch the second phase of the Indiramma housing program from Asifabad on June 2 (4, 6). The CM has directed officials to formulate a GCC policy and is urging people to stay indoors due to a heatwave (5, 9, 16, 18, 19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has ordered a police overhaul with a zero-tolerance policy on corruption and negligence (2). He will launch the second phase of the Indiramma housing program from Asifabad on June 2 (4, 6). The CM has directed officials to formulate a GCC policy and is urging people to stay indoors due to a heatwave (5, 9, 16, 18, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Health Risk:</span> Intense heatwave conditions pose a significant health risk, requiring public awareness and precautionary measures (5, 8, 18, 19).</li>\n    <li><span class=\"risk-medium\">Law and Order:</span> The CM's warning against police negligence suggests potential issues with law and order maintenance (1).</li>\n    <li><span class=\"risk-low\">Economic Impact:</span> Two price hikes are mentioned, potentially impacting public sentiment (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM is focused on both public welfare (heatwave alerts, Indiramma housing) (4, 5, 6, 8, 18, 19) and economic development (GCC policy, Future City, investment promotion cell) (7, 9, 11, 15, 16, 17).</li>\n    <li>The CM's directives on police overhaul and the GCC policy indicate a focus on both internal governance and economic growth (2, 9, 16).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure effective communication of heatwave alerts and precautionary measures to the public (5, 8, 18, 19).</li>\n    <li>Monitor police performance and address any instances of negligence or corruption (1, 2).</li>\n    <li>Prepare for the launch of the Indiramma housing program in Asifabad on June 2 (4, 6).</li>\n    <li>Expedite the formulation of the GCC policy (9, 16).</li>\n    <li>Assess public reaction to the mentioned price hikes (20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Asifabad:</b> Requires immediate attention due to the upcoming launch of the Indiramma housing program (4, 6).</li>\n    <li><b>All Districts:</b> Require attention due to the ongoing heatwave and the need for public safety measures (5, 8, 18, 19).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.8°C",
+      "humidity": "51%",
+      "wind": "12.5 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 67,
+      "pm25": 27.2,
+      "goldPerGram": "₹9,339",
+      "newsCount": 40,
       "topHeadlines": [
         "CM Revanth Warns Police Against Negligence in Maintaining Law and Order - Deccan Chronicle",
         "Revanth orders police overhaul, zero tolerance on corruption and negligence - Telangana Today",
