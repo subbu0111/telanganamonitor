@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21T19:16:03.452Z",
-    "timestampIST": "22/4/2026, 12:46:03 am",
-    "executiveSummary": "<p>Political tensions are escalating in Telangana, with strong criticism exchanged between Revanth Reddy and various figures, including KCR, Harish Rao, and Kavitha (Headlines 5, 8, 10, 11, 16). Accusations of corruption related to the Kaleshwaram project are being leveled against both sides (Headlines 7, 10, 14, 17, 19). The Sunrisers Hyderabad beat Delhi Capitals in an IPL match (Headline 4).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions are escalating in Telangana, with strong criticism exchanged between Revanth Reddy and various figures, including KCR, Harish Rao, and Kavitha (Headlines 5, 8, 10, 11, 16). Accusations of corruption related to the Kaleshwaram project are being leveled against both sides (Headlines 7, 10, 14, 17, 19). The Sunrisers Hyderabad beat Delhi Capitals in an IPL match (Headline 4).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Increased political polarization and potential for public unrest due to the ongoing war of words between political leaders (Headlines 5, 7, 8, 10, 11, 16, 17, 19).</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Potential for legal challenges or investigations related to the Kaleshwaram project allegations (Headlines 7, 14, 17, 19).</li>\n    <li><span class=\"risk-low\">LOW</span>: Public interest and potential for gatherings related to the IPL 2026 matches (Headlines 4, 9, 12, 18).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The accusations of corruption related to the Kaleshwaram project (Headlines 7, 14, 17, 19) are a central point of contention in the political conflict (Headlines 5, 8, 10, 11, 16).</li>\n    <li>The IPL 2026 match between Sunrisers Hyderabad and Delhi Capitals (Headlines 4, 9, 12, 18) provides a potential focus for public gatherings.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public statements and social media activity for any escalation of political tensions.</li>\n    <li>Assess the potential for protests or demonstrations related to the Kaleshwaram project allegations.</li>\n    <li>Review security protocols for any public gatherings related to the IPL matches.</li>\n    <li>Prepare a communication strategy to address public concerns regarding the political situation.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the headlines. Therefore, no district requires immediate attention based on the provided data.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "27.9°C",
-      "humidity": "69%",
-      "wind": "4.8 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 66,
-      "pm25": 42,
-      "goldPerGram": "₹9,019",
-      "newsCount": 48,
-      "topHeadlines": [
-        "‘Telangana was in the top position during KCR’s tenure’ - metroindia.net",
-        "A clash of the titans in Telangana - The Hindu",
-        "New badminton body elected as Telangana eyes sports growth - Telangana Today",
-        "IPL 2026 Points Table Today: Sunrisers Hyderabad Beat Delhi Capitals To Break Into Top Three | Check Latest IPL Standings on April 21 - NewsX",
-        "KCR dignity contrast: Harish Rao targets Revanth Reddy - newsage.in"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-21T20:55:36.576Z",
-    "timestampIST": "22/4/2026, 2:25:36 am",
-    "executiveSummary": "<p>Political tensions are escalating in Telangana, with significant verbal exchanges between current CM Revanth Reddy and former CM KCR and his family, particularly regarding the Kaleshwaram project and alleged corruption. Union Minister Kishan Reddy and MoS Bandi Sanjay Kumar have made accusations against Revanth Reddy. The Sunrisers Hyderabad (SRH) beat Delhi Capitals (DC) in an IPL match on April 21st, and Pat Cummins was expected to miss the match.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions are escalating in Telangana, with significant verbal exchanges between current CM Revanth Reddy and former CM KCR and his family, particularly regarding the Kaleshwaram project and alleged corruption. Union Minister Kishan Reddy and MoS Bandi Sanjay Kumar have made accusations against Revanth Reddy. The Sunrisers Hyderabad (SRH) beat Delhi Capitals (DC) in an IPL match on April 21st, and Pat Cummins was expected to miss the match.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH:</span> Escalating political rhetoric between the ruling party and the opposition, potentially leading to public unrest or disruptions. (Headlines 5, 6, 8, 9, 11, 12, 15, 17, 19)</li>\n  <li><span class=\"risk-medium\">MEDIUM:</span> Accusations of corruption related to the Kaleshwaram project could lead to investigations or legal challenges, impacting government operations. (Headlines 6, 8, 15, 19)</li>\n  <li><span class=\"risk-low\">LOW:</span> Potential for public interest in the IPL 2026 match results and player availability, though unlikely to cause major disruptions. (Headlines 4, 10, 13, 18)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The ongoing political war of words (Headline 17) is directly related to accusations of corruption and the Kaleshwaram project (Headlines 6, 8, 15, 19).</li>\n  <li>The Sunrisers Hyderabad (SRH) victory (Headline 4) and player availability (Headlines 13, 18) are related to the IPL 2026 match predictions (Headline 10).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor public statements from key political figures for inflammatory language and potential incitement.</li>\n  <li>Assess the veracity of corruption allegations related to the Kaleshwaram project and prepare a response strategy.</li>\n  <li>Review security protocols for public gatherings and political events to mitigate potential unrest.</li>\n  <li>Prepare a public statement to address the political climate and reassure the public.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific districts are highlighted in the provided news headlines. Therefore, no immediate district-specific focus is recommended based on the data.</p>\n```",
-    "dataSnapshot": {
-      "temperature": "27.5°C",
-      "humidity": "68%",
-      "wind": "4 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 67,
-      "pm25": 40.5,
-      "goldPerGram": "₹9,019",
-      "newsCount": 47,
-      "topHeadlines": [
-        "‘Telangana was in the top position during KCR’s tenure’ - metroindia.net",
-        "A clash of the titans in Telangana - The Hindu",
-        "New badminton body elected as Telangana eyes sports growth - Telangana Today",
-        "IPL 2026 Points Table Today: Sunrisers Hyderabad Beat Delhi Capitals To Break Into Top Three | Check Latest IPL Standings on April 21 - NewsX",
-        "KCR dignity contrast: Harish Rao targets Revanth Reddy - newsage.in"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-21T22:39:31.691Z",
     "timestampIST": "22/4/2026, 4:09:31 am",
     "executiveSummary": "<p>Political tensions are escalating in Telangana, with significant verbal exchanges between current and former political figures. Accusations of corruption related to the Kaleshwaram project are being leveled against both sides. The Sunrisers Hyderabad won against the Delhi Capitals in IPL 2026, breaking into the top three.</p>",
@@ -5903,6 +5857,29 @@
       "topHeadlines": [
         "Bageerath Did Not Surrender, Was Arrested, Says Revanth - Deccan Chronicle",
         "CM Revanth Reddy on journalists housing policy - newsage.in",
+        "Police Arrested Bandi Sanjay’s Son, Says Telangana CM - Ommcom News",
+        "Shift from IT to skill-based jobs, Revanth tells youth - The Times of India",
+        "Rajiv Gandhi Led India Into Technology Era: Revanth Reddy - INDToday"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-21T21:28:00.291Z",
+    "timestampIST": "22/5/2026, 2:58:00 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy announced the arrest of Bageerath and Bandi Sanjay's son by the police. The Telangana government has increased minimum wages, potentially benefiting 1.11 crore workers, with revisions up to ₹20,000 per month. The CM is seeking a special session on the Women’s Reservation Bill.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy announced the arrest of Bageerath and Bandi Sanjay's son by the police. The Telangana government has increased minimum wages, potentially benefiting 1.11 crore workers, with revisions up to ₹20,000 per month. The CM is seeking a special session on the Women’s Reservation Bill.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> The arrest of Bandi Sanjay's son and the subsequent political reactions, including accusations of shielding and politicization, could lead to increased political tensions. (Headlines 3, 7, 8, 17)</li>\n  <li><span class=\"risk-medium\">Public Discontent:</span> Discrepancies between the CM's claims and AAI's clarification regarding the Begumpet airport underpass could erode public trust. (Headline 9)</li>\n  <li><span class=\"risk-low\">Labor Unrest:</span> While the wage hike is intended to benefit workers, potential issues may arise during implementation or if the revised wages are perceived as insufficient by some worker categories. (Headlines 6, 10, 15, 18, 20)</li>\n  <li><span class=\"risk-low\">Economic Impact:</span> The CM's claim that only 20% of paddy will be procured could impact farmers and the agricultural sector. (Headline 19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The arrest of Bageerath (Headlines 1, 12) and Bandi Sanjay's son (Headline 3) are both related to police actions and statements by the CM, indicating a focus on law enforcement and political messaging.</li>\n  <li>The Telangana government's minimum wage hike (Headlines 6, 10, 15, 18, 20) and the CM's promise of a universal housing policy for journalists (Headline 2) reflect the government's focus on social welfare and economic policies.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the political fallout from the arrest of Bandi Sanjay's son and Bageerath, and prepare a public statement to address the allegations of shielding and politicization.</li>\n  <li>Issue a clarification regarding the Begumpet airport underpass discrepancy to maintain public trust.</li>\n  <li>Monitor the implementation of the minimum wage hike and be prepared to address any potential labor unrest or disputes.</li>\n  <li>Assess the impact of the paddy procurement claim on farmers and the agricultural sector.</li>\n  <li>Prepare for the special session on the Women’s Reservation Bill.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>No specific districts are mentioned in the news headlines that require immediate attention. However, the implementation of the minimum wage hike should be monitored across all districts to ensure compliance and address any potential issues.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31.3°C",
+      "humidity": "48%",
+      "wind": "11.6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 69,
+      "pm25": 31.5,
+      "goldPerGram": "₹9,280",
+      "newsCount": 56,
+      "topHeadlines": [
+        "Bageerath Did Not Surrender, Was Arrested, Says Revanth - Deccan Chronicle",
+        "CM Revanth Reddy promises universal housing policy for journalists - newsage.in",
         "Police Arrested Bandi Sanjay’s Son, Says Telangana CM - Ommcom News",
         "Shift from IT to skill-based jobs, Revanth tells youth - The Times of India",
         "Rajiv Gandhi Led India Into Technology Era: Revanth Reddy - INDToday"
