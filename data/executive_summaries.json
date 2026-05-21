@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21T13:46:20.568Z",
-    "timestampIST": "21/4/2026, 7:16:20 pm",
-    "executiveSummary": "<p>Political tensions are escalating in Telangana, with significant verbal exchanges between Revanth Reddy, KCR, and other political figures regarding the Kaleshwaram project and other matters.  IPL match between Sunrisers Hyderabad and Delhi Capitals is scheduled today, with potential rain. A fatal accident occurred in Hyderabad.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions are escalating in Telangana, with significant verbal exchanges between Revanth Reddy, KCR, and other political figures regarding the Kaleshwaram project and other matters.  IPL match between Sunrisers Hyderabad and Delhi Capitals is scheduled today, with potential rain. A fatal accident occurred in Hyderabad.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Escalation of Political Rhetoric:</span> The war of words between Revanth Reddy and KCR, as well as criticism from other parties, could lead to increased political instability. (Headlines 1, 3, 6, 9, 13, 17, 18, 19)</li>\n    <li><span class=\"risk-low\">Public Disruption:</span>  The weather forecast indicates rain showers in Hyderabad, potentially impacting the IPL match. (Headline 12)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A fatal accident occurred in Hyderabad. (Headline 15)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Political discourse surrounding the Kaleshwaram project (Headlines 1, 4, 9, 13) is a recurring theme, indicating its continued importance in the political landscape.</li>\n    <li>The upcoming IPL match between Sunrisers Hyderabad and Delhi Capitals (Headlines 2, 8, 10, 12, 16) is a focus of attention, with weather and player availability being key factors.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political situation closely, especially the exchanges between Revanth Reddy and KCR, for any signs of escalation.</li>\n    <li>Ensure adequate security and traffic management for the IPL match in Hyderabad, considering the potential for rain.</li>\n    <li>Review and enhance public safety measures in Hyderabad, following the recent fatal accident.</li>\n    <li>Assess the impact of the ongoing political debate on public sentiment and government programs.</li>\n    <li>Monitor the progress of paddy procurement and ensure smooth operations. (Headline 20)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the ongoing political activity and the scheduled IPL match, Hyderabad requires heightened monitoring and security measures. (Headlines 2, 8, 10, 12, 15, 16)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.3°C",
-      "humidity": "49%",
-      "wind": "1.5 km/h",
-      "weatherDesc": "Rain Showers",
-      "aqi": 67,
-      "pm25": 40.6,
-      "goldPerGram": "₹8,977",
-      "newsCount": 56,
-      "topHeadlines": [
-        "Harish Rao slams Revanth Reddy over Kaleshwaram remarks - Telangana Today",
-        "IPL 2026: Match 31, SRH vs DC Match Prediction – Who will win today’s IPL match between Sunrisers Hyderabad vs Delhi Capitals? - CricTracker",
-        "Kavitha Slams Revanth Reddy in Telangana Politics - INDToday",
-        "Union Minister faults Telangana CM’s ‘dual views’ on Kaleshwaram corruption - The Siasat Daily",
-        "AIADMK expands manifesto with 10 new welfare promises - Telangana Today"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-21T15:15:43.651Z",
-    "timestampIST": "21/4/2026, 8:45:43 pm",
-    "executiveSummary": "<p>Political tensions remain high in Telangana, with significant criticism directed at Chief Minister Revanth Reddy from multiple sources, including Jeevan Reddy, Harish Rao, and Kavitha (Headlines 1, 2, 4).  Discussions regarding the Kaleshwaram project and alleged corruption are central to the political discourse (Headlines 1, 2, 6, 9, 11, 15).  An IPL match between Sunrisers Hyderabad and Delhi Capitals is scheduled today, with potential rain in Hyderabad (Headlines 3, 14).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions remain high in Telangana, with significant criticism directed at Chief Minister Revanth Reddy from multiple sources, including Jeevan Reddy, Harish Rao, and Kavitha (Headlines 1, 2, 4).  Discussions regarding the Kaleshwaram project and alleged corruption are central to the political discourse (Headlines 1, 2, 6, 9, 11, 15).  An IPL match between Sunrisers Hyderabad and Delhi Capitals is scheduled today, with potential rain in Hyderabad (Headlines 3, 14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Escalation of political rhetoric and potential for public unrest due to the ongoing war of words between CM Revanth Reddy and various political figures regarding the Kaleshwaram project and corruption allegations (Headlines 1, 2, 4, 6, 8, 9, 11, 15).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Public sentiment may be affected by the criticism of CM Revanth Reddy's comments and actions (Headlines 1, 2, 4, 5, 9, 11, 15, 19, 20).</li>\n    <li><span class=\"risk-low\">LOW:</span> Potential for disruption related to the IPL match between Sunrisers Hyderabad and Delhi Capitals due to weather conditions (Headlines 3, 14).</li>\n    <li><span class=\"risk-low\">LOW:</span> Public concern regarding a fatal accident in Hyderabad (Headline 17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Criticism of CM Revanth Reddy regarding the Kaleshwaram project is a recurring theme, with multiple political figures (Harish Rao, Bandi Sanjay Kumar, Union Minister) raising concerns (Headlines 2, 6, 9, 15).</li>\n    <li>The upcoming IPL match between Sunrisers Hyderabad and Delhi Capitals is generating interest, with injury updates and weather forecasts being reported (Headlines 3, 10, 12, 14, 18).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public statements from key political figures, including Jeevan Reddy, Harish Rao, Kavitha, and Bandi Sanjay Kumar, for potential escalation of political tensions (Headlines 1, 2, 4, 9, 15).</li>\n    <li>Assess the potential for public demonstrations or protests related to the Kaleshwaram project allegations (Headlines 1, 2, 6, 8, 9, 11, 15).</li>\n    <li>Ensure adequate security and traffic management for the IPL match in Hyderabad, considering the weather forecast (Headlines 3, 14).</li>\n    <li>Prepare a public statement addressing the criticisms leveled against the Chief Minister. (Headlines 1, 2, 4, 5, 9, 11, 15, 19, 20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the IPL match and the accident reported in the city (Headlines 14, 17, 18).</li>\n    <li><b>All Districts:</b> Monitor political activity and public sentiment regarding the Kaleshwaram project, as the issue has statewide implications (Headlines 1, 2, 6, 8, 9, 11, 15).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29.7°C",
-      "humidity": "55%",
-      "wind": "6.6 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 65,
-      "pm25": 46,
-      "goldPerGram": "₹9,019",
-      "newsCount": 54,
-      "topHeadlines": [
-        "Jeevan Reddy flays CM Revanth for his comments against KCR - Telangana Today",
-        "Harish Rao slams Revanth Reddy over Kaleshwaram remarks - Telangana Today",
-        "IPL 2026: Match 31, SRH vs DC Match Prediction – Who will win today’s IPL match between Sunrisers Hyderabad vs Delhi Capitals? - CricTracker",
-        "Kavitha Slams Revanth Reddy in Telangana Politics - INDToday",
-        "Naidu Breaks The Silence On Revanth’s ‘GDP’ Proposal - Gulte"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-21T17:05:20.611Z",
     "timestampIST": "21/4/2026, 10:35:20 pm",
     "executiveSummary": "<p>Political tensions are escalating in Telangana, with multiple leaders criticizing CM Revanth Reddy regarding comments on the Kaleshwaram project.  Union Minister Kishan Reddy announced a new coal sales mechanism.  The SRH vs DC IPL match in Hyderabad is facing potential rain and player injury concerns.</p>",
@@ -5929,6 +5883,29 @@
         "Revanth Reddy announces Telangana minimum wages hike for 1.11cr workers - NewsBytes",
         "Vijay expands Cabinet, inducts 23 new ministers - Telangana Today",
         "Why KCR has not responded to POCSO case against Union Minister''s son: Revanth Reddy - Devdiscourse"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-21T15:32:23.959Z",
+    "timestampIST": "21/5/2026, 9:02:23 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy addressed the youth, emphasizing a shift towards skill-based jobs (1). The government has increased minimum wages, benefiting workers (3, 7, 13, 16, 18, 20). The CM addressed the POCSO case involving Bandi Sanjay's son, clarifying the arrest and criticizing the politicization of the issue (4, 8, 10, 15).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy addressed the youth, emphasizing a shift towards skill-based jobs (1). The government has increased minimum wages, benefiting workers (3, 7, 13, 16, 18, 20). The CM addressed the POCSO case involving Bandi Sanjay's son, clarifying the arrest and criticizing the politicization of the issue (4, 8, 10, 15).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Ongoing controversy surrounding the POCSO case involving Bandi Sanjay's son and the CM's response could lead to increased political tensions and public scrutiny (4, 5, 8, 10, 15).</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Potential for worker dissatisfaction if the minimum wage hike implementation faces delays or complications (3, 7, 13, 16, 18, 20).</li>\n    <li><span class=\"risk-low\">Infrastructure Hazard:</span> A container truck fire in Medak resulted in the destruction of 10 Maruti cars (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Minimum wage increases are a recurring theme across multiple news sources, indicating a significant government initiative (3, 7, 13, 16, 18, 20).</li>\n    <li>The POCSO case and related statements by CM Revanth Reddy are covered by multiple news outlets, highlighting the political sensitivity of the issue (4, 5, 8, 10, 15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment regarding the minimum wage hike and its implementation.</li>\n    <li>Prepare a public statement clarifying the government's stance on the POCSO case and address any misinformation.</li>\n    <li>Assess the impact of the container truck fire in Medak and ensure appropriate safety measures are in place.</li>\n    <li>Prepare for a special session on the Women’s Reservation Bill (12).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Medak:</b> Focus on assessing the damage and providing support following the container truck fire (19).</li>\n</ul>\n```\n",
+    "dataSnapshot": {
+      "temperature": "36.5°C",
+      "humidity": "27%",
+      "wind": "6.5 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 67,
+      "pm25": 53.2,
+      "goldPerGram": "₹9,280",
+      "newsCount": 62,
+      "topHeadlines": [
+        "Shift from IT to skill-based jobs, Revanth tells youth - The Times of India",
+        "Rajiv Gandhi Led India Into Technology Era: Revanth Reddy - INDToday",
+        "Telangana Govt Hikes Minimum Wages, To Benefit 1.11 Crore Workers - ETV Bharat",
+        "CM Revanth rejects Bandi Sanjay’s ‘surrender’ claim in son’s POCSO case, slams BRS for 'politicising issue' - The South First",
+        "Praveen Kumar questions Revanth Reddy’s bid to shield Bandi Sanjay and his son in POCSO case - Telangana Today"
       ]
     }
   }
