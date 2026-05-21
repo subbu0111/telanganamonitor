@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21T06:03:56.928Z",
-    "timestampIST": "21/4/2026, 11:33:56 am",
-    "executiveSummary": "<p>Political tensions are escalating, with KCR and Revanth Reddy exchanging accusations regarding the Kaleshwaram project and future governance. KCR vowed to scrap Hydraa if BRS returns to power (2). Revanth Reddy launched temple and bus station works related to Kaleshwaram (19). The CM stated the Congress will remain in power till 2034 (15).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions are escalating, with KCR and Revanth Reddy exchanging accusations regarding the Kaleshwaram project and future governance. KCR vowed to scrap Hydraa if BRS returns to power (2). Revanth Reddy launched temple and bus station works related to Kaleshwaram (19). The CM stated the Congress will remain in power till 2034 (15).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Ongoing verbal attacks between KCR and Revanth Reddy regarding the Kaleshwaram project and future governance could escalate tensions (1, 2, 5, 7, 9, 10, 13, 15, 18, 20).</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Accusations of corruption related to the Kaleshwaram project (1, 9, 13) could lead to public dissatisfaction.</li>\n    <li><span class=\"risk-low\">Potential for Disruptions:</span> The BRS chief's vow to scrap Hydraa if they return to power could lead to potential disruptions (2).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Kaleshwaram project is a central point of contention, with both Revanth Reddy and KCR making statements about it (1, 9, 12, 13, 19).</li>\n    <li>Political rivalry is evident in the back-and-forth between Revanth Reddy and KCR, with Jeevan Reddy also involved (5, 7, 10, 15, 18, 20).</li>\n    <li>The upcoming IPL match in Hyderabad (4, 8, 16) provides a potential focus for security planning.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment regarding the Kaleshwaram project and address any emerging concerns.</li>\n    <li>Assess the potential for public demonstrations or protests related to the political rhetoric.</li>\n    <li>Review security protocols for the upcoming IPL match in Hyderabad.</li>\n    <li>Prepare a response strategy to address the accusations and counter-accusations between political parties.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Jagtial:</b> Due to KCR's recent speech and Jeevan Reddy's entry (20).</li>\n    <li><b>Hyderabad:</b> Due to the IPL match and the meeting between Revanth Reddy and the Norway Envoy (4, 8, 16, 17).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "34.4°C",
-      "humidity": "42%",
-      "wind": "7.6 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 67,
-      "pm25": 25.1,
-      "goldPerGram": "₹8,977",
-      "newsCount": 53,
-      "topHeadlines": [
-        "‘No sin if hanged’: Revanth Reddy accuses KCR of Rs 1 lakh crore Kaleshwaram scam - The South First",
-        "We’ll scrap Hydraa if we return to power: BRS chief KCR - News9live",
-        "Central Bank of India Gets New Hyderabad Zonal Head - INDToday",
-        "IPL Match Today, SRH vs DC: Predicted playing XI, head-to-head, pitch report, Hyderabad weather update - The Times of India",
-        "KCR names Jeevan Reddy BRS general secretary; slams Congress, vows return to power - The South First"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-21T09:42:24.217Z",
     "timestampIST": "21/4/2026, 3:12:24 pm",
     "executiveSummary": "<p>Political tensions remain high, with CM Revanth Reddy and KCR exchanging strong accusations regarding the Kaleshwaram project and the future of the state (6, 8, 9, 10, 15, 17). Adani Power is expanding into the nuclear sector in Telangana (1). The government has credited ₹22,000 Cr to 25.35L farmers' accounts under a loan waiver scheme (19).</p>",
@@ -5952,6 +5929,29 @@
         "Rising accidents involving children prompt Telangana to roll out India’s first Child Road Safety Plan - NewsMeter",
         "Telangana weather today: IMD issues severe heatwave alert for 14 districts, Hyderabad temperature to touch - The Economic Times",
         "Centre will fund 50% of metro expansion cost, says Kishan - The Hans India"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-21T07:57:15.636Z",
+    "timestampIST": "21/5/2026, 1:27:15 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is planning a Telangana Data City and will launch the second phase of Indiramma Houses in Asifabad on June 2 (12). The state is expanding its GCC policy beyond Hyderabad (1, 14). The IMD has issued a severe heatwave alert for 14 districts, with Hyderabad temperatures expected to rise (19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is planning a Telangana Data City and will launch the second phase of Indiramma Houses in Asifabad on June 2 (12). The state is expanding its GCC policy beyond Hyderabad (1, 14). The IMD has issued a severe heatwave alert for 14 districts, with Hyderabad temperatures expected to rise (19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Health:</span> Severe heatwave conditions are predicted for 14 districts, potentially impacting public health (19).</li>\n    <li><span class=\"risk-medium\">Road Safety:</span> Rising accidents involving children have prompted the rollout of a Child Road Safety Plan (4, 18).</li>\n    <li><span class=\"risk-medium\">Law and Order:</span> CM Revanth Reddy has warned police against neglecting law and order (13).</li>\n    <li><span class=\"risk-low\">Infrastructure:</span> Potential delays or cost overruns related to Hyderabad Metro Phase 2, pending finalization of funding details (9, 11, 17, 20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The expansion of the GCC policy beyond Hyderabad (1, 14) aligns with the CM's plans for a Telangana Data City (8), suggesting a focus on economic growth corridors.</li>\n    <li>The introduction of a special law against food adulteration (7) may be linked to rising cancer cases, indicating a public health concern.</li>\n    <li>The Child Road Safety Plan (4, 18) is a direct response to rising accidents involving children.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Issue immediate directives to district administrations in the 14 districts under severe heatwave alert to implement public health measures (19).</li>\n    <li>Prioritize the rollout of the Child Road Safety Plan, ensuring adequate resources and enforcement (4, 18).</li>\n    <li>Review and strengthen law enforcement protocols, as per the CM's warning (13).</li>\n    <li>Expedite the planning and execution of the Telangana Data City project (8).</li>\n    <li>Coordinate with the Centre regarding the funding and implementation of Hyderabad Metro Phase 2 (9, 11, 17, 20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>The 14 districts under severe heatwave alert require immediate attention to mitigate public health risks (19). Asifabad requires attention due to the upcoming launch of the second phase of Indiramma Houses on June 2 (12).</p>\n```",
+    "dataSnapshot": {
+      "temperature": "39.7°C",
+      "humidity": "22%",
+      "wind": "8.5 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 66,
+      "pm25": 25.4,
+      "goldPerGram": "₹9,339",
+      "newsCount": 50,
+      "topHeadlines": [
+        "Telangana expands GCC policy beyond Hyderabad - newsage.in",
+        "Hyderabad: Revanth Reddy Pays Tribute to Rajiv Gandhi #Gallery - Social News XYZ",
+        "Telangana reviews police system reforms - newsage.in",
+        "Telangana begins road safety action plan for children - newsage.in",
+        "Jhansi Rajender Reddy extends birthday greetings to Rohin Reddy - The Hans India"
       ]
     }
   }
