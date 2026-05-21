@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21T17:05:20.611Z",
-    "timestampIST": "21/4/2026, 10:35:20 pm",
-    "executiveSummary": "<p>Political tensions are escalating in Telangana, with multiple leaders criticizing CM Revanth Reddy regarding comments on the Kaleshwaram project.  Union Minister Kishan Reddy announced a new coal sales mechanism.  The SRH vs DC IPL match in Hyderabad is facing potential rain and player injury concerns.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions are escalating in Telangana, with multiple leaders criticizing CM Revanth Reddy regarding comments on the Kaleshwaram project.  Union Minister Kishan Reddy announced a new coal sales mechanism.  The SRH vs DC IPL match in Hyderabad is facing potential rain and player injury concerns.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Ongoing war of words between Revanth Reddy and other political figures regarding the Kaleshwaram project and related corruption allegations could escalate tensions. (Headlines 2, 3, 5, 6, 8, 10, 11, 13, 17)</li>\n    <li><span class=\"risk-low\">Public Safety:</span>  A fatal accident occurred in Hyderabad. (Headline 20)</li>\n    <li><span class=\"risk-low\">Disruption:</span> Potential for rain in Hyderabad ahead of the SRH vs DC IPL match could disrupt the event. (Headline 16)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Kaleshwaram project is a central point of contention, with multiple political figures (Bandi Sanjay, Jeevan Reddy, Harish Rao, Kavitha) criticizing CM Revanth Reddy's remarks. (Headlines 2, 3, 5, 6, 8, 11, 13, 17)</li>\n    <li>The upcoming SRH vs DC IPL match in Hyderabad is facing potential disruptions due to weather and player injuries. (Headlines 12, 14, 16, 19)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric surrounding the Kaleshwaram project for any signs of escalation or potential public unrest.</li>\n    <li>Assess the impact of the new coal sales mechanism announced by Union Minister Kishan Reddy.</li>\n    <li>Coordinate with relevant authorities to ensure public safety and traffic management in Hyderabad, especially in light of the accident and the upcoming IPL match.</li>\n    <li>Monitor weather reports and coordinate with stadium authorities regarding potential rain disruptions for the SRH vs DC match.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b>  Focus on public safety and traffic management due to the recent accident (Headline 20) and the upcoming IPL match (Headlines 4, 12, 14, 16, 19).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29.1°C",
-      "humidity": "68%",
-      "wind": "2.2 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 66,
-      "pm25": 47.5,
-      "goldPerGram": "₹9,019",
-      "newsCount": 51,
-      "topHeadlines": [
-        "Union Minister Kishan Reddy announces new coal sales mechanism - Telangana Today",
-        "Bandi Sanjay accuses Revanth Reddy of trying to shield tainted BRS leaders in ‘Kaleshwaram project scam’ - The Hindu",
-        "Jeevan Reddy flays CM Revanth for his comments against KCR - Telangana Today",
-        "IPL 2026: Match 31, SRH vs DC Match Prediction – Who will win today’s IPL match between Sunrisers Hyderabad vs Delhi Capitals? - CricTracker",
-        "Harish Rao slams Revanth Reddy over Kaleshwaram remarks - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-21T19:16:03.452Z",
     "timestampIST": "22/4/2026, 12:46:03 am",
     "executiveSummary": "<p>Political tensions are escalating in Telangana, with strong criticism exchanged between Revanth Reddy and various figures, including KCR, Harish Rao, and Kavitha (Headlines 5, 8, 10, 11, 16). Accusations of corruption related to the Kaleshwaram project are being leveled against both sides (Headlines 7, 10, 14, 17, 19). The Sunrisers Hyderabad beat Delhi Capitals in an IPL match (Headline 4).</p>",
@@ -5906,6 +5883,29 @@
         "Telangana Govt Hikes Minimum Wages, To Benefit 1.11 Crore Workers - ETV Bharat",
         "CM Revanth rejects Bandi Sanjay’s ‘surrender’ claim in son’s POCSO case, slams BRS for 'politicising issue' - The South First",
         "Praveen Kumar questions Revanth Reddy’s bid to shield Bandi Sanjay and his son in POCSO case - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-21T18:00:59.589Z",
+    "timestampIST": "21/5/2026, 11:30:59 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy stated that Bageerath was arrested, contradicting claims of surrender (1, 3, 7, 11, 13). The CM also addressed the arrest of Bandi Sanjay’s son in a POCSO case, accusing the BRS of politicizing the issue (3, 7, 8, 18). The Telangana government has increased minimum wages, benefiting 1.11 crore workers, and is seeking a special session on the Women's Reservation Bill (6, 10, 15, 16, 19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy stated that Bageerath was arrested, contradicting claims of surrender (1, 3, 7, 11, 13). The CM also addressed the arrest of Bandi Sanjay’s son in a POCSO case, accusing the BRS of politicizing the issue (3, 7, 8, 18). The Telangana government has increased minimum wages, benefiting 1.11 crore workers, and is seeking a special session on the Women's Reservation Bill (6, 10, 15, 16, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> The arrest of Bandi Sanjay's son and the subsequent political fallout, with accusations of politicization and attempts to shield individuals (3, 7, 8, 18).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Discrepancies and contradictions in statements regarding the arrest of Bageerath, potentially leading to public distrust and legal challenges (1, 7, 9, 11, 13).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Potential for unrest or protests related to the POCSO case and the government's handling of it (3, 7, 8, 18).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The arrest of Bandi Sanjay's son (3) and the CM's response (7, 8, 18) are directly linked, highlighting a potential political controversy.</li>\n    <li>Multiple news sources (1, 7, 11, 13) report on the arrest of Bageerath, contradicting initial claims of surrender, indicating a potential information management issue.</li>\n    <li>The Telangana government's wage hike (6, 10, 16, 19) could be linked to potential labor unrest or satisfaction levels.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>The Chief Minister's Office should prepare a detailed statement clarifying the circumstances surrounding Bageerath's arrest to address conflicting reports (1, 7, 11, 13).</li>\n    <li>The Police Department should ensure transparency and due process in the POCSO case involving Bandi Sanjay's son to mitigate political fallout (3, 7, 8, 18).</li>\n    <li>The government should proactively communicate the benefits of the minimum wage increase to the public to manage expectations and address potential concerns (6, 10, 16, 19).</li>\n    <li>Monitor social media and news outlets for reactions to the POCSO case and the government's response (3, 7, 8, 18).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific districts are mentioned in the headlines. Therefore, no district focus can be determined from the provided data.</p>\n```",
+    "dataSnapshot": {
+      "temperature": "32.3°C",
+      "humidity": "45%",
+      "wind": "10.6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 69,
+      "pm25": 45.9,
+      "goldPerGram": "₹9,280",
+      "newsCount": 63,
+      "topHeadlines": [
+        "Bageerath Did Not Surrender, Was Arrested, Says Revanth - Deccan Chronicle",
+        "CM Revanth Reddy on journalists housing policy - newsage.in",
+        "Police Arrested Bandi Sanjay’s Son, Says Telangana CM - Ommcom News",
+        "Shift from IT to skill-based jobs, Revanth tells youth - The Times of India",
+        "Rajiv Gandhi Led India Into Technology Era: Revanth Reddy - INDToday"
       ]
     }
   }
