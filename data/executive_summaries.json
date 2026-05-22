@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T19:17:15.020Z",
-    "timestampIST": "23/4/2026, 12:47:15 am",
-    "executiveSummary": "<p>The Telangana government has launched a ₹98,000 crore road mission. The High Court found flaws in the PC Ghose inquiry report regarding the Kaleshwaram Project, leading to celebrations by BRS workers and the government considering next steps. A large-scale disruption in bus services is underway due to an indefinite strike by TGSRTC employees.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government has launched a ₹98,000 crore road mission. The High Court found flaws in the PC Ghose inquiry report regarding the Kaleshwaram Project, leading to celebrations by BRS workers and the government considering next steps. A large-scale disruption in bus services is underway due to an indefinite strike by TGSRTC employees.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Disruption of Public Transportation:</span> An indefinite strike by TGSRTC employees is causing large-scale disruption in bus services. (19)</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> Several injuries reported as a TGSRTC bus hit a median in Karimnagar. (20)</li>\n    <li><span class=\"risk-medium\">Political Fallout:</span> The High Court's findings on the Kaleshwaram Project inquiry report are generating political reactions and could lead to further scrutiny. (2, 3, 11, 13, 14, 15, 16)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The High Court's findings on the Kaleshwaram Project (2, 3, 11, 13, 14, 15, 16) are directly related to the government's consideration of next steps (16).</li>\n    <li>The launch of the ₹98,000 crore road mission (1, 10) aims to boost growth and jobs (1).</li>\n    <li>CM Revanth Reddy is fast-tracking investment projects and ordering quick land allotment (4, 5), indicating a focus on economic development.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the ongoing TGSRTC strike and assess its impact on essential services and public order. (19)</li>\n    <li>Direct the Transport Department to ensure public safety and investigate the Karimnagar bus accident. (20)</li>\n    <li>Assess the potential political ramifications of the High Court's findings on the Kaleshwaram Project and prepare a communication strategy. (2, 3, 11, 13, 14, 15, 16)</li>\n    <li>Review and expedite the land allotment process for investors as ordered by the CM. (4, 5)</li>\n    <li>Monitor weather forecasts and prepare for potential disruptions due to the thunderstorm forecast in 17 districts. (12)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Karimnagar:</b> Immediate attention is needed due to the TGSRTC bus accident. (20)</li>\n    <li><b>17 Districts (unspecified):</b> Monitor for potential disruptions due to the thunderstorm forecast. (12)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "27.5°C",
-      "humidity": "63%",
-      "wind": "3.1 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 75,
-      "pm25": 41.2,
-      "goldPerGram": "₹9,047",
-      "newsCount": 38,
-      "topHeadlines": [
-        "Telangana Launches ₹98,000 Crore Mega Road Mission to Boost Growth and Jobs - Hyderabad Mail",
-        "Telangana High Court finds flaws in PC Ghose inquiry report - The News Mill",
-        "Telangana HC's verdict exposes gaps in PC Ghose commission's probe in Kaleshwaram Project: BRS' Ravula Reddy - ANI News",
-        "Revanth Reddy orders fast-track land allotment for investors - Telangana Today",
-        "CM Revanth Reddy Fast-Tracks Investment Projects; Orders Quick Land Allotment For Global Firms - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-22T20:57:48.260Z",
     "timestampIST": "23/4/2026, 2:27:48 am",
     "executiveSummary": "<p>The Telangana government launched a ₹98,000 crore road mission to boost growth and jobs (1, 10). The High Court found flaws in the PC Ghose inquiry report related to the Kaleshwaram Project (2, 3), leading to celebrations by BRS workers and the government considering next steps (15, 16). A large-scale disruption in bus services is underway due to an indefinite strike by TGSRTC employees (19).</p>",
@@ -5837,6 +5814,29 @@
         "Internal rift in Telangana Congress over TPCC chief comes out in the open - Telangana Today",
         "NIMS Completes 2,000 Kidney Transplants, CM Revanth Congratulates Medical Team - INDToday",
         "Telangana CM congratulates NIMS doctors for 2,000 kidney transplants milestone - The News Mill"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-22T19:49:26.615Z",
+    "timestampIST": "23/5/2026, 1:19:26 am",
+    "executiveSummary": "<p>The Telangana Cabinet is scheduled to meet today, with a focus on welfare schemes (2). KTR has launched strong criticisms against CM Revanth Reddy regarding paddy procurement, land deals, and the delay in the POCSO case (15, 18, 20). NIMS completed 2,000 kidney transplants, and CM Revanth Reddy congratulated the medical team (6, 7, 8).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana Cabinet is scheduled to meet today, with a focus on welfare schemes (2). KTR has launched strong criticisms against CM Revanth Reddy regarding paddy procurement, land deals, and the delay in the POCSO case (15, 18, 20). NIMS completed 2,000 kidney transplants, and CM Revanth Reddy congratulated the medical team (6, 7, 8).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH:</span> KTR's accusations against CM Revanth Reddy regarding the POCSO case and demands for Bandi Sanjay's resignation (10, 13, 18).</li>\n  <li><span class=\"risk-medium\">MEDIUM:</span> Opposition parties are criticizing the government over delays in crop procurement (14, 15, 20).</li>\n  <li><span class=\"risk-medium\">MEDIUM:</span> Internal rift within the Telangana Congress over the TPCC chief (5).</li>\n  <li><span class=\"risk-low\">LOW:</span> BRS leaders defending Harish Rao's remarks on the Future City project (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>KTR is targeting Revanth Reddy on multiple fronts, including the POCSO case and paddy procurement (10, 15, 18, 20).</li>\n  <li>Criticism of the Revanth Reddy government is coming from both opposition parties and KTR (14, 15, 18, 20).</li>\n  <li>The government faces questions regarding paddy procurement claims, which is also a point of criticism from KTR (4, 15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Prepare a response to KTR's allegations regarding the POCSO case and crop procurement delays.</li>\n  <li>Assess the potential impact of the internal rift within the Congress party.</li>\n  <li>Monitor public sentiment regarding the government's handling of the POCSO case and crop procurement.</li>\n  <li>Prepare for potential scrutiny of the government's welfare schemes during the Cabinet meeting.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>Nizamabad: Focus on the Praja Palana Pragathi Pranalika Meeting (3).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.3°C",
+      "humidity": "56%",
+      "wind": "13.9 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 58,
+      "pm25": 25.9,
+      "goldPerGram": "₹9,230",
+      "newsCount": 31,
+      "topHeadlines": [
+        "Opinion: India’s diplomacy needs a new strategic playbook - Telangana Today",
+        "Telangana Cabinet meet today, focus on welfare schemes - The Times of India",
+        "Telangana Govt Conducts Grand Praja Palana Pragathi Pranalika Meeting In Nizamabad - INDToday",
+        "Telangana govt faces questions over contradictory paddy procurement claims - Telangana Today",
+        "Internal rift in Telangana Congress over TPCC chief comes out in the open - Telangana Today"
       ]
     }
   }
