@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T02:45:18.527Z",
-    "timestampIST": "22/4/2026, 8:15:18 am",
-    "executiveSummary": "<p>Political tensions are escalating, with multiple leaders criticizing CM Revanth Reddy and the current administration. Telangana RTC bus services are scheduled to be impacted by a strike starting midnight of April 22 (Headline 13). The CM met with the Governor to discuss narcotics control in schools (Headline 14).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions are escalating, with multiple leaders criticizing CM Revanth Reddy and the current administration. Telangana RTC bus services are scheduled to be impacted by a strike starting midnight of April 22 (Headline 13). The CM met with the Governor to discuss narcotics control in schools (Headline 14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Telangana RTC bus services are set to be disrupted due to a strike starting midnight of April 22 (Headline 13).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Continued political infighting and accusations between various political figures (Revanth Reddy, KCR, Bandi Sanjay, Harish Rao, Kavitha) could lead to public unrest or instability (Headlines 1, 2, 3, 5, 7, 12, 16, 17, 19, 20).</li>\n    <li><span class=\"risk-low\">LOW:</span> The CM is discussing narcotics control in schools with the Governor (Headline 14).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Political criticism of Revanth Reddy is coming from multiple sources, including Harish Rao (Headline 2, 12, 19), Bandi Sanjay (Headline 3, 7, 16), and Kavitha (Headline 20).</li>\n    <li>The upcoming RTC bus strike (Headline 13) could be exacerbated by the ongoing political tensions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the impact of the RTC bus strike and prepare contingency plans for essential services.</li>\n    <li>Assess the potential for public order disturbances related to the ongoing political clashes.</li>\n    <li>Monitor social media and news outlets for any escalation of political rhetoric or calls for protests.</li>\n    <li>Ensure effective communication strategies to address public concerns regarding the political situation and the bus strike.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>All districts: Monitor for potential disruptions related to the RTC bus strike (Headline 13).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29.6°C",
-      "humidity": "53%",
-      "wind": "5.4 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 73,
-      "pm25": 54.2,
-      "goldPerGram": "₹9,019",
-      "newsCount": 45,
-      "topHeadlines": [
-        "Revanth, KCR on edge over BJP’s rise in state, says NRR - The Hans India",
-        "Revanth spreading bundle of lies on Kaleshwaram: Harish - The Hans India",
-        "Bandi terms Revanth Rahu… KCR Ketu; says both ‘killing people of Telangana’ - The Hans India",
-        "The Revanth Reddy regime: A tale of partial delivery and mounting challenges - The South First",
-        "Arvind likens KCR, Revanth to two sides of the same coin - The Hans India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-22T06:01:35.366Z",
     "timestampIST": "22/4/2026, 11:31:35 am",
     "executiveSummary": "<p>A Telangana RTC strike has begun today, impacting over 5 lakh commuters as 6,000 buses are off the roads due to failed talks on 32 demands. (3, 5) The strike began from midnight of April 22. (20) Political tensions are high, with accusations and counter-accusations between Revanth Reddy, KCR, and other political figures. (2, 6, 7, 8, 9, 10, 12, 14, 19)</p>",
@@ -5883,6 +5860,29 @@
         "CM Revanth Reddy promises universal housing policy for journalists - newsage.in",
         "Shift from IT to skill-based jobs, Revanth tells youth - The Times of India",
         "Rajiv Gandhi Led India Into Technology Era: Revanth Reddy - INDToday"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-22T03:52:14.870Z",
+    "timestampIST": "22/5/2026, 9:22:14 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has called for a special Parliament session on the women’s quota (2, 15). The CM addressed the arrest of Bageerath (3, 13) and the POCSO case involving Bandi Sanjay's son (8, 9, 18). The Telangana government has hiked minimum wages, benefiting 1.11 crore workers, with revisions up to ₹20,000 per month (7, 11, 16, 19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has called for a special Parliament session on the women’s quota (2, 15). The CM addressed the arrest of Bageerath (3, 13) and the POCSO case involving Bandi Sanjay's son (8, 9, 18). The Telangana government has hiked minimum wages, benefiting 1.11 crore workers, with revisions up to ₹20,000 per month (7, 11, 16, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Disagreements and accusations surrounding the POCSO case involving Bandi Sanjay's son and the response from KCR and BRS (8, 9, 18).</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Potential for public reaction to the claim that only 20% of paddy will be procured (20).</li>\n    <li><span class=\"risk-low\">Airport Controversy:</span> Contradiction between Revanth Reddy's claims and AAI clarification regarding the Begumpet airport underpass (10).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's statements on the POCSO case (8, 9, 18) are directly related to the political opposition and potential for public scrutiny.</li>\n    <li>The minimum wage hike (7, 11, 16, 19) is a significant policy change that could impact the state's workforce and economy.</li>\n    <li>Revanth Reddy's focus on skill-based jobs (5) aligns with the government's economic policies and the minimum wage adjustments.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prepare a detailed response to the allegations and counter-allegations surrounding the POCSO case, including legal and public relations strategies.</li>\n    <li>Issue a clarification on the paddy procurement policy to address public concerns and potential misinformation.</li>\n    <li>Review and clarify the government's stance on the Begumpet airport underpass issue to avoid further confusion.</li>\n    <li>Prepare a communication strategy to highlight the benefits of the minimum wage hike and the government's focus on skill-based jobs.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the headlines that require immediate attention.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "33.7°C",
+      "humidity": "47%",
+      "wind": "17 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 62,
+      "pm25": 12.8,
+      "goldPerGram": "₹9,280",
+      "newsCount": 44,
+      "topHeadlines": [
+        "Telangana, Andhra Pradesh weather today: Hyderabad hits season’s highest temperature, Vizag and Kurnool to - The Economic Times",
+        "Telangana CM Revanth Reddy calls for special Parliament session on women’s quota - The News Mill",
+        "Bageerath Did Not Surrender, Was Arrested, Says Revanth - Deccan Chronicle",
+        "CM Revanth Reddy promises universal housing policy for journalists - newsage.in",
+        "Shift from IT to skill-based jobs, Revanth tells youth - The Times of India"
       ]
     }
   }
