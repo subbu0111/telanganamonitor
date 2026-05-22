@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T11:07:47.694Z",
-    "timestampIST": "22/4/2026, 4:37:47 pm",
-    "executiveSummary": "<p>A Telangana RTC strike involving over 38,000 workers and 6,000 buses is underway today after talks failed, impacting over 5 lakh commuters. (10, 12) The High Court has issued a stay on the Kaleshwaram report, prompting the Telangana government to consider next steps. (2) Political tensions remain high, with ongoing exchanges between Revanth Reddy, KCR, and other political figures. (1, 9, 13, 14, 15, 16, 17, 19)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A Telangana RTC strike involving over 38,000 workers and 6,000 buses is underway today after talks failed, impacting over 5 lakh commuters. (10, 12) The High Court has issued a stay on the Kaleshwaram report, prompting the Telangana government to consider next steps. (2) Political tensions remain high, with ongoing exchanges between Revanth Reddy, KCR, and other political figures. (1, 9, 13, 14, 15, 16, 17, 19)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> The ongoing Telangana RTC strike, impacting public transport and potentially leading to public unrest. (4, 8, 10, 11, 12)</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Potential for increased political instability due to the ongoing exchanges between Revanth Reddy and KCR, and the rise of BJP. (9, 13, 14, 15, 16, 17, 19)</li>\n    <li><span class=\"risk-low\">LOW:</span> An incident in Karimnagar where a TGSRTC bus hit a median, resulting in injuries. (5)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Telangana RTC strike (4, 8, 10, 11, 12) is directly impacting commuters, potentially increasing public frustration and creating opportunities for political exploitation.</li>\n    <li>The High Court's stay on the Kaleshwaram report (2) is a point of contention and is being celebrated by BRS workers (1), potentially exacerbating political tensions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the evolving situation of the Telangana RTC strike and assess the impact on essential services.</li>\n    <li>Initiate immediate dialogue with RTC union leaders to resolve the strike and mitigate public inconvenience.</li>\n    <li>Assess the potential for public order disturbances related to the RTC strike and political tensions.</li>\n    <li>Monitor the political rhetoric and public statements made by key political figures.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Karimnagar:</b> Monitor the situation following the TGSRTC bus accident. (5)</li>\n    <li><b>All Districts:</b> Closely monitor the impact of the RTC strike, particularly in areas with high commuter dependence on public transport. (4, 8, 10, 11, 12)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "38.2°C",
-      "humidity": "22%",
-      "wind": "7.4 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 76,
-      "pm25": 37.8,
-      "goldPerGram": "₹9,019",
-      "newsCount": 37,
-      "topHeadlines": [
-        "Kaleshwaram case: BRS workers celebrate HC relief to KCR, Harish Rao - The Siasat Daily",
-        "Telangana govt considers next steps after High Court stay on Kaleshwaram report - The Hans India",
-        "Bhudhaar card: Can Telangana’s unique ID get rid of land disputes for good? - theweek.in",
-        "Telangana Bus Strike Today: Everything You Need To Know About The Latest News - Coach Builders India",
-        "Telangana: Several injured as TGSRTC bus hits median in Karimnagar - The Siasat Daily"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-22T13:46:28.364Z",
-    "timestampIST": "22/4/2026, 7:16:28 pm",
-    "executiveSummary": "<p>Telangana is facing a significant disruption in public transport due to an indefinite strike by Telangana RTC employees, impacting an estimated 5 lakh commuters as 6,000 buses are off roads. (7, 8, 14, 17) The strike follows failed talks on 32 demands. (15, 17) Chief Minister Revanth Reddy and YS Jagan paid tribute to the late former Andhra Pradesh CM Nadendla Bhaskara Rao. (1, 2)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Telangana is facing a significant disruption in public transport due to an indefinite strike by Telangana RTC employees, impacting an estimated 5 lakh commuters as 6,000 buses are off roads. (7, 8, 14, 17) The strike follows failed talks on 32 demands. (15, 17) Chief Minister Revanth Reddy and YS Jagan paid tribute to the late former Andhra Pradesh CM Nadendla Bhaskara Rao. (1, 2)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Disruption of Public Transport:</span> The ongoing RTC strike is causing significant disruption to bus services across Telangana, affecting commuters and potentially impacting daily activities. (7, 8, 12, 14, 16, 17)</li>\n    <li><span class=\"risk-medium\">Public Unrest:</span> The bus strike could lead to public frustration and potential unrest due to travel difficulties. (7, 8, 12, 14, 16, 17)</li>\n    <li><span class=\"risk-low\">Political Instability:</span> Ongoing political tensions between CM Revanth Reddy and KCR, along with the BJP's rising influence, could contribute to political instability. (18, 19, 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The death of former Andhra Pradesh CM Nadendla Bhaskara Rao has prompted tributes from both Telangana CM Revanth Reddy and YS Jagan. (1, 2)</li>\n    <li>The HC verdict related to the Kaleshwaram project is being celebrated by BRS workers, while the government is considering next steps after a High Court stay. (3, 4, 5)</li>\n    <li>The ongoing RTC strike and the political tensions between Revanth Reddy and KCR create a challenging environment for the government. (7, 8, 12, 14, 16, 17, 18, 19)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Initiate immediate dialogue with the Telangana RTC employees to resolve the ongoing strike and minimize disruption to public transport. (7, 8, 12, 14, 16, 17)</li>\n    <li>Assess the impact of the bus strike on essential services and implement contingency plans to mitigate any negative consequences. (7, 8, 12, 14, 16, 17)</li>\n    <li>Monitor public sentiment and social media for any signs of unrest related to the bus strike. (7, 8, 12, 14, 16, 17)</li>\n    <li>Review the High Court's decision on the Kaleshwaram project and formulate a clear strategy for the next steps. (3, 5)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Karimnagar:</b> Focus on Karimnagar due to the reported incident of a TGSRTC bus hitting a median. (9)</li>\n    <li><b>All Districts:</b> Monitor all districts due to the widespread disruption of bus services caused by the RTC strike. (7, 8, 12, 14, 16, 17)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "32.9°C",
-      "humidity": "37%",
-      "wind": "5.4 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 76,
-      "pm25": 42.4,
-      "goldPerGram": "₹9,019",
-      "newsCount": 36,
-      "topHeadlines": [
-        "Former Andhra Pradesh CM Nadendla Bhaskara Rao dies at 90; Telangana CM Revanth Reddy, YS Jagan pay tribute - lokmattimes.com",
-        "Former Andhra Pradesh CM Nadendla Bhaskara Rao dies at 90; Telangana CM Revanth Reddy, YS Jagan pay tribute - ANI News",
-        "HC verdict exposes false propaganda against Kaleshwaram project: Jagadish Reddy - Telangana Today",
-        "Kaleshwaram case: BRS workers celebrate HC relief to KCR, Harish Rao - The Siasat Daily",
-        "Telangana govt considers next steps after High Court stay on Kaleshwaram report - The Hans India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-22T15:16:02.811Z",
     "timestampIST": "22/4/2026, 8:46:02 pm",
     "executiveSummary": "<p>Telangana is experiencing significant disruption due to an indefinite strike by Telangana RTC employees, impacting bus services and affecting an estimated 65 lakh commuters daily. The government sanctioned Rs 98,000 crore for road development. The High Court delivered a verdict related to the Kaleshwaram project.</p>",
@@ -5883,6 +5837,29 @@
         "Honda Cars India plans over 10 new models by 2030 - Telangana Today",
         "KTR Blames Revanth Reddy in POCSO Case Delay - Hyderabad Mail",
         "New eye drops offer temporary relief from reading glasses - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-22T14:42:44.485Z",
+    "timestampIST": "22/5/2026, 8:12:44 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy and KTR are engaged in a public exchange regarding the delay in the arrest in the POCSO case and paddy procurement. KTR will attend Telangana Formation Day celebrations in Malaysia on June 6. The CM congratulated NIMS doctors for reaching a milestone of 2,000 kidney transplants.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy and KTR are engaged in a public exchange regarding the delay in the arrest in the POCSO case and paddy procurement. KTR will attend Telangana Formation Day celebrations in Malaysia on June 6. The CM congratulated NIMS doctors for reaching a milestone of 2,000 kidney transplants.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> KTR's criticism of the Revanth government on multiple issues, including the POCSO case and procurement, could escalate political tensions. (Headlines 5, 9, 12, 14)</li>\n  <li><span class=\"risk-medium\">Public Discontent:</span> Opposition parties are criticizing the government over delays in crop procurement. (Headline 8)</li>\n  <li><span class=\"risk-low\">Legal Scrutiny:</span> The arrest of Bandi Bhageerath and the ongoing POCSO case could lead to further legal and media attention. (Headlines 5, 7, 12, 17, 19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The POCSO case and the delay in arrest are central to the political attacks between KTR and CM Revanth Reddy. (Headlines 5, 7, 12, 14)</li>\n  <li>KTR is criticizing the Revanth government on both the POCSO case and paddy procurement, indicating a coordinated opposition strategy. (Headlines 9, 14)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor public statements from KTR and other opposition leaders for further criticisms.</li>\n  <li>Assess the government's response to the criticism regarding crop procurement.</li>\n  <li>Prepare a public statement addressing the allegations related to the POCSO case and the arrest of Bandi Bhageerath.</li>\n  <li>Review the implementation plan for the minimum wage hike for 1.11 crore workers. (Headline 18)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>No specific districts are mentioned in the news headlines that require immediate attention.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.8°C",
+      "humidity": "50%",
+      "wind": "12.5 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 54,
+      "pm25": 44.8,
+      "goldPerGram": "₹9,230",
+      "newsCount": 27,
+      "topHeadlines": [
+        "Telangana CM congratulates NIMS doctors for 2,000 kidney transplants milestone - The News Mill",
+        "Telangana CM Reddy congratulates team of doctors on kidney transplant milestone - ANI News",
+        "Revanth Reddy congratulates NIMS doctors on kidney transplant milestone - Telangana Today",
+        "BRS leaders defend Harish Rao’s remarks on Future City project - Telangana Today",
+        "Sai Bageerath: KTR attacks Revanth over delay in arrest in POCSO case row. - Deccan Herald"
       ]
     }
   }
