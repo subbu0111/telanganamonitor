@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T15:16:02.811Z",
-    "timestampIST": "22/4/2026, 8:46:02 pm",
-    "executiveSummary": "<p>Telangana is experiencing significant disruption due to an indefinite strike by Telangana RTC employees, impacting bus services and affecting an estimated 65 lakh commuters daily. The government sanctioned Rs 98,000 crore for road development. The High Court delivered a verdict related to the Kaleshwaram project.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Telangana is experiencing significant disruption due to an indefinite strike by Telangana RTC employees, impacting bus services and affecting an estimated 65 lakh commuters daily. The government sanctioned Rs 98,000 crore for road development. The High Court delivered a verdict related to the Kaleshwaram project.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Disruption of Public Transport:</span> The ongoing Telangana RTC strike has resulted in the halting of 6,000 buses, impacting 65 lakh commuters and potentially causing widespread inconvenience and economic losses. (Headlines 11, 17, 19)</li>\n    <li><span class=\"risk-medium\">Public Unrest:</span> The bus strike could lead to public frustration and potential protests due to the disruption of essential services. (Headlines 11, 15, 17, 19)</li>\n    <li><span class=\"risk-low\">Weather-Related Disruptions:</span> A thunderstorm is forecast in 17 Telangana districts today, which could exacerbate existing transport issues and cause localized disruptions. (Headline 4)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The High Court order related to the Kaleshwaram project (Headlines 3, 6, 7, 8) and the government's focus on road development (Headlines 1, 2) demonstrate the government's focus on infrastructure.</li>\n    <li>The ongoing RTC strike (Headlines 10, 11, 15, 17, 19) and the government's sanction of funds for road development (Headline 2) highlight the need for alternative transport solutions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the ongoing RTC strike closely and assess the impact on public transport and essential services. (Headlines 10, 11, 15, 17, 19)</li>\n    <li>Initiate immediate dialogue with the striking RTC employees to resolve the issues and restore bus services. (Headline 18)</li>\n    <li>Assess the potential impact of the forecasted thunderstorms on transport and public safety in the affected districts. (Headline 4)</li>\n    <li>Ensure adequate security and law enforcement presence to manage any potential public unrest related to the bus strike. (Headlines 11, 15, 17, 19)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Karimnagar:</b> Focus is needed due to the incident where a TGSRTC bus hit a median. (Headline 12)</li>\n    <li><b>17 Districts:</b> Monitor for weather-related disruptions due to the thunderstorm forecast. (Headline 4)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31°C",
-      "humidity": "43%",
-      "wind": "6.8 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 76,
-      "pm25": 50.3,
-      "goldPerGram": "₹9,047",
-      "newsCount": 39,
-      "topHeadlines": [
-        "Telangana aims to have best road network by 2028 - english.punjabkesari.com",
-        "Govt sanctions Rs 98,000 crore for road development in Telangana - The Siasat Daily",
-        "Truth won in Kaleshwaram row: KTR hails Telangana HC order - The Siasat Daily",
-        "Thunderstorm forecast in 17 Telangana districts today - The Hindu",
-        "Former Andhra Pradesh CM Nadendla Bhaskara Rao dies at 90; Telangana CM Revanth Reddy, YS Jagan pay tribute - lokmattimes.com"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-22T17:04:17.257Z",
-    "timestampIST": "22/4/2026, 10:34:17 pm",
-    "executiveSummary": "<p>Telangana is facing a significant disruption in public transport due to an indefinite strike by Telangana RTC employees, impacting over 5 lakh commuters and grounding 6,000 buses. (14, 20) Chief Minister Revanth Reddy is fast-tracking land allotment for investors. (1, 2) The High Court has issued a stay on the Kaleshwaram report, prompting reactions from various political figures. (7, 9, 11)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Telangana is facing a significant disruption in public transport due to an indefinite strike by Telangana RTC employees, impacting over 5 lakh commuters and grounding 6,000 buses. (14, 20) Chief Minister Revanth Reddy is fast-tracking land allotment for investors. (1, 2) The High Court has issued a stay on the Kaleshwaram report, prompting reactions from various political figures. (7, 9, 11)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH:</span> Widespread disruption of public transport due to the ongoing Telangana RTC strike, potentially leading to public unrest and economic impact. (14, 18, 20)</li>\n  <li><span class=\"risk-medium\">MEDIUM:</span> Potential for public dissatisfaction and negative perception of the government due to the bus strike. (14, 18, 20)</li>\n  <li><span class=\"risk-low\">LOW:</span> Adverse weather conditions, including thunderstorms, are forecast in 17 Telangana districts today. (8)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The Telangana RTC strike (14, 18, 20) directly impacts the daily lives of over 5 lakh commuters. (20)</li>\n  <li>Chief Minister Revanth Reddy is focused on attracting investment through fast-tracked land allotment (1, 2), while the government is simultaneously dealing with a major disruption in public transport. (14, 18, 20)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Initiate immediate dialogue with Telangana RTC employees to resolve the ongoing strike and restore bus services. (14, 18, 20)</li>\n  <li>Monitor public sentiment and address any grievances arising from the bus strike. (14, 18, 20)</li>\n  <li>Coordinate with relevant departments to ensure the safety and well-being of citizens in districts affected by the forecast thunderstorms. (8)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Karimnagar:</b> Focus on this district due to the reported incident of a TGSRTC bus hitting a median. (15)</li>\n  <li><b>17 Districts:</b> Monitor these districts due to the thunderstorm forecast. (8)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.5°C",
-      "humidity": "61%",
-      "wind": "4 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 76,
-      "pm25": 46.7,
-      "goldPerGram": "₹9,047",
-      "newsCount": 39,
-      "topHeadlines": [
-        "Revanth Reddy orders fast-track land allotment for investors - Telangana Today",
-        "CM Revanth Reddy Fast-Tracks Investment Projects; Orders Quick Land Allotment For Global Firms - Deccan Chronicle",
-        "Telangana aims to have best road network by 2028 - english.punjabkesari.com",
-        "Sanmar Herald ‘crypto payment’ incident: New Delhi calls reports ‘fake news’ - Telangana Today",
-        "Former Andhra Pradesh CM Nadendla Bhaskara Rao dies at 90; Telangana CM Revanth Reddy, YS Jagan pay tribute - prameyanews.com"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-22T19:17:15.020Z",
     "timestampIST": "23/4/2026, 12:47:15 am",
     "executiveSummary": "<p>The Telangana government has launched a ₹98,000 crore road mission. The High Court found flaws in the PC Ghose inquiry report regarding the Kaleshwaram Project, leading to celebrations by BRS workers and the government considering next steps. A large-scale disruption in bus services is underway due to an indefinite strike by TGSRTC employees.</p>",
@@ -5860,6 +5814,29 @@
         "Revanth Reddy congratulates NIMS doctors on kidney transplant milestone - Telangana Today",
         "BRS leaders defend Harish Rao’s remarks on Future City project - Telangana Today",
         "Sai Bageerath: KTR attacks Revanth over delay in arrest in POCSO case row. - Deccan Herald"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-22T17:53:39.599Z",
+    "timestampIST": "22/5/2026, 11:23:39 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy congratulated NIMS doctors for completing 2,000 kidney transplants. KTR criticized the Revanth government regarding paddy procurement, land deals, and the delay in the Bandi Bageerath POCSO case arrest. KTR will attend Telangana Formation Day celebrations in Malaysia on June 6.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy congratulated NIMS doctors for completing 2,000 kidney transplants. KTR criticized the Revanth government regarding paddy procurement, land deals, and the delay in the Bandi Bageerath POCSO case arrest. KTR will attend Telangana Formation Day celebrations in Malaysia on June 6.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Internal rift within the Telangana Congress over the TPCC chief is evident. (Headline 3)</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span> Opposition parties are criticizing the Telangana government over delays in crop procurement. (Headline 11)</li>\n    <li><span class=\"risk-low\">Legal/Reputational Risk:</span> KTR is attacking Revanth Reddy over the delay in the arrest in the POCSO case. (Headlines 8, 10, 15, 17)</li>\n    <li><span class=\"risk-low\">Procurement Issues:</span> The government faces questions over contradictory paddy procurement claims. (Headline 2)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>KTR is criticizing the Revanth Reddy government on multiple fronts, including paddy procurement (Headline 12) and the POCSO case (Headlines 8, 10, 15, 17).</li>\n    <li>The Telangana government faces criticism from both opposition parties (Headline 11) and KTR (Headline 12) regarding different issues.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Address the concerns raised by opposition parties regarding crop procurement delays.</li>\n    <li>Prepare a response to KTR's allegations regarding the POCSO case and land deals.</li>\n    <li>Monitor the internal dynamics within the Telangana Congress.</li>\n    <li>Review and clarify the government's paddy procurement claims.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Nizamabad: The Telangana government conducted a Praja Palana Pragathi Pranalika meeting in Nizamabad. (Headline 1) Further investigation may be needed to understand the outcome of this meeting.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31.4°C",
+      "humidity": "51%",
+      "wind": "12.8 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 58,
+      "pm25": 34.3,
+      "goldPerGram": "₹9,230",
+      "newsCount": 27,
+      "topHeadlines": [
+        "Telangana Govt Conducts Grand Praja Palana Pragathi Pranalika Meeting In Nizamabad - INDToday",
+        "Telangana govt faces questions over contradictory paddy procurement claims - Telangana Today",
+        "Internal rift in Telangana Congress over TPCC chief comes out in the open - Telangana Today",
+        "NIMS Completes 2,000 Kidney Transplants, CM Revanth Congratulates Medical Team - INDToday",
+        "Telangana CM congratulates NIMS doctors for 2,000 kidney transplants milestone - The News Mill"
       ]
     }
   }
