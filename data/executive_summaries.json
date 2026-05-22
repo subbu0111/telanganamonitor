@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T09:23:12.674Z",
-    "timestampIST": "22/4/2026, 2:53:12 pm",
-    "executiveSummary": "<p>A Telangana RTC strike, impacting bus services across several districts, began at midnight on April 22, with over 38,000 workers participating and 6,000 buses off the roads. (4, 6, 9, 11) Talks between the workers and the government failed. (9, 11) A TGSRTC bus hit a median in Karimnagar, injuring several people. (2) Political tensions are high, with accusations and counter-accusations between Revanth Reddy, KCR, and other political figures. (8, 12, 13, 14, 15, 16, 18, 20)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A Telangana RTC strike, impacting bus services across several districts, began at midnight on April 22, with over 38,000 workers participating and 6,000 buses off the roads. (4, 6, 9, 11) Talks between the workers and the government failed. (9, 11) A TGSRTC bus hit a median in Karimnagar, injuring several people. (2) Political tensions are high, with accusations and counter-accusations between Revanth Reddy, KCR, and other political figures. (8, 12, 13, 14, 15, 16, 18, 20)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Disruption of Public Transportation:</span> The ongoing RTC strike is impacting bus services across several districts, affecting over 5 lakh commuters. (6, 9)</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> A TGSRTC bus accident in Karimnagar resulted in injuries. (2)</li>\n    <li><span class=\"risk-medium\">Political Instability:</span> Heightened political rhetoric and accusations between key political figures could lead to unrest. (8, 12, 13, 14, 15, 16, 18, 20)</li>\n    <li><span class=\"risk-low\">Commuter Exploitation:</span> Reports indicate potential overcharging of commuters due to the bus strike. (7)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The RTC strike (4, 6, 9, 11) and the bus accident in Karimnagar (2) highlight potential safety and logistical challenges during the strike period.</li>\n    <li>The political accusations (8, 12, 13, 14, 15, 16, 18, 20) may be amplified by the disruption caused by the RTC strike, potentially leading to increased public dissatisfaction.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Activate contingency plans to mitigate the impact of the RTC strike on essential services and commuters.</li>\n    <li>Dispatch additional medical and emergency services to Karimnagar and other affected areas.</li>\n    <li>Monitor public sentiment and social media for potential unrest related to the strike and political tensions.</li>\n    <li>Issue a public statement addressing the RTC strike and the government's efforts to resolve the situation.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Karimnagar:</b> Immediate attention is required due to the bus accident and the impact of the RTC strike. (2, 6, 9, 11)</li>\n    <li><b>All Districts:</b> Monitor all districts for disruptions in bus services and potential public unrest due to the RTC strike. (6, 9, 11)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "38.9°C",
-      "humidity": "24%",
-      "wind": "4.2 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 78,
-      "pm25": 42.8,
-      "goldPerGram": "₹9,019",
-      "newsCount": 41,
-      "topHeadlines": [
-        "Telangana Bus Strike Today: Everything You Need To Know About The Latest News - Coach Builders India",
-        "Telangana: Several injured as TGSRTC bus hits median in Karimnagar - The Siasat Daily",
-        "Pahalgam terror attack fails to shake national unity, says Revanth Reddy - The Siasat Daily",
-        "Telangana RTC bus services to be hit as workers’ to go on strike from midnight of April 22 - The Hindu",
-        "Pahalgam Terror Attack Cannot Weaken Nation’s Unity: Revanth Reddy - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-22T11:07:47.694Z",
     "timestampIST": "22/4/2026, 4:37:47 pm",
     "executiveSummary": "<p>A Telangana RTC strike involving over 38,000 workers and 6,000 buses is underway today after talks failed, impacting over 5 lakh commuters. (10, 12) The High Court has issued a stay on the Kaleshwaram report, prompting the Telangana government to consider next steps. (2) Political tensions remain high, with ongoing exchanges between Revanth Reddy, KCR, and other political figures. (1, 9, 13, 14, 15, 16, 17, 19)</p>",
@@ -5883,6 +5860,29 @@
         "Police arrested Bandi Bhageerath, he did not surrender: Telangana CM Revanth - The News Minute",
         "Telangana hikes minimum wages for 1.11 crore workers - The New Indian Express",
         "Bhageerath didn’t surrender, he was arrested, asserts Telangana CM Revanth - The New Indian Express"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-22T10:52:30.399Z",
+    "timestampIST": "22/5/2026, 4:22:30 pm",
+    "executiveSummary": "<p>KTR has criticized the Revanth government regarding paddy procurement, land deals, and delays in a POCSO case (1, 4, 6). Chief Minister Revanth Reddy stated that Bandi Bhageerath was arrested, not surrendered (9, 11, 16). The Telangana government has increased minimum wages for 1.11 crore workers (10, 20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>KTR has criticized the Revanth government regarding paddy procurement, land deals, and delays in a POCSO case (1, 4, 6). Chief Minister Revanth Reddy stated that Bandi Bhageerath was arrested, not surrendered (9, 11, 16). The Telangana government has increased minimum wages for 1.11 crore workers (10, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> KTR's criticism of the Revanth government on multiple fronts (paddy procurement, land deals, POCSO case) could escalate political tensions. (1, 4, 6)</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Potential for public reaction to the arrest of Bandi Bhageerath, depending on the circumstances. (9, 11, 16)</li>\n    <li><span class=\"risk-low\">Economic Impact:</span> The hike in minimum wages could have implications for businesses and the economy. (10, 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>KTR's criticism of the Revanth government (1, 4, 6) and the arrest of Bandi Bhageerath (9, 11, 16) indicate a potential for increased political friction.</li>\n    <li>The minimum wage hike (10, 20) could be linked to the government's broader economic policies and its focus on skill-based jobs (18).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric from KTR and other opposition figures for any escalation of criticism. (1, 2, 4, 6)</li>\n    <li>Assess public sentiment regarding the arrest of Bandi Bhageerath and prepare for potential public reactions. (9, 11, 16)</li>\n    <li>Analyze the economic impact of the minimum wage hike and its implications for various sectors. (10, 20)</li>\n    <li>Prepare a response to KTR's allegations regarding the POCSO case. (4, 6)</li>\n    <li>Review the universal housing policy for journalists promised by CM Revanth Reddy. (17)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific districts require immediate attention based on the provided data.</p>\n```",
+    "dataSnapshot": {
+      "temperature": "37°C",
+      "humidity": "31%",
+      "wind": "12.8 km/h",
+      "weatherDesc": "Light Drizzle",
+      "aqi": 65,
+      "pm25": 28.5,
+      "goldPerGram": "₹9,280",
+      "newsCount": 34,
+      "topHeadlines": [
+        "KTR Slams Revanth Government Over Paddy Procurement and Land Deals - INDToday",
+        "KTR dares Revanth to dissolve Assembly, seek fresh mandate - Telangana Today",
+        "Honda Cars India plans over 10 new models by 2030 - Telangana Today",
+        "KTR Blames Revanth Reddy in POCSO Case Delay - Hyderabad Mail",
+        "New eye drops offer temporary relief from reading glasses - Telangana Today"
       ]
     }
   }
