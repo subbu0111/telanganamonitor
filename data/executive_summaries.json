@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T06:07:18.027Z",
-    "timestampIST": "23/4/2026, 11:37:18 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is prioritizing land acquisition and implementation of investment agreements, directing officials to expedite processes for global firms (4, 5, 6, 7, 11, 12). A ₹98,000 crore road mission has been launched (3, 9). The High Court has issued an order related to the Kaleshwaram project and retirement benefits, while also finding flaws in an inquiry report (8, 10, 17, 20).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is prioritizing land acquisition and implementation of investment agreements, directing officials to expedite processes for global firms (4, 5, 6, 7, 11, 12). A ₹98,000 crore road mission has been launched (3, 9). The High Court has issued an order related to the Kaleshwaram project and retirement benefits, while also finding flaws in an inquiry report (8, 10, 17, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for public criticism:</span> The High Court order related to the Kaleshwaram project and the exposure of \"false propaganda\" could lead to public debate and scrutiny (10, 17, 20).</li>\n    <li><span class=\"risk-low\">Weather-related disruption:</span> A thunderstorm is forecast for 17 Telangana districts today, potentially impacting daily activities (18).</li>\n    <li><span class=\"risk-low\">Negative publicity:</span> The death of a child in a Hyderabad apartment pool could generate negative media attention (14).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The High Court order related to the Kaleshwaram project (17, 20) is being hailed by some as a victory, while others may criticize the government.</li>\n    <li>CM Revanth Reddy's focus on land acquisition (4, 7, 11, 12) is directly linked to the implementation of investment agreements and the ₹98,000 crore road mission (3, 5, 6, 9).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor media coverage and public sentiment regarding the High Court's order on the Kaleshwaram project and the inquiry report.</li>\n    <li>Ensure proactive communication regarding the ₹98,000 crore road mission, highlighting its benefits and addressing any potential concerns.</li>\n    <li>Issue advisories to relevant departments to prepare for potential disruptions due to the forecasted thunderstorms in 17 districts.</li>\n    <li>Review and expedite the release of retirement benefits to the ex-staffer of the court as per the High Court order (8).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>17 Districts:</b> Due to the thunderstorm forecast, these districts require heightened monitoring and preparedness to mitigate potential disruptions (18). Specific districts are not mentioned.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "37.6°C",
-      "humidity": "27%",
-      "wind": "0.8 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 74,
-      "pm25": 33.6,
-      "goldPerGram": "₹9,047",
-      "newsCount": 28,
-      "topHeadlines": [
-        "Court order exposed Congress failures: Union Minister Kishan Reddy - The New Indian Express",
-        "A slap in CM Revanth government’s face, a victory for people of Telangana: BRS - The New Indian Express",
-        "Rs 98,000 cr road push gets top priority in Telangana - The Hans India",
-        "Expedite land acquisition for allotment to firms: Telangana CM Revanth - The New Indian Express",
-        "Telangana CM calls for faster MoU implementation with companies - The Siasat Daily"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-23T09:46:37.973Z",
     "timestampIST": "23/4/2026, 3:16:37 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on accelerating investment projects and land acquisition for global firms. (9, 10, 11, 17, 18) The Telangana cabinet will review the Ghose panel verdict and the RTC strike. (2) The Supreme Court adjourned the cash-for-vote case against CM Revanth to May 20. (4)</p>",
@@ -5837,6 +5814,29 @@
         "Telangana CM Revanth Reddy calls for special Parliament session on women’s quota - The News Mill",
         "NIMS Completes 2,000 Kidney Transplants, CM Revanth Congratulates Medical Team - INDToday",
         "Telangana raises minimum wages and reclassifies workers into four skill levels - The News Mill"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-23T06:34:38.079Z",
+    "timestampIST": "23/5/2026, 12:04:38 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is involved in multiple events, including congratulating NIMS on completing 2,000 kidney transplants (9, 12, 19, 20) and laying the foundation stone for works at Yadagirigutta Temple (5). A Telangana Cabinet meeting is scheduled today focusing on welfare schemes (15). The Telangana POLYCET 2026 result is expected to be declared today (1, 8).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is involved in multiple events, including congratulating NIMS on completing 2,000 kidney transplants (9, 12, 19, 20) and laying the foundation stone for works at Yadagirigutta Temple (5). A Telangana Cabinet meeting is scheduled today focusing on welfare schemes (15). The Telangana POLYCET 2026 result is expected to be declared today (1, 8).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Internal rifts within the Telangana Congress are emerging (18).</li>\n    <li><span class=\"risk-medium\">Farmer Unrest:</span>  Disagreements and accusations regarding paddy procurement are ongoing, potentially leading to chaos among farmers (6, 7, 17).</li>\n    <li><span class=\"risk-low\">Education Sector Disruption:</span> The Telangana Education Commission chief has resigned four months before the end of their term (2).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's involvement in the Yadagirigutta Temple foundation stone laying (5) and the Cabinet meeting focusing on welfare schemes (15) suggests a focus on public works and governance.</li>\n    <li>The conflicting claims on paddy procurement (6, 7, 17) and the BJP's allegations against the Congress government (3) indicate potential political tensions and challenges in agricultural policy.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation regarding paddy procurement and farmer sentiment closely.</li>\n    <li>Assess the implications of the Education Commission chief's resignation and ensure a smooth transition.</li>\n    <li>Prepare for potential political fallout from internal Congress rifts.</li>\n    <li>Monitor the release of the POLYCET 2026 results and be prepared for any issues.</li>\n    <li>Ensure the Cabinet meeting on welfare schemes is well-coordinated and effectively communicated.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Nizamabad:</b> Given the Telangana Govt Conducts Grand Praja Palana Pragathi Pranalika Meeting In Nizamabad (16), this district requires monitoring to assess the impact of the meeting and any related developments.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37.8°C",
+      "humidity": "31%",
+      "wind": "17.7 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 64,
+      "pm25": 21.6,
+      "goldPerGram": "₹9,230",
+      "newsCount": 35,
+      "topHeadlines": [
+        "Telangana POLYCET 2026 result to be declared today: Know how to download rank card - India Today",
+        "Telangana Education Commission chief quits four months before term ends - The New Indian Express",
+        "Congress government pushed farmers into distress, alleges BJP leader Alleti - The New Indian Express",
+        "ASBL Shares the Stage with CM Revanth Reddy at Way2News Conclave on Hyderabads Real Estate Future - TheWire.in",
+        "Revanth Reddy Lays Foundation Stone for Rs.99.55 Cr Works at Yadagirigutta Temple - Deccan Chronicle"
       ]
     }
   }
