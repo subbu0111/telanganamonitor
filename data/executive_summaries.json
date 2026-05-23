@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T17:23:46.905Z",
-    "timestampIST": "23/4/2026, 10:53:46 pm",
-    "executiveSummary": "<p>The Telangana government is facing challenges related to a transport corporation strike following a driver's suicide attempt (1, 6). The government is attempting to negotiate with RTC workers, with a ministerial sub-committee scheduled to meet tomorrow (3, 4). The High Court's verdict on the Kaleshwaram report and the Ghose commission report are generating political reactions (7, 9).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is facing challenges related to a transport corporation strike following a driver's suicide attempt (1, 6). The government is attempting to negotiate with RTC workers, with a ministerial sub-committee scheduled to meet tomorrow (3, 4). The High Court's verdict on the Kaleshwaram report and the Ghose commission report are generating political reactions (7, 9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Potential for escalation of the transport corporation strike following a driver's suicide attempt (1, 6).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Political instability due to reactions to High Court verdicts on the Kaleshwaram and Ghose commission reports (7, 9).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Public unrest due to heatwave conditions and potential thunderstorms in Hyderabad (15).</li>\n    <li><span class=\"risk-low\">LOW:</span> Legal proceedings against CM Revanth Reddy adjourned to May 20 (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The transport corporation strike (1, 3, 4) is directly linked to the government's current challenges.</li>\n    <li>The High Court verdicts (7, 9, 20) are fueling political discourse and criticism of the government.</li>\n    <li>CM Revanth Reddy's efforts to execute projects (17) are occurring amidst political challenges and legal proceedings (19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize de-escalation of the RTC strike through immediate and effective negotiations with worker representatives (3, 4).</li>\n    <li>Monitor public sentiment and potential for unrest related to the heatwave and weather conditions in Hyderabad (15).</li>\n    <li>Prepare a communication strategy to address public concerns regarding the High Court verdicts and related political controversies (7, 9, 20).</li>\n    <li>Review and expedite the execution of MoU investments to demonstrate government effectiveness (17).</li>\n    <li>Monitor the political situation surrounding the cabinet future of Azharuddin (12).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor for potential public unrest due to the heatwave and weather conditions (15).</li>\n    <li><b>All Telangana Districts:</b> Monitor for developments related to the transport corporation strike and its impact (1, 3, 4, 6).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29.7°C",
-      "humidity": "51%",
-      "wind": "3.2 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 73,
-      "pm25": 42.3,
-      "goldPerGram": "₹9,077",
-      "newsCount": 30,
-      "topHeadlines": [
-        "After driver’s suicide attempt, Revanth government moves to defuse transport corporation strike in Telangana - The Indian Express",
-        "KCR Telangana future secure under his leadership, says Jeevan Reddy - newsage.in",
-        "Telangana govt appeals to RTC workers, ministerial sub-committee to talk tomorrow - NewsMeter",
-        "CM Revanth Reddy urges RTC workers to avoid hasty actions, calls for talks with Bhatti Vikramarka - The Hans India",
-        "Telangana govt adds 100 overseas scholarship seats for Christians, Muslims get 480 of 600 total - Organiser"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-23T19:14:00.729Z",
     "timestampIST": "24/4/2026, 12:44:00 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy will meet with the CBI director following a High Court order regarding the Kaleshwaram project probe (1, 2). The government is attempting to defuse a transport corporation strike (3, 5, 6) after a driver's suicide attempt. The police issued a notice to X regarding the news handle TeluguScribe (10).</p>",
@@ -5860,6 +5837,29 @@
         "Telangana government partners with foundations to improve school infrastructure through CSR initiatives - The Hindu",
         "Revanth launches development works worth ₹100cr at Yadagirigutta - The Times of India",
         "Revanth Reddy Follows CBN And Modi! - Gulte"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-23T19:13:18.997Z",
+    "timestampIST": "24/5/2026, 12:43:18 am",
+    "executiveSummary": "<p>The Telangana government is facing multiple challenges. A senior advocate was killed in Hyderabad in a suspected targeted attack (10, 18). Sixteen heatstroke deaths have been reported, with the government offering ₹4 lakh ex gratia (17). The Chief Minister launched development works worth approximately ₹300 crore at Yadagirigutta (5, 7, 16, 19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is facing multiple challenges. A senior advocate was killed in Hyderabad in a suspected targeted attack (10, 18). Sixteen heatstroke deaths have been reported, with the government offering ₹4 lakh ex gratia (17). The Chief Minister launched development works worth approximately ₹300 crore at Yadagirigutta (5, 7, 16, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Health Crisis:</span> Sixteen heatstroke deaths reported across the state (17).</li>\n    <li><span class=\"risk-high\">Security Threat:</span> Senior advocate killed in a suspected targeted attack in Hyderabad (10, 18).</li>\n    <li><span class=\"risk-medium\">Political:</span> Centre's green energy investment offer awaits Telangana government response (1).</li>\n    <li><span class=\"risk-low\">Administrative:</span> Telangana Education Commission chief quits four months before term ends (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The government's response to the heatstroke deaths (17) may require coordination with the launch of new development works (5, 7, 16, 19).</li>\n    <li>The advocate's death (10, 15, 18) requires immediate police investigation and potential security review.</li>\n    <li>The government's focus on school infrastructure (2, 6) is happening alongside the launch of new academic programs (11).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Health Department to intensify heatwave mitigation efforts and provide immediate relief to affected citizens.</li>\n    <li>Instruct the Hyderabad Police to expedite the investigation into the advocate's death and ensure public safety.</li>\n    <li>Review the status of the Centre's green energy investment offer and prepare a timely response.</li>\n    <li>Assess the implications of the Education Commission chief's resignation and appoint a replacement.</li>\n    <li>Monitor the implementation of the minimum wage hike (3) and its impact on contract workers.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the suspected targeted attack on an advocate (10, 15, 18).</li>\n    <li><b>12 Districts:</b> Due to the heatwave warning issued today (4).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30.3°C",
+      "humidity": "50%",
+      "wind": "13.1 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 61,
+      "pm25": 19.5,
+      "goldPerGram": "₹9,230",
+      "newsCount": 31,
+      "topHeadlines": [
+        "Centre Ready With Rs 10,000-Crore Green Energy Investment, Telangana Govt Yet To Respond: Kishan Reddy - Deccan Chronicle",
+        "Telangana Cabinet Approves Breakfast, Midday Meals in All Govt Schools, Jr Colleges - Deccan Chronicle",
+        "INTUC Welcomes Telangana Govt’s Minimum Wage Hike, Seeks Better Pay for Contract Workers - Deccan Chronicle",
+        "Heatwave warning in 12 Telangana districts today, warm night conditions in eight districts - The Hindu",
+        "Revanth Reddy Launches Major Development Works At Yadagirigutta - INDToday"
       ]
     }
   }
