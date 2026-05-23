@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T15:55:54.093Z",
-    "timestampIST": "23/4/2026, 9:25:54 pm",
-    "executiveSummary": "<p>The Telangana government is scheduled to hold talks with RTC workers tomorrow, as the CM urges them to avoid hasty actions (1, 2). A Telangana state transport bus driver set himself ablaze (4). The cabinet will review the Ghose panel verdict and the RTC strike (16).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is scheduled to hold talks with RTC workers tomorrow, as the CM urges them to avoid hasty actions (1, 2). A Telangana state transport bus driver set himself ablaze (4). The cabinet will review the Ghose panel verdict and the RTC strike (16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> A Telangana state transport bus driver set himself ablaze (4).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> The RTC strike and upcoming talks with workers (1, 2, 16).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> The Supreme Court adjourned the hearing of the cash-for-vote case against CM Revanth Reddy to May 20 (18).</li>\n    <li><span class=\"risk-low\">LOW:</span> Potential for political fallout from the High Court verdict on the Kaleshwaram report and the Ghose commission report (5, 7, 19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Telangana government is dealing with both the RTC strike (1, 16) and a potential political crisis related to the cash-for-vote case (15, 18).</li>\n    <li>The High Court verdicts on the Kaleshwaram and Ghose commission reports are being used by both the ruling party and the opposition for political gain (5, 7, 19, 20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the outcome of the talks between the government and RTC workers scheduled for tomorrow (1).</li>\n    <li>Assess the situation surrounding the self-immolation of the bus driver and provide necessary support (4).</li>\n    <li>Prepare a response to the Supreme Court's adjournment of the cash-for-vote case hearing (18).</li>\n    <li>Monitor public sentiment regarding the High Court verdicts on the Kaleshwaram and Ghose commission reports (5, 7, 19, 20).</li>\n    <li>Ensure effective communication regarding the government's stance on the RTC strike and the Ghose panel verdict (16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Focus on districts where RTC services are disrupted due to the strike (1, 16).</li>\n    <li>Monitor the district where the bus driver self-immolated (4).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30.5°C",
-      "humidity": "49%",
-      "wind": "2.2 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 74,
-      "pm25": 41.3,
-      "goldPerGram": "₹9,077",
-      "newsCount": 32,
-      "topHeadlines": [
-        "Telangana govt appeals to RTC workers, ministerial sub-committee to talk tomorrow - NewsMeter",
-        "CM Revanth Reddy urges RTC workers to avoid hasty actions, calls for talks with Bhatti Vikramarka - The Hans India",
-        "Telangana govt adds 100 overseas scholarship seats for Christians, Muslims get 480 of 600 total - Organiser",
-        "Telangana state transport bus driver sets himself ablaze over unfulfilled electoral promises - The New Indian Express",
-        "High Court verdict on Kaleshwaram report vindicates KCR: MLC Madhusudhan - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-23T17:23:46.905Z",
     "timestampIST": "23/4/2026, 10:53:46 pm",
     "executiveSummary": "<p>The Telangana government is facing challenges related to a transport corporation strike following a driver's suicide attempt (1, 6). The government is attempting to negotiate with RTC workers, with a ministerial sub-committee scheduled to meet tomorrow (3, 4). The High Court's verdict on the Kaleshwaram report and the Ghose commission report are generating political reactions (7, 9).</p>",
@@ -5860,6 +5837,29 @@
         "Revanth Reddy Launches Major Development Works At Yadagirigutta - INDToday",
         "SSCTU launches new academic programmes in collaboration with IIT Hyderabad, TISS - Telangana Today",
         "Cyprus President’s India visit marks new era in bilateral relations - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-23T17:01:31.492Z",
+    "timestampIST": "23/5/2026, 10:31:31 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy launched development works at Yadagirigutta, totaling approximately ₹100 crore. A senior advocate was killed in Hyderabad in a suspected targeted attack and another was killed in a hit-and-run. A heatwave warning is in effect for 12 Telangana districts.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy launched development works at Yadagirigutta, totaling approximately ₹100 crore. A senior advocate was killed in Hyderabad in a suspected targeted attack and another was killed in a hit-and-run. A heatwave warning is in effect for 12 Telangana districts.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Health Crisis:</span> 16 deaths reported due to heatstroke. (Headline 14)</li>\n    <li><span class=\"risk-high\">Security Threat:</span> Senior advocate Khaja Moinuddin was killed in a suspected targeted attack in Hyderabad. (Headline 7)</li>\n    <li><span class=\"risk-medium\">Traffic Safety:</span> An advocate was killed in a hit-and-run in Hyderabad. (Headline 12, 15)</li>\n    <li><span class=\"risk-low\">Political Instability:</span> Telangana Education Commission chief quit four months before term ends. (Headline 17)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister launched development works at Yadagirigutta (Headline 2, 4, 13, 16, 20), indicating a focus on infrastructure projects.</li>\n    <li>The heatwave warning (Headline 1) and the reported heatstroke deaths (Headline 14) highlight a critical public health concern.</li>\n    <li>The advocate deaths (Headline 7, 12, 15) point to potential security and law enforcement challenges in Hyderabad.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Health Department to intensify heatstroke prevention measures and provide immediate medical assistance in affected districts.</li>\n    <li>Instruct the Police Department to expedite investigations into the advocate killings and enhance security measures in Hyderabad.</li>\n    <li>Review and expedite the CSR initiatives to improve school infrastructure. (Headline 3)</li>\n    <li>Monitor the political implications of the Education Commission chief's resignation. (Headline 17)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>All 12 districts under heatwave warning:</b> Prioritize public health interventions and monitor for further heatstroke cases. (Headline 1)</li>\n    <li><b>Hyderabad:</b> Focus on law enforcement and security due to the advocate killings. (Headline 7, 12, 15)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.4°C",
+      "humidity": "56%",
+      "wind": "11.2 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 61,
+      "pm25": 27.1,
+      "goldPerGram": "₹9,230",
+      "newsCount": 31,
+      "topHeadlines": [
+        "Heatwave warning in 12 Telangana districts today, warm night conditions in eight districts - The Hindu",
+        "Revanth Reddy Launches Major Development Works At Yadagirigutta - INDToday",
+        "Telangana government partners with foundations to improve school infrastructure through CSR initiatives - The Hindu",
+        "Revanth launches development works worth ₹100cr at Yadagirigutta - The Times of India",
+        "Revanth Reddy Follows CBN And Modi! - Gulte"
       ]
     }
   }
