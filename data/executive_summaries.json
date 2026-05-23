@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T19:14:00.729Z",
-    "timestampIST": "24/4/2026, 12:44:00 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will meet with the CBI director following a High Court order regarding the Kaleshwaram project probe (1, 2). The government is attempting to defuse a transport corporation strike (3, 5, 6) after a driver's suicide attempt. The police issued a notice to X regarding the news handle TeluguScribe (10).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will meet with the CBI director following a High Court order regarding the Kaleshwaram project probe (1, 2). The government is attempting to defuse a transport corporation strike (3, 5, 6) after a driver's suicide attempt. The police issued a notice to X regarding the news handle TeluguScribe (10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Potential for unrest due to the transport corporation strike and driver's suicide attempt (3, 5, 6, 8).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Political tensions are rising, with criticism of the current government and discussions about future leadership (4, 9, 11, 12, 13, 15, 16).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> The High Court's verdict on the Kaleshwaram project and Ghose commission report is generating political reactions (1, 2, 9, 11).</li>\n    <li><span class=\"risk-low\">LOW:</span> Potential for public reaction to the heatwave alert issued by IMD (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Kaleshwaram project probe (1, 2) and the Ghose commission report (11) are both subjects of High Court verdicts and are generating political commentary.</li>\n    <li>The transport corporation strike (3, 5, 6) is directly linked to a driver's suicide attempt (8), indicating a potential escalation of unrest.</li>\n    <li>Political figures like Revanth Reddy (2, 6, 20) and KCR (4, 9, 15, 16) are central to multiple news items, highlighting the ongoing political dynamics.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize de-escalation of the transport corporation strike through immediate talks and address the driver's suicide attempt (3, 5, 6, 8).</li>\n    <li>Prepare for potential public reactions to the High Court's verdicts on the Kaleshwaram project and the Ghose commission report (1, 2, 9, 11).</li>\n    <li>Monitor the political rhetoric surrounding the Kaleshwaram project and the Ghose commission report (1, 2, 9, 11).</li>\n    <li>Monitor the situation regarding the news handle TeluguScribe (10).</li>\n    <li>Assess the potential impact of the heatwave alert on public health and infrastructure (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Statewide:</b> Monitor all districts for potential unrest related to the transport corporation strike and the driver's suicide attempt (3, 5, 6, 8).</li>\n    <li><b>Hyderabad:</b> Monitor for any impact of the heatwave alert (19).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.5°C",
-      "humidity": "54%",
-      "wind": "3.9 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 72,
-      "pm25": 34.9,
-      "goldPerGram": "₹9,077",
-      "newsCount": 33,
-      "topHeadlines": [
-        "Kaleshwaram project probe: Telangana CM to meet CBI director after High Court order - Oneindia",
-        "Revanth, Uttam to meet CBI Directorfor expediting Kaleshwaram probe - The Hindu",
-        "After driver’s suicide attempt, Revanth government moves to defuse transport corporation strike in Telangana - The Indian Express",
-        "KCR Telangana future secure under his leadership, says Jeevan Reddy - newsage.in",
-        "Telangana govt appeals to RTC workers, ministerial sub-committee to talk tomorrow - NewsMeter"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-23T20:55:27.682Z",
     "timestampIST": "24/4/2026, 2:25:27 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is scheduled to meet with the CBI director following a High Court order regarding the Kaleshwaram project probe (1, 2). The government is attempting to defuse a transport corporation strike and has appealed to RTC workers for talks, with a ministerial sub-committee scheduled to meet tomorrow (3, 5, 6). The Hyderabad weather forecast includes a heatwave alert with possible evening showers and thunderstorms (19).</p>",
@@ -5854,6 +5831,29 @@
       "pm25": 19.5,
       "goldPerGram": "₹9,230",
       "newsCount": 31,
+      "topHeadlines": [
+        "Centre Ready With Rs 10,000-Crore Green Energy Investment, Telangana Govt Yet To Respond: Kishan Reddy - Deccan Chronicle",
+        "Telangana Cabinet Approves Breakfast, Midday Meals in All Govt Schools, Jr Colleges - Deccan Chronicle",
+        "INTUC Welcomes Telangana Govt’s Minimum Wage Hike, Seeks Better Pay for Contract Workers - Deccan Chronicle",
+        "Heatwave warning in 12 Telangana districts today, warm night conditions in eight districts - The Hindu",
+        "Revanth Reddy Launches Major Development Works At Yadagirigutta - INDToday"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-23T20:55:25.456Z",
+    "timestampIST": "24/5/2026, 2:25:25 am",
+    "executiveSummary": "<p>The Telangana government is facing multiple challenges. A senior advocate was killed in Hyderabad in a suspected targeted attack and another was killed in a hit-and-run. Sixteen heatstroke deaths have been reported, prompting ₹4 lakh ex gratia payments. The CM launched development works worth approximately ₹300 crore at Yadagirigutta.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is facing multiple challenges. A senior advocate was killed in Hyderabad in a suspected targeted attack and another was killed in a hit-and-run. Sixteen heatstroke deaths have been reported, prompting ₹4 lakh ex gratia payments. The CM launched development works worth approximately ₹300 crore at Yadagirigutta.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Safety:</span> Two advocate deaths in Hyderabad, one a suspected targeted attack and the other a hit-and-run, indicate potential law and order concerns. (Headlines 10, 15, 18)</li>\n    <li><span class=\"risk-high\">Public Health:</span> Sixteen heatstroke deaths reported across the state. (Headline 17)</li>\n    <li><span class=\"risk-medium\">Political:</span>  K Kavitha placed four demands before the Telangana Cabinet meeting. (Headline 14)</li>\n    <li><span class=\"risk-low\">Infrastructure:</span>  Centre's green energy investment of Rs 10,000 crore is pending Telangana government response. (Headline 1)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The high number of heatstroke deaths (Headline 17) may necessitate increased public health awareness campaigns and resource allocation.</li>\n    <li>The advocate deaths (Headlines 10, 15, 18) require immediate police investigation and heightened security measures in Hyderabad.</li>\n    <li>The CM's launch of development works at Yadagirigutta (Headlines 5, 7, 16, 19) may require increased security presence.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to expedite investigations into the advocate deaths and enhance security in Hyderabad.</li>\n    <li>Instruct the Health Department to intensify heatstroke prevention measures and provide immediate medical assistance.</li>\n    <li>Review and respond to the Centre's Rs 10,000-crore green energy investment proposal.</li>\n    <li>Monitor the situation in Yadagirigutta closely, given the recent development works and CM's presence.</li>\n    <li>Assess the implications of the Telangana Education Commission chief's resignation. (Headline 20)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>All Districts:</b> Given the heatwave warning (Headline 4) and heatstroke deaths (Headline 17), all districts require heightened monitoring and public health interventions.</li>\n    <li><b>Hyderabad:</b> Due to the advocate deaths (Headlines 10, 15, 18), Hyderabad requires immediate law enforcement attention and increased security.</li>\n    <li><b>12 Districts:</b>  Due to the heatwave warning (Headline 4), these districts require immediate attention.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.5°C",
+      "humidity": "55%",
+      "wind": "14.2 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 60,
+      "pm25": 18.3,
+      "goldPerGram": "₹9,230",
+      "newsCount": 30,
       "topHeadlines": [
         "Centre Ready With Rs 10,000-Crore Green Energy Investment, Telangana Govt Yet To Respond: Kishan Reddy - Deccan Chronicle",
         "Telangana Cabinet Approves Breakfast, Midday Meals in All Govt Schools, Jr Colleges - Deccan Chronicle",
