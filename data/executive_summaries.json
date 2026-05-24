@@ -5839,5 +5839,28 @@
         "Telangana government confirms 16 deaths in state due to intense heat - The New Indian Express"
       ]
     }
+  },
+  {
+    "timestamp": "2026-05-24T11:20:19.266Z",
+    "timestampIST": "24/5/2026, 4:50:19 pm",
+    "executiveSummary": "<p>The Telangana government is facing criticism from the BJP regarding Godavari basin projects (Headline 1). The Cabinet approved a Mid-Day Meal Scheme in Junior Colleges (Headline 4) and Breakfast and Midday Meals in all government schools and junior colleges (Headline 8). Two murders were reported in Telangana, raising law and order concerns (Headline 11), and a senior advocate was killed in a suspected targeted attack in Hyderabad (Headline 16).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is facing criticism from the BJP regarding Godavari basin projects (Headline 1). The Cabinet approved a Mid-Day Meal Scheme in Junior Colleges (Headline 4) and Breakfast and Midday Meals in all government schools and junior colleges (Headline 8). Two murders were reported in Telangana, raising law and order concerns (Headline 11), and a senior advocate was killed in a suspected targeted attack in Hyderabad (Headline 16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Safety:</span> Two murders and a suspected targeted attack in Hyderabad raise serious law and order concerns. (Headline 11, 16)</li>\n    <li><span class=\"risk-medium\">Political Instability:</span> BJP criticizes the Telangana government over Godavari basin projects (Headline 1).</li>\n    <li><span class=\"risk-medium\">Health Crisis:</span> 16 deaths have been confirmed due to intense heat (Headline 6).</li>\n    <li><span class=\"risk-low\">Infrastructure Delays:</span> The Centre is ready with a Rs 10,000-Crore Green Energy Investment, but the Telangana government has yet to respond (Headline 7).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Telangana government is implementing welfare schemes such as the Mid-Day Meal Scheme (Headline 4, 8) and a minimum wage hike (Headline 9), potentially impacting state finances.</li>\n    <li>The government is laying foundation stones for development works at Yadadri temple (Headline 5, 13), indicating ongoing infrastructure projects.</li>\n    <li>The heatwave warning (Headline 10) and confirmed heat-related deaths (Headline 6) highlight a critical public health concern.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to immediately investigate the murders and the suspected targeted attack, increasing police presence and surveillance in affected areas (Headline 11, 16).</li>\n    <li>Assess the state's preparedness for the ongoing heatwave and implement immediate public health measures (Headline 6, 10).</li>\n    <li>Expedite a response to the Centre's green energy investment offer (Headline 7).</li>\n    <li>Review and strengthen security measures at Yadadri temple and other locations where development works are underway (Headline 5, 13).</li>\n    <li>Monitor the BJP's criticism of the government regarding Godavari basin projects and prepare a response (Headline 1).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>All Districts:</b> Implement heatwave safety measures and monitor for heat-related illnesses (Headline 6, 10).</li>\n    <li><b>Hyderabad:</b> Prioritize law enforcement and investigation efforts due to the reported murders and the suspected targeted attack (Headline 11, 16).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37.5°C",
+      "humidity": "24%",
+      "wind": "13 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 55,
+      "pm25": 14,
+      "goldPerGram": "₹9,230",
+      "newsCount": 18,
+      "topHeadlines": [
+        "BJP slams Telangana government over ‘non-serious’ approach to Godavari basin projects - The South First",
+        "No One Can Reject PM Modi’s Offer: Dharmapuri Arvind - INDToday",
+        "NETAS NATTER | Revanth’s Hall of Wisdom, the Font of Ideas - Deccan Chronicle",
+        "Telangana Cabinet Approves Mid-Day Meal Scheme In Junior Colleges - ETV Bharat",
+        "CM lays foundation stone for development works worth Rs 99.55 crore at Yadadri temple - The New Indian Express"
+      ]
+    }
   }
 ]
