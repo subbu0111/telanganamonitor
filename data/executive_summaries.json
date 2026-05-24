@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T22:40:40.710Z",
-    "timestampIST": "25/4/2026, 4:10:40 am",
-    "executiveSummary": "<p>Transport unions and the Revanth government have broken a deadlock, with thousands of buses returning to Telangana roads today (1). Kavitha is launching a new party today (5, 16). Tension is escalating in Warangal as RTC workers demand the deceased driver's mortal remains be taken to the bus depot (20).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Transport unions and the Revanth government have broken a deadlock, with thousands of buses returning to Telangana roads today (1). Kavitha is launching a new party today (5, 16). Tension is escalating in Warangal as RTC workers demand the deceased driver's mortal remains be taken to the bus depot (20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Potential for unrest in Warangal due to RTC worker demands regarding the deceased driver (20).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> BJP and BRS are alleging negligence and murder by the Revanth Reddy government related to the RTC driver suicide (2, 13, 17).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Kavitha's new party launch could shift the political landscape (5, 16).</li>\n    <li><span class=\"risk-low\">LOW:</span> Criticism of the Congress government and CM Revanth Reddy on social media has led to the invocation of UAPA by Telangana Police (6, 19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The RTC driver's death (11) is directly linked to the ongoing issues with transport unions (1, 13, 17, 20).</li>\n    <li>The government's financial constraints are evident in the 50% pay cut for ministers to fund employee dues (3, 12, 14).</li>\n    <li>The invocation of UAPA against the TeluguScribe handle (6, 19) indicates a heightened sensitivity to criticism of the government.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in Warangal closely and deploy necessary resources to prevent escalation (20).</li>\n    <li>Prepare a public statement addressing the allegations of negligence and murder related to the RTC driver's death (2, 13, 17).</li>\n    <li>Assess the potential impact of Kavitha's new party launch on the political landscape (5, 16).</li>\n    <li>Review the legal basis and public perception of the UAPA invocation against the TeluguScribe handle (6, 19).</li>\n    <li>Ensure effective communication with transport unions to maintain stability (1).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Warangal:</b> Due to escalating tension related to the RTC driver's death and worker demands (20).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.2°C",
-      "humidity": "43%",
-      "wind": "6 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 77,
-      "pm25": 46.7,
-      "goldPerGram": "₹9,091",
-      "newsCount": 38,
-      "topHeadlines": [
-        "Thousands of buses return to Telangana roads today as transport unions, Revanth govt break deadlock - The Indian Express",
-        "BJP alleges \"negligence\" by Telangana govt in RTC driver suicide incident - India's News.Net",
-        "Telangana ministers to take 50% pay cut to fund pending dues of govt employees - India Today",
-        "Telangana to implement revised land market values from May: Deputy CM - The Siasat Daily",
-        "Kavitha to launch her new party today, says BRS has lost its soul - metroindia.net"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-25T02:38:07.276Z",
     "timestampIST": "25/4/2026, 8:08:07 am",
     "executiveSummary": "<p>The RTC strike has been called off, with thousands of buses returning to Telangana roads today. (1, 2)  A new party is being launched today by Kavitha. (6, 18) The state government is facing criticism following the death of an RTC driver who set himself ablaze. (3, 13, 15, 19) CV Anand is set to become the new DGP. (9)</p>",
@@ -5883,6 +5860,29 @@
         "No One Can Reject PM Modi’s Offer: Dharmapuri Arvind - INDToday",
         "BRS demands urgent paddy procurement by May 31 - Telangana Today",
         "Jagadish Reddy charges Congress govt with attempting to privatise power sector through RDSS - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-24T22:58:57.584Z",
+    "timestampIST": "25/5/2026, 4:28:57 am",
+    "executiveSummary": "<p>Tamil Nadu Minister P Viswanathan met with Telangana CM Revanth Reddy in Hyderabad (1). The CM congratulated NIMS doctors on reaching 2,000 kidney transplants (2). The government confirmed 16 heat-related deaths in the state (12).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Tamil Nadu Minister P Viswanathan met with Telangana CM Revanth Reddy in Hyderabad (1). The CM congratulated NIMS doctors on reaching 2,000 kidney transplants (2). The government confirmed 16 heat-related deaths in the state (12).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: 16 confirmed deaths due to intense heat (12).</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: BRS demands urgent paddy procurement by May 31 (5).</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Allegations of procurement irregularities and demand for MSP for rain-damaged paddy (7).</li>\n    <li><span class=\"risk-low\">LOW</span>: BJP criticizing the government's approach to Godavari basin projects (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Telangana government's handling of the power sector (6) could be linked to the BJP's interest in the Godavari-Cauvery river interlinking project (3), potentially impacting energy needs.</li>\n    <li>The confirmed heat-related deaths (12) may require immediate action and resource allocation, potentially impacting other government initiatives.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct immediate resources and support to areas most affected by the heatwave, focusing on public health and welfare.</li>\n    <li>Assess the BRS's demand for urgent paddy procurement and address any potential issues related to MSP for rain-damaged paddy.</li>\n    <li>Review the government's approach to the power sector in light of the allegations of privatization (6).</li>\n    <li>Monitor the BJP's stance on the Godavari-Cauvery river interlinking project and its potential impact on Telangana.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Focus immediate attention on districts reporting heat-related deaths (12). Specific districts are not mentioned in the provided data, but this should be determined through further inquiry.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.6°C",
+      "humidity": "49%",
+      "wind": "14.8 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 32,
+      "pm25": 17.6,
+      "goldPerGram": "₹9,230",
+      "newsCount": 12,
+      "topHeadlines": [
+        "Tamil Nadu Minister P Viswanathan meets Telangana CM Revanth Reddy in Hyderabad - The News Mill",
+        "Telangana CM congratulates NIMS doctors for 2,000 kidney transplants milestone - The News Mill",
+        "Telangana BJP unit pitches for Godavari-Cauvery river interlinking project - Telangana Today",
+        "No One Can Reject PM Modi’s Offer: Dharmapuri Arvind - INDToday",
+        "BRS demands urgent paddy procurement by May 31 - Telangana Today"
       ]
     }
   }
