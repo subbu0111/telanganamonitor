@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T13:28:09.999Z",
-    "timestampIST": "24/4/2026, 6:58:09 pm",
-    "executiveSummary": "<p>An RTC driver, Shankar Goud, died by self-immolation amid an ongoing RTC strike, leading to political accusations against the Revanth Reddy government. (5, 7, 10, 16) The government announced Rs 10 lakh ex gratia for the family. (6) Tension is escalating in Warangal as RTC workers demand the deceased driver's remains be taken to the bus depot. (15) The government has invited unions for talks today. (17)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>An RTC driver, Shankar Goud, died by self-immolation amid an ongoing RTC strike, leading to political accusations against the Revanth Reddy government. (5, 7, 10, 16) The government announced Rs 10 lakh ex gratia for the family. (6) Tension is escalating in Warangal as RTC workers demand the deceased driver's remains be taken to the bus depot. (15) The government has invited unions for talks today. (17)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Potential for increased unrest and protests in Warangal and other areas due to the RTC driver's death and the ongoing strike. (15, 17)</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Escalation of political tensions and accusations against the government by BJP and BRS. (2, 7, 10, 16)</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Potential for disruption of public transport services due to the RTC strike. (17)</li>\n    <li><span class=\"risk-low\">LOW</span>: Public criticism and scrutiny of the government's handling of the RTC driver's death. (12, 18, 19, 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The RTC driver's death (5) is directly linked to the ongoing RTC strike (17), creating a volatile situation.</li>\n    <li>The death has triggered a political blame game (2, 7, 10, 16), with opposition parties targeting the Revanth Reddy government.</li>\n    <li>The government's offer of ex gratia (6) and invitation for talks (17) are direct responses to the crisis.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure adequate security and law enforcement presence in Warangal to manage potential protests and unrest. (15)</li>\n    <li>Monitor the ongoing talks with RTC unions closely and be prepared for various outcomes. (17)</li>\n    <li>Prepare a public statement addressing the RTC driver's death and the government's response to mitigate negative public perception. (18, 19, 20)</li>\n    <li>Coordinate with the police to monitor and manage the situation at the bus depot in Warangal. (15)</li>\n    <li>Prepare for potential legal challenges related to the invocation of UAPA. (14)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Warangal:</b> Immediate attention is required due to escalating tensions and the demand to take the deceased driver's remains to the bus depot. (15)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "34.3°C",
-      "humidity": "27%",
-      "wind": "2.3 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 77,
-      "pm25": 36,
-      "goldPerGram": "₹9,077",
-      "newsCount": 45,
-      "topHeadlines": [
-        "Telangana | Revanth's temple revamp - India Today",
-        "BJP accuses Telangana government of negligence after RTC driver suicide - The News Mill",
-        "Telangana Plans Mega Eco-Town Near Hyderabad On 494 Acres At Banda Raviryala - ETV Bharat",
-        "Etela Rajender Warns Revanth Reddy Over RTC Strike Compares with KCR Outcome - The South India Times",
-        "RTC driver who set himself ablaze during strike dies; CM Revanth Reddy assures support to family - Mathrubhumi English"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-24T15:10:18.989Z",
     "timestampIST": "24/4/2026, 8:40:18 pm",
     "executiveSummary": "<p>Telangana Police invoked UAPA to trace the TeluguScribe handle. (1, 17) CV Anand is set to become the new DGP. (2) An RTC driver's self-immolation has led to a political row, with BRS and BJP alleging murder by the Revanth Reddy government. (8, 10, 13, 19) The government has announced Rs 10 lakh ex gratia for the deceased driver's family. (9)</p>",
@@ -5860,6 +5837,29 @@
         "NETAS NATTER | Revanth’s Hall of Wisdom, the Font of Ideas - Deccan Chronicle",
         "Telangana Cabinet Approves Mid-Day Meal Scheme In Junior Colleges - ETV Bharat",
         "CM lays foundation stone for development works worth Rs 99.55 crore at Yadadri temple - The New Indian Express"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-24T13:39:20.908Z",
+    "timestampIST": "24/5/2026, 7:09:20 pm",
+    "executiveSummary": "<p>The Telangana government is facing criticism regarding power sector privatization and procurement irregularities. The Cabinet approved a Mid-Day Meal Scheme in Junior Colleges and breakfast/midday meals in all government schools and junior colleges. Two murders and 16 heat-related deaths in the state are reported.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is facing criticism regarding power sector privatization and procurement irregularities. The Cabinet approved a Mid-Day Meal Scheme in Junior Colleges and breakfast/midday meals in all government schools and junior colleges. Two murders and 16 heat-related deaths in the state are reported.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Safety:</span> Two murders reported in Telangana, raising law and order concerns. (Headline 14)</li>\n    <li><span class=\"risk-high\">Public Health:</span> 16 deaths confirmed due to intense heat, with a heatwave warning in 12 districts. (Headlines 9, 13)</li>\n    <li><span class=\"risk-medium\">Political Instability:</span> Accusations of privatization attempts and procurement irregularities against the government. (Headlines 1, 2)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The government's focus on school infrastructure (Headline 15) and the approval of the Mid-Day Meal Scheme (Headline 7, 11) indicates a focus on social welfare.</li>\n    <li>Kishan Reddy's statements on renewable energy (Headline 3, 10) highlight the Centre's interest in green energy investment in Telangana.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to investigate the two reported murders and enhance law enforcement presence in affected areas. (Headline 14)</li>\n    <li>Issue immediate public health advisories and deploy resources to mitigate the impact of the heatwave in the 12 affected districts. (Headline 13)</li>\n    <li>Review and address the allegations of procurement irregularities and privatization attempts. (Headlines 1, 2)</li>\n    <li>Expedite the government's response to the Centre's offer of Rs 10,000-Crore Green Energy Investment. (Headline 10)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>12 Districts:</b> Immediate attention is required in the 12 districts under heatwave warning to address public health concerns. (Headline 13)</li>\n    <li><b>Areas with Reported Murders:</b> Law enforcement should focus on the areas where the two murders occurred to ensure public safety. (Headline 14)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35.1°C",
+      "humidity": "29%",
+      "wind": "7.5 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 50,
+      "pm25": 16.5,
+      "goldPerGram": "₹9,230",
+      "newsCount": 19,
+      "topHeadlines": [
+        "Jagadish Reddy charges Congress govt with attempting to privatise power sector through RDSS - Telangana Today",
+        "Niranjan Reddy alleges procurement irregularities, demands MSP for rain-damaged paddy - Telangana Today",
+        "Hyderabad Should Become A Renewable Energy Hub: Kishan Reddy - INDToday",
+        "BJP slams Telangana government over ‘non-serious’ approach to Godavari basin projects - The South First",
+        "No One Can Reject PM Modi’s Offer: Dharmapuri Arvind - INDToday"
       ]
     }
   }
