@@ -5862,5 +5862,28 @@
         "No One Can Reject PM Modi’s Offer: Dharmapuri Arvind - INDToday"
       ]
     }
+  },
+  {
+    "timestamp": "2026-05-24T15:05:39.543Z",
+    "timestampIST": "24/5/2026, 8:35:39 pm",
+    "executiveSummary": "<p>The Telangana government is facing scrutiny regarding paddy procurement and power sector privatization allegations (1, 2, 3). The Cabinet approved the Mid-Day Meal Scheme in Junior Colleges and breakfast/midday meals in schools (8, 12).  Law and order concerns are raised due to two reported murders (15).  A heatwave warning is in effect for 12 districts (14).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is facing scrutiny regarding paddy procurement and power sector privatization allegations (1, 2, 3). The Cabinet approved the Mid-Day Meal Scheme in Junior Colleges and breakfast/midday meals in schools (8, 12).  Law and order concerns are raised due to two reported murders (15).  A heatwave warning is in effect for 12 districts (14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public unrest</span>:  Allegations of procurement irregularities and demands for MSP for rain-damaged paddy could lead to protests (3).</li>\n    <li><span class=\"risk-high\">Health crisis</span>:  16 deaths have been confirmed due to intense heat, with a heatwave warning in effect for 12 districts (10, 14).</li>\n    <li><span class=\"risk-medium\">Law and Order</span>: Two murders reported, raising law and order concerns (15).</li>\n    <li><span class=\"risk-low\">Political Criticism</span>: BJP criticizing the government's approach to Godavari basin projects (5).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The heatwave (14) and the confirmed deaths (10) are directly correlated, indicating a public health emergency.</li>\n    <li>The Cabinet's approval of the Mid-Day Meal Scheme (8, 12) could be seen as a proactive measure in response to the heatwave and potential health concerns.</li>\n    <li>The BRS demanding urgent paddy procurement (1) and Niranjan Reddy alleging procurement irregularities (3) suggest potential issues in agricultural sector management.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Health Department to intensify heatwave mitigation efforts, focusing on the 12 districts under warning (14).</li>\n    <li>Instruct the Police Department to increase patrols and investigations in response to the reported murders (15).</li>\n    <li>Task the Agriculture Department to address the concerns regarding paddy procurement and MSP for rain-damaged crops (1, 3).</li>\n    <li>Review and expedite the implementation of the Mid-Day Meal Scheme and breakfast programs in schools and junior colleges (8, 12).</li>\n    <li>Assess the status of the Rs 10,000-Crore Green Energy Investment offer from the Centre (11).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>12 Districts under Heatwave Warning (14):</b> Prioritize these districts for immediate heatwave relief measures, including public health advisories, and ensuring access to water and medical assistance.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "33.7°C",
+      "humidity": "33%",
+      "wind": "8.1 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 45,
+      "pm25": 24.6,
+      "goldPerGram": "₹9,230",
+      "newsCount": 16,
+      "topHeadlines": [
+        "BRS demands urgent paddy procurement by May 31 - Telangana Today",
+        "Jagadish Reddy charges Congress govt with attempting to privatise power sector through RDSS - Telangana Today",
+        "Niranjan Reddy alleges procurement irregularities, demands MSP for rain-damaged paddy - Telangana Today",
+        "Hyderabad Should Become A Renewable Energy Hub: Kishan Reddy - INDToday",
+        "BJP slams Telangana government over ‘non-serious’ approach to Godavari basin projects - The South First"
+      ]
+    }
   }
 ]
