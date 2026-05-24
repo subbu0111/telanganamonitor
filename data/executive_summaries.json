@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T02:49:45.654Z",
-    "timestampIST": "24/4/2026, 8:19:45 am",
-    "executiveSummary": "<p>The Telangana government is facing a critical situation with the ongoing RTC strike, marked by suicide attempts by drivers and a bus driver setting himself ablaze (5, 14, 18). The Cabinet committee is scheduled to hold talks with the RTC JAC today (2). The CM and Irrigation Minister will meet with the CBI chief regarding the KLIS probe (1, 10, 11).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is facing a critical situation with the ongoing RTC strike, marked by suicide attempts by drivers and a bus driver setting himself ablaze (5, 14, 18). The Cabinet committee is scheduled to hold talks with the RTC JAC today (2). The CM and Irrigation Minister will meet with the CBI chief regarding the KLIS probe (1, 10, 11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Unrest:</span> The RTC strike, coupled with suicide attempts and a driver setting himself ablaze, poses a significant risk of escalating public unrest and potential law and order issues. (5, 14, 18)</li>\n    <li><span class=\"risk-medium\">Political Instability:</span> The ongoing Kaleshwaram project probe and the High Court's findings could lead to political repercussions and challenges for the government. (1, 9, 10, 11, 19)</li>\n    <li><span class=\"risk-medium\">Financial Strain:</span> The government's decision to slash ministers' salaries by 50% to clear pension dues indicates financial constraints and potential dissatisfaction among government officials. (3, 7)</li>\n    <li><span class=\"risk-low\">Information Security:</span> The Telangana police issuing a notice to X seeking information on the news handle TeluguScribe suggests a potential concern over information dissemination. (20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The RTC strike (5, 8, 14, 18) is directly impacting commuters and prompting government intervention, including talks with the RTC JAC (2, 16).</li>\n    <li>The Kaleshwaram project probe (1, 10, 11) is linked to the High Court's findings (9, 19), with the CM and others meeting with the CBI director.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize de-escalation of the RTC strike through immediate and effective communication with the RTC JAC and workers. (2, 5, 16)</li>\n    <li>Ensure the safety and well-being of RTC drivers and provide necessary support. (5, 14, 18)</li>\n    <li>Expedite the meeting with the CBI director to address the Kaleshwaram project probe. (1, 10, 11)</li>\n    <li>Monitor public sentiment and social media activity related to the RTC strike and the Kaleshwaram project. (5, 8, 14, 18, 20)</li>\n    <li>Prepare a communication strategy to address public concerns regarding the ministers' salary cuts and pension dues. (3, 7)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>Focus immediate attention on districts experiencing significant disruption due to the RTC strike. Monitor districts where the Kaleshwaram project has a major presence, anticipating potential political fallout. (5, 8, 14, 18)</p>\n```",
-    "dataSnapshot": {
-      "temperature": "29.7°C",
-      "humidity": "54%",
-      "wind": "9.7 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 76,
-      "pm25": 39.1,
-      "goldPerGram": "₹9,077",
-      "newsCount": 41,
-      "topHeadlines": [
-        "Telangana CM, Irrigation Minister to take up KLIS probe with CBI chief - The New Indian Express",
-        "Cabinet committee to hold talks with RTC JAC today - The Hans India",
-        "Telangana To Slash Ministers’ Salaries By 50% To Clear Pension Dues - News18",
-        "Retired employees to get their benefits in 100 days - The Hans India",
-        "Telangana RTC Strike: 3 Drivers Attempt Suicide, Govt To Hold Talks Today As Commuters Struggle - News18"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-24T06:09:22.229Z",
     "timestampIST": "24/4/2026, 11:39:22 am",
     "executiveSummary": "<p>The Telangana government is facing a crisis due to a TGSRTC strike following the death of a driver who set himself ablaze. The government is holding talks with the RTC JAC today (#3, #16, #19). CM Revanth Reddy has expressed condolences and support to the deceased driver's family (#4, #5, #6, #9, #11). The government plans to cut ministers' salaries by 50% to clear pension dues and has set a 100-day plan to pay retired employees (#10, #17, #18, #20).</p>",
@@ -5837,6 +5814,29 @@
         "INTUC Welcomes Telangana Govt’s Minimum Wage Hike, Seeks Better Pay for Contract Workers - Deccan Chronicle",
         "Heatwave warning in 12 Telangana districts today, warm night conditions in eight districts - The Hindu",
         "Two murders shake Telangana; raise law and order concerns - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-24T03:49:32.949Z",
+    "timestampIST": "24/5/2026, 9:19:32 am",
+    "executiveSummary": "<p>The Telangana government confirmed 16 deaths due to heatstroke and announced ₹4 lakh ex gratia for each victim (1, 18). Two murders and a suspected targeted attack resulting in the death of a senior advocate in Hyderabad have raised law and order concerns (6, 11, 16, 19). Chief Minister Revanth Reddy launched development works worth approximately ₹200 crore at Yadagirigutta (8, 17, 20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government confirmed 16 deaths due to heatstroke and announced ₹4 lakh ex gratia for each victim (1, 18). Two murders and a suspected targeted attack resulting in the death of a senior advocate in Hyderabad have raised law and order concerns (6, 11, 16, 19). Chief Minister Revanth Reddy launched development works worth approximately ₹200 crore at Yadagirigutta (8, 17, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Health Crisis:</span> 16 deaths due to heatstroke reported across the state (1, 18).</li>\n    <li><span class=\"risk-high\">Law and Order:</span> Two murders and a suspected targeted attack on a senior advocate in Hyderabad (6, 11, 16, 19).</li>\n    <li><span class=\"risk-medium\">Heatwave:</span> Heatwave warning issued for 12 districts today (5).</li>\n    <li><span class=\"risk-low\">Political:</span> K Kavitha placed four demands before the Telangana Cabinet meeting (15).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The heatwave (5) and the 16 heatstroke deaths (1, 18) represent a direct correlation, highlighting a critical public health issue.</li>\n    <li>The multiple incidents of violence, including two murders and a suspected targeted attack (6, 11, 16, 19), indicate a potential rise in law and order concerns.</li>\n    <li>The CM's launch of development works at Yadagirigutta (8, 17, 20) demonstrates continued government activity despite the crises.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Issue immediate directives to all district administrations to provide medical assistance and support to those affected by the heatwave.</li>\n    <li>Direct the DGP to enhance police presence and intensify investigations into the murders and the targeted attack in Hyderabad.</li>\n    <li>Review and expedite the implementation of the ex gratia payments to the families of the heatstroke victims.</li>\n    <li>Assess the current capacity of government hospitals and healthcare facilities to handle heatstroke cases.</li>\n    <li>Monitor the AQI and PM levels and issue public health advisories as needed.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>Immediate attention should be focused on the 12 districts under heatwave warning (5). Specific focus should be given to Hyderabad due to the reported incidents of violence (6, 11, 16, 19).</p>\n```",
+    "dataSnapshot": {
+      "temperature": "32.5°C",
+      "humidity": "53%",
+      "wind": "17.2 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 61,
+      "pm25": 16.8,
+      "goldPerGram": "₹9,230",
+      "newsCount": 28,
+      "topHeadlines": [
+        "Telangana government confirms 16 deaths in state due to intense heat - The New Indian Express",
+        "Centre Ready With Rs 10,000-Crore Green Energy Investment, Telangana Govt Yet To Respond: Kishan Reddy - Deccan Chronicle",
+        "Telangana Cabinet Approves Breakfast, Midday Meals in All Govt Schools, Jr Colleges - Deccan Chronicle",
+        "INTUC Welcomes Telangana Govt’s Minimum Wage Hike, Seeks Better Pay for Contract Workers - Deccan Chronicle",
+        "Heatwave warning in 12 Telangana districts today, warm night conditions in eight districts - The Hindu"
       ]
     }
   }
