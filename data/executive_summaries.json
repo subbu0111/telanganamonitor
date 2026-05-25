@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25T18:56:53.615Z",
-    "timestampIST": "26/4/2026, 12:26:53 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy flagged off Skyroot Aerospace's Vikram-1 rocket in Rangareddy, positioning Telangana as a global aerospace hub (5, 6, 12, 17, 20).  47 Maoists from Chhattisgarh surrendered in Telangana (7, 11).  The government granted an 11% pay hike to RTC employees (3).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy flagged off Skyroot Aerospace's Vikram-1 rocket in Rangareddy, positioning Telangana as a global aerospace hub (5, 6, 12, 17, 20).  47 Maoists from Chhattisgarh surrendered in Telangana (7, 11).  The government granted an 11% pay hike to RTC employees (3).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for unrest:</span>  The Babbar Khalsa is strategizing to radicalize rural Punjab and target urban areas (10).</li>\n    <li><span class=\"risk-low\">Security:</span> 47 Maoist cadres surrendered in Telangana, indicating a weakening of the South Bastar network (7, 11).</li>\n    <li><span class=\"risk-low\">Political:</span> K. Kavitha launched a new party 'TRS' (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's actions regarding the RTC deal (2) and the pay hike (3) are likely to be viewed favorably by the TGSRTC Staff, Workers Union (18).</li>\n    <li>The launch of Vikram-1 (4, 6, 12, 17, 19, 20) highlights Telangana's focus on the aerospace sector, as stated by CM Revanth Reddy (5).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the activities of the newly formed 'TRS' party and assess its potential impact.</li>\n    <li>Increase vigilance in urban areas, given the Babbar Khalsa's new strategy (10).</li>\n    <li>Review security protocols in areas where Maoist activity was previously reported, given the recent surrender (7, 11).</li>\n    <li>Prepare for potential media coverage and public statements regarding the Vikram-1 launch and its implications for Telangana's aerospace sector.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Rangareddy:</b>  Focus on security and logistics related to the Vikram-1 launch (6, 17, 20).</li>\n    <li><b>Areas bordering Chhattisgarh:</b>  Maintain heightened security and intelligence gathering in light of the Maoist surrender (7, 11).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30.8°C",
-      "humidity": "36%",
-      "wind": "7.4 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 77,
-      "pm25": 35.3,
-      "goldPerGram": "₹9,091",
-      "newsCount": 41,
-      "topHeadlines": [
-        "Telangana Neta Natter | Revanth’s Breakfast Gives BJP Acidity - Deccan Chronicle",
-        "Telangana: Congress leaders laud CM Revanth Reddy after RTC deal win - Asianet Newsable",
-        "Telangana government grants 11% pay hike to RTC employees - The News Mill",
-        "Skyroot flags-off Vikram-1, India’s first private orbital launch soon - The Indian Express",
-        "Revanth: Telangana Poised to Become Global Leader in Aerospace Sector - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-25T20:41:12.897Z",
     "timestampIST": "26/4/2026, 2:11:12 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy flagged off Skyroot Aerospace's Vikram-1 rocket in Rangareddy, Hyderabad, which is scheduled for launch later this year (5, 7, 13, 14, 18, 20). 47 Maoist cadres from Chhattisgarh surrendered to Telangana Police (8, 12).  CV Anand is set to become DGP as Shivadhar Reddy retires (10).</p>",
@@ -5791,6 +5768,29 @@
         "Telangana CM announces 100 acres of land for women groups to set up rice mills, warehouses and logistics parks - ANI News",
         "Empowering Women: Telangana CM's Vision for SHGs - Devdiscourse",
         "Revanth Slams Centre For Not Procuring Harvest Produce - Deccan Chronicle"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-25T19:43:14.984Z",
+    "timestampIST": "26/5/2026, 1:13:14 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is addressing crop procurement challenges, blaming the Centre for lack of support (5, 8, 9, 13, 19). The CM is also focused on the Musi rejuvenation project, which is expected to create jobs and improve life quality in Hyderabad (2, 17, 18). The government is allocating 100 acres for women-led rice mills and warehouses (6).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is addressing crop procurement challenges, blaming the Centre for lack of support (5, 8, 9, 13, 19). The CM is also focused on the Musi rejuvenation project, which is expected to create jobs and improve life quality in Hyderabad (2, 17, 18). The government is allocating 100 acres for women-led rice mills and warehouses (6).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Farmers are facing troubles selling crops (16), and there are procurement delays (14).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> The Centre is not cooperating in paddy procurement, according to the CM (19).</li>\n    <li><span class=\"risk-low\">LOW:</span> Opposition leaders Harish Rao and Sravan are criticizing the government (3, 11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on crop procurement (2, 5, 8, 9, 12, 13, 15, 19) and the allocation for women-led businesses (4, 6, 7) are both related to supporting the agricultural sector and empowering women.</li>\n    <li>The Musi rejuvenation project (2, 17, 18) is linked to job creation and improving the quality of life in Hyderabad.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize resolving crop procurement delays and assisting farmers in selling their produce.</li>\n    <li>Engage with the Central government to address the paddy procurement issue.</li>\n    <li>Monitor the progress of the Musi rejuvenation project and its impact on job creation.</li>\n    <li>Assess the impact of the 100-acre allocation for women-led rice mills and warehouses.</li>\n    <li>Address the concerns raised by opposition leaders regarding government performance.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Focus on districts experiencing crop procurement delays and where farmers are facing difficulties selling their crops. (14, 16)</li>\n    <li>Hyderabad: Monitor the progress of the Musi rejuvenation project. (17, 18)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30.2°C",
+      "humidity": "50%",
+      "wind": "9.7 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 64,
+      "pm25": 49,
+      "goldPerGram": "₹9,186",
+      "newsCount": 34,
+      "topHeadlines": [
+        "Telangana, Karnataka Agree to Resolve Krishna River Issues Amicably - Deccan Chronicle",
+        "CM apprises Left leaders on crop procurement, Musi rejuvenation project - The Times of India",
+        "Harish Demands Cut In State-Imposed VAT On Petrol, Diesel - Deccan Chronicle",
+        "Revanth Asks Women to Take up Bigger Businesses - Deccan Chronicle",
+        "Telangana government procures maize despite financial challenges, says CM Revanth Reddy - The News Mill"
       ]
     }
   }
