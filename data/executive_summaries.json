@@ -1,97 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T09:03:48.533Z",
-    "timestampIST": "26/4/2026, 2:33:48 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy flagged off India's first private orbital rocket, Vikram-1, for Sriharikota from Rangareddy. (11, 12, 13, 15, 16) The state government aims to become a global aerospace hub by 2047. (2, 10, 18) BJP leaders are alleging that CM Revanth Reddy is funding K Kavitha's Telangana Rashtra Sena to split votes. (6, 7, 8, 9)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy flagged off India's first private orbital rocket, Vikram-1, for Sriharikota from Rangareddy. (11, 12, 13, 15, 16) The state government aims to become a global aerospace hub by 2047. (2, 10, 18) BJP leaders are alleging that CM Revanth Reddy is funding K Kavitha's Telangana Rashtra Sena to split votes. (6, 7, 8, 9)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> BJP leaders are accusing CM Revanth Reddy of funding K Kavitha's new party, potentially leading to increased political tensions and challenges to the ruling party. (6, 7, 8, 9)</li>\n  <li><span class=\"risk-low\">Public Perception:</span> Allegations of political funding could negatively impact public perception of the government. (6, 7, 8, 9)</li>\n  <li><span class=\"risk-low\">Operational Challenges:</span> The launch of the Vikram-1 rocket is a high-profile event; any technical issues or delays could generate negative publicity. (11, 12, 13, 15, 16)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's focus on aerospace (10, 18) aligns with the launch of the Vikram-1 rocket (11, 12, 13, 15, 16), indicating a strategic push for technological advancement.</li>\n  <li>The BJP's allegations of funding (6, 7, 8, 9) could be linked to the upcoming census rollout (14), potentially creating an environment of mistrust.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor and address any potential fallout from the BJP's allegations regarding the funding of K Kavitha's party. (6, 7, 8, 9)</li>\n  <li>Ensure seamless execution of the Vikram-1 rocket launch and related events to maintain positive momentum. (11, 12, 13, 15, 16)</li>\n  <li>Prepare a public statement to address the BJP's allegations and clarify the government's position. (6, 7, 8, 9)</li>\n  <li>Monitor public sentiment regarding the upcoming census rollout. (14)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Rangareddy:</b> Immediate attention is required due to the CM flagging off the Vikram-1 rocket from this district. (16) Ensure security and logistical support for the event.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "39.3°C",
-      "humidity": "20%",
-      "wind": "7.7 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 69,
-      "pm25": 32.6,
-      "goldPerGram": "₹9,091",
-      "newsCount": 45,
-      "topHeadlines": [
-        "Pat Cummins hails Vaibhav Sooryavanshi as his ‘new favourite player’ after SRH win - Telangana Today",
-        "Telangana eyes top global aerospace spot by 2047 - The New Indian Express",
-        "Telangana to supply free sewing machines to 1,000 BC women per constituency - The Siasat Daily",
-        "Resolution of ‘Sadabainama’ land issues within 50 days, assures Ponguleti - The Hans India",
-        "Amid heatwave, four Telangana cities rank in world’s 100 hottest places - The Siasat Daily"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-26T10:48:46.715Z",
-    "timestampIST": "26/4/2026, 4:18:46 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy ordered the expansion of Prajavani services to the grassroots level (1, 2, 3, 4, 5). The CM also flagged off India's first private orbital rocket, Vikram-1, for Sriharikota (16, 17, 18, 20).  BJP leaders have alleged that CM Reddy is funding K Kavitha's Telangana Rashtra Sena to split votes (11, 12, 13, 14).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy ordered the expansion of Prajavani services to the grassroots level (1, 2, 3, 4, 5). The CM also flagged off India's first private orbital rocket, Vikram-1, for Sriharikota (16, 17, 18, 20).  BJP leaders have alleged that CM Reddy is funding K Kavitha's Telangana Rashtra Sena to split votes (11, 12, 13, 14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> Allegations of CM Reddy funding a rival political party (TRS) could lead to increased political tensions and potential disruptions. (11, 12, 13, 14)</li>\n  <li><span class=\"risk-low\">Public Grievance Backlog:</span>  Expansion of Prajavani services indicates a focus on grievance redressal, suggesting potential for existing backlogs or public dissatisfaction. (1, 2, 3, 4, 5)</li>\n  <li><span class=\"risk-low\">Heatwave Impact:</span> Four Telangana cities are among the world's 100 hottest places, potentially impacting public health and infrastructure. (10)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The expansion of Prajavani services (1, 2, 3, 4, 5) indicates the government's focus on addressing citizen grievances, potentially related to land issues (9).</li>\n  <li>The CM's focus on aerospace (7, 15) is highlighted by the launch of the Vikram-1 rocket (16, 17, 18, 20), showcasing the state's ambition in the sector.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the political situation closely, especially regarding the allegations of CM Reddy's involvement with TRS. (11, 12, 13, 14)</li>\n  <li>Ensure efficient implementation of the Prajavani expansion to address grievances effectively. (1, 2, 3, 4, 5)</li>\n  <li>Assess and mitigate the impact of the ongoing heatwave in affected cities. (10)</li>\n  <li>Provide support and resources for the census rollout starting today. (19)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>Focus on districts with high temperatures, as four cities are among the world's hottest. (10)</li>\n  <li>Monitor districts where the Prajavani services are being expanded to ensure effective implementation. (1, 2, 3, 4, 5)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "38°C",
-      "humidity": "22%",
-      "wind": "11.1 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 70,
-      "pm25": 34.2,
-      "goldPerGram": "₹9,091",
-      "newsCount": 44,
-      "topHeadlines": [
-        "Prajavani services to be extended to grassroots in Telangana: CM Reddy| India News - Hindustan Times",
-        "CM Revanth Reddy calls for expansion of Prajavani Services - The Hans India",
-        "Telangana to Take \"Prajavani\" to Doorsteps, CM Revanth Reddy warns 'no delays' - NewsMeter",
-        "Extend Prajavani to revenue division level and mandal level for speedy grievance redressal: CM - The Hindu",
-        "Telangana CM orders expansion of Praja Vani to grassroots level - siasat.com"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-26T13:11:36.627Z",
-    "timestampIST": "26/4/2026, 6:41:36 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy has initiated self-enumeration for the 2027 Census. The CM has also ordered the expansion of Prajavani services to the grassroots level across Telangana. A 19-year-old pillion rider was killed in a road accident in Hyderabad.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has initiated self-enumeration for the 2027 Census. The CM has also ordered the expansion of Prajavani services to the grassroots level across Telangana. A 19-year-old pillion rider was killed in a road accident in Hyderabad.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BJP leaders claim CM Revanth Reddy is funding K Kavitha's party to split BRS votes. (Headlines 19, 20)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A 19-year-old was killed in a road accident in Hyderabad. (Headline 1)</li>\n    <li><span class=\"risk-low\">Public Health:</span> Four Telangana cities are among the world’s 100 hottest places amid a heatwave. (Headline 18)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's participation in the Census 2027 self-enumeration (Headlines 3, 5, 6, 7, 8) and the expansion of Prajavani services (Headlines 2, 9, 10, 11, 12, 13) demonstrate the government's focus on citizen engagement and data collection.</li>\n    <li>The BJP's claims regarding CM Revanth Reddy's alleged funding of K Kavitha's party (Headlines 19, 20) could potentially impact the political landscape.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political situation closely, particularly regarding the allegations of CM funding K Kavitha's party.</li>\n    <li>Ensure the effective and timely implementation of the Prajavani expansion to the grassroots level.</li>\n    <li>Review and enhance road safety measures in Hyderabad and other urban areas.</li>\n    <li>Issue public health advisories and support measures for citizens in the face of the ongoing heatwave.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the reported road accident (Headline 1).</li>\n    <li><b>All Districts:</b> Focus on implementing Prajavani services at the grassroots level (Headlines 2, 9, 10, 11, 12, 13).</li>\n    <li><b>All Districts:</b> Monitor and provide support to citizens during the heatwave (Headline 18).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35.7°C",
-      "humidity": "26%",
-      "wind": "10.4 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 64,
-      "pm25": 46,
-      "goldPerGram": "₹9,091",
-      "newsCount": 46,
-      "topHeadlines": [
-        "19-year-old pillion rider killed in road accident in Hyderabad - Telangana Today",
-        "Prajavani services to be extended at grassroots level across Telangana - The Hans India",
-        "Telangana CM Revanth Reddy completes self-enumeration for Census 2027 - The Hans India",
-        "Bandi Sanjay Counters Revanth Reddy on Delimitation - INDToday",
-        "Census 2027: CM Revanth Reddy kicks off self-enumeration in Telangana - Asianet Newsable"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-26T14:46:51.864Z",
-    "timestampIST": "26/4/2026, 8:16:51 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy has initiated self-enumeration for the Census 2027 and is pushing for the expansion of Prajavani services to the grassroots level across Telangana (4, 6, 7, 8, 9, 10, 11, 12, 13, 14). A 19-year-old was killed in a road accident in Hyderabad (2).  KTR predicts BRS will come to power in the next elections (1).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has initiated self-enumeration for the Census 2027 and is pushing for the expansion of Prajavani services to the grassroots level across Telangana (4, 6, 7, 8, 9, 10, 11, 12, 13, 14). A 19-year-old was killed in a road accident in Hyderabad (2).  KTR predicts BRS will come to power in the next elections (1).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BJP leader claims CM Revanth Reddy is funding K Kavitha's Telangana Rashtra Sena to split votes (20).</li>\n    <li><span class=\"risk-medium\">Public Grievance Backlog:</span>  Expansion of Prajavani services is being prioritized, suggesting existing issues with grievance redressal (3, 10, 11, 12, 13, 14).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A 19-year-old pillion rider was killed in a road accident in Hyderabad (2).</li>\n    <li><span class=\"risk-low\">Environmental Concerns:</span> Four Telangana cities are among the world’s 100 hottest places amid a heatwave (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on expanding Prajavani services (3, 10, 11, 12, 13, 14) suggests a potential need to address public grievances, which could be linked to political opposition or public dissatisfaction.</li>\n    <li>The CM's participation in the Census 2027 self-enumeration (4, 6, 7, 8, 9) indicates a focus on upcoming governmental initiatives.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the implementation and effectiveness of the Prajavani expansion at the revenue division and mandal levels (13).</li>\n    <li>Assess the veracity of the BJP leader's claims regarding funding of K Kavitha's party and potential impact on political stability (20).</li>\n    <li>Review road safety measures in Hyderabad, following the reported fatal accident (2).</li>\n    <li>Prepare for potential public health challenges related to the ongoing heatwave (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Immediate attention is needed to address road safety concerns following the reported fatal accident (2).</li>\n    <li><b>All Districts:</b> Monitor the rollout of Prajavani services across all districts to ensure effective grievance redressal (3, 10, 11, 12, 13, 14).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35°C",
-      "humidity": "27%",
-      "wind": "6 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 64,
-      "pm25": 60.1,
-      "goldPerGram": "₹9,091",
-      "newsCount": 42,
-      "topHeadlines": [
-        "Next elections will see BRS come to power: KTR - Telangana Today",
-        "19-year-old pillion rider killed in road accident in Hyderabad - Telangana Today",
-        "Prajavani services to be extended at grassroots level across Telangana - The Hans India",
-        "Telangana CM Revanth Reddy completes self-enumeration for Census 2027 - The Hans India",
-        "Bandi Sanjay Counters Revanth Reddy on Delimitation - INDToday"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-26T16:47:41.838Z",
     "timestampIST": "26/4/2026, 10:17:41 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy has initiated self-enumeration for the 2027 Census and is urging public participation (6, 8, 9, 10, 11). The CM has also ordered the expansion of Prajavani services to the grassroots level (5, 12, 13, 14, 15).  Two fatal road accidents were reported in Hyderabad and Balanagar (1, 4).</p>",
@@ -5791,6 +5699,29 @@
         "Petrol Costliest In Telangana, Revanth Reddy Under Fire Over High Tax - NDTV",
         "Take on corporates with super bazaars: Telangana CM tells SHGs - The New Indian Express",
         "Centre not procuring even 30 per cent of crops, says Telangana CM - The New Indian Express"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-26T15:36:26.596Z",
+    "timestampIST": "26/5/2026, 9:06:26 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is under fire regarding high petrol taxes in Telangana (10). He is also facing criticism from the Centre regarding crop procurement (12, 19). The CM is encouraging women's self-help groups (SHGs) to establish businesses, including rice mills and super bazaars (9, 11, 18).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is under fire regarding high petrol taxes in Telangana (10). He is also facing criticism from the Centre regarding crop procurement (12, 19). The CM is encouraging women's self-help groups (SHGs) to establish businesses, including rice mills and super bazaars (9, 11, 18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public dissatisfaction over high petrol prices</span>: Petrol prices are the highest in Telangana, leading to criticism of CM Revanth Reddy (10, 17).</li>\n    <li><span class=\"risk-medium\">Tensions with the Central Government</span>: The CM is criticizing the Centre over crop procurement (12, 19).</li>\n    <li><span class=\"risk-low\">Financial challenges related to maize procurement</span>: The Telangana government is procuring maize despite financial challenges (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on supporting women's SHGs (9, 11, 18) could be linked to the government's broader economic strategy and efforts to address rural delivery issues (8).</li>\n    <li>The criticism of the Centre's crop procurement (12, 19) is connected to the CM's efforts to procure maize (20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Address public concerns regarding high petrol prices and consider options to mitigate the issue (10, 17).</li>\n    <li>Prepare a response to the Centre's crop procurement policies and proactively engage in discussions (12, 19).</li>\n    <li>Monitor the financial impact of the maize procurement efforts (20).</li>\n    <li>Review the progress of the Musi rejuvenation project (16).</li>\n    <li>Facilitate the establishment of rice mills, logistic parks, and super bazaars for women SHGs (9, 11, 18).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the headlines that require immediate attention. However, the focus on crop procurement (12, 19, 20) suggests a need to monitor agricultural districts.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31.5°C",
+      "humidity": "56%",
+      "wind": "6 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 62,
+      "pm25": 61.9,
+      "goldPerGram": "₹9,230",
+      "newsCount": 26,
+      "topHeadlines": [
+        "Telangana inter board introduces AI, QR codes and local dialect in new syllabus - Telangana Today",
+        "Osmania University awaits Rs 1,000 crore promised by CM Revanth Reddy: Principal - Telangana Today",
+        "World Yogasana Championship 2026 unveiled in New Delhi - Telangana Today",
+        "Telangana Women Get Super Bazaars, Rice Mills, 553 Buses - INDToday",
+        "Manipur’s new faultline: Why Kuki–Naga conflict needs a political solution - Telangana Today"
       ]
     }
   }
