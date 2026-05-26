@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T02:55:21.474Z",
-    "timestampIST": "26/4/2026, 8:25:21 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy flagged off India's first private orbital rocket Vikram-1 in Rangareddy. (3, 4, 7, 8) The Telangana government granted an 11% pay hike to RTC employees. (13) 47 Maoist cadres from Chhattisgarh surrendered to Telangana Police. (16, 20)  </p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy flagged off India's first private orbital rocket Vikram-1 in Rangareddy. (3, 4, 7, 8) The Telangana government granted an 11% pay hike to RTC employees. (13) 47 Maoist cadres from Chhattisgarh surrendered to Telangana Police. (16, 20)  </p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BJP leaders allege financial backing of K Kavitha by Revanth Reddy. (1, 5)</li>\n    <li><span class=\"risk-low\">Security Threat:</span> Babbar Khalsa is developing a new strategy to radicalize rural Punjab and hit urban targets. (19)</li>\n    <li><span class=\"risk-low\">Internal Security:</span> 47 Maoists surrendered in Telangana. (16, 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's actions regarding the Vikram-1 rocket (3, 4, 7, 8) align with the state's aim to become a global aerospace hub. (2, 9, 15)</li>\n    <li>The surrender of 47 Maoist cadres (16, 20) may indicate a weakening of the South Bastar network. (16)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political situation and allegations of financial backing. (1, 5)</li>\n    <li>Assess the potential impact of Babbar Khalsa's new strategy on Telangana. (19)</li>\n    <li>Review security protocols in urban areas. (19)</li>\n    <li>Monitor the progress of the census rollout. (6)</li>\n    <li>Prepare for the upcoming retirement of Shivadhar Reddy and the appointment of CV Anand as DGP. (18)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Rangareddy:</b> Due to the launch of Vikram-1 rocket. (8)</li>\n    <li><b>Areas bordering Chhattisgarh:</b> Monitor for potential spillover effects related to the surrender of Maoist cadres. (16, 20)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30.9°C",
-      "humidity": "45%",
-      "wind": "3.1 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 69,
-      "pm25": 21.3,
-      "goldPerGram": "₹9,091",
-      "newsCount": 43,
-      "topHeadlines": [
-        "BJP leader claims Revanth Reddy finances K Kavitha's TRS in Telangana - The News Mill",
-        "TG will emerge as ‘global leader’ in aerospace: CM - The Hans India",
-        "Telangana CM flags off India's first pvt orbital rocket Vikram-1 at Skyroot Aerospace - lokmattimes.com",
-        "Telangana CM flags off India’s first private orbital rocket Vikram-1 - The News Mill",
-        "BJP leader NV Subhash alleges Revanth Reddy is financially backing KCR’s daughter K Kavitha following TRS launch - KalingaTV"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-26T06:07:54.471Z",
     "timestampIST": "26/4/2026, 11:37:54 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy flagged off Skyroot Aerospace's Vikram-1 rocket from Rangareddy for Sriharikota (11, 12, 13, 15, 16). The CM also stated Telangana aims to become a global aerospace hub (17). BJP leaders are alleging that Revanth Reddy is funding K Kavitha's Telangana Rashtra Sena to split votes (6, 7, 8, 9).</p>",
@@ -5791,6 +5768,29 @@
         "Harish Demands Cut In State-Imposed VAT On Petrol, Diesel - Deccan Chronicle",
         "Revanth Asks Women to Take up Bigger Businesses - Deccan Chronicle",
         "Telangana government procures maize despite financial challenges, says CM Revanth Reddy - The News Mill"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-26T03:44:25.323Z",
+    "timestampIST": "26/5/2026, 9:14:25 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism regarding high petrol prices, with BRS and Harish Rao demanding a VAT cut (1, 7, 16). The CM is also engaged in disputes with the Centre over crop procurement, particularly maize, and is procuring crops despite a lack of central support (3, 9, 10, 14, 15, 18, 19). The CM is focusing on empowering women through SHGs and plans to support women-led businesses, including rice mills and warehouses (2, 8, 11, 12, 13).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism regarding high petrol prices, with BRS and Harish Rao demanding a VAT cut (1, 7, 16). The CM is also engaged in disputes with the Centre over crop procurement, particularly maize, and is procuring crops despite a lack of central support (3, 9, 10, 14, 15, 18, 19). The CM is focusing on empowering women through SHGs and plans to support women-led businesses, including rice mills and warehouses (2, 8, 11, 12, 13).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH</span>: Public dissatisfaction and potential protests due to high petrol prices, fueled by opposition demands for VAT reduction (1, 7, 16).</li>\n  <li><span class=\"risk-medium\">MEDIUM</span>: Continued disputes with the Centre over crop procurement, potentially impacting farmers and creating political friction (3, 9, 14, 15, 18, 19).</li>\n  <li><span class=\"risk-medium\">MEDIUM</span>: Criticism of the current government's performance by BRS, potentially leading to increased political pressure (1, 17).</li>\n  <li><span class=\"risk-low\">LOW</span>: Procurement delays and related apologies to farmers (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The criticism regarding high petrol prices (1, 7, 16) is directly linked to the opposition's demands for a VAT cut.</li>\n  <li>The CM's focus on crop procurement (3, 9, 10, 14, 15, 18, 19) is intertwined with the Centre's procurement policies.</li>\n  <li>The CM's initiatives to empower women (2, 8, 11, 12, 13) are a key policy focus.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Assess the feasibility of a VAT reduction on petrol and diesel to address public and opposition concerns (1, 7, 16).</li>\n  <li>Engage with the Centre to resolve crop procurement issues and secure adequate support for farmers (3, 9, 14, 15, 18, 19).</li>\n  <li>Prioritize the implementation of plans to support women-led businesses, including rice mills and warehouses (2, 8, 11, 12, 13).</li>\n  <li>Prepare a public statement addressing the criticism regarding petrol prices and crop procurement delays.</li>\n  <li>Monitor the political landscape for any potential protests or public demonstrations related to petrol prices or crop procurement.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific districts are mentioned in the headlines. However, focus should be given to districts with significant agricultural activity, particularly those involved in maize cultivation, to address crop procurement issues (3, 9, 10, 14, 15, 18, 19).</p>\n```",
+    "dataSnapshot": {
+      "temperature": "32.5°C",
+      "humidity": "46%",
+      "wind": "11 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 61,
+      "pm25": 20.2,
+      "goldPerGram": "₹9,186",
+      "newsCount": 34,
+      "topHeadlines": [
+        "Petrol Costliest In Telangana, Revanth Reddy Under Fire Over High Tax BRS Demands VAT Cut - NDTV",
+        "Take on corporates with super bazaars: Telangana CM tells SHGs - The New Indian Express",
+        "Centre not procuring even 30 per cent of crops, says Telangana CM - The New Indian Express",
+        "BRS government had approved smart meter plan in 2017, diverted funds: Officials - The New Indian Express",
+        "Telangana, Karnataka Agree to Resolve Krishna River Issues Amicably - Deccan Chronicle"
       ]
     }
   }
