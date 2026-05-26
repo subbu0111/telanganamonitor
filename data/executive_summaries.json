@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T16:47:41.838Z",
-    "timestampIST": "26/4/2026, 10:17:41 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy has initiated self-enumeration for the 2027 Census and is urging public participation (6, 8, 9, 10, 11). The CM has also ordered the expansion of Prajavani services to the grassroots level (5, 12, 13, 14, 15).  Two fatal road accidents were reported in Hyderabad and Balanagar (1, 4).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has initiated self-enumeration for the 2027 Census and is urging public participation (6, 8, 9, 10, 11). The CM has also ordered the expansion of Prajavani services to the grassroots level (5, 12, 13, 14, 15).  Two fatal road accidents were reported in Hyderabad and Balanagar (1, 4).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Safety:</span> Two fatal road accidents reported in Hyderabad and Balanagar (1, 4).</li>\n    <li><span class=\"risk-low\">Political:</span> BJP leader claims CM Revanth Reddy is funding K Kavitha's Telangana Rashtra Sena to split votes (20).</li>\n    <li><span class=\"risk-low\">Public Health:</span> Four Telangana cities are among the world’s 100 hottest places amid a heatwave (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's involvement in the Census 2027 self-enumeration (6, 8, 9, 10, 11) and the expansion of Prajavani services (5, 12, 13, 14, 15) could be seen as efforts to connect with the public and address their concerns.</li>\n    <li>The announcement of free sewing machines for BC women (18) could be seen as a welfare initiative.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the police to increase road safety measures in Hyderabad and Balanagar, focusing on accident-prone areas (1, 4).</li>\n    <li>Monitor public sentiment regarding the allegations of political funding (20).</li>\n    <li>Issue public health advisories regarding the heatwave and provide necessary support to the affected cities (19).</li>\n    <li>Ensure the effective implementation of the Prajavani expansion at the grassroots level (5, 12, 13, 14, 15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad and Balanagar:</b> Immediate attention needed due to the reported fatal road accidents (1, 4).</li>\n    <li><b>Cities experiencing extreme heat:</b> Monitor and provide support in the cities listed among the world's 100 hottest places (19).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "34°C",
-      "humidity": "29%",
-      "wind": "6.9 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 65,
-      "pm25": 66.8,
-      "goldPerGram": "₹9,091",
-      "newsCount": 37,
-      "topHeadlines": [
-        "Pedestrian killed in lorry accident at Balanagar - Telangana Today",
-        "Prof Kodandaram, Azharuddin nominated as MLCs under Governor’s quota - The Siasat Daily",
-        "Next elections will see BRS come to power: KTR - Telangana Today",
-        "19-year-old pillion rider killed in road accident in Hyderabad - Telangana Today",
-        "Prajavani services to be extended at grassroots level across Telangana - The Hans India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-26T18:58:23.406Z",
     "timestampIST": "27/4/2026, 12:28:23 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy has completed self-enumeration for the Census 2027 and is urging public participation. (8, 10, 11, 13, 14) KT Rama Rao and Bandi Sanjay have criticized Revanth Reddy. (1, 2, 3, 9) The CM has ordered the expansion of Prajavani services to the grassroots level. (12, 15, 16, 17, 18) Two fatal road accidents were reported in Hyderabad and Balanagar. (4, 7)</p>",
@@ -5722,6 +5699,29 @@
         "World Yogasana Championship 2026 unveiled in New Delhi - Telangana Today",
         "Telangana Women Get Super Bazaars, Rice Mills, 553 Buses - INDToday",
         "Manipur’s new faultline: Why Kuki–Naga conflict needs a political solution - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-26T18:28:00.598Z",
+    "timestampIST": "26/5/2026, 11:58:00 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered timely salary payments for gram panchayat staff (1, 2). The CM is facing criticism regarding high petrol prices in Telangana (12) and the Centre's crop procurement (14). The government is supporting women's SHGs in establishing rice mills, logistic parks, and super bazaars (6, 11, 13).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has ordered timely salary payments for gram panchayat staff (1, 2). The CM is facing criticism regarding high petrol prices in Telangana (12) and the Centre's crop procurement (14). The government is supporting women's SHGs in establishing rice mills, logistic parks, and super bazaars (6, 11, 13).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public dissatisfaction over high petrol prices in Telangana.</span> (12)</li>\n    <li><span class=\"risk-medium\">Potential for Centre-state conflict over crop procurement.</span> (14)</li>\n    <li><span class=\"risk-low\">Rural delivery issues for the Congress party.</span> (10)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on supporting women's SHGs with rice mills and super bazaars (6, 11, 13) aligns with the government's broader economic initiatives.</li>\n    <li>The CM's criticism of the Centre's crop procurement (14) highlights potential tensions between the state and central governments.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Address public concerns regarding high petrol prices. (12)</li>\n    <li>Develop a strategy to mitigate the impact of the Centre's crop procurement policies. (14)</li>\n    <li>Monitor the progress of the Musi rejuvenation project. (18)</li>\n    <li>Ensure timely disbursement of salaries to gram panchayat staff. (1, 2)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the headlines that require immediate attention.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30°C",
+      "humidity": "59%",
+      "wind": "7.4 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 66,
+      "pm25": 75.7,
+      "goldPerGram": "₹9,230",
+      "newsCount": 18,
+      "topHeadlines": [
+        "Revanth Reddy Ensures Timely Salaries for Panchayat Employees - Devdiscourse",
+        "Telangana CM orders timely salaries for gram panchayat staff on 1st of every month - ThePrint",
+        "Telangana inter board introduces AI, QR codes and local dialect in new syllabus - Telangana Today",
+        "Osmania University awaits Rs 1,000 crore promised by CM Revanth Reddy: Principal - Telangana Today",
+        "World Yogasana Championship 2026 unveiled in New Delhi - Telangana Today"
       ]
     }
   }
