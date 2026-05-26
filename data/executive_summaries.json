@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T18:58:23.406Z",
-    "timestampIST": "27/4/2026, 12:28:23 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy has completed self-enumeration for the Census 2027 and is urging public participation. (8, 10, 11, 13, 14) KT Rama Rao and Bandi Sanjay have criticized Revanth Reddy. (1, 2, 3, 9) The CM has ordered the expansion of Prajavani services to the grassroots level. (12, 15, 16, 17, 18) Two fatal road accidents were reported in Hyderabad and Balanagar. (4, 7)</p>",
-    "fullAnalysis": "```html\n<!DOCTYPE html>\n<html>\n<head>\n<title>Telangana Intelligence Briefing</title>\n<style>\n.risk-high { color: red; font-weight: bold; }\n.risk-medium { color: orange; }\n.risk-low { color: green; }\n</style>\n</head>\n<body>\n\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has completed self-enumeration for the Census 2027 and is urging public participation. (8, 10, 11, 13, 14) KT Rama Rao and Bandi Sanjay have criticized Revanth Reddy. (1, 2, 3, 9) The CM has ordered the expansion of Prajavani services to the grassroots level. (12, 15, 16, 17, 18) Two fatal road accidents were reported in Hyderabad and Balanagar. (4, 7)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Perception:</span> Criticism of CM Revanth Reddy by KT Rama Rao and Bandi Sanjay could negatively impact public perception. (1, 2, 3, 9)</li>\n    <li><span class=\"risk-low\">Road Safety:</span> Two fatal road accidents in Hyderabad and Balanagar highlight potential road safety concerns. (4, 7)</li>\n    <li><span class=\"risk-low\">Census 2027 Implementation:</span> Potential for delays or issues in the Census 2027 self-enumeration process, despite CM's participation. (8, 10, 11, 13, 14)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Political: Criticism of CM Revanth Reddy (1, 2, 3, 9) is occurring concurrently with his active participation in the Census 2027 (8, 10, 11, 13, 14).</li>\n    <li>Administrative: The CM's focus on expanding Prajavani services (12, 15, 16, 17, 18) indicates a priority on improving citizen services.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment regarding the criticisms leveled against CM Revanth Reddy.</li>\n    <li>Review and enhance road safety measures in Hyderabad and Balanagar.</li>\n    <li>Ensure effective implementation of the Census 2027 self-enumeration process, including public awareness campaigns.</li>\n    <li>Assess the logistical requirements and potential challenges associated with expanding Prajavani services to the grassroots level.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on road safety measures due to a reported fatal accident. (7)</li>\n    <li><b>Balanagar:</b> Focus on road safety measures due to a reported fatal accident. (4)</li>\n</ul>\n\n</body>\n</html>\n```",
-    "dataSnapshot": {
-      "temperature": "31.9°C",
-      "humidity": "36%",
-      "wind": "9.1 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 66,
-      "pm25": 49.2,
-      "goldPerGram": "₹9,091",
-      "newsCount": 35,
-      "topHeadlines": [
-        "Revanth Reddy criticising KCR just to get attention: BRS' KT Rama Rao - lokmattimes.com",
-        "KT Rama Rao accuses Revanth Reddy of seeking attention in Telangana - The News Mill",
-        "Revanth reddy suffers ‘Identity Crisis’: KTR - metroindia.net",
-        "Pedestrian killed in lorry accident at Balanagar - Telangana Today",
-        "Prof Kodandaram, Azharuddin nominated as MLCs under Governor’s quota - The Siasat Daily"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-26T20:41:19.953Z",
-    "timestampIST": "27/4/2026, 2:11:19 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy has completed self-enumeration for the upcoming Census 2027. (8, 10, 11, 13, 14) The Chief Minister has also ordered the expansion of Prajavani services to the grassroots level across Telangana. (12, 15, 16, 17, 18) Political rivals KT Rama Rao and Bandi Sanjay have criticized Revanth Reddy. (1, 2, 3, 9)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has completed self-enumeration for the upcoming Census 2027. (8, 10, 11, 13, 14) The Chief Minister has also ordered the expansion of Prajavani services to the grassroots level across Telangana. (12, 15, 16, 17, 18) Political rivals KT Rama Rao and Bandi Sanjay have criticized Revanth Reddy. (1, 2, 3, 9)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS leaders KT Rama Rao and Bandi Sanjay are actively criticizing CM Revanth Reddy, potentially escalating political tensions. (1, 2, 3, 9)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> Two fatal road accidents have occurred, one in Balanagar and another in Hyderabad. (4, 7)</li>\n    <li><span class=\"risk-low\">Service Delivery:</span> Potential for delays or challenges in the expansion of Prajavani services at the grassroots level. (12, 15, 16, 17, 18)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on Census 2027 self-enumeration (8, 10, 11, 13, 14) and the expansion of Prajavani services (12, 15, 16, 17, 18) demonstrate a focus on citizen engagement and data collection.</li>\n    <li>Political criticism from BRS (1, 2, 3, 6) suggests a potential for increased political activity and scrutiny of the current government's actions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor political discourse and public statements by BRS leaders for potential escalation of tensions.</li>\n    <li>Review and strengthen road safety measures in Hyderabad and Balanagar.</li>\n    <li>Ensure adequate resources and training for the effective implementation of the Prajavani expansion at the grassroots level.</li>\n    <li>Prepare a communication strategy to address any public concerns arising from political criticism.</li>\n    <li>Monitor the progress of Census 2027 self-enumeration and address any logistical challenges.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to a fatal road accident. (7)</li>\n    <li><b>Balanagar:</b> Due to a fatal road accident. (4)</li>\n    <li><b>All Districts:</b> To ensure effective implementation of the Prajavani expansion. (12, 15, 16, 17, 18)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.5°C",
-      "humidity": "55%",
-      "wind": "6.9 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 67,
-      "pm25": 33.1,
-      "goldPerGram": "₹9,091",
-      "newsCount": 36,
-      "topHeadlines": [
-        "Revanth Reddy criticising KCR just to get attention: BRS' KT Rama Rao - lokmattimes.com",
-        "KT Rama Rao accuses Revanth Reddy of seeking attention in Telangana - The News Mill",
-        "Revanth reddy suffers ‘Identity Crisis’: KTR - metroindia.net",
-        "Pedestrian killed in lorry accident at Balanagar - Telangana Today",
-        "Prof Kodandaram, Azharuddin nominated as MLCs under Governor’s quota - The Siasat Daily"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-26T22:41:09.788Z",
     "timestampIST": "27/4/2026, 4:11:09 am",
     "executiveSummary": "<p>No critical developments were reported in the last 24 hours.</p>",
@@ -5716,6 +5670,29 @@
       "pm25": 75.7,
       "goldPerGram": "₹9,230",
       "newsCount": 18,
+      "topHeadlines": [
+        "Revanth Reddy Ensures Timely Salaries for Panchayat Employees - Devdiscourse",
+        "Telangana CM orders timely salaries for gram panchayat staff on 1st of every month - ThePrint",
+        "Telangana inter board introduces AI, QR codes and local dialect in new syllabus - Telangana Today",
+        "Osmania University awaits Rs 1,000 crore promised by CM Revanth Reddy: Principal - Telangana Today",
+        "World Yogasana Championship 2026 unveiled in New Delhi - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-26T21:49:37.201Z",
+    "timestampIST": "27/5/2026, 3:19:37 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered timely salary payments for gram panchayat staff, effective the 1st of every month (1, 2). The CM is facing criticism regarding high petrol prices in Telangana and is in a dispute with the Centre over crop procurement (13, 15). The BJP is planning to inspect a procurement centre in Vikarabad (10).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has ordered timely salary payments for gram panchayat staff, effective the 1st of every month (1, 2). The CM is facing criticism regarding high petrol prices in Telangana and is in a dispute with the Centre over crop procurement (13, 15). The BJP is planning to inspect a procurement centre in Vikarabad (10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political:</span> BJP delegation to inspect Vikarabad procurement centre and challenge the Telangana government on farmers' issues (10).</li>\n  <li><span class=\"risk-medium\">Economic:</span> Criticism of high petrol prices in Telangana and Centre-state blame game on crop procurement (13, 15).</li>\n  <li><span class=\"risk-low\">Financial:</span> Osmania University awaiting Rs 1,000 crore promised by CM Revanth Reddy (4).</li>\n  <li><span class=\"risk-low\">Administrative:</span> Allegations of misdeeds by the previous BRS government in SCCL, with the Coal & Mines Minister demanding a probe (17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's order for timely salaries to gram panchayat staff (1, 2) could be linked to the ongoing Centre-state blame game (11) and potential financial strain.</li>\n  <li>The BJP's inspection of the Vikarabad procurement centre (10) is directly related to the CM's criticism of the Centre's crop procurement (15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Prepare a response to the BJP's inspection of the Vikarabad procurement centre, addressing potential challenges regarding farmer issues (10).</li>\n  <li>Address public concerns regarding high petrol prices (13).</li>\n  <li>Review the status of the Rs 1,000 crore promised to Osmania University (4).</li>\n  <li>Monitor the situation regarding the Centre's crop procurement and its impact on farmers (15).</li>\n  <li>Prepare a response to the Coal & Mines Minister's demand for a probe into the previous government's actions in SCCL (17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Vikarabad:</b> Due to the upcoming inspection by the BJP regarding procurement issues (10).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.8°C",
+      "humidity": "52%",
+      "wind": "11.2 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 69,
+      "pm25": 17,
+      "goldPerGram": "₹9,230",
+      "newsCount": 17,
       "topHeadlines": [
         "Revanth Reddy Ensures Timely Salaries for Panchayat Employees - Devdiscourse",
         "Telangana CM orders timely salaries for gram panchayat staff on 1st of every month - ThePrint",
