@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T17:24:57.249Z",
-    "timestampIST": "27/4/2026, 10:54:57 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy launched Spandana Teams to address drug-related crime and women/children emergencies (1, 11). The CM also announced plans for a new Health City in Future City and a Parliament-style transformation of the Telangana Assembly before the next session (4, 9, 15, 20). BRS is reconstituting party committees, facing criticism from CM Reddy who claims the party has no future (2, 5, 7, 19).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy launched Spandana Teams to address drug-related crime and women/children emergencies (1, 11). The CM also announced plans for a new Health City in Future City and a Parliament-style transformation of the Telangana Assembly before the next session (4, 9, 15, 20). BRS is reconstituting party committees, facing criticism from CM Reddy who claims the party has no future (2, 5, 7, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Ongoing criticism of BRS by CM Revanth Reddy and BRS's efforts to reconstitute party committees could lead to increased political tensions (2, 5, 7, 19).</li>\n    <li><span class=\"risk-low\">Public Perception:</span> The CM's statements regarding the BRS's future may influence public opinion (2, 7, 19).</li>\n    <li><span class=\"risk-low\">Operational Challenges:</span> The launch of Spandana Teams and the Indiramma housing scheme decentralization may present initial operational challenges (1, 11, 16, 18).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on drug cases (1, 3) and the launch of Spandana Teams (1, 11) indicates a coordinated effort to address crime and emergencies.</li>\n    <li>The CM's statements about the BRS (2, 7, 19) and the BRS's actions to reconstitute committees (5) suggest a heightened political rivalry.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the operational effectiveness of the newly launched Spandana Teams (1, 11).</li>\n    <li>Assess the progress of the Parliament-style transformation of the Assembly (9, 15, 20).</li>\n    <li>Monitor public sentiment regarding the political developments involving BRS (2, 5, 7, 19).</li>\n    <li>Review and support the decentralization of the Indiramma housing scheme (16, 18).</li>\n    <li>Ensure effective coordination between departments involved in the new Health City project (4).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Future City:</b> Monitor developments related to the new Health City project (4).</li>\n    <li><b>All Districts:</b> Monitor the implementation of the Indiramma housing scheme, as it has been decentralized (16, 18).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "32.8°C",
-      "humidity": "35%",
-      "wind": "7 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 67,
-      "pm25": 46.2,
-      "goldPerGram": "₹9,086",
-      "newsCount": 52,
-      "topHeadlines": [
-        "Revanth Reddy Launches Spandana Teams Against Drugs &amp; Crime - Deccan Chronicle",
-        "KCR orders KTR to reconstitute BRS committees, Revanth says ‘no future’ - The Siasat Daily",
-        "Telangana CM Reddy warns no leniency in drug cases | Hindustan Times - Hindustan Times",
-        "New Health City will be set up in upcoming Future City: CM Revanth Reddy - BusinessLine",
-        "BRS to appoint new party committees, intensify fight on people’s issues - Telangana Today"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-27T19:26:18.449Z",
-    "timestampIST": "28/4/2026, 12:56:18 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy announced the promotion of Hyderabad as a medical tourism hub and the establishment of a new Health City in Future City (Headlines 1, 2, 14). He also vowed to combat drug trafficking and abuse, stating no one, including celebrities, will be spared in drug cases (Headlines 8, 9, 13). The BRS is facing internal challenges, with KCR ordering KTR to reconstitute party committees, while Revanth Reddy declared the BRS \"dead\" (Headlines 10, 12, 17).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy announced the promotion of Hyderabad as a medical tourism hub and the establishment of a new Health City in Future City (Headlines 1, 2, 14). He also vowed to combat drug trafficking and abuse, stating no one, including celebrities, will be spared in drug cases (Headlines 8, 9, 13). The BRS is facing internal challenges, with KCR ordering KTR to reconstitute party committees, while Revanth Reddy declared the BRS \"dead\" (Headlines 10, 12, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS's internal issues and Revanth Reddy's strong statements against the party could escalate political tensions. (Headlines 10, 12, 17)</li>\n    <li><span class=\"risk-medium\">Public Perception:</span> The CM's statements on drug cases and the launch of Spandana Teams could lead to increased public scrutiny and expectations regarding law enforcement effectiveness. (Headlines 8, 9, 11, 13)</li>\n    <li><span class=\"risk-low\">Infrastructure Disruption:</span> Ongoing sewage line work in Yousufguda by HMWSSB may cause localized disruptions. (Headline 16)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on combating drug trafficking (Headlines 8, 9, 13) is directly linked to the launch of Spandana Teams (Headline 11).</li>\n    <li>The CM's statements on the BRS (Headlines 10, 17) are directly countered by BRS's efforts to reconstitute party committees (Headline 15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the BRS's activities and internal dynamics closely to assess potential political ramifications.</li>\n    <li>Ensure effective coordination and resource allocation for the Spandana Teams to address drug-related issues.</li>\n    <li>Publicly communicate the government's initiatives to combat drug abuse and the progress of the new Health City project to manage public perception.</li>\n    <li>Assess the impact of the ongoing sewage line work in Yousufguda and provide necessary support to minimize public inconvenience.</li>\n    <li>Review and prepare for the \"Parliament-Style\" transformation of the Telangana Assembly. (Headline 19)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on Hyderabad due to the CM's initiatives to promote it as a medical tourism hub and the ongoing sewage line work in Yousufguda. (Headlines 1, 2, 14, 16) Also, due to the CM's focus on drug cases. (Headlines 8, 9, 11, 13)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.9°C",
-      "humidity": "35%",
-      "wind": "8.3 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 67,
-      "pm25": 45.3,
-      "goldPerGram": "₹9,086",
-      "newsCount": 61,
-      "topHeadlines": [
-        "Govt to promote Hyderabad as medical tourism hub: T'gana CM - ABP News",
-        "Govt to promote Hyderabad as medical tourism hub: T’gana CM - ThePrint",
-        "Revanth Reddy Slam BJP on Women Reservation and Delimitation - INDToday",
-        "Telangana CM Revanth Reddy should maintain dignity of his office: BRS' KTR - lokmattimes.com",
-        "BRS urges Telangana CM Revanth Reddy to maintain office dignity - The News Mill"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-27T21:04:50.526Z",
     "timestampIST": "28/4/2026, 2:34:50 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy has vowed to combat drug trafficking and abuse, stating no one, including celebrities, will be spared in drug cases (2, 10, 11, 15). The government is pushing for a CBI probe into the Kaleshwaram project (1). The CM also announced plans to promote Hyderabad as a medical tourism hub and establish a new Health City in Future City (3, 4, 16).</p>",
@@ -5705,6 +5659,29 @@
         "Revanth Reddy writes letter to Maharashtra CM on Tummidihatti barrage - Telangana Today",
         "Revanth seeks talks with Maha on raising Tummidihatti barrage height - The Times of India",
         "T-Fiber push to bring high-speed internet to every Telangana village - The Hindu"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-27T20:20:41.603Z",
+    "timestampIST": "28/5/2026, 1:50:41 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy will launch a meal program for Inter students on June 12 (1). The government is procuring maize despite financial challenges (16). BRS staged a protest over procurement delays near the CM's native village, Kondareddypally (14).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will launch a meal program for Inter students on June 12 (1). The government is procuring maize despite financial challenges (16). BRS staged a protest over procurement delays near the CM's native village, Kondareddypally (14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for public unrest</span>: BRS protest over procurement delays near Kondareddypally (14).</li>\n    <li><span class=\"risk-medium\">Weather-related disruptions</span>: IMD issued an orange alert in nine Telangana districts today (15).</li>\n    <li><span class=\"risk-low\">Procurement challenges</span>: Government procuring maize despite financial challenges (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The government's focus on procuring rain-soaked paddy (5) and issuing rain safeguards for farmers (18) aligns with the IMD's orange alert (15).</li>\n    <li>The Hyderabad housing project targeting one lakh affordable homes (3, 10, 17) reflects the government's focus on housing programs.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in Kondareddypally and surrounding areas due to the BRS protest (14).</li>\n    <li>Activate disaster response protocols in the nine districts under the orange alert (15).</li>\n    <li>Ensure smooth procurement of maize and rain-soaked paddy (5, 16).</li>\n    <li>Review and expedite the Hyderabad housing project (3, 10, 17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>The nine districts under the IMD's orange alert require immediate attention to mitigate potential weather-related risks (15). Specific districts are not mentioned in the provided data.</p>\n```",
+    "dataSnapshot": {
+      "temperature": "27°C",
+      "humidity": "69%",
+      "wind": "10.8 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 44,
+      "pm25": 22.4,
+      "goldPerGram": "₹9,230",
+      "newsCount": 32,
+      "topHeadlines": [
+        "Revanth To Launch Meal For Inter Students on June 12 - Deccan Chronicle",
+        "Telangana housing programme triggers Ponguleti challenge - newsage.in",
+        "LIG houses Hyderabad project launched for one lakh affordable homes - newsage.in",
+        "Yadadri Bhuvanagiri Handloom Festival To Showcase 100 Pochampally Weavers - Deccan Chronicle",
+        "Rain-soaked paddy will be procured without fail, assures Uttam Kumar Reddy - Telangana Today"
       ]
     }
   }
