@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T10:19:35.842Z",
-    "timestampIST": "27/4/2026, 3:49:35 pm",
-    "executiveSummary": "<p>Mohammed Azharuddin and Prof. Kodandaram took oath as Telangana MLCs today. (1, 2, 5, 6, 8, 10, 11) A bus caught fire near Medak district. (17) Citizens protested CM Revanth Reddy’s convoy in Puppalguda. (12) Skyroot’s Vikram-1 rocket was flagged off by the Telangana CM for Sriharikota. (16)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Mohammed Azharuddin and Prof. Kodandaram took oath as Telangana MLCs today. (1, 2, 5, 6, 8, 10, 11) A bus caught fire near Medak district. (17) Citizens protested CM Revanth Reddy’s convoy in Puppalguda. (12) Skyroot’s Vikram-1 rocket was flagged off by the Telangana CM for Sriharikota. (16)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Discontent:</span> Citizens protested CM Revanth Reddy’s convoy in Puppalguda. (12)</li>\n    <li><span class=\"risk-medium\">Traffic Disruptions:</span> A techie died after a vehicle rammed a lorry in Narketpally. (18)</li>\n    <li><span class=\"risk-low\">Vehicle Incidents:</span> A bus caught fire near Medak district. (17)</li>\n    <li><span class=\"risk-low\">Political Criticism:</span> Political rivals are criticizing KCR. (19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The swearing-in of Azharuddin as an MLC (1, 2, 5, 6, 8, 10, 11) may be linked to the political commentary regarding Muslim votes. (3)</li>\n    <li>The CM's presence at the MLC oath-taking ceremony (8) and the protest against his convoy (12) indicate potential security concerns.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review security protocols for the CM's convoy, especially in areas where protests have occurred. (12)</li>\n    <li>Assess the cause of the bus fire near Medak district and implement preventative measures. (17)</li>\n    <li>Monitor public sentiment regarding the new MLCs and any related political commentary. (1, 2, 3, 5, 6, 8, 10, 11)</li>\n    <li>Ensure adequate traffic management and emergency response in Narketpally following the fatal accident. (18)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Medak District:</b> Requires immediate attention due to the bus fire incident. (17)</li>\n    <li><b>Narketpally:</b> Requires immediate attention due to the fatal accident. (18)</li>\n    <li><b>Puppalguda:</b> Monitor for potential escalation of public discontent following the protest against the CM's convoy. (12)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "40°C",
-      "humidity": "17%",
-      "wind": "10 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 71,
-      "pm25": 33.3,
-      "goldPerGram": "₹9,091",
-      "newsCount": 43,
-      "topHeadlines": [
-        "Azharuddin, Kodandaram Take Oath as MLCs - INDToday",
-        "Cricketer Azharuddin, Prof Kodandaram take oath as Telangana MLCs - The Siasat Daily",
-        "My MLC Nomination Is A Slap For BRS: Azhar Hits Back on Muslim Votes Jibe - Deccan Chronicle",
-        "Assembly Security Must Be Strengthened: Revanth Reddy - Deccan Chronicle",
-        "Mohammed Azharuddin, Kodanda Rama Reddy take oath as Telangana MLCs - Asianet Newsable"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-27T13:59:16.300Z",
     "timestampIST": "27/4/2026, 7:29:16 pm",
     "executiveSummary": "<p>The Telangana government launched SPANDANA Teams to respond to women and children emergencies (1). The Telangana Assembly is slated for an upgrade, modeled after the Indian Parliament (4, 8).  Mohammed Azharuddin and Prof. Kodandaram were sworn in as MLCs (9, 12, 13, 16, 17, 19).</p>",
@@ -5705,6 +5682,29 @@
         "Ponnam Prabhakar inaugurates 60 new electric buses in Hyderabad - Telangana Today",
         "New Chandigarh Weather Forecast, SRH vs RR: Will it rain during today's IPL match? Check New PCA Stadium pitch report - Firstpost",
         "Ensure 50,000 employees get salaries on first of every month: CM Revanth to Panchayat Raj Dept - NewsMeter"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-27T12:56:01.632Z",
+    "timestampIST": "27/5/2026, 6:26:01 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered high vigil due to rain threats and directed the Panchayat Raj Department to ensure 50,000 employees receive salaries on the first of every month (9, 8, 17, 18). The government allocated 100 acres for women-led rice mills and warehouses (16).  Hyderabad's Coempt Eduteck is under scrutiny (5).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has ordered high vigil due to rain threats and directed the Panchayat Raj Department to ensure 50,000 employees receive salaries on the first of every month (9, 8, 17, 18). The government allocated 100 acres for women-led rice mills and warehouses (16).  Hyderabad's Coempt Eduteck is under scrutiny (5).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential disruption due to rain.</span> Revanth Reddy has ordered high vigil amid rain threat (9).</li>\n    <li><span class=\"risk-medium\">Financial risk related to salary disbursement.</span> Ensuring timely salary payments to 50,000 employees in the Panchayat Raj Department is a key priority (8, 17, 18).</li>\n    <li><span class=\"risk-low\">Reputational risk related to educational institution.</span> Hyderabad's Coempt Eduteck is under scanner amid CBSE portal fiasco, conflict-of-interest charge (5).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on timely salaries (8, 17, 18) could be linked to the government's broader governance style, as suggested by ThePrint (11).</li>\n    <li>The weather updates for the SRH vs RR match in Chandigarh (3, 7, 10) highlight the potential impact of rain, which aligns with the CM's order for high vigil (9).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor weather patterns closely and ensure preparedness for potential rain-related disruptions.</li>\n    <li>Verify the implementation of the salary disbursement order to the Panchayat Raj Department.</li>\n    <li>Conduct a thorough investigation into the allegations against Coempt Eduteck.</li>\n    <li>Assess the progress of the Hyderabad Housing Project targeting one lakh LIG houses (1).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>All Districts:</b> Monitor weather conditions and ensure preparedness for potential rain-related disruptions, as per the CM's order (9).</li>\n</ul>\n```\n",
+    "dataSnapshot": {
+      "temperature": "33.7°C",
+      "humidity": "51%",
+      "wind": "5.8 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 62,
+      "pm25": 21.1,
+      "goldPerGram": "₹9,230",
+      "newsCount": 22,
+      "topHeadlines": [
+        "Hyderabad Housing Project Targets One Lakh LIG Houses - INDToday",
+        "Rain safeguards ordered for Telangana farmers - newsage.in",
+        "SRH vs RR Weather Updates of Chandigarh: Will rain affect IPL 2026 Eliminator? Check pitch report &amp; what h - The Economic Times",
+        "SRH vs RR Eliminator Playing 11: Check probable playing 11 and head-to-head for today's match - The Economic Times",
+        "Hyderabad's Coempt Eduteck under scanner amid CBSE portal fiasco, conflict-of-interest charge - India Today"
       ]
     }
   }
