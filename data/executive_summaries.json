@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T06:28:45.559Z",
-    "timestampIST": "27/4/2026, 11:58:45 am",
-    "executiveSummary": "<p>A private bus caught fire in Medak district (3, 17). A pedestrian was killed in a lorry accident at Balanagar (18). Prime Minister Modi is scheduled to visit Telangana on May 10 (11, 14). Political discourse continues with accusations of attention-seeking and identity crises among key political figures (5, 6, 7, 8, 15, 16).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A private bus caught fire in Medak district (3, 17). A pedestrian was killed in a lorry accident at Balanagar (18). Prime Minister Modi is scheduled to visit Telangana on May 10 (11, 14). Political discourse continues with accusations of attention-seeking and identity crises among key political figures (5, 6, 7, 8, 15, 16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Safety:</span> Bus fire in Medak district and a fatal accident in Balanagar raise concerns about road safety and potential for further incidents (3, 17, 18).</li>\n    <li><span class=\"risk-low\">Political Instability:</span> Ongoing political criticism and accusations of attention-seeking could escalate tensions (5, 6, 7, 8, 15, 16).</li>\n    <li><span class=\"risk-low\">Logistical Challenges:</span> Upcoming visit of PM Modi on May 10 requires significant security and logistical planning (11, 14).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The bus fire in Medak district (3, 17) and the fatal accident in Balanagar (18) both highlight potential vulnerabilities in public safety infrastructure.</li>\n    <li>Multiple news outlets report on the same political discourse regarding Revanth Reddy and KCR (5, 6, 7, 8, 15, 16), indicating a concentrated focus on this narrative.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to investigate the causes of the bus fire in Medak and the accident in Balanagar and implement immediate safety measures.</li>\n    <li>Task the relevant departments to prepare for the PM's visit on May 10, focusing on security and public order.</li>\n    <li>Monitor the political discourse and assess potential impacts on public sentiment and law and order.</li>\n    <li>Review and enhance road safety protocols across the state.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Medak District:</b> Immediate attention is required due to the bus fire incident (3, 17).</li>\n    <li><b>Balanagar:</b> Immediate attention is required due to the fatal accident (18).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "38°C",
-      "humidity": "22%",
-      "wind": "9.4 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 68,
-      "pm25": 26.3,
-      "goldPerGram": "₹9,091",
-      "newsCount": 32,
-      "topHeadlines": [
-        "OU celebrates 109th Foundation Day - The Hans India",
-        "Skyroot’s Vikram-1, India’s First Private Orbital Rocket, Flagged Off by Telangana CM for Sriharikota - Bisinfotech",
-        "Bus headed to Hyderabad catches fire near in Medak district - siasat.com",
-        "Techie dies in accident in Telangana - siasat.com",
-        "Political rivals criticise KCR solely to grab media attention, says KTR - The Hans India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-27T10:19:35.842Z",
     "timestampIST": "27/4/2026, 3:49:35 pm",
     "executiveSummary": "<p>Mohammed Azharuddin and Prof. Kodandaram took oath as Telangana MLCs today. (1, 2, 5, 6, 8, 10, 11) A bus caught fire near Medak district. (17) Citizens protested CM Revanth Reddy’s convoy in Puppalguda. (12) Skyroot’s Vikram-1 rocket was flagged off by the Telangana CM for Sriharikota. (16)</p>",
@@ -5705,6 +5682,29 @@
         "Telangana government allocates 100 acres for women-led rice mills and warehouses - The News Mill",
         "Revanth Reddy Ensures Timely Salaries for Panchayat Employees - Devdiscourse",
         "Telangana CM orders timely salaries for gram panchayat staff on 1st of every month - ThePrint"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-27T09:55:00.251Z",
+    "timestampIST": "27/5/2026, 3:25:00 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered the Panchayat Raj Department to ensure 50,000 employees receive their salaries on the first of every month (5, 16, 17). He also ordered high vigilance due to the rain threat (6). The IMD forecasts pre-monsoon rainfall for Telangana and Hyderabad (11).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has ordered the Panchayat Raj Department to ensure 50,000 employees receive their salaries on the first of every month (5, 16, 17). He also ordered high vigilance due to the rain threat (6). The IMD forecasts pre-monsoon rainfall for Telangana and Hyderabad (11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential disruption to government services</span>: The CM's order to ensure timely salaries for 50,000 employees (5, 16, 17) suggests a potential risk of delayed payments or administrative challenges.</li>\n    <li><span class=\"risk-medium\">Weather-related disruptions</span>: The forecast of pre-monsoon rainfall (11) necessitates high vigilance (6) to mitigate potential impacts on infrastructure and public safety.</li>\n    <li><span class=\"risk-low\">Financial strain</span>: Osmania University is awaiting ₹1,000 crore promised by the CM (19), which may pose a financial strain.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on timely salaries (5, 16, 17) could be linked to the implementation of new governance strategies (8).</li>\n    <li>The weather forecast (11) and the CM's order for high vigilance (6) are directly correlated, indicating a proactive approach to potential weather-related risks.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure the timely disbursement of salaries to the 50,000 employees as per the CM's directive (5, 16, 17).</li>\n    <li>Coordinate with relevant departments to implement rain safeguards for farmers (2).</li>\n    <li>Monitor the weather forecast closely and prepare for potential disruptions due to pre-monsoon rainfall (11).</li>\n    <li>Review the financial status of Osmania University and expedite the release of the promised funds (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad</b>: Requires attention due to the inauguration of 60 new electric buses (3) and the pre-monsoon rainfall forecast (11).</li>\n    <li><b>All districts</b>: Given the statewide pre-monsoon rainfall forecast (11), all districts require heightened vigilance and preparedness.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35.4°C",
+      "humidity": "40%",
+      "wind": "10.7 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 65,
+      "pm25": 19.2,
+      "goldPerGram": "₹9,230",
+      "newsCount": 23,
+      "topHeadlines": [
+        "Hyderabad Housing Project Targets One Lakh LIG Houses - INDToday",
+        "Rain safeguards ordered for Telangana farmers - newsage.in",
+        "Ponnam Prabhakar inaugurates 60 new electric buses in Hyderabad - Telangana Today",
+        "New Chandigarh Weather Forecast, SRH vs RR: Will it rain during today's IPL match? Check New PCA Stadium pitch report - Firstpost",
+        "Ensure 50,000 employees get salaries on first of every month: CM Revanth to Panchayat Raj Dept - NewsMeter"
       ]
     }
   }
