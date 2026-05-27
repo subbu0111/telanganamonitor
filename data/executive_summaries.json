@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T13:59:16.300Z",
-    "timestampIST": "27/4/2026, 7:29:16 pm",
-    "executiveSummary": "<p>The Telangana government launched SPANDANA Teams to respond to women and children emergencies (1). The Telangana Assembly is slated for an upgrade, modeled after the Indian Parliament (4, 8).  Mohammed Azharuddin and Prof. Kodandaram were sworn in as MLCs (9, 12, 13, 16, 17, 19).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government launched SPANDANA Teams to respond to women and children emergencies (1). The Telangana Assembly is slated for an upgrade, modeled after the Indian Parliament (4, 8).  Mohammed Azharuddin and Prof. Kodandaram were sworn in as MLCs (9, 12, 13, 16, 17, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Weather:</span> IMD predicts thunderstorms and potential relief from the heat in Hyderabad by evening (11, 18).</li>\n    <li><span class=\"risk-low\">Assembly Security:</span> Revanth Reddy stated that Assembly security must be strengthened (15).</li>\n    <li><span class=\"risk-low\">Political:</span> BRS's future in Telangana is questioned by Revanth Reddy (10).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The swearing-in of Azharuddin and Kodandaram as MLCs (9, 12, 13, 16, 17, 19) is directly linked to the political landscape and potentially impacts the BRS party (10, 14).</li>\n    <li>The CM's desire to upgrade the Assembly (4, 8) may require increased security measures, as highlighted by Revanth Reddy (15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor weather updates from IMD closely and prepare for potential thunderstorms in Hyderabad (11, 18).</li>\n    <li>Assess and enhance Assembly security measures, as per Revanth Reddy's statement (15).</li>\n    <li>Review the implementation of the Indiramma housing scheme, given the decentralization and acceleration efforts (5, 7).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor weather conditions and prepare for potential thunderstorms (11, 18).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "36.3°C",
-      "humidity": "25%",
-      "wind": "10.4 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 68,
-      "pm25": 45.4,
-      "goldPerGram": "₹9,091",
-      "newsCount": 47,
-      "topHeadlines": [
-        "Telangana launches SPANDANA Teams to respond to women, children emergencies - The Siasat Daily",
-        "India-New Zealand free trade agreement: An explainer - Telangana Today",
-        "India’s new online gaming rules 2026: What has changed? - Telangana Today",
-        "Telangana Assembly to be upgraded on lines of Indian Parliament: CM - Asianet Newsable",
-        "Telangana decentralises Indiramma housing scheme, more powers for Collectors - The Siasat Daily"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-27T17:24:57.249Z",
     "timestampIST": "27/4/2026, 10:54:57 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy launched Spandana Teams to address drug-related crime and women/children emergencies (1, 11). The CM also announced plans for a new Health City in Future City and a Parliament-style transformation of the Telangana Assembly before the next session (4, 9, 15, 20). BRS is reconstituting party committees, facing criticism from CM Reddy who claims the party has no future (2, 5, 7, 19).</p>",
@@ -5705,6 +5682,29 @@
         "SRH vs RR Weather Updates of Chandigarh: Will rain affect IPL 2026 Eliminator? Check pitch report &amp; what h - The Economic Times",
         "SRH vs RR Eliminator Playing 11: Check probable playing 11 and head-to-head for today's match - The Economic Times",
         "Hyderabad's Coempt Eduteck under scanner amid CBSE portal fiasco, conflict-of-interest charge - India Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-27T17:19:49.092Z",
+    "timestampIST": "27/5/2026, 10:49:49 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy extended Bakrid greetings and is focused on water resource management, writing to the Maharashtra CM regarding the Tummidihatti barrage (2, 3, 4, 7).</p>\n<p>The CM has ordered high vigilance due to rain threats and directed the Panchayat Raj Department to ensure timely salary disbursement to 50,000 employees (20, 19).</p>\n<p>Protests regarding procurement delays occurred near the CM's native village, Kondareddypally (10).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy extended Bakrid greetings and is focused on water resource management, writing to the Maharashtra CM regarding the Tummidihatti barrage (2, 3, 4, 7).</p>\n<p>The CM has ordered high vigilance due to rain threats and directed the Panchayat Raj Department to ensure timely salary disbursement to 50,000 employees (20, 19).</p>\n<p>Protests regarding procurement delays occurred near the CM's native village, Kondareddypally (10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Potential for Public Unrest:</span> BRS staged a protest over procurement delays near Kondareddypally (10).</li>\n    <li><span class=\"risk-medium\">Infrastructure Strain:</span> Nine districts are under an orange alert due to weather (12).</li>\n    <li><span class=\"risk-medium\">Agricultural Distress:</span> Rain-soaked paddy procurement is a concern (1, 14).</li>\n    <li><span class=\"risk-low\">Administrative Disruption:</span> Several MRO transfers are underway (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on water resources (Tummidihatti barrage) (3, 4, 7) is critical given the current weather conditions and rain alerts (12, 14).</li>\n    <li>The CM's directive to ensure timely salary disbursement (19) suggests a focus on maintaining administrative stability amidst potential challenges.</li>\n    <li>The BRS protest near Kondareddypally (10) highlights potential political sensitivities in the CM's native area, especially concerning procurement issues.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in the nine districts under the orange alert, ensuring disaster response protocols are in place (12).</li>\n    <li>Expedite the resolution of procurement delays, especially in areas near Kondareddypally, to mitigate public dissatisfaction (10).</li>\n    <li>Ensure effective communication with Maharashtra regarding the Tummidihatti barrage project (3, 4, 7).</li>\n    <li>Review and reinforce rain safeguards for farmers to protect crops (1, 14).</li>\n    <li>Monitor the implementation of the CM's directive regarding timely salary disbursement to 50,000 employees (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>Focus immediate attention on the nine districts under the orange alert (12). Monitor Kondareddypally and surrounding areas due to the BRS protest (10).</p>\n```",
+    "dataSnapshot": {
+      "temperature": "27.7°C",
+      "humidity": "64%",
+      "wind": "8.3 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 41,
+      "pm25": 31.1,
+      "goldPerGram": "₹9,230",
+      "newsCount": 29,
+      "topHeadlines": [
+        "Rain-soaked paddy will be procured without fail, assures Uttam Kumar Reddy - Telangana Today",
+        "CM Revanth Reddy Extends Heartfelt Bakrid Greetings to Muslims, Emphasizes Values of Sacrifice and... - Deccan Chronicle",
+        "Revanth Reddy writes letter to Maharashtra CM on Tummidihatti barrage - Telangana Today",
+        "Revanth seeks talks with Maha on raising Tummidihatti barrage height - The Times of India",
+        "T-Fiber push to bring high-speed internet to every Telangana village - The Hindu"
       ]
     }
   }
