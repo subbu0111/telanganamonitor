@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T02:58:06.236Z",
-    "timestampIST": "27/4/2026, 8:28:06 am",
-    "executiveSummary": "<p>Prime Minister Modi is scheduled to visit Telangana on May 10th. (2, 6) Chief Minister Revanth Reddy has initiated self-enumeration for the Census 2027. (13, 15, 16, 18, 19) The CM is also focusing on decentralizing 'Prajavani' services to the grassroots level. (3, 17, 20) Two fatal road accidents were reported in Balanagar and Hyderabad. (9, 12)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Prime Minister Modi is scheduled to visit Telangana on May 10th. (2, 6) Chief Minister Revanth Reddy has initiated self-enumeration for the Census 2027. (13, 15, 16, 18, 19) The CM is also focusing on decentralizing 'Prajavani' services to the grassroots level. (3, 17, 20) Two fatal road accidents were reported in Balanagar and Hyderabad. (9, 12)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public Safety:</span> Two fatal road accidents occurred in Balanagar and Hyderabad. (9, 12)</li>\n  <li><span class=\"risk-low\">Political Instability:</span> BRS and Bandi Sanjay are criticizing CM Revanth Reddy. (5, 7, 8, 14)</li>\n  <li><span class=\"risk-low\">Logistical Challenges:</span> Preparations for the Prime Minister's visit on May 10th may require significant logistical planning. (2, 6)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's focus on decentralizing 'Prajavani' services (3, 17, 20) could be linked to efforts to improve public engagement and address grievances at the local level.</li>\n  <li>The Prime Minister's visit (2, 6) may coincide with ongoing political tensions and criticisms of the current CM (4, 5, 7, 8, 14).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Review and enhance road safety measures in Balanagar and Hyderabad, where fatal accidents have occurred. (9, 12)</li>\n  <li>Assess and prepare for the logistical requirements of the Prime Minister's visit on May 10th. (2, 6)</li>\n  <li>Monitor the public response to the CM's self-enumeration for Census 2027 and the extension of 'Prajavani' services. (13, 15, 16, 18, 19, 3, 17, 20)</li>\n  <li>Monitor political statements from BRS and Bandi Sanjay. (5, 7, 8, 14)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Immediate attention is needed due to a fatal road accident. (12)</li>\n  <li><b>Balanagar:</b> Immediate attention is needed due to a fatal road accident. (9)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30.4°C",
-      "humidity": "47%",
-      "wind": "9.7 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 67,
-      "pm25": 22.4,
-      "goldPerGram": "₹9,091",
-      "newsCount": 29,
-      "topHeadlines": [
-        "Petrol, Diesel Prices Hiked On April 27? Check New Rates In Mumbai, Hyderabad, Kolkata, Chennai And More - NDTV Profit",
-        "PM Modi to visit TG on May 10 - The Hans India",
-        "CM for decentralising ‘Prajavani’ to grassroots level across state - The Hans India",
-        "Is CM Revanth ploughing a lonely furrow? - The Hans India",
-        "Revanth Reddy criticising KCR just to get attention: BRS' KT Rama Rao - India's News.Net"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-27T06:28:45.559Z",
     "timestampIST": "27/4/2026, 11:58:45 am",
     "executiveSummary": "<p>A private bus caught fire in Medak district (3, 17). A pedestrian was killed in a lorry accident at Balanagar (18). Prime Minister Modi is scheduled to visit Telangana on May 10 (11, 14). Political discourse continues with accusations of attention-seeking and identity crises among key political figures (5, 6, 7, 8, 15, 16).</p>",
@@ -5705,6 +5682,29 @@
         "Telangana CM orders timely salaries for gram panchayat staff on 1st of every month - ThePrint",
         "Telangana inter board introduces AI, QR codes and local dialect in new syllabus - Telangana Today",
         "Osmania University awaits Rs 1,000 crore promised by CM Revanth Reddy: Principal - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-27T04:00:34.775Z",
+    "timestampIST": "27/5/2026, 9:30:34 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is focusing on Cheyutha program delivery through banks. (1) The government has allocated 100 acres for women-led rice mills and warehouses. (3) The CM has ordered timely salary payments for gram panchayat staff. (4, 5)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focusing on Cheyutha program delivery through banks. (1) The government has allocated 100 acres for women-led rice mills and warehouses. (3) The CM has ordered timely salary payments for gram panchayat staff. (4, 5)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for political friction:</span> BJP delegation to inspect Vikarabad procurement centre and challenge Telangana government on farmers' issues. (13)</li>\n    <li><span class=\"risk-low\">Rural delivery challenges:</span> Rural delivery falters amid Centre-state blame game. (14)</li>\n    <li><span class=\"risk-low\">Osmania University funding:</span> Osmania University awaits Rs 1,000 crore promised by CM Revanth Reddy. (7)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The government's allocation of land for women-led rice mills and warehouses (3) aligns with the broader initiative to support women SHGs in setting up rice mills, logistic parks, and super bazaars. (15)</li>\n    <li>The CM's focus on timely salary payments for gram panchayat staff (4, 5) indicates a priority on administrative efficiency and employee welfare.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the BJP delegation's inspection of the Vikarabad procurement centre and prepare a response to any challenges raised. (13)</li>\n    <li>Ensure the timely release of funds to Osmania University as promised. (7)</li>\n    <li>Oversee the implementation of the Cheyutha program through banks. (1)</li>\n    <li>Track the progress of the allocation of land for women-led rice mills and warehouses. (3)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Vikarabad:</b> Due to the BJP delegation's planned inspection of the procurement centre. (13)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.9°C",
+      "humidity": "47%",
+      "wind": "14.9 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 53,
+      "pm25": 14.4,
+      "goldPerGram": "₹9,230",
+      "newsCount": 15,
+      "topHeadlines": [
+        "Cheyutha through banks, not post offices: CM Revanth Reddy - The New Indian Express",
+        "Express Exclusive | Kanugolu likely to join Revanth’s team - The New Indian Express",
+        "Telangana government allocates 100 acres for women-led rice mills and warehouses - The News Mill",
+        "Revanth Reddy Ensures Timely Salaries for Panchayat Employees - Devdiscourse",
+        "Telangana CM orders timely salaries for gram panchayat staff on 1st of every month - ThePrint"
       ]
     }
   }
