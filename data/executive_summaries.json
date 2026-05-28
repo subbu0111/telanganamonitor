@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28T17:48:48.748Z",
-    "timestampIST": "28/4/2026, 11:18:48 pm",
-    "executiveSummary": "<p>CV Anand has been appointed as the new Director General of Police (DGP) of Telangana, replacing Shivdhar Reddy (6, 10, 11). The Chief Minister (CM) is focused on the development of a \"Bharat Future City\" near Hyderabad, aiming for global standards (1, 3, 4). A BRS protest occurred in Choppadandi opposing new paddy procurement norms (9).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>CV Anand has been appointed as the new Director General of Police (DGP) of Telangana, replacing Shivdhar Reddy (6, 10, 11). The Chief Minister (CM) is focused on the development of a \"Bharat Future City\" near Hyderabad, aiming for global standards (1, 3, 4). A BRS protest occurred in Choppadandi opposing new paddy procurement norms (9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS is protesting new paddy procurement norms in Choppadandi (9). Harish Rao alleges phone tapping and hacking by Telangana Police and vows a probe if BRS returns to power (8).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A TGSRTC bus collided with a lorry in Medak, resulting in several injuries (12). A speeding water tanker killed a 25-year-old in a KPHB accident in Hyderabad (13).</li>\n    <li><span class=\"risk-low\">Security Breach:</span> A Hyderabad cop claims the CM's security is \"in my hands\" and can arrange meetings (18).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Kishan Reddy is requesting the CM to expedite road widening for Cherlapally and Secunderabad stations (5, 16), while also urging expansion of approach roads to railway stations (14).</li>\n    <li>The appointment of CV Anand as DGP (6, 10, 11) comes amid allegations of phone tapping and hacking by the police (8).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>DGP Anand should immediately address the allegations of phone tapping and hacking by the police (8).</li>\n    <li>Review and enhance security protocols following the claim by a Hyderabad cop regarding the CM's security (18).</li>\n    <li>Monitor the BRS protest in Choppadandi and assess potential for escalation (9).</li>\n    <li>Assess and address the safety concerns raised by the bus and water tanker accidents in Medak and KPHB, Hyderabad, respectively (12, 13).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Medak:</b> Immediate attention is needed due to the TGSRTC bus collision, which resulted in several injuries (12).</li>\n    <li><b>Hyderabad:</b> Focus on KPHB due to the fatal accident involving a water tanker (13). Also, address the security breach claim by a Hyderabad cop (18).</li>\n    <li><b>Choppadandi:</b> Monitor the BRS protest opposing new paddy procurement norms (9).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30.9°C",
-      "humidity": "46%",
-      "wind": "8.1 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 69,
-      "pm25": 48.4,
-      "goldPerGram": "₹9,120",
-      "newsCount": 49,
-      "topHeadlines": [
-        "Future City To Be Developed On Par With Singapore, Tokyo: Telangana CM - Ommcom News",
-        "Telangana CM Revanth Reddy says Future City land acquisition cannot be stopped - Telangana Today",
-        "CM Reddy plans ‘Bharat Future City’ as global hub near Hyderabad | Hindustan Times - Hindustan Times",
-        "Future City will have global standards: Revanth - The Hindu",
-        "Expedite land allotment for Cherlapally station, widen roads: Kishan Reddy to Revanth - The Times of India"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-28T19:44:00.325Z",
-    "timestampIST": "29/4/2026, 1:14:00 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy laid the foundation for Hyderabad's 'Future City' (1, 3, 6, 7). CV Anand has been appointed as the new Director General of Police (9, 14, 16). A TGSRTC bus collided with a lorry in Medak, resulting in injuries (15). BRS staged a protest in Choppadandi (13).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy laid the foundation for Hyderabad's 'Future City' (1, 3, 6, 7). CV Anand has been appointed as the new Director General of Police (9, 14, 16). A TGSRTC bus collided with a lorry in Medak, resulting in injuries (15). BRS staged a protest in Choppadandi (13).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Safety:</span> A TGSRTC bus collision in Medak resulted in injuries (15).</li>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS staged a protest in Choppadandi (13).</li>\n    <li><span class=\"risk-low\">Traffic Congestion:</span> Kishan Reddy urged road widening near Cherlapally and Secunderabad stations (8, 20).</li>\n    <li><span class=\"risk-low\">Public Health:</span> A 25-year-old was killed in a road accident in KPHB, Hyderabad (17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Kishan Reddy is requesting action from CM Revanth Reddy regarding road widening near railway stations (8, 20).</li>\n    <li>The appointment of CV Anand as DGP (9, 14, 16) occurs amidst political tensions, with Harish Rao alleging phone tapping by the police (12).</li>\n    <li>The CM is focused on the Future City project (1, 3, 6, 7), while also facing political opposition (5, 11, 13).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>DGP Anand should assess the situation in Medak following the bus collision and ensure appropriate support for the injured (15).</li>\n    <li>Monitor the BRS protest in Choppadandi and assess potential for escalation (13).</li>\n    <li>Review and expedite road widening projects near Cherlapally and Secunderabad stations (8, 20).</li>\n    <li>The CM should address the concerns raised by Harish Rao regarding phone tapping (12).</li>\n    <li>Ensure the safety and security of the Future City project (1, 3, 6, 7).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Medak:</b> Immediate attention is required due to the TGSRTC bus collision (15).</li>\n    <li><b>Choppadandi:</b> Monitor the BRS protest for potential unrest (13).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29.7°C",
-      "humidity": "50%",
-      "wind": "8.4 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 70,
-      "pm25": 48.4,
-      "goldPerGram": "₹9,120",
-      "newsCount": 47,
-      "topHeadlines": [
-        "From Yagna to global giant: Telangana CM Revanth Reddy lays foundation for Hyderabad's 'Future City' - ANI News",
-        "New Collector Prateek Jain makes surprise hospital visit in Narayankhed - Telangana Today",
-        "Future City To Be Developed On Par With Singapore, Tokyo: Telangana CM - Ommcom News",
-        "Telangana CM Revanth Reddy says Future City land acquisition cannot be stopped - Telangana Today",
-        "Revanth Slams BJP - metroindia.net"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-28T21:08:49.024Z",
     "timestampIST": "29/4/2026, 2:38:49 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy laid the stone for Future City and announced 3 bullet trains (1). He appealed to Maoist leader Ganapathi to surrender (3). CV Anand has been appointed as the new Director General of Police (11, 13, 17, 19).</p>",
@@ -5682,6 +5636,29 @@
         "Telangana Unveils Revolutionary Unified Card for Comprehensive Welfare Tracking - Devdiscourse",
         "Revanth Reddy hails NTR as a leader beyond politics - The Hindu",
         "Unified Card for every citizen of Telangana to track welfare benefits - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-28T20:25:48.297Z",
+    "timestampIST": "29/5/2026, 1:55:48 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy unveiled a statue of former Andhra Pradesh CM NTR in Hyderabad and paid tribute on his birth anniversary (3, 20). The CM announced a unified card for all Telangana citizens to track welfare benefits (5, 6, 8, 12, 13). Sunitha Lakshma Reddy criticized the Congress government regarding paddy procurement delays in Medak (9).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy unveiled a statue of former Andhra Pradesh CM NTR in Hyderabad and paid tribute on his birth anniversary (3, 20). The CM announced a unified card for all Telangana citizens to track welfare benefits (5, 6, 8, 12, 13). Sunitha Lakshma Reddy criticized the Congress government regarding paddy procurement delays in Medak (9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for Public Dissatisfaction:</span> Delays in paddy procurement in Medak, as reported by Sunitha Lakshma Reddy, could lead to farmer unrest (9).</li>\n    <li><span class=\"risk-low\">Political Criticism:</span> Criticism from Sunitha Lakshma Reddy regarding paddy procurement delays could be leveraged by political opponents (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The unveiling of NTR's statue (3, 20) and Revanth Reddy's statements about NTR's importance (1, 7) demonstrate a focus on legacy and political messaging.</li>\n    <li>The announcement of a unified welfare card (5, 6, 8, 12, 13) aligns with the CM's vision to transform Hyderabad into a global city (4, 11, 17).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Address the paddy procurement delays in Medak to mitigate farmer dissatisfaction and potential political fallout.</li>\n    <li>Expedite the implementation of the unified welfare card to ensure efficient tracking of welfare benefits.</li>\n    <li>Monitor public sentiment regarding the government's actions, particularly in light of the NTR statue unveiling and the unified card initiative.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Medak:</b> Immediate attention is required due to the reported delays in paddy procurement, as highlighted by Sunitha Lakshma Reddy (9).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.9°C",
+      "humidity": "60%",
+      "wind": "10.8 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 62,
+      "pm25": 33.9,
+      "goldPerGram": "₹9,230",
+      "newsCount": 33,
+      "topHeadlines": [
+        "Like Indiramma, NTR is equally important to us, says Revanth Reddy - Telangana Today",
+        "Unveiling Legacy: Tribute to NT Rama Rao by Telangana CM - Devdiscourse",
+        "Telangana CM Revanth Reddy unveils statue of former Andhra Pradesh CM NTR in Hyderabad - The News Mill",
+        "Revanth Unveils NTR Statue, Says Cong. Govt Will Transform Hyd Into a Global City With Future City... - Deccan Chronicle",
+        "Telangana to create unified card detailing all welfare benefits - The News Mill"
       ]
     }
   }
