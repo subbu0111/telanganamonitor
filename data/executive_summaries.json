@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28T03:26:56.206Z",
-    "timestampIST": "28/4/2026, 8:56:56 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is escalating efforts to secure a CBI probe into the Kaleshwaram project (2, 3, 10, 14). He is also planning to meet with the CBI director (2). The CM announced the launch of 'SPANDANA' teams to tackle drug-related offenses and vowed zero tolerance for drug-linked crimes (7, 8).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is escalating efforts to secure a CBI probe into the Kaleshwaram project (2, 3, 10, 14). He is also planning to meet with the CBI director (2). The CM announced the launch of 'SPANDANA' teams to tackle drug-related offenses and vowed zero tolerance for drug-linked crimes (7, 8).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> CM Revanth Reddy and KTR are exchanging accusations regarding governance and development (5, 6).</li>\n    <li><span class=\"risk-medium\">Public Health & Safety:</span> Five migrant workers died in a crane collapse at a manufacturing unit (12).</li>\n    <li><span class=\"risk-low\">Drug-related Crime:</span> The launch of SPANDANA teams indicates a focus on addressing drug-related offenses (7, 8, 15).</li>\n    <li><span class=\"risk-low\">Centre-State Relations:</span> PM Modi is scheduled to visit Telangana on May 10, and CM Revanth Reddy claims he was not informed (4).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's push for a CBI probe into the Kaleshwaram project (2, 3, 10, 14) is likely related to the ongoing political tensions between the Congress and BRS (1, 11, 19).</li>\n    <li>The CM's focus on Hyderabad as a medical tourism hub (13, 16) could be linked to the plans for a health city near Hyderabad airport (9).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the progress of the CBI probe request for the Kaleshwaram project and any developments in the CM's meeting with the CBI director (2, 3, 10, 14).</li>\n    <li>Ensure a thorough investigation into the crane collapse at the manufacturing unit and provide necessary support to the affected workers and their families (12).</li>\n    <li>Monitor the activities of the SPANDANA teams and provide necessary resources and support to combat drug-related crimes (7, 8, 15).</li>\n    <li>Prepare for PM Modi's visit on May 10 and assess the potential implications for Centre-State relations (4).</li>\n    <li>Assess the feasibility and implementation plan for the proposed health city near Hyderabad airport (9).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on the promotion of Hyderabad as a medical tourism hub and the development of the health city near the airport (9, 13, 16).</li>\n    <li><b>Areas with manufacturing units:</b> Review safety protocols and conduct inspections following the crane collapse (12).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "32°C",
-      "humidity": "41%",
-      "wind": "5 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 70,
-      "pm25": 32.2,
-      "goldPerGram": "₹9,086",
-      "newsCount": 66,
-      "topHeadlines": [
-        "CM dares KCR to swear on not joining hands with BJP in future - The Hans India",
-        "Telangana pushes for CBI probe into Kaleshwaram project; CM Revanth plans to meet agency director - NewsMeter",
-        "Telangana Pushes CBI Probe into Kaleshwaram Project Irregularities - RTV English",
-        "It’s Centre Vs state: PM Modi to visit Telangana on May 10; CM Revanth says `not informed’ - NewsMeter",
-        "From development to disorder: KTR blasts Congress governance; confronts Tejaswi Surya over - India's News.Net"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-28T06:30:50.771Z",
     "timestampIST": "28/4/2026, 12:00:50 pm",
     "executiveSummary": "<p>The Telangana government is actively pursuing a CBI probe into the Kaleshwaram Project (1, 8, 14, 15).  Prime Minister Modi is scheduled to visit Telangana on May 10th, with Chief Minister Revanth Reddy stating he was not informed (5, 16).  The Chief Minister launched SPANDANA teams to combat drug-related offenses (10, 18, 19).</p>",
@@ -5659,6 +5636,29 @@
         "LIG houses Hyderabad project launched for one lakh affordable homes - newsage.in",
         "Yadadri Bhuvanagiri Handloom Festival To Showcase 100 Pochampally Weavers - Deccan Chronicle",
         "Rain-soaked paddy will be procured without fail, assures Uttam Kumar Reddy - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-28T03:49:25.947Z",
+    "timestampIST": "28/5/2026, 9:19:25 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is seeking talks with the Maharashtra Chief Minister regarding the Tummidihatti barrage height (1, 3, 4, 16, 18, 20). The Telangana government will spend Rs 180 crore on meals for Intermediate students (7). The T-Fiber project aims to provide high-speed internet to rural Telangana (2, 5, 9, 17).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is seeking talks with the Maharashtra Chief Minister regarding the Tummidihatti barrage height (1, 3, 4, 16, 18, 20). The Telangana government will spend Rs 180 crore on meals for Intermediate students (7). The T-Fiber project aims to provide high-speed internet to rural Telangana (2, 5, 9, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for inter-state tension</span>: Discussions regarding the Tummidihatti barrage height could lead to disagreements with Maharashtra (1, 3, 4, 16, 18, 20).</li>\n    <li><span class=\"risk-low\">Disruption to Power Supply</span>: Heavy rains have disrupted power supply (6).</li>\n    <li><span class=\"risk-low\">Procurement Issues</span>: Rain-soaked paddy needs to be procured (14).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The T-Fiber project (2, 5, 9, 17) and the government's focus on rural connectivity are linked, suggesting a strategic push for digital infrastructure in Telangana.</li>\n    <li>The discussions on the Tummidihatti barrage (1, 3, 4, 16, 18, 20) are directly related to water needs in North Telangana.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the progress of talks between Telangana and Maharashtra regarding the Tummidihatti barrage.</li>\n    <li>Assess the impact of heavy rains on power supply and coordinate with relevant departments for restoration.</li>\n    <li>Ensure smooth procurement of rain-soaked paddy.</li>\n    <li>Monitor the launch of the meal program for Intermediate students on June 12 (10).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>North Telangana</b>: Monitor the situation related to the Tummidihatti barrage, as it directly impacts water needs in this region (1, 3, 4, 16, 18, 20).</li>\n    <li><b>Areas affected by heavy rains</b>: Monitor power supply and agricultural impact in districts experiencing heavy rainfall (6, 14).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30.7°C",
+      "humidity": "59%",
+      "wind": "11.9 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 39,
+      "pm25": 17.9,
+      "goldPerGram": "₹9,230",
+      "newsCount": 36,
+      "topHeadlines": [
+        "CM Revanth seeks talks with his Maharashtra counterpart on Tummidihatti barrage height - The New Indian Express",
+        "What is T-Fiber project? How will it ensure high-speed internet connectivity in Telangana’s rural homes? - NewsMeter",
+        "What is Tummidihatti Barrage dispute? Why CM Revanth want to meet Maharashtra counterpart Devendra Fadnavis? - NewsMeter",
+        "High Stakes in Tummidihatti: Telangana and Maharashtra Set for Critical Discussion - Devdiscourse",
+        "Telangana's Digital Leap: Fast-Tracking Fibre Network for Rural Connectivity - Devdiscourse"
       ]
     }
   }
