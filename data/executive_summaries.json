@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29T10:07:54.313Z",
-    "timestampIST": "29/4/2026, 3:37:54 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing scrutiny over the Future City land issue, with both a panel and farmers raising concerns (1, 8). The SSC results for 2026 are releasing today at 2 PM (5, 10, 17). A Kamareddy MLA is demanding a probe into a Rs 150-crore medicine procurement scam (11).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing scrutiny over the Future City land issue, with both a panel and farmers raising concerns (1, 8). The SSC results for 2026 are releasing today at 2 PM (5, 10, 17). A Kamareddy MLA is demanding a probe into a Rs 150-crore medicine procurement scam (11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Discontent:</span> Farmers are challenging Revanth Reddy over the Future City land acquisition (8).</li>\n    <li><span class=\"risk-medium\">Political Fallout:</span> A Kamareddy MLA is demanding a probe into a Rs 150-crore medicine procurement scam (11).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> Drunk driving incident reported in Hyderabad (9).</li>\n    <li><span class=\"risk-low\">Health Concerns:</span> Heatwave conditions are expected to continue today (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Future City land issue (1, 8) and the CM's statements regarding its development (18, 19) represent a potential point of conflict.</li>\n    <li>The release of SSC results today (5, 10, 17) requires monitoring for potential public gatherings and associated law and order concerns.</li>\n    <li>The heatwave forecast (16) combined with the AQI data (PM2.5: 31, PM10: 41.9) indicates a potential strain on public health.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the release of SSC results and deploy necessary security personnel to manage potential gatherings.</li>\n    <li>Assess the allegations of the Rs 150-crore medicine procurement scam and prepare a response.</li>\n    <li>Monitor public sentiment regarding the Future City land acquisition and prepare a communication strategy.</li>\n    <li>Issue public health advisories regarding the ongoing heatwave.</li>\n    <li>Review and enhance traffic enforcement, particularly concerning drunk driving, in Hyderabad.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the drunk driving incident (9), Apollo Hospital opening (12, 13, 14), and the potential for public gatherings related to the SSC results (5, 10, 17).</li>\n    <li><b>Kamareddy:</b> Due to the MLA's demand for a probe into the medicine procurement scam (11).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "40.5°C",
-      "humidity": "15%",
-      "wind": "8.2 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 76,
-      "pm25": 31,
-      "goldPerGram": "₹9,120",
-      "newsCount": 49,
-      "topHeadlines": [
-        "Anti-Pharma City panel questions Revanth over Future City land issue - Telangana Today",
-        "Former Maoists tourist guides appointed in Telangana - newsage.in",
-        "Careless smoking leads fire accident causes in Telangana, says data - Telangana Today",
-        "MI vs SRH: Will Will Jacks Play Today’s Mumbai Indians vs Sunrisers Hyderabad IPL 2026 Match? - lokmattimes.com",
-        "Telangana SSC result 2026 today: How to check on HT portal | India News - Hindustan Times"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-29T14:02:19.328Z",
     "timestampIST": "29/4/2026, 7:32:19 pm",
     "executiveSummary": "<p>CV Anand, the newly appointed DGP, met with the Telangana CM today. (4, 11) The Telangana SSC results for 2026 were released today, with girls outperforming boys. (13, 15, 19) KTR criticized CM Revanth Reddy's remarks. (5, 6, 7, 8) A fake cop entered the Telangana Secretariat. (9)</p>",
@@ -5636,6 +5613,29 @@
         "Revanth Reddy’s NTR statue gamble: A self-inflicted wound that could bury Congress in Telangana - The South First",
         "Two separate bus accidents trigger panic in Hyderabad - Telangana Today",
         "Telangana hopes Future City will set new infrastructure benchmark: Ministers Sridhar Babu, Srinivasa Reddy - The New Indian Express"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-29T11:37:20.277Z",
+    "timestampIST": "29/5/2026, 5:07:20 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy unveiled a statue of former Andhra Pradesh CM NTR in Hyderabad (11, 12). The CM is promoting a \"unified welfare card\" for all schemes (8, 13, 14, 16, 20).  Two bus accidents caused panic in Hyderabad (5).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy unveiled a statue of former Andhra Pradesh CM NTR in Hyderabad (11, 12). The CM is promoting a \"unified welfare card\" for all schemes (8, 13, 14, 16, 20).  Two bus accidents caused panic in Hyderabad (5).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> Criticism regarding paddy procurement delays in Medak by Sunitha Lakshma Reddy (17).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> Two separate bus accidents in Hyderabad triggered panic (5).</li>\n    <li><span class=\"risk-low\">Political:</span> Potential negative impact of NTR statue unveiling on Congress, as per The South First (4).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The unveiling of NTR's statue (11, 12) is linked to CM Revanth Reddy's statements emphasizing NTR's importance (1, 7, 9, 15).</li>\n    <li>The \"unified welfare card\" initiative (8, 13, 14, 16, 20) is a key policy being rolled out by the CM.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment in Medak regarding paddy procurement delays (17).</li>\n    <li>Review and improve bus safety protocols in Hyderabad in light of recent accidents (5).</li>\n    <li>Assess the potential political ramifications of the NTR statue unveiling and related messaging (4, 1, 7, 9, 15).</li>\n    <li>Expedite the rollout of the \"unified welfare card\" (8, 13, 14, 16, 20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on public safety and transportation following the bus accidents (5).</li>\n    <li><b>Medak:</b> Monitor public reaction to paddy procurement delays (17).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "37°C",
+      "humidity": "28%",
+      "wind": "9.5 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 62,
+      "pm25": 10.5,
+      "goldPerGram": "₹9,230",
+      "newsCount": 20,
+      "topHeadlines": [
+        "Like Indiramma, NTR Is Equality Important To US: Revanth Reddy - INDToday",
+        "How Andhra Pradesh Jana Sena Party's anti-Nageshwar campaign sparked Telangana sentiment - theweek.in",
+        "Telangana CM pushes for Japanese investments in key sectors at Osaka World Expo - Newsonair",
+        "Revanth Reddy’s NTR statue gamble: A self-inflicted wound that could bury Congress in Telangana - The South First",
+        "Two separate bus accidents trigger panic in Hyderabad - Telangana Today"
       ]
     }
   }
