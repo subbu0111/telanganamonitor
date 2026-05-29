@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29T14:02:19.328Z",
-    "timestampIST": "29/4/2026, 7:32:19 pm",
-    "executiveSummary": "<p>CV Anand, the newly appointed DGP, met with the Telangana CM today. (4, 11) The Telangana SSC results for 2026 were released today, with girls outperforming boys. (13, 15, 19) KTR criticized CM Revanth Reddy's remarks. (5, 6, 7, 8) A fake cop entered the Telangana Secretariat. (9)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>CV Anand, the newly appointed DGP, met with the Telangana CM today. (4, 11) The Telangana SSC results for 2026 were released today, with girls outperforming boys. (13, 15, 19) KTR criticized CM Revanth Reddy's remarks. (5, 6, 7, 8) A fake cop entered the Telangana Secretariat. (9)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Security Breach:</span> A fake cop entered the Telangana Secretariat. (9)</li>\n    <li><span class=\"risk-low\">Political Tension:</span> KTR is criticizing CM Revanth Reddy's remarks. (5, 6, 7, 8)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> Careless smoking led to fire accidents in Telangana. (17)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The appointment of CV Anand as DGP (3, 10) is directly linked to his meeting with the CM (4, 11).</li>\n    <li>KTR's criticism of CM Revanth Reddy (5, 6, 7, 8) indicates potential political friction.</li>\n    <li>The release of Telangana SSC results (13, 15, 19) is a significant event impacting the education sector.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review and enhance security protocols at the Telangana Secretariat immediately. (9)</li>\n    <li>Monitor the political discourse between KTR and CM Revanth Reddy. (5, 6, 7, 8)</li>\n    <li>Assess the impact of the SSC results and provide necessary support to students. (13, 15, 19)</li>\n    <li>Review fire safety regulations and public awareness campaigns related to careless smoking. (17)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are highlighted in the provided news.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "36.2°C",
-      "humidity": "23%",
-      "wind": "7 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 75,
-      "pm25": 52.2,
-      "goldPerGram": "₹9,148",
-      "newsCount": 50,
-      "topHeadlines": [
-        "Telangana Fuel Stocks Sufficient, No Need To Panic: Uttam - INDToday",
-        "Committed to undertaking Pranahita–Chevella Project, says Telangana minister - The Hans India",
-        "Telangana DGP-designate CV Anand brings rich, varied experience to the top post - Telangana Today",
-        "CV Anand calls on Telangana CM - The Hindu",
-        "KTR slams Revanth Reddy's 'sadistic pleasure' remark as 'shameful' - Asianet Newsable"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-29T17:40:48.347Z",
     "timestampIST": "29/4/2026, 11:10:48 pm",
     "executiveSummary": "<p>Civil groups are protesting the Musi River displacement plan (1, 10). The Chief Minister has ordered the fast-tracking of the Tummidihetti Barrage project and will seek Maharashtra's approval (2, 4, 6).  DGP Shivadhar Reddy is to be appointed as TS State Security Advisor (5). The government has taken over the Hyderabad metro for Rs 1,461 crore (7).</p>",
@@ -5636,6 +5613,29 @@
         "Telangana CM pushes for Japanese investments in key sectors at Osaka World Expo - Newsonair",
         "Revanth Reddy’s NTR statue gamble: A self-inflicted wound that could bury Congress in Telangana - The South First",
         "Two separate bus accidents trigger panic in Hyderabad - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-29T15:38:45.870Z",
+    "timestampIST": "29/5/2026, 9:08:45 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy unveiled a statue of NTR in Hyderabad, emphasizing the importance of NTR alongside Indira Gandhi (4, 6, 11, 13, 14, 15, 16, 19). The CM also directed officials to roll out a 'unified welfare card' for all schemes (12, 17, 18). Political tensions are rising, with BRS opposing the 'Rythu DISCOM' proposal and alleging an attempt to end free power for farmers (3), and Congress accused of conspiring to end KCR's welfare schemes (1).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy unveiled a statue of NTR in Hyderabad, emphasizing the importance of NTR alongside Indira Gandhi (4, 6, 11, 13, 14, 15, 16, 19). The CM also directed officials to roll out a 'unified welfare card' for all schemes (12, 17, 18). Political tensions are rising, with BRS opposing the 'Rythu DISCOM' proposal and alleging an attempt to end free power for farmers (3), and Congress accused of conspiring to end KCR's welfare schemes (1).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS's opposition to the 'Rythu DISCOM' proposal and allegations against the government regarding welfare schemes could lead to increased political friction (1, 3).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> Two separate bus accidents triggered panic in Hyderabad (9).</li>\n    <li><span class=\"risk-low\">Public Perception:</span> The unveiling of NTR's statue and related political statements could be perceived negatively by some, potentially impacting public sentiment (4, 5, 6, 8, 11, 13, 14, 15, 16, 19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The unveiling of NTR's statue (4, 11, 13, 14, 15, 16, 19) is directly linked to the Congress party's efforts to strengthen ties with the TDP ahead of Hyderabad civic polls (4).</li>\n    <li>The announcement of the 'unified welfare card' (12, 17, 18) is likely intended to streamline and improve welfare scheme management, potentially addressing concerns raised by political opponents (1, 3).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor BRS's response to the 'Rythu DISCOM' proposal and any potential actions they may take (3).</li>\n    <li>Assess public reaction to the NTR statue unveiling and related political messaging (4, 5, 6, 8, 11, 13, 14, 15, 16, 19).</li>\n    <li>Review and enhance safety protocols for public transportation in Hyderabad following the recent bus accidents (9).</li>\n    <li>Expedite the rollout of the 'unified welfare card' to demonstrate the government's commitment to welfare programs (12, 17, 18).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the unveiling of NTR's statue and the upcoming civic polls, Hyderabad requires increased political monitoring and public safety measures (4, 9, 15, 16).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31.7°C",
+      "humidity": "56%",
+      "wind": "3.8 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 28,
+      "pm25": 43.2,
+      "goldPerGram": "₹9,163",
+      "newsCount": 19,
+      "topHeadlines": [
+        "Congress govt conspiring to end KCR’s welfare schemes: Jagadish Reddy - Telangana Today",
+        "Harish Rao slams remarks on three-hour power supply for farmers - Telangana Today",
+        "BRS demands withdrawal of ‘Rythu DISCOM’ proposal, alleges bid to end free power for farmers - Telangana Today",
+        "Revanth Reddy Installs NTR Statue to Strengthen TDP Ties Ahead of Hyderabad Civic Polls - Devdiscourse",
+        "Only Revanth Reddy Can Impress Congress, And TDP At A Time - Gulte"
       ]
     }
   }
