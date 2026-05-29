@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29T06:25:12.479Z",
-    "timestampIST": "29/4/2026, 11:55:12 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy announced the development of \"Future City\" and the sanctioning of three bullet train corridors connecting Hyderabad to Bengaluru, Pune, Amaravati, and Chennai (7, 10, 15, 19). The CM also urged Maoist leader Ganapathi to surrender (3, 17).  Kamareddy MLA and BJP MLA Venkataramana Reddy have demanded probes into alleged irregularities (1, 12).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy announced the development of \"Future City\" and the sanctioning of three bullet train corridors connecting Hyderabad to Bengaluru, Pune, Amaravati, and Chennai (7, 10, 15, 19). The CM also urged Maoist leader Ganapathi to surrender (3, 17).  Kamareddy MLA and BJP MLA Venkataramana Reddy have demanded probes into alleged irregularities (1, 12).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for Public Discontent:</span>  Land acquisition for \"Future City\" is underway, which could lead to unrest if not handled sensitively (20, 16).</li>\n    <li><span class=\"risk-medium\">Political Scrutiny:</span>  Allegations of irregularities in medicine procurement and medical services are under scrutiny by MLAs (1, 12).</li>\n    <li><span class=\"risk-low\">Weather-Related Disruptions:</span>  Heatwave conditions are expected to continue today, with thunderstorms and light rain forecast for the next few days (4).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Chief Minister Revanth Reddy is actively promoting \"Future City\" development while simultaneously appealing to a Maoist leader to surrender (6, 17).</li>\n    <li>The announcement of three bullet train corridors aligns with the broader vision of \"Future City\" development, potentially impacting infrastructure planning (7, 15).</li>\n    <li>The focus on preventive care and digital healthcare by Apollo's new hospital could be linked to the broader development of \"Future City\" (2, 14).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>The Chief Minister's Office should monitor the progress of \"Future City\" land acquisition and proactively address any potential grievances from farmers (16, 20).</li>\n    <li>The relevant departments should prepare a response to the allegations of irregularities in medicine procurement and medical services (1, 12).</li>\n    <li>Monitor weather forecasts and prepare for potential disruptions due to thunderstorms and light rain (4).</li>\n    <li>Ensure adequate security and law enforcement presence during the SSC results announcement (5, 8, 9).</li>\n    <li>Assess the impact of the bullet train corridors on existing infrastructure and land use planning (7, 10).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Kamareddy:</b> Due to the MLA's demand for a probe into the medicine procurement scam (1).</li>\n    <li><b>Narayankhed:</b>  Following the surprise hospital visit by the new Collector (18).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "38.8°C",
-      "humidity": "19%",
-      "wind": "4.9 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 76,
-      "pm25": 35,
-      "goldPerGram": "₹9,120",
-      "newsCount": 40,
-      "topHeadlines": [
-        "Kamareddy MLA demands probe into Rs 150-cr medicine procurement scam - The Hans India",
-        "Apollo’s New Hyderabad Hospital Focuses on Preventive Care and Digital Healthcare - Telugu360",
-        "Revanth Reddy urges Ganapathi to surrender - Hyderabad Mail",
-        "Telangana heatwave to continue today; Thunderstorms, light rain forecast for next few days - News9live",
-        "Telangana SSC Result 2026 today: Class 10 scores at 2 pm; check official websites to download marks - The Times of India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-29T10:07:54.313Z",
     "timestampIST": "29/4/2026, 3:37:54 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is facing scrutiny over the Future City land issue, with both a panel and farmers raising concerns (1, 8). The SSC results for 2026 are releasing today at 2 PM (5, 10, 17). A Kamareddy MLA is demanding a probe into a Rs 150-crore medicine procurement scam (11).</p>",
@@ -5636,6 +5613,29 @@
         "Telangana CM Revanth Reddy directs officials to roll out 'unified welfare card' for all schemes - The New Indian Express",
         "Like Indiramma, NTR is equally important to us, says Revanth Reddy - Telangana Today",
         "Unveiling Legacy: Tribute to NT Rama Rao by Telangana CM - Devdiscourse"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-29T07:59:23.966Z",
+    "timestampIST": "29/5/2026, 1:29:23 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy unveiled a statue of NTR in Hyderabad. The CM is pushing for Japanese investments at the Osaka World Expo. A unified welfare card for all schemes is being rolled out across Telangana.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy unveiled a statue of NTR in Hyderabad. The CM is pushing for Japanese investments at the Osaka World Expo. A unified welfare card for all schemes is being rolled out across Telangana.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> The Andhra Pradesh Jana Sena Party's anti-Nageshwar campaign has sparked Telangana sentiment (Headline 1).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> Two separate bus accidents triggered panic in Hyderabad (Headline 4).</li>\n    <li><span class=\"risk-low\">Political:</span> Sunitha Lakshma Reddy criticized the Congress over paddy procurement delays in Medak (Headline 16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The unveiling of the NTR statue (Headlines 10, 11) and the CM's statements on NTR's importance (Headlines 6, 8, 14) are linked to the political landscape.</li>\n    <li>The CM's push for Japanese investments (Headline 2) and the focus on Future City (Headlines 5, 18) suggest a focus on infrastructure and economic development.</li>\n    <li>The unified welfare card (Headlines 7, 12, 13, 15, 19, 20) is directly related to the government's welfare schemes.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment regarding the NTR statue unveiling and any potential reactions.</li>\n    <li>Assess the causes of the bus accidents and implement immediate safety measures.</li>\n    <li>Address the concerns raised by Sunitha Lakshma Reddy regarding paddy procurement delays in Medak.</li>\n    <li>Ensure the smooth and efficient rollout of the unified welfare card.</li>\n    <li>Provide updates on the progress of the CM's efforts to secure Japanese investments.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor public reaction to the NTR statue unveiling and address any safety concerns following the bus accidents.</li>\n    <li><b>Medak:</b> Address the concerns regarding paddy procurement delays.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36.5°C",
+      "humidity": "31%",
+      "wind": "14.1 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 63,
+      "pm25": 12.1,
+      "goldPerGram": "₹9,230",
+      "newsCount": 22,
+      "topHeadlines": [
+        "How Andhra Pradesh Jana Sena Party's anti-Nageshwar campaign sparked Telangana sentiment - theweek.in",
+        "Telangana CM pushes for Japanese investments in key sectors at Osaka World Expo - Newsonair",
+        "Revanth Reddy’s NTR statue gamble: A self-inflicted wound that could bury Congress in Telangana - The South First",
+        "Two separate bus accidents trigger panic in Hyderabad - Telangana Today",
+        "Telangana hopes Future City will set new infrastructure benchmark: Ministers Sridhar Babu, Srinivasa Reddy - The New Indian Express"
       ]
     }
   }
