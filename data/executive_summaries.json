@@ -5684,5 +5684,22 @@
         "Revanth Dares BRS on Free Power, Targets KCR, Harish Rao and KTR - Deccan Chronicle"
       ]
     }
+  },
+  {
+    "timestamp": "2026-05-30T19:19:27.681Z",
+    "timestampIST": "31/5/2026, 12:49:27 am",
+    "executiveSummary": "<p>No critical developments were reported in the last 24 hours.</p>\n<p>Gold price is currently at ₹9163/gram.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>No critical developments were reported in the last 24 hours.</p>\n<p>Gold price is currently at ₹9163/gram.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<p>No risks can be assessed based on the provided data.</p>\n\n<h3>🔗 Cross-Correlation</h3>\n<p>No cross-correlations can be made based on the provided data.</p>\n\n<h3>💡 Recommendations</h3>\n<p>No recommendations can be made based on the provided data.</p>\n\n<h3>🗺️ District Focus</h3>\n<p>No district focus can be determined based on the provided data.</p>\n```",
+    "dataSnapshot": {
+      "temperature": "29.7°C",
+      "humidity": "50%",
+      "wind": "10.1 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 36,
+      "pm25": 15.5,
+      "goldPerGram": "₹9,163",
+      "newsCount": 0,
+      "topHeadlines": []
+    }
   }
 ]
