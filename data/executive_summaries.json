@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30T10:08:50.312Z",
-    "timestampIST": "30/4/2026, 3:38:50 pm",
-    "executiveSummary": "<p>The Telangana government has appointed B Shivadhar Reddy as State Security Advisor (1, 2, 4, 13, 14). The government has also appointed V Hanumantha Rao as an advisor (2, 6, 10). The government has taken full control of the Hyderabad Metro (5, 9).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government has appointed B Shivadhar Reddy as State Security Advisor (1, 2, 4, 13, 14). The government has also appointed V Hanumantha Rao as an advisor (2, 6, 10). The government has taken full control of the Hyderabad Metro (5, 9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS alleges the government is targeting party leaders without evidence in a phone tapping case (3).</li>\n    <li><span class=\"risk-low\">Financial:</span> L&T share price fell 2% after divesting its stake in L&T Metro Rail (Hyderabad) (7).</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> KTR slammed CM Revanth over a remark (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>B Shivadhar Reddy was appointed as DGP (8) and has now been appointed as State Security Advisor (1, 2, 4, 13, 14).</li>\n    <li>The Telangana government has taken full control of the Hyderabad Metro (5, 9), and L&T divested its stake (7).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political situation and any potential fallout from the BRS allegations (3).</li>\n    <li>Assess the implications of the government's acquisition of the Hyderabad Metro (5, 9).</li>\n    <li>Review the security protocols in light of the appointment of the new State Security Advisor (1, 2, 4, 13, 14).</li>\n    <li>Monitor public sentiment regarding the CM's remark (20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Focus on monitoring the Hyderabad Metro transition and any potential security implications (5, 9).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "39.7°C",
-      "humidity": "14%",
-      "wind": "11.1 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 69,
-      "pm25": 27.4,
-      "goldPerGram": "₹9,148",
-      "newsCount": 57,
-      "topHeadlines": [
-        "Telangana Appoints Reddy as State Security Advisor Post-Retirement - Devdiscourse",
-        "Telangana appoints former MP V Hanumantha Rao, ex-DGP B Shivadhar Reddy as advisors - The South First",
-        "BRS alleges govt of targeting party leaders without evidence in phone tapping case - Telangana Today",
-        "Telangana govt appoints B Shivadhar Reddy as State Security Advisor - Telangana Today",
-        "Telangana government takes full control of Hyderabad Metro - The South First"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-30T19:25:48.819Z",
     "timestampIST": "1/5/2026, 12:55:48 am",
     "executiveSummary": "<p>Shivadhar Reddy has been appointed as an advisor to the State Government. (1) The Hyderabad Cybercrime police have filed a case over derogatory posts against the CM and Police Commissioner. (13) The Telangana government acquired Hyderabad Metro Phase I for ₹1,461.47 Cr and took over ₹13,538 Cr debt. (14) PM Modi will inaugurate projects worth Rs 7,823 crore in Telangana. (8)</p>",
@@ -5636,6 +5613,29 @@
         "Indiramma Houses a Gift from Revanth Reddy to Urban Poor: Ponguleti - Deccan Chronicle",
         "Telangana CM orders officials to create “one stop multi purpose Unified Card” for every citizen of state - News On AIR",
         "Kishan Reddy Criticizes Telangana Congress Over Paddy Procurement Lapses - Devdiscourse"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-30T13:43:04.055Z",
+    "timestampIST": "30/5/2026, 7:13:04 pm",
+    "executiveSummary": "<p>BRS leader Balka Suman was arrested by Hyderabad Police, creating tension at Telangana Bhavan (1). Chief Minister Revanth Reddy will tour Telangana districts starting June 1 (4). The CM is focused on the Special Summary Revision (SIR) and protecting votes, particularly of vulnerable sections (13, 14, 16, 18, 19, 20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>BRS leader Balka Suman was arrested by Hyderabad Police, creating tension at Telangana Bhavan (1). Chief Minister Revanth Reddy will tour Telangana districts starting June 1 (4). The CM is focused on the Special Summary Revision (SIR) and protecting votes, particularly of vulnerable sections (13, 14, 16, 18, 19, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Tension:</span> Arrest of BRS leader Balka Suman could escalate tensions (1).</li>\n    <li><span class=\"risk-high\">SIR Implementation Challenges:</span> Potential for vote loss among vulnerable sections during the SIR process (13, 16, 18, 20).</li>\n    <li><span class=\"risk-medium\">Paddy Procurement Criticism:</span> BRS leaders are questioning the government over paddy procurement delays and farmer distress (7, 8, 11, 12).</li>\n    <li><span class=\"risk-low\">Farm Power Accusations:</span> Harish has accused the Congress of a plan to cut farm power (17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on SIR (13, 14, 16, 18, 19, 20) is directly linked to concerns about potential vote loss, particularly among vulnerable sections.</li>\n    <li>Criticism from BRS leaders regarding paddy procurement (7, 8, 11, 12) could be leveraged to undermine the government's image, especially in light of the upcoming district tours (4).</li>\n    <li>The CM's district tour (4) and the focus on SIR (13, 14, 16, 18, 19, 20) suggest an effort to strengthen the government's connection with the people and address potential vulnerabilities.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation at Telangana Bhavan and potential reactions to Balka Suman's arrest (1).</li>\n    <li>Prioritize and expedite paddy procurement to address farmer distress and counter BRS criticism (7, 8, 11, 12).</li>\n    <li>Ensure robust oversight during the SIR process to prevent vote loss among vulnerable sections (13, 14, 16, 18, 19, 20).</li>\n    <li>Prepare a communication strategy to address accusations regarding farm power (17).</li>\n    <li>Coordinate with Congress workers to bolster constituency oversight before the SIR launch (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>Focus on districts where farmer distress is reported or where vulnerable sections are concentrated, as the SIR process could affect them. (7, 8, 11, 12, 13, 14, 16, 18, 19, 20)</p>\n```",
+    "dataSnapshot": {
+      "temperature": "34.8°C",
+      "humidity": "30%",
+      "wind": "5.5 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 40,
+      "pm25": 23.2,
+      "goldPerGram": "₹9,163",
+      "newsCount": 27,
+      "topHeadlines": [
+        "BRS Leader Balka Suman Arrested By Hyderabad Police Amid Tension At Telangana Bhavan - ETV Bharat",
+        "Telangana CM orders officials to create “one stop multi purpose Unified Card” for every citizen of state - News On AIR",
+        "Revanth Reddy Hails Microsoft Hiring of 11 YISU Students - Deccan Chronicle",
+        "CM Revanth Reddy To Tour Telangana Districts From June 1 - INDToday",
+        "Indiramma Houses a Gift from Revanth Reddy to Urban Poor: Ponguleti - Deccan Chronicle"
       ]
     }
   }
