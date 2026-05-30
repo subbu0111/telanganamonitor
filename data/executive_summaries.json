@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30T03:26:33.380Z",
-    "timestampIST": "30/4/2026, 8:56:33 am",
-    "executiveSummary": "<p>The Telangana government has taken full control of the Hyderabad Metro, acquiring L&T's stake for ₹1,461.47 crore (5, 15, 17). Discussions with Maharashtra regarding the 150-meter Tummiddihatti barrage are ongoing, with the Chief Minister directing efforts to secure Maharashtra's approval (1, 2, 3, 6, 8, 11, 14). Civil groups are protesting the Musi River displacement plan (7, 19).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government has taken full control of the Hyderabad Metro, acquiring L&T's stake for ₹1,461.47 crore (5, 15, 17). Discussions with Maharashtra regarding the 150-meter Tummiddihatti barrage are ongoing, with the Chief Minister directing efforts to secure Maharashtra's approval (1, 2, 3, 6, 8, 11, 14). Civil groups are protesting the Musi River displacement plan (7, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Public Protests:</span> Civil groups are staging a satyagraha protest against the Musi River displacement plan (7, 19).</li>\n  <li><span class=\"risk-low\">Political Instability:</span> Revanth Reddy vows to remove KCR as Leader of Opposition (18).</li>\n  <li><span class=\"risk-low\">Infrastructure Project Delays:</span> Potential delays or complications related to securing Maharashtra's approval for the Tummiddihatti barrage (1, 2, 3, 6, 8, 11, 14).</li>\n  <li><span class=\"risk-low\">Public Sentiment:</span> A Class 10 boy was run over by a tractor on SSC result day (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The Telangana government's focus on the Tummiddihatti barrage (1, 2, 3, 6, 8, 11, 14) and the ongoing discussions with Maharashtra (1, 2, 3, 6, 8, 11, 14).</li>\n  <li>The Telangana government taking over Hyderabad Metro operations (5, 12, 15, 17).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the ongoing satyagraha protests related to the Musi River displacement plan (7, 19).</li>\n  <li>Expedite communication and negotiations with Maharashtra regarding the Tummiddihatti barrage (1, 2, 3, 6, 8, 11, 14).</li>\n  <li>Assess public sentiment following the tragic incident involving the Class 10 student (16).</li>\n  <li>Review and ensure smooth transition of Hyderabad Metro operations following the government takeover (5, 12, 15, 17).</li>\n  <li>DGP should be briefed on the appointment of DGP Shivadhar Reddy as TS State Security Advisor (13).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Monitor the protests related to the Musi River displacement plan (7, 19) and manage the transition of Hyderabad Metro operations (5, 12, 15, 17).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "32.3°C",
-      "humidity": "45%",
-      "wind": "8.2 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 68,
-      "pm25": 18.9,
-      "goldPerGram": "₹9,148",
-      "newsCount": 54,
-      "topHeadlines": [
-        "Tummidihatti must be 150 metres, Union Minister Kishan can talk to Maharashtra: CM Revanth Reddy - The New Indian Express",
-        "Telangana plans 150m Tummiddihatti barrage with Maharashtra's approval - The News Mill",
-        "Telangana to hold talks with Maharashtra onTummiddihatti barrage - ANI News",
-        "MLA Rajgopal confident of making it to Telangana Cabinet - The New Indian Express",
-        "Telangana Govt Takes Full Control of Hyderabad Metro, Buys L&amp;T Stake for ₹1,461.47 Crore - Telugu 360"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-30T06:28:42.828Z",
     "timestampIST": "30/4/2026, 11:58:42 am",
     "executiveSummary": "<p>Former DGP Shivadhar Reddy has been appointed as a security advisor in Hyderabad (7). The Telangana government has taken full control of the Hyderabad Metro by acquiring L&T's stake (12, 20). The CM is prioritizing the Tummidihatti barrage project, seeking Maharashtra's approval for a 150-meter structure (8, 9, 10, 16, 19).</p>",
@@ -5612,6 +5589,29 @@
         "SIR exercise may affect Dalits, minorities, women: Revanth - Telangana Today",
         "Harish Accuses Congress of Plan To Cut Farm Power - Deccan Chronicle",
         "Protect Voters From SIR or Lose Power, Says CM Revanth - Deccan Chronicle",
+        "Revanth Reddy Urges Telangana Congress to Bolster Constituency Oversight Before SIR Launch - Devdiscourse"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-30T03:36:10.116Z",
+    "timestampIST": "30/5/2026, 9:06:10 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism and internal party concerns regarding the upcoming SIR exercise, with allegations of potential negative impacts on Dalits, minorities, women, and migrant votes (2, 4, 6). The CM is actively attempting to garner TDP support, including the installation of an NTR statue (11, 12, 16). Political rivals, including Harish Rao and K Chandrasekhar Rao, are actively exchanging allegations and criticizing the Congress government's actions (3, 8, 13, 14, 15).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism and internal party concerns regarding the upcoming SIR exercise, with allegations of potential negative impacts on Dalits, minorities, women, and migrant votes (2, 4, 6). The CM is actively attempting to garner TDP support, including the installation of an NTR statue (11, 12, 16). Political rivals, including Harish Rao and K Chandrasekhar Rao, are actively exchanging allegations and criticizing the Congress government's actions (3, 8, 13, 14, 15).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Potential for social unrest and political backlash due to concerns surrounding the SIR exercise and its impact on vulnerable groups (2, 4, 6).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Increased political tension and potential for public demonstrations due to allegations of attempts to cut farm power and end welfare schemes (3, 13, 15).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Negative perception and potential for electoral damage due to the NTR statue initiative and associated political maneuvering (11, 12, 16, 20).</li>\n    <li><span class=\"risk-low\">LOW:</span> Ongoing political exchanges and allegations between key leaders, potentially escalating tensions (8).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The SIR exercise (2, 4, 5, 6, 10) is a central point of concern, with multiple headlines highlighting potential negative consequences and political maneuvering related to it.</li>\n    <li>Revanth Reddy's actions, including the SIR launch and NTR statue installations, are directly linked to attempts to garner support and address political challenges (4, 5, 6, 11, 12, 16).</li>\n    <li>Allegations regarding farm power and welfare schemes are being used by opposition leaders to criticize the Congress government (3, 13, 14, 15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Conduct an immediate internal review of the SIR exercise to address concerns raised regarding its potential impact on vulnerable groups (2, 4, 6).</li>\n    <li>Issue a public statement clarifying the government's stance on farm power and welfare schemes to counter opposition allegations (3, 13, 14, 15).</li>\n    <li>Monitor public sentiment and social media regarding the NTR statue initiative and its reception (11, 12, 16, 20).</li>\n    <li>Brief key party leaders on the potential risks associated with the SIR exercise and the need for coordinated messaging (4, 5, 10).</li>\n    <li>Assess the potential impact of the Hyderabad advocate murder case on public perception and political stability (18).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>Focus should be on districts where the SIR exercise is being implemented and where the TDP voter base is significant, particularly Hyderabad, given the focus on civic polls and the NTR statue installations (11, 12, 16). Monitor districts where concerns about farm power and welfare schemes are most pronounced (3, 13, 14, 15).</p>\n```",
+    "dataSnapshot": {
+      "temperature": "31.2°C",
+      "humidity": "50%",
+      "wind": "17.2 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 28,
+      "pm25": 12,
+      "goldPerGram": "₹9,163",
+      "newsCount": 21,
+      "topHeadlines": [
+        "Telangana Plans Single Smart Welfare Card With AI System - INDToday",
+        "SIR exercise may affect Dalits, minorities, women: Revanth - Telangana Today",
+        "Harish Accuses Congress of Plan To Cut Farm Power - Deccan Chronicle",
+        "Revanth Puts Leaders On High Alert Over SIR - Deccan Chronicle",
         "Revanth Reddy Urges Telangana Congress to Bolster Constituency Oversight Before SIR Launch - Devdiscourse"
       ]
     }
