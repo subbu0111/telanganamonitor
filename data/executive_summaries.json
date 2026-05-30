@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30T19:25:48.819Z",
-    "timestampIST": "1/5/2026, 12:55:48 am",
-    "executiveSummary": "<p>Shivadhar Reddy has been appointed as an advisor to the State Government. (1) The Hyderabad Cybercrime police have filed a case over derogatory posts against the CM and Police Commissioner. (13) The Telangana government acquired Hyderabad Metro Phase I for ₹1,461.47 Cr and took over ₹13,538 Cr debt. (14) PM Modi will inaugurate projects worth Rs 7,823 crore in Telangana. (8)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Shivadhar Reddy has been appointed as an advisor to the State Government. (1) The Hyderabad Cybercrime police have filed a case over derogatory posts against the CM and Police Commissioner. (13) The Telangana government acquired Hyderabad Metro Phase I for ₹1,461.47 Cr and took over ₹13,538 Cr debt. (14) PM Modi will inaugurate projects worth Rs 7,823 crore in Telangana. (8)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Cybersecurity Threat:</span> Derogatory posts against the CM and Police Commissioner have led to a case being filed by the Hyderabad Cybercrime police. (13)</li>\n    <li><span class=\"risk-low\">Political Tension:</span> Congress govt is targeting BRS leaders in phone tapping case. (16)</li>\n    <li><span class=\"risk-low\">Public Perception:</span> Marijuana trade shifting to new areas in Hyderabad amid crackdown. (19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The appointment of Shivadhar Reddy as an advisor (1) and the change in DGP leadership (20) may indicate a shift in security focus.</li>\n    <li>The acquisition of Hyderabad Metro Phase I (14) and the upcoming inauguration of projects by PM Modi (8) suggest ongoing infrastructure development.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Review and enhance cybersecurity measures to address the derogatory posts and protect key government figures. (13)</li>\n    <li>Monitor the political climate and potential reactions to the phone tapping case. (16)</li>\n    <li>Assess the impact of the marijuana trade shift and allocate resources accordingly. (19)</li>\n    <li>Prepare for the PM's visit and ensure smooth execution of the inauguration events. (8)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Requires immediate attention due to the cybercrime case involving derogatory posts. (13) Also, the shift in marijuana trade suggests a need for increased law enforcement presence. (19)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.8°C",
-      "humidity": "27%",
-      "wind": "5.6 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 63,
-      "pm25": 35.7,
-      "goldPerGram": "₹9,155",
-      "newsCount": 49,
-      "topHeadlines": [
-        "Shivadhar Reddy, VH Appointed as Advisors to State Government - Deccan Chronicle",
-        "Agri Dept Must Oversee Online Pesticide, Herbicide Sales: Kodanda Reddy - Deccan Chronicle",
-        "Telangana's Centralized Approach: Enhancing Education Supply Chain - Devdiscourse",
-        "Revanth Reddy defends centralised procurement for student supplies - Telangana Today",
-        "Education path progress drives Telangana school expansion push - newsage.in"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-30T21:03:40.225Z",
     "timestampIST": "1/5/2026, 2:33:40 am",
     "executiveSummary": "<p>The Government of Telangana has appointed Shivadhar Reddy and VH as advisors to the State Government (1, 20). The Hyderabad Cybercrime police have filed a case over derogatory posts against the CM and Police Commissioner (12). The state government acquired Hyderabad Metro Phase I for ₹1,461.47 Cr and took over ₹13,538 Cr debt (13).</p>",
@@ -5700,6 +5677,29 @@
       "goldPerGram": "₹9,163",
       "newsCount": 0,
       "topHeadlines": []
+    }
+  },
+  {
+    "timestamp": "2026-05-30T21:00:24.500Z",
+    "timestampIST": "31/5/2026, 2:30:24 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism regarding paddy procurement and is scheduled to tour Telangana districts starting June 1st (9).  He is also facing court appearances in Hyderabad related to cases from the BRS regime (4, 8).  BRS leader Balka Suman was arrested by Hyderabad Police (15).</p>",
+    "fullAnalysis": "```html\n<!DOCTYPE html>\n<html>\n<head>\n<title>Telangana Intelligence Briefing</title>\n<style>\n  .risk-high { color: red; font-weight: bold; }\n  .risk-medium { color: orange; font-weight: bold; }\n  .risk-low { color: green; }\n</style>\n</head>\n<body>\n\n  <h3>📋 Executive Summary</h3>\n  <p>Chief Minister Revanth Reddy is facing criticism regarding paddy procurement and is scheduled to tour Telangana districts starting June 1st (9).  He is also facing court appearances in Hyderabad related to cases from the BRS regime (4, 8).  BRS leader Balka Suman was arrested by Hyderabad Police (15).</p>\n\n  <h3>🚨 Risk Assessment</h3>\n  <ul>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Criticism of the current government by both the opposition (KTR, Kishan Reddy) and internal issues (paddy procurement) could lead to unrest (12, 13, 20).</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span>  Paddy farmers are facing hardships due to procurement issues (12).</li>\n    <li><span class=\"risk-low\">Law and Order:</span>  The arrest of BRS leader Balka Suman in Hyderabad could potentially lead to protests or unrest (15).</li>\n    <li><span class=\"risk-low\">Legal Challenges:</span>  The CM's court appearances in Hyderabad related to BRS-era cases could create negative publicity (4, 8).</li>\n  </ul>\n\n  <h3>🔗 Cross-Correlation</h3>\n  <ul>\n    <li>Revanth Reddy is facing criticism from both the opposition (Kishan Reddy, KTR) and within his own party regarding paddy procurement and other issues (5, 12, 13, 20).</li>\n    <li>The CM is facing legal challenges related to the BRS regime while simultaneously criticizing the previous government (4, 5, 8, 10).</li>\n  </ul>\n\n  <h3>💡 Recommendations</h3>\n  <ul>\n    <li>Address paddy procurement issues immediately to mitigate farmer discontent (12, 20).</li>\n    <li>Monitor the situation surrounding the arrest of Balka Suman and potential reactions from BRS supporters (15).</li>\n    <li>Prepare a communication strategy to address the CM's court appearances and counter negative publicity (4, 8).</li>\n    <li>Ensure smooth execution of the district tour starting June 1st (9).</li>\n    <li>Review and address any concerns raised by the Congress VP Alam Khan's involvement in a lawyer murder case (14).</li>\n  </ul>\n\n  <h3>🗺️ District Focus</h3>\n  <ul>\n    <li>All districts: Monitor for any potential unrest related to the CM's upcoming tour starting June 1st (9).</li>\n    <li>All districts: Monitor farmer sentiment and potential protests related to paddy procurement issues (12, 20).</li>\n  </ul>\n\n</body>\n</html>\n```",
+    "dataSnapshot": {
+      "temperature": "28.4°C",
+      "humidity": "57%",
+      "wind": "10.6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 36,
+      "pm25": 11,
+      "goldPerGram": "₹9,163",
+      "newsCount": 27,
+      "topHeadlines": [
+        "Revanth Reddy slams Fadnavis over Tummidihatti barrage talks - Telangana Today",
+        "YISU to Launch BTech, BSc Courses; CM Revanth Hails Microsoft Placement of 11 Students - Deccan Chronicle",
+        "Telangana CM orders officials to create “one stop multi purpose Unified Card” for every citizen of state - News On AIR",
+        "Telangana CM Revanth Reddy appears before court in Hyderabad over cases registered during BRS regime - Deccan Herald",
+        "Revanth Reddy shifts blame to Centre on paddy procurement after criticising BRS earlier - Telangana Today"
+      ]
     }
   }
 ]
