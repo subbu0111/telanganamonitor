@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T03:35:46.473Z",
-    "timestampIST": "1/5/2026, 9:05:46 am",
-    "executiveSummary": "<p>Former DGP Shivadhar Reddy has been appointed as a government advisor for security for three years. (3, 4) The Hyderabad Cybercrime police have filed a case over derogatory posts against the CM and Police Commissioner. (16) PM Modi is scheduled to inaugurate projects worth Rs 7,823 crore in Telangana. (12)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Former DGP Shivadhar Reddy has been appointed as a government advisor for security for three years. (3, 4) The Hyderabad Cybercrime police have filed a case over derogatory posts against the CM and Police Commissioner. (16) PM Modi is scheduled to inaugurate projects worth Rs 7,823 crore in Telangana. (12)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Cybersecurity Threat:</span> Derogatory posts against the CM and Police Commissioner have led to a police case, indicating potential for further online attacks or disinformation campaigns. (16)</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> A BRS leader's tweet regarding maize crop damage has prompted a response from CM Revanth Reddy, suggesting potential for public dissatisfaction. (20)</li>\n    <li><span class=\"risk-low\">Inter-State Relations:</span> Telangana will seek Maharashtra’s consent to raise the Tummidihatti barrage height, which could lead to potential disputes. (18)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The appointment of Shivadhar Reddy as a security advisor (3, 4) is directly relevant to the cybercrime case filed against derogatory posts targeting the CM and Police Commissioner (16), highlighting the need for enhanced security measures.</li>\n    <li>The focus on centralized procurement for student supplies (1, 7, 8, 10) and school expansion (9) indicates a government emphasis on education, potentially impacting resource allocation and public perception.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Hyderabad Cybercrime police to expedite the investigation into the derogatory posts and identify the perpetrators. (16)</li>\n    <li>Task the security advisor, Shivadhar Reddy, to assess and enhance cybersecurity protocols for government officials. (3, 4, 16)</li>\n    <li>Prepare a communication strategy to address any public concerns regarding the maize crop damage and the CM's response. (20)</li>\n    <li>Monitor the progress of the projects to be inaugurated by PM Modi, ensuring smooth execution and public awareness. (12)</li>\n    <li>Initiate diplomatic discussions with Maharashtra regarding the Tummidihatti barrage to ensure a cooperative approach. (18)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p><b>Hyderabad:</b> Immediate attention is required due to the cybercrime case filed against derogatory posts targeting the CM and Police Commissioner. (16)</p>\n```",
-    "dataSnapshot": {
-      "temperature": "32.5°C",
-      "humidity": "26%",
-      "wind": "12 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 50,
-      "pm25": 21.7,
-      "goldPerGram": "₹9,155",
-      "newsCount": 42,
-      "topHeadlines": [
-        "Efficient Educational Supply: Telangana's Centralized Procurement Strategy - Devdiscourse",
-        "Telangana exports surged 36% under CM Revanth’s leadership: Dr Rekha - The Hans India",
-        "Shivadhar Reddy appointed as govt advisor for security - The Hans India",
-        "Former DGP Shivadhar Reddy Named as Telangana Security Advisor for Three Years - The Morning Voice",
-        "Mumbai Indians to take on Sunrisers Hyderabad today at Wankhede Stadium - News On AIR"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-01T06:38:36.217Z",
     "timestampIST": "1/5/2026, 12:08:36 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy extended wishes for May Day and Buddha Purnima (1, 2, 20). Prime Minister Modi is scheduled to launch projects worth ₹7,823 crore in Telangana (4, 19). The Chief Minister has set a June 15 deadline for the supply of materials to students (6).</p>",
@@ -5676,6 +5653,29 @@
         "YISU to Launch BTech, BSc Courses; CM Revanth Hails Microsoft Placement of 11 Students - Deccan Chronicle",
         "Revanth Reddy shifts blame to Centre on paddy procurement after criticising BRS earlier - Telangana Today",
         "Revanth Reddy Criticizes Fadnavis for Ignoring Barrage Meeting Request - Devdiscourse"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-31T04:02:17.944Z",
+    "timestampIST": "31/5/2026, 9:32:17 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from BRS leaders regarding paddy procurement delays and farmer distress (4). He is also engaged in a war of words with BRS leaders KCR, Harish Rao, and KTR on free power (1, 13). A BRS leader, Balka Suman, has been arrested by Hyderabad Police (18).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism from BRS leaders regarding paddy procurement delays and farmer distress (4). He is also engaged in a war of words with BRS leaders KCR, Harish Rao, and KTR on free power (1, 13). A BRS leader, Balka Suman, has been arrested by Hyderabad Police (18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS is questioning the government over paddy procurement delays and farmer distress (4), and a BRS leader has been arrested (18), potentially escalating tensions.</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span> Paddy farmers are facing hardships due to procurement issues (14), which could lead to protests or other forms of public dissatisfaction.</li>\n    <li><span class=\"risk-low\">Legal Challenges:</span> A Telangana leader is facing court over BRS-era cases (10).</li>\n    <li><span class=\"risk-low\">Law and Order:</span> Telangana Congress VP Alam Khan has been named by police in a lawyer murder linked to Waqf disputes (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy is criticizing BRS on multiple fronts, including free power (1, 13) and paddy procurement (7), indicating a concerted effort to undermine the opposition.</li>\n    <li>The arrest of BRS leader Balka Suman (18) and the legal cases against a Telangana leader (10) suggest a potential crackdown on BRS members.</li>\n    <li>The focus on YISU students' Microsoft placements (2, 6, 20) is being highlighted by the CM, potentially to showcase the government's achievements.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation regarding paddy procurement and farmer distress closely, and be prepared to address any potential protests or unrest.</li>\n    <li>Assess the implications of the arrest of BRS leader Balka Suman and potential reactions from BRS.</li>\n    <li>Review the status of the cases against the Telangana leader and any potential impact on law and order.</li>\n    <li>Prepare for the CM's district tour starting June 1 (11).</li>\n    <li>Ensure adequate security for Formation Day celebrations, starting early due to the heat (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Focus on districts experiencing paddy procurement issues, as farmer distress is reported (4, 14). Specific districts are not mentioned in the provided data.</li>\n    <li>Monitor districts where the CM will be touring from June 1 (11).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29°C",
+      "humidity": "57%",
+      "wind": "17.6 km/h",
+      "weatherDesc": "Dense Drizzle",
+      "aqi": 39,
+      "pm25": 22.8,
+      "goldPerGram": "N/A",
+      "newsCount": 26,
+      "topHeadlines": [
+        "Telangana CM dares BRS on free power, meters - The New Indian Express",
+        "Telangana CM Revanth Reddy highlights YISU students’ Microsoft placements and skill-based education - The News Mill",
+        "Telangana CM Revanth Reddy unveils statue of former Andhra Pradesh CM NTR in Hyderabad - The News Mill",
+        "BRS leader questions Telangana government over paddy procurement delays and farmer distress - The News Mill",
+        "Revanth Reddy slams Fadnavis over Tummidihatti barrage talks - Telangana Today"
       ]
     }
   }
