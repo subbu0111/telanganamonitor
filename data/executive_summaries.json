@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T14:57:37.557Z",
-    "timestampIST": "1/5/2026, 8:27:37 pm",
-    "executiveSummary": "<p>A tragic road accident on the Hyderabad Outer Ring Road (ORR) near Shamshabad resulted in six fatalities. (1, 4, 5) The Chief Minister Revanth Reddy granted pay and immunity for the TSRTC workers' strike period. (2) A pharma reactor blast injured 9, with 3 in critical condition. (10) The CM has set a June 15 deadline for the supply of materials to students. (17, 18)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A tragic road accident on the Hyderabad Outer Ring Road (ORR) near Shamshabad resulted in six fatalities. (1, 4, 5) The Chief Minister Revanth Reddy granted pay and immunity for the TSRTC workers' strike period. (2) A pharma reactor blast injured 9, with 3 in critical condition. (10) The CM has set a June 15 deadline for the supply of materials to students. (17, 18)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Road Safety:</span> The ORR accident highlights a critical need for immediate review of road safety measures and enforcement, given the high number of fatalities. (1, 4, 5)</li>\n    <li><span class=\"risk-medium\">Industrial Safety:</span> The pharma reactor blast, the second in weeks, indicates potential systemic safety failures in industrial facilities. (10)</li>\n    <li><span class=\"risk-medium\">Public Sentiment:</span> Commercial LPG price surge could lead to public dissatisfaction. (3, 7, 19)</li>\n    <li><span class=\"risk-low\">TSRTC Labor Relations:</span> The CM's decision to grant pay and immunity may not fully resolve potential labor unrest. (2, 12)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The tragic road accident on the ORR (1, 4, 5) underscores the importance of the DGP's vow to strengthen the police force (11).</li>\n    <li>The CM's focus on student material supply (17, 18) aligns with the centralized procurement strategy mentioned in another article (20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Initiate an immediate investigation into the ORR accident, focusing on cause and contributing factors.</li>\n    <li>Conduct a thorough safety audit of all pharmaceutical and industrial facilities to prevent further incidents.</li>\n    <li>Monitor public reaction to the commercial LPG price increase and prepare a communication strategy.</li>\n    <li>Ensure timely implementation of the CM's directive on student material supply, meeting the June 15 deadline.</li>\n    <li>Review and assess the current status of the TSRTC workers' strike and address any outstanding issues.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Immediate attention is needed due to the ORR accident (1, 4, 5) and the pharma reactor blast (10).</li>\n    <li><b>All Districts:</b> Monitor the implementation of the CM's directive on student material supply across all districts (17, 18).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "34.5°C",
-      "humidity": "24%",
-      "wind": "5.2 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 48,
-      "pm25": 31.4,
-      "goldPerGram": "₹9,155",
-      "newsCount": 32,
-      "topHeadlines": [
-        "Six killed after car crashes into lorry on Hyderabad ORR - Telangana Today",
-        "CM Revanth Reddy Grants Pay and Immunity for TSRTC Workers’ Strike Period - Deccan Chronicle",
-        "Commercial LPG Price Surge Draws Strong Criticism from Telangana Minister - Devdiscourse",
-        "Hyderabad: Family’s temple trip ends in tragedy, six dead in road crash - Telangana Today",
-        "Six Killed In Road Mishap On Outer Ring Road At Shamshabad In Telangana - ETV Bharat"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-01T16:59:06.994Z",
     "timestampIST": "1/5/2026, 10:29:06 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy announced a major expansion plan for RTC, promising wage relief and no job cuts (1). The CM will visit the Pranahita-Chevella site at Thummidihatti on May 7 (4). A road accident on the Hyderabad ORR near Shamshabad resulted in six fatalities (6, 9, 10).</p>",
@@ -5653,6 +5630,29 @@
         "Telangana to Implement Employees Health Scheme Through Dedicated Trust - INDToday",
         "Fulfill 420 promises before contesting elections: KTR dares Revanth Reddy - Telangana Today",
         "82-year-old woman gets new lease of life after rare esophageal disorder treated in Hyderabad - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-31T15:17:50.587Z",
+    "timestampIST": "31/5/2026, 8:47:50 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. (12, 14, 17) Traffic diversions are in place for CM Revanth Reddy's tour to Asifabad on Monday. (7) The BRS is challenging the CM regarding unmet promises. (5, 6, 10) The CM will review the rollout of the Employee Health Scheme. (15)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. (12, 14, 17) Traffic diversions are in place for CM Revanth Reddy's tour to Asifabad on Monday. (7) The BRS is challenging the CM regarding unmet promises. (5, 6, 10) The CM will review the rollout of the Employee Health Scheme. (15)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS cadres are criticizing the government over the arrest of Balka Suman in Mancherial. (19)</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span> BRS is challenging the CM to fulfill promises before elections. (5, 6, 10)</li>\n    <li><span class=\"risk-low\">Electoral Concerns:</span> BJP accuses Congress of opposing the electoral roll revision process. (2)</li>\n    <li><span class=\"risk-low\">Labor Unrest:</span> TTGDA opposes a 1.5 percent pay cut. (3)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's meetings with Mallikarjun Kharge (12, 14, 17) coincide with the upcoming multi-district tour starting June 1 (18), suggesting potential strategic discussions.</li>\n    <li>The Employee Health Scheme (8, 15) is a key focus, with the CM reviewing its rollout, potentially linked to the TTGDA's concerns about pay cuts (3).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the BRS's response to the government's actions, particularly regarding the arrest of Balka Suman. (19)</li>\n    <li>Assess public sentiment regarding the fulfillment of election promises, especially in light of BRS challenges. (5, 6, 10)</li>\n    <li>Prepare for potential disruptions or protests related to the CM's multi-district tour, starting June 1. (7, 18)</li>\n    <li>Ensure effective communication regarding the Employee Health Scheme rollout and address concerns raised by the TTGDA. (3, 8, 15)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Asifabad:</b> Due to the CM's scheduled tour on Monday, requiring traffic diversions. (7)</li>\n    <li><b>Mancherial:</b> Monitor the situation following the arrest of Balka Suman and the BRS's reaction. (19)</li>\n</ul>\n```\n",
+    "dataSnapshot": {
+      "temperature": "32.7°C",
+      "humidity": "41%",
+      "wind": "4.4 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 54,
+      "pm25": 42.4,
+      "goldPerGram": "₹9,163",
+      "newsCount": 38,
+      "topHeadlines": [
+        "TPCC chief’s meeting with Kharge fuels speculation in Congress circles - Telangana Today",
+        "BJP leader accuses Congress of opposing Telangana electoral roll revision process - The News Mill",
+        "TTGDA opposes 1.5 percent pay cut, seeks clarity on health scheme - Telangana Today",
+        "CM conspires to impose restrictions on free power with Rythu Discom: Jeevan Reddy - Telangana Today",
+        "BRS Dares Telangana Chief to Address Unmet Promises Before Elections - Devdiscourse"
       ]
     }
   }
