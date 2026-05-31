@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T22:52:41.091Z",
-    "timestampIST": "2/5/2026, 4:22:41 am",
-    "executiveSummary": "<p>Retired DGP B. Shivadhar Reddy has been appointed as State Security Advisor for a 3-year term (1).  Six fatalities resulted from a car crash on the Hyderabad Outer Ring Road (ORR) (18), and one fatality and eight injuries occurred in a blast at a Telangana pharma unit (17). The Chief Minister is addressing the Telangana State Road Transport Corporation (TSRTC) workers' demands, including a merger, pay revision, and addressing dues (7, 8, 9, 10, 11, 12, 16, 19).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Retired DGP B. Shivadhar Reddy has been appointed as State Security Advisor for a 3-year term (1).  Six fatalities resulted from a car crash on the Hyderabad Outer Ring Road (ORR) (18), and one fatality and eight injuries occurred in a blast at a Telangana pharma unit (17). The Chief Minister is addressing the Telangana State Road Transport Corporation (TSRTC) workers' demands, including a merger, pay revision, and addressing dues (7, 8, 9, 10, 11, 12, 16, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH</span>:  Six fatalities on the Hyderabad ORR (18).</li>\n  <li><span class=\"risk-high\">HIGH</span>: One fatality and eight injuries in a blast at a Telangana pharma unit (17).</li>\n  <li><span class=\"risk-medium\">MEDIUM</span>: Potential for unrest related to the TSRTC merger and related issues, including pay and job security (7, 8, 9, 10, 11, 12, 16, 19).</li>\n  <li><span class=\"risk-low\">LOW</span>: Criticism over commercial LPG price surge (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM's focus on resolving power supply deficiencies (4) and the promise of a free MMTS scheme (3) indicate a focus on infrastructure and public services.</li>\n  <li>The CM's engagement with RTC unions (7, 10) and promise of wage relief (12) and addressing dues (9) suggests a critical priority on labor relations and public transport.</li>\n  <li>The appointment of a State Security Advisor (1) and the ORR accident (18) and pharma unit blast (17) highlight the need for enhanced security and emergency response.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Direct immediate investigation into the ORR car crash (18) and the pharma unit blast (17) to determine causes and prevent recurrence.</li>\n  <li>Monitor the ongoing discussions between the CM and RTC unions closely to mitigate potential labor unrest (7, 8, 9, 10, 11, 12, 16, 19).</li>\n  <li>Ensure adequate security measures are in place at all pharma units across the state.</li>\n  <li>Review and expedite the resolution of the journalist housing issue (14).</li>\n  <li>Prepare for the CM's potential visit to the Pranahita-Chevella site at Thummidihatti on May 7 (15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Due to the ORR accident (18), the CM meeting with the new DGP (6), and the free MMTS scheme (3), Hyderabad requires immediate attention.</li>\n  <li><b>Sircilla:</b> Following the ORR accident (5), Sircilla requires support for the affected families.</li>\n  <li><b>Specific location of the Pharma Unit Blast:</b> The district where the pharma unit blast occurred requires immediate investigation and support for the injured (17).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.6°C",
-      "humidity": "33%",
-      "wind": "10.9 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 60,
-      "pm25": 30,
-      "goldPerGram": "₹9,155",
-      "newsCount": 38,
-      "topHeadlines": [
-        "Telangana Appoints Retired DGP B. Shivadhar Reddy as State Security Advisor for 3 Years | Know Him - Indian Masterminds",
-        "Double-bedroom houses for families displaced by lake restoration: Hydraa chief - Telangana Today",
-        "Telangana Readies Draft MoU for Free MMTS Scheme in Hyderabad - Deccan Chronicle",
-        "CM Revanth: Resolve Power Supply Deficiencies - Deccan Chronicle",
-        "KTR condoles Sircilla residents’ deaths in ORR accident, promises support - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-02T02:52:18.108Z",
     "timestampIST": "2/5/2026, 8:22:18 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is engaging with RTC unions regarding the absorption of workers and has announced wage payouts related to a strike (1, 12, 16). The CM has instructed officials to address misconceptions about staff transfers to Rythu Discom (2).  DGP CV Anand met with CM Revanth Reddy after assuming charge (5).</p>",
@@ -5647,6 +5624,29 @@
       "pm25": 32.7,
       "goldPerGram": "₹9,163",
       "newsCount": 36,
+      "topHeadlines": [
+        "Mucherla to be developed as fourth city in capital region, says Telangana CM - Newsonair",
+        "Intermediate classes to begin from today in Telangana - The Times of India",
+        "Ready for SIR, Revanth Tells Kharge - Deccan Chronicle",
+        "Revanth to Embark on Statewide Tour to Celebrate Telangana Formation Day - Deccan Chronicle",
+        "Harish Demands Withdrawal Of ‘Rythu Discom’ - Deccan Chronicle"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-31T23:01:39.009Z",
+    "timestampIST": "1/6/2026, 4:31:39 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is scheduled to embark on a statewide tour starting June 1, launching development projects. (20) Traffic diversions will be imposed in Asifabad on Monday due to the CM's tour. (13) Political rivals, including BRS and BJP leaders, are challenging the government regarding unmet promises and electoral roll revisions. (5, 9, 10, 12, 15)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is scheduled to embark on a statewide tour starting June 1, launching development projects. (20) Traffic diversions will be imposed in Asifabad on Monday due to the CM's tour. (13) Political rivals, including BRS and BJP leaders, are challenging the government regarding unmet promises and electoral roll revisions. (5, 9, 10, 12, 15)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS and BJP are actively challenging the government, potentially leading to increased political tension and scrutiny. (5, 9, 10, 12, 15)</li>\n    <li><span class=\"risk-low\">Public Disruption:</span> Traffic diversions in Asifabad on Monday could cause inconvenience. (13)</li>\n    <li><span class=\"risk-low\">Public Perception:</span> Opposition parties are questioning the fulfillment of promises, which could negatively impact public perception. (10, 12, 15)</li>\n    <li><span class=\"risk-low\">Potential for Accidents:</span> A hit-and-run accident occurred in Afzalgunj. (18)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's statewide tour (20) and the traffic diversions in Asifabad (13) are directly related, indicating a need for security and traffic management planning.</li>\n    <li>The meetings between Revanth Reddy and Mallikarjun Kharge (17, 19) suggest ongoing discussions within the Congress party.</li>\n    <li>The challenges from BRS (10, 12) and the BJP (9) regarding unmet promises and electoral rolls indicate a coordinated opposition strategy.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure adequate security and traffic management for the CM's tour, especially in Asifabad. (13, 20)</li>\n    <li>Prepare a public response addressing the opposition's claims regarding unmet promises. (5, 10, 12, 15)</li>\n    <li>Monitor the political climate and opposition activities closely. (5, 9, 10, 12, 15)</li>\n    <li>Review and enhance traffic enforcement in areas prone to accidents, such as Afzalgunj. (18)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Asifabad:</b> Requires immediate attention due to the CM's tour and associated traffic diversions on Monday. (13, 20)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28°C",
+      "humidity": "45%",
+      "wind": "7 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 64,
+      "pm25": 32.2,
+      "goldPerGram": "₹9,163",
+      "newsCount": 35,
       "topHeadlines": [
         "Mucherla to be developed as fourth city in capital region, says Telangana CM - Newsonair",
         "Intermediate classes to begin from today in Telangana - The Times of India",
