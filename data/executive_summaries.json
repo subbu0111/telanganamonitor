@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T09:47:43.078Z",
-    "timestampIST": "1/5/2026, 3:17:43 pm",
-    "executiveSummary": "<p>Retired DGP B. Shivadhar Reddy has been appointed as the State Security Advisor for a 3-year term. A pharma reactor blast injured 9 people, with 3 in critical condition.  DGP designate CV Anand indicated an overhaul of the Special Intelligence Branch and Greyhounds. CM Revanth Reddy set a June 15 deadline for the supply of materials to students.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Retired DGP B. Shivadhar Reddy has been appointed as the State Security Advisor for a 3-year term. A pharma reactor blast injured 9 people, with 3 in critical condition.  DGP designate CV Anand indicated an overhaul of the Special Intelligence Branch and Greyhounds. CM Revanth Reddy set a June 15 deadline for the supply of materials to students.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Industrial Safety:</span> A second pharma reactor blast in recent weeks, injuring multiple individuals, indicates potential safety lapses. (Headline 2)</li>\n    <li><span class=\"risk-medium\">Public Health:</span> The AQI is at 64, with PM2.5 at 15.8 and PM10 at 36.8, suggesting potential air quality concerns.</li>\n    <li><span class=\"risk-low\">Logistical Challenges:</span> Meeting the June 15 deadline for student material supply could present logistical challenges. (Headline 10, 11)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The appointment of a State Security Advisor (Headline 1, 14) and the DGP designate's focus on overhauling intelligence branches (Headline 9) suggest a focus on strengthening security and intelligence capabilities.</li>\n    <li>The CM's emphasis on timely supply of student materials (Headline 10, 11) and the centralized procurement strategy (Headline 12, 18, 19) are interconnected, highlighting a focus on improving the education supply chain.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Conduct an immediate investigation into the recent pharma reactor blast to determine the cause and implement preventative measures.</li>\n    <li>Review and strengthen industrial safety regulations and enforcement across all pharmaceutical facilities.</li>\n    <li>Ensure the timely and efficient supply of educational materials to government schools by the June 15 deadline.</li>\n    <li>Task the newly appointed State Security Advisor to assess and recommend improvements to the state's security apparatus.</li>\n    <li>Monitor the implementation of the centralized procurement strategy for educational supplies.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Areas with Pharmaceutical Industries:</b> Districts where the pharma reactor blast occurred require immediate attention to assess safety protocols and prevent future incidents. (Headline 2)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "38.7°C",
-      "humidity": "16%",
-      "wind": "12.6 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 64,
-      "pm25": 15.8,
-      "goldPerGram": "₹9,155",
-      "newsCount": 36,
-      "topHeadlines": [
-        "Telangana Appoints Retired DGP B. Shivadhar Reddy as State Security Advisor for 3 Years | Know Him - Indian Masterminds",
-        "Telangana: 9 injured, 3 critical in pharma reactor blast; second in weeks - The Siasat Daily",
-        "DGP CV Anand vows to strengthen police force - The Hans India",
-        "Telangana Ponnam Prabhakar assures to address RTC worker issues - The Hans India",
-        "CM Revanth Reddy extends May Day and Buddha Purnima wishes - The Hans India"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-01T11:08:03.283Z",
-    "timestampIST": "1/5/2026, 4:38:03 pm",
-    "executiveSummary": "<p>Retired DGP B. Shivadhar Reddy has been appointed as the State Security Advisor for a 3-year term (1, 14). A pharma reactor blast injured 9, with 3 in critical condition (2). The Chief Minister has set a June 15 deadline for supplying materials to students (10).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Retired DGP B. Shivadhar Reddy has been appointed as the State Security Advisor for a 3-year term (1, 14). A pharma reactor blast injured 9, with 3 in critical condition (2). The Chief Minister has set a June 15 deadline for supplying materials to students (10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Industrial Safety:</span> A second pharma reactor blast in recent weeks indicates potential systemic safety failures. (2)</li>\n    <li><span class=\"risk-medium\">Public Health:</span> The AQI is at 61, with PM2.5 at 17.8 and PM10 at 50.3, indicating moderate air quality concerns.</li>\n    <li><span class=\"risk-low\">Logistical Challenges:</span> Meeting the June 15 deadline for student material supply may present logistical challenges. (10, 11)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The appointment of a State Security Advisor (1, 14) and the DGP's vow to strengthen the police force (3) suggest a focus on internal security and law enforcement.</li>\n    <li>The CM's emphasis on timely supply of study materials (10, 11) and the centralized procurement strategy (12, 18, 19) are interconnected, highlighting the government's focus on education.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Initiate an immediate investigation into the cause of the pharma reactor blast and review safety protocols across all pharmaceutical facilities. (2)</li>\n    <li>Direct the Agri Department to oversee online pesticide and herbicide sales. (17)</li>\n    <li>Ensure the timely and efficient procurement and distribution of study materials to meet the June 15 deadline. (10, 11)</li>\n    <li>Review and strengthen the Special Intelligence Branch and Greyhounds, as hinted by the DGP designate. (9)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Focus on districts where pharmaceutical industries are located, due to the recent reactor blast. (2)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "38.6°C",
-      "humidity": "16%",
-      "wind": "13.9 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 61,
-      "pm25": 17.8,
-      "goldPerGram": "₹9,155",
-      "newsCount": 32,
-      "topHeadlines": [
-        "Telangana Appoints Retired DGP B. Shivadhar Reddy as State Security Advisor for 3 Years | Know Him - Indian Masterminds",
-        "Telangana: 9 injured, 3 critical in pharma reactor blast; second in weeks - The Siasat Daily",
-        "DGP CV Anand vows to strengthen police force - The Hans India",
-        "Telangana Ponnam Prabhakar assures to address RTC worker issues - The Hans India",
-        "CM Revanth Reddy extends May Day and Buddha Purnima wishes - The Hans India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-01T13:22:54.188Z",
     "timestampIST": "1/5/2026, 6:52:54 pm",
     "executiveSummary": "<p>Retired DGP B. Shivadhar Reddy has been appointed as the State Security Advisor for a three-year term. A pharma reactor blast in Telangana injured 9, with 3 in critical condition.  DGP designate CV Anand indicated an overhaul of the Special Intelligence Branch and Greyhounds. The CM has set a June 15 deadline for the supply of materials to students.</p>",
@@ -5676,6 +5630,29 @@
         "BRS cadres slam government over arrest of Balka Suman in Mancherial - Telangana Today",
         "Telangana govt will continue 24x7 free power for farmers: CM Revanth Reddy - BusinessLine",
         "Telangana Leader Revanth Reddy and Kharge Discuss at Hyderabad Airport - Devdiscourse"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-31T11:41:15.320Z",
+    "timestampIST": "31/5/2026, 5:11:15 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy will embark on a multi-district tour starting June 1, launching development projects. The CM met with Mallikarjun Kharge in Hyderabad. The CM will review the Employee Health Scheme rollout tomorrow. BRS cadres are criticizing the government over the arrest of Balka Suman in Mancherial.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will embark on a multi-district tour starting June 1, launching development projects. The CM met with Mallikarjun Kharge in Hyderabad. The CM will review the Employee Health Scheme rollout tomorrow. BRS cadres are criticizing the government over the arrest of Balka Suman in Mancherial.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political:</span> BRS cadres are criticizing the government over the arrest of Balka Suman in Mancherial. (Headline 6)</li>\n  <li><span class=\"risk-medium\">Farmer Unrest:</span> BRS leader questions the government over paddy procurement delays and farmer distress. (Headline 16)</li>\n  <li><span class=\"risk-low\">Legal:</span> CM Revanth Reddy appeared before court in Hyderabad over cases registered during the BRS regime. (Headline 19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy met with Mallikarjun Kharge (Headline 2, 5, 8).</li>\n  <li>The CM is facing criticism from BRS (Headline 6, 16).</li>\n  <li>The CM is focusing on farmer welfare by continuing 24x7 free power (Headline 7, 9, 11).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the situation in Mancherial closely, given the BRS criticism and arrest.</li>\n  <li>Assess the status of paddy procurement and address farmer distress concerns.</li>\n  <li>Prepare for the CM's multi-district tour, ensuring smooth project launches.</li>\n  <li>Prepare for the review of the Employee Health Scheme rollout.</li>\n  <li>Monitor any potential fallout from the CM's court appearance.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Mancherial:</b> Requires immediate attention due to the arrest of Balka Suman and BRS cadre criticism. (Headline 6)</li>\n  <li><b>All Districts on CM's Tour:</b> Prepare for the CM's multi-district tour starting June 1, ensuring smooth project launches. (Headline 1)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35.8°C",
+      "humidity": "32%",
+      "wind": "10.4 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 60,
+      "pm25": 27.4,
+      "goldPerGram": "₹9,163",
+      "newsCount": 32,
+      "topHeadlines": [
+        "Revanth Reddy to embark on multi-district tour, launch key development projects across Telangana from June 1 - The Hindu",
+        "Revanth Reddy, Mahesh Goud Meet Mallikarjun Kharge In Hyderabad - INDToday",
+        "Telangana CM Revanth to review the rollout of Employee Health Scheme - The Hindu",
+        "SIR in Telangana: Dalits, tribals and migrant workers may lose their names from voter rolls, warns CM - NewsMeter",
+        "Mallikarjun Kharge meets Telangana leaders during Hyderabad stopover - The Hindu"
       ]
     }
   }
