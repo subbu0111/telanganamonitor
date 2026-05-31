@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T20:55:31.778Z",
-    "timestampIST": "2/5/2026, 2:25:31 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is addressing multiple issues, including resolving power supply deficiencies (3), the RTC merger, and employee demands (6, 7, 9, 10, 11, 15, 18).  A fatal accident on the ORR in Hyderabad resulted in six deaths (17), and another road crash involving a family claimed six lives (20). A blast at a pharma unit resulted in one death and eight injuries (16).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is addressing multiple issues, including resolving power supply deficiencies (3), the RTC merger, and employee demands (6, 7, 9, 10, 11, 15, 18).  A fatal accident on the ORR in Hyderabad resulted in six deaths (17), and another road crash involving a family claimed six lives (20). A blast at a pharma unit resulted in one death and eight injuries (16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Safety:</span> Two separate road crashes in Hyderabad resulted in a total of twelve fatalities (17, 20).</li>\n    <li><span class=\"risk-medium\">Industrial Safety:</span> A blast at a pharma unit resulted in one death and eight injuries (16).</li>\n    <li><span class=\"risk-medium\">Labor Unrest:</span> The government is negotiating with RTC unions regarding merger and employee demands, including a strike (6, 7, 9, 10, 11, 15, 18).</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> Commercial LPG price surge has drawn strong criticism from a Telangana Minister (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister is actively involved in addressing both the RTC workers' demands (6, 7, 9, 10, 11, 15, 18) and power supply deficiencies (3), indicating a focus on public services.</li>\n    <li>The ORR accident (17) and the family's road crash (20) highlight a potential need for increased road safety measures in Hyderabad.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to investigate the causes of the ORR accident and the family's road crash and implement immediate safety measures (17, 20).</li>\n    <li>Monitor the negotiations between the government and RTC unions closely to prevent potential disruptions (6, 7, 9, 10, 11, 15, 18).</li>\n    <li>Assess the situation at the pharma unit where the blast occurred and ensure safety protocols are followed (16).</li>\n    <li>Review the power supply deficiencies and expedite the resolution process (3).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Requires immediate attention due to the two fatal road crashes on the ORR and elsewhere (17, 20). Also, monitor the situation regarding the MMTS scheme (2).</li>\n    <li><b>Sircilla:</b> KTR has promised support to the families of the Sircilla residents who died in the ORR accident (4).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29°C",
-      "humidity": "39%",
-      "wind": "7.7 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 60,
-      "pm25": 44.7,
-      "goldPerGram": "₹9,155",
-      "newsCount": 37,
-      "topHeadlines": [
-        "Double-bedroom houses for families displaced by lake restoration: Hydraa chief - Telangana Today",
-        "Telangana Readies Draft MoU for Free MMTS Scheme in Hyderabad - Deccan Chronicle",
-        "CM Revanth: Resolve Power Supply Deficiencies - Deccan Chronicle",
-        "KTR condoles Sircilla residents’ deaths in ORR accident, promises support - Telangana Today",
-        "Hyderabad: CV Anand Meets CM Revanth Reddy After Assuming Charge as DGP #Gallery - Social News XYZ"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-01T22:52:41.091Z",
     "timestampIST": "2/5/2026, 4:22:41 am",
     "executiveSummary": "<p>Retired DGP B. Shivadhar Reddy has been appointed as State Security Advisor for a 3-year term (1).  Six fatalities resulted from a car crash on the Hyderabad Outer Ring Road (ORR) (18), and one fatality and eight injuries occurred in a blast at a Telangana pharma unit (17). The Chief Minister is addressing the Telangana State Road Transport Corporation (TSRTC) workers' demands, including a merger, pay revision, and addressing dues (7, 8, 9, 10, 11, 12, 16, 19).</p>",
@@ -5653,6 +5630,29 @@
         "Revanth to Embark on Statewide Tour to Celebrate Telangana Formation Day - Deccan Chronicle",
         "Harish Demands Withdrawal Of ‘Rythu Discom’ - Deccan Chronicle",
         "Education is the primary yardstick for development: Revanth Reddy on X - The Hindu"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-31T21:01:18.365Z",
+    "timestampIST": "1/6/2026, 2:31:18 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. Intermediate classes begin today. Traffic diversions are imposed in Asifabad on Monday due to CM Revanth Reddy's tour. BRS and BJP leaders are challenging the Congress on various issues, including unmet promises and electoral roll revisions.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. Intermediate classes begin today. Traffic diversions are imposed in Asifabad on Monday due to CM Revanth Reddy's tour. BRS and BJP leaders are challenging the Congress on various issues, including unmet promises and electoral roll revisions.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS and BJP are actively challenging the Congress government, potentially leading to increased political pressure and scrutiny. (Headlines 5, 9, 10, 12, 16)</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> BRS is daring the CM to address unmet promises before elections, which could lead to public discontent if perceived promises are not fulfilled. (Headlines 10, 12, 16)</li>\n    <li><span class=\"risk-low\">Traffic Disruption:</span> Traffic diversions in Asifabad on Monday due to the CM's tour may cause inconvenience. (Headline 13)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A ragpicker died in a hit-and-run accident in Afzalgunj; the driver is absconding. (Headline 19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's meeting with Mallikarjun Kharge (Headlines 18, 20) suggests potential discussions on political strategy and upcoming elections, given the challenges from BRS and BJP.</li>\n    <li>The BRS's challenge to fulfill promises (Headlines 10, 12, 16) is directly related to the upcoming elections and could be amplified by the BJP's criticism of electoral roll revisions (Headline 9).</li>\n    <li>The CM's tour (Headline 4, 13) and the challenges from the opposition (Headlines 5, 9, 10, 12, 16) suggest that the government needs to be prepared for potential protests or demonstrations during the tour.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric from BRS and BJP closely, especially regarding the CM's tour and any potential public gatherings.</li>\n    <li>Assess the status of the \"Rythu Discom\" issue, as demanded by Harish. (Headline 5)</li>\n    <li>Ensure adequate security and traffic management during the CM's tour in Asifabad on Monday. (Headline 13)</li>\n    <li>Review and expedite the implementation of the Employees Health Scheme. (Headline 14)</li>\n    <li>Investigate the hit-and-run accident in Afzalgunj and apprehend the driver. (Headline 19)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Asifabad:</b> Requires immediate attention due to traffic diversions on Monday for the CM's tour. (Headline 13)</li>\n    <li><b>Hyderabad (Afzalgunj):</b> Requires attention due to the hit-and-run accident. (Headline 19)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29°C",
+      "humidity": "43%",
+      "wind": "8.5 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 63,
+      "pm25": 32.7,
+      "goldPerGram": "₹9,163",
+      "newsCount": 36,
+      "topHeadlines": [
+        "Mucherla to be developed as fourth city in capital region, says Telangana CM - Newsonair",
+        "Intermediate classes to begin from today in Telangana - The Times of India",
+        "Ready for SIR, Revanth Tells Kharge - Deccan Chronicle",
+        "Revanth to Embark on Statewide Tour to Celebrate Telangana Formation Day - Deccan Chronicle",
+        "Harish Demands Withdrawal Of ‘Rythu Discom’ - Deccan Chronicle"
       ]
     }
   }
