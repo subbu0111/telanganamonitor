@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T16:59:06.994Z",
-    "timestampIST": "1/5/2026, 10:29:06 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy announced a major expansion plan for RTC, promising wage relief and no job cuts (1). The CM will visit the Pranahita-Chevella site at Thummidihatti on May 7 (4). A road accident on the Hyderabad ORR near Shamshabad resulted in six fatalities (6, 9, 10).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy announced a major expansion plan for RTC, promising wage relief and no job cuts (1). The CM will visit the Pranahita-Chevella site at Thummidihatti on May 7 (4). A road accident on the Hyderabad ORR near Shamshabad resulted in six fatalities (6, 9, 10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Road Safety:</span> Six fatalities in a road accident on the Outer Ring Road near Shamshabad (6, 9, 10).</li>\n    <li><span class=\"risk-medium\">Industrial Safety:</span> A pharma reactor blast resulted in 9 injuries, 3 critical (15).</li>\n    <li><span class=\"risk-medium\">TSRTC Labor Relations:</span> CM Revanth Reddy is addressing RTC employees' demands and granted pay and immunity for the strike period (5, 7).</li>\n    <li><span class=\"risk-low\">Public Sentiment:</span> Commercial LPG price surge draws criticism from a Telangana Minister (8, 12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The road accident on the ORR (6, 9, 10) highlights the need for increased traffic safety measures, especially near Shamshabad.</li>\n    <li>The CM's visit to the Pranahita-Chevella site (4) and the promise of RTC expansion (1) indicate a focus on infrastructure and public services.</li>\n    <li>The appointment of a State Security Advisor (14) and the DGP's vow to strengthen the police force (16) suggest a focus on internal security.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to investigate the cause of the ORR accident and implement immediate safety measures in the Shamshabad area (6, 9, 10).</li>\n    <li>Instruct the relevant department to investigate the pharma reactor blast and ensure safety protocols are followed (15).</li>\n    <li>Monitor the situation regarding RTC employees' demands and ensure timely resolution (5, 7, 17).</li>\n    <li>Prepare for the CM's visit to the Pranahita-Chevella site on May 7 (4).</li>\n    <li>Assess the public reaction to the commercial LPG price hike and prepare a response (8, 12).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Ranga Reddy District:</b> Immediate attention is required due to the road accident on the Outer Ring Road near Shamshabad (6, 9, 10).</li>\n    <li><b>Medchal–Malkajgiri District:</b> Focus on the pharma reactor blast and ensuring safety protocols are followed (15).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "32.1°C",
-      "humidity": "29%",
-      "wind": "5.8 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 49,
-      "pm25": 41.9,
-      "goldPerGram": "₹9,155",
-      "newsCount": 31,
-      "topHeadlines": [
-        "RTC Reset: Revanth Reddy Promises Wage Relief, No Job Cuts, and Major Expansion Plan - Telugu 360",
-        "Telangana govt to build world-class bus terminus at Shamshabad: CM Revanth - The Siasat Daily",
-        "Journalist housing issue: Ponguleti sets June 2 deadline for resolution - newsage.in",
-        "Revanth May Visit Pranahita-Chevella Site at Thummidihatti on May 7 - Deccan Chronicle",
-        "Telangana CM assures action on RTC employees’ demands​ - Social News XYZ"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-01T19:15:24.694Z",
     "timestampIST": "2/5/2026, 12:45:24 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy met with DGP CV Anand today. Six fatalities occurred in a road accident on the Outer Ring Road (ORR) near Shamshabad, with KTR offering condolences. The CM is addressing the Telangana State Road Transport Corporation (TSRTC) merger and worker demands, including wage relief and an expansion plan.</p>",
@@ -5653,6 +5630,29 @@
         "TTGDA opposes 1.5 percent pay cut, seeks clarity on health scheme - Telangana Today",
         "CM conspires to impose restrictions on free power with Rythu Discom: Jeevan Reddy - Telangana Today",
         "BRS Dares Telangana Chief to Address Unmet Promises Before Elections - Devdiscourse"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-31T17:08:01.221Z",
+    "timestampIST": "31/5/2026, 10:38:01 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy will embark on a statewide tour, including a visit to Asifabad, to celebrate Telangana Formation Day. (1, 11) The Chief Minister met with Mallikarjun Kharge in Hyderabad. (15, 17, 20) Political tensions are rising, with BRS and BJP leaders challenging the government on unmet promises and electoral roll revisions. (6, 9, 10, 13)</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will embark on a statewide tour, including a visit to Asifabad, to celebrate Telangana Formation Day. (1, 11) The Chief Minister met with Mallikarjun Kharge in Hyderabad. (15, 17, 20) Political tensions are rising, with BRS and BJP leaders challenging the government on unmet promises and electoral roll revisions. (6, 9, 10, 13)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> BRS and BJP are actively challenging the government on unmet promises and electoral roll revisions, potentially leading to increased political opposition. (6, 9, 10, 13)</li>\n  <li><span class=\"risk-low\">Public Discontent:</span> TTGDA opposes a 1.5 percent pay cut and seeks clarity on a health scheme, potentially leading to employee dissatisfaction. (7)</li>\n  <li><span class=\"risk-low\">Traffic Disruptions:</span> Traffic diversions are imposed in Asifabad on Monday due to Revanth Reddy's tour. (11)</li>\n  <li><span class=\"risk-low\">Electoral Roll Concerns:</span> Concerns raised that Dalits, tribals, and migrant workers may lose their names from voter rolls. (19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>Revanth Reddy met with Mallikarjun Kharge (15, 17, 20), and the TPCC chief's meeting with Kharge is fueling speculation (4).</li>\n  <li>The CM is reviewing the rollout of the Employee Health Scheme (18), and Telangana will implement the scheme through a dedicated trust (12).</li>\n  <li>Harish demands withdrawal of ‘Rythu Discom’ (2), and CM is accused of conspiring to impose restrictions on free power with Rythu Discom (8).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the statewide tour of CM Revanth Reddy, paying close attention to public sentiment and any potential protests. (1, 11)</li>\n  <li>Assess the potential impact of the electoral roll revision process on vulnerable communities. (19)</li>\n  <li>Address concerns raised by the TTGDA regarding the pay cut and health scheme to mitigate potential employee unrest. (7)</li>\n  <li>Prepare for potential political fallout from BRS and BJP challenges regarding unmet promises. (9, 10, 13)</li>\n  <li>Review the rollout plan for the Employee Health Scheme and address any potential implementation challenges. (12, 18)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Asifabad:</b> Due to the CM's visit and traffic diversions, this district requires increased security and traffic management. (11)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31.6°C",
+      "humidity": "46%",
+      "wind": "4.2 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 58,
+      "pm25": 55.1,
+      "goldPerGram": "₹9,163",
+      "newsCount": 38,
+      "topHeadlines": [
+        "Revanth to Embark on Statewide Tour to Celebrate Telangana Formation Day - Deccan Chronicle",
+        "Harish Demands Withdrawal Of ‘Rythu Discom’ - Deccan Chronicle",
+        "Education is the primary yardstick for development: Revanth Reddy on X - The Hindu",
+        "TPCC chief’s meeting with Kharge fuels speculation in Congress circles - Telangana Today",
+        "Minister Tells Telangana BJP Leaders to March to Delhi, Not Across Telangana - Deccan Chronicle"
       ]
     }
   }
