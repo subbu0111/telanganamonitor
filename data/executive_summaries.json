@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T19:15:24.694Z",
-    "timestampIST": "2/5/2026, 12:45:24 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy met with DGP CV Anand today. Six fatalities occurred in a road accident on the Outer Ring Road (ORR) near Shamshabad, with KTR offering condolences. The CM is addressing the Telangana State Road Transport Corporation (TSRTC) merger and worker demands, including wage relief and an expansion plan.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with DGP CV Anand today. Six fatalities occurred in a road accident on the Outer Ring Road (ORR) near Shamshabad, with KTR offering condolences. The CM is addressing the Telangana State Road Transport Corporation (TSRTC) merger and worker demands, including wage relief and an expansion plan.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Six fatalities in a road accident on the ORR near Shamshabad. (Headlines 2, 14, 17, 18)</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Potential for unrest related to the TSRTC merger and worker demands, including the possibility of talks and action plans. (Headlines 4, 5, 7, 8, 9, 13, 15)</li>\n    <li><span class=\"risk-low\">LOW:</span> Criticism of the central government regarding commercial LPG price hikes by a Telangana minister. (Headlines 16, 20)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The ORR accident near Shamshabad (Headlines 14, 17, 18) highlights a potential safety concern in the area, which may require immediate attention.</li>\n    <li>The CM's focus on the TSRTC merger and worker demands (Headlines 4, 5, 7, 8, 9, 13, 15) may be linked to the need for improved public transport, potentially impacting traffic and safety.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>DGP should immediately review and enhance safety measures on the ORR, particularly around Shamshabad.</li>\n    <li>The CM should expedite discussions with RTC unions regarding the merger and worker demands to mitigate potential unrest.</li>\n    <li>The government should address the power supply deficiencies as directed by the CM. (Headline 1)</li>\n    <li>Monitor public sentiment regarding the commercial LPG price hike and its impact. (Headlines 16, 20)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Shamshabad:</b> Immediate attention is required due to the recent road accident and the need for enhanced safety measures. (Headlines 14, 17, 18)</li>\n    <li><b>Sircilla:</b> KTR's condolences suggest a need for support to the affected families. (Headline 2)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30°C",
-      "humidity": "35%",
-      "wind": "4.3 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 56,
-      "pm25": 51.6,
-      "goldPerGram": "₹9,155",
-      "newsCount": 37,
-      "topHeadlines": [
-        "CM Revanth: Resolve Power Supply Deficiencies - Deccan Chronicle",
-        "KTR condoles Sircilla residents’ deaths in ORR accident, promises support - Telangana Today",
-        "Hyderabad: CV Anand Meets CM Revanth Reddy After Assuming Charge as DGP #Gallery - Social News XYZ",
-        "Revanth Reddy asks RTC unions to hold talks on merger issue - Telangana Today",
-        "Telangana to pay RTC workers for strike, withdraw cases: CM Reddy - Asianet Newsable"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-01T20:55:31.778Z",
     "timestampIST": "2/5/2026, 2:25:31 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is addressing multiple issues, including resolving power supply deficiencies (3), the RTC merger, and employee demands (6, 7, 9, 10, 11, 15, 18).  A fatal accident on the ORR in Hyderabad resulted in six deaths (17), and another road crash involving a family claimed six lives (20). A blast at a pharma unit resulted in one death and eight injuries (16).</p>",
@@ -5653,6 +5630,29 @@
         "Education is the primary yardstick for development: Revanth Reddy on X - The Hindu",
         "TPCC chief’s meeting with Kharge fuels speculation in Congress circles - Telangana Today",
         "Minister Tells Telangana BJP Leaders to March to Delhi, Not Across Telangana - Deccan Chronicle"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-31T19:19:46.075Z",
+    "timestampIST": "1/6/2026, 12:49:46 am",
+    "executiveSummary": "<p>Intermediate classes begin today in Telangana. Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. Revanth Reddy will embark on a statewide tour to celebrate Telangana Formation Day, with traffic diversions planned for Asifabad on Monday.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Intermediate classes begin today in Telangana. Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. Revanth Reddy will embark on a statewide tour to celebrate Telangana Formation Day, with traffic diversions planned for Asifabad on Monday.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS and BJP leaders are challenging CM Revanth Reddy regarding unmet promises and electoral roll revision. (Headlines 8, 10, 11, 15)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A ragpicker died in a hit-and-run accident in Afzalgunj; the driver is absconding. (Headline 18)</li>\n    <li><span class=\"risk-low\">Labor:</span> TTGDA opposes a 1.5 percent pay cut and seeks clarity on the health scheme. (Headline 9)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's meeting with Mallikarjun Kharge (Headlines 17, 19) is fueling speculation within Congress circles (Headline 6).</li>\n    <li>The upcoming statewide tour by Revanth Reddy (Headline 3) will involve traffic diversions in Asifabad on Monday (Headline 12).</li>\n    <li>The Employee Health Scheme is a focus, with Telangana implementing it through a dedicated trust (Headline 13) and CM Revanth Reddy reviewing its rollout (Headline 20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric from BRS and BJP regarding unmet promises and electoral roll revision.</li>\n    <li>Instruct the police to expedite the investigation into the hit-and-run accident in Afzalgunj.</li>\n    <li>Assess the concerns raised by the TTGDA regarding the pay cut and health scheme.</li>\n    <li>Ensure adequate security and traffic management for CM Revanth Reddy's statewide tour, particularly in Asifabad.</li>\n    <li>Prepare a response to the challenges posed by BRS regarding the fulfillment of election promises.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Asifabad:</b> Requires immediate attention due to traffic diversions planned for Monday in connection with CM Revanth Reddy's tour. (Headline 12)</li>\n    <li><b>Hyderabad:</b> Requires attention due to the hit-and-run accident in Afzalgunj (Headline 18).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.3°C",
+      "humidity": "45%",
+      "wind": "8.4 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 62,
+      "pm25": 39.6,
+      "goldPerGram": "₹9,163",
+      "newsCount": 36,
+      "topHeadlines": [
+        "Intermediate classes to begin from today in Telangana - The Times of India",
+        "Ready for SIR, Revanth Tells Kharge - Deccan Chronicle",
+        "Revanth to Embark on Statewide Tour to Celebrate Telangana Formation Day - Deccan Chronicle",
+        "Harish Demands Withdrawal Of ‘Rythu Discom’ - Deccan Chronicle",
+        "Education is the primary yardstick for development: Revanth Reddy on X - The Hindu"
       ]
     }
   }
