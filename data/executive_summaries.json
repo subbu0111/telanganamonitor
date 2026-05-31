@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T06:38:36.217Z",
-    "timestampIST": "1/5/2026, 12:08:36 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy extended wishes for May Day and Buddha Purnima (1, 2, 20). Prime Minister Modi is scheduled to launch projects worth ₹7,823 crore in Telangana (4, 19). The Chief Minister has set a June 15 deadline for the supply of materials to students (6).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy extended wishes for May Day and Buddha Purnima (1, 2, 20). Prime Minister Modi is scheduled to launch projects worth ₹7,823 crore in Telangana (4, 19). The Chief Minister has set a June 15 deadline for the supply of materials to students (6).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential logistical challenges</span> in meeting the June 15 deadline for student material supply due to centralized procurement (6, 7, 8, 14, 15, 17).</li>\n    <li><span class=\"risk-low\">Security implications</span> related to the overhauling of the Special Intelligence Branch and Greyhounds, as hinted by DGP designate CV Anand (5).</li>\n    <li><span class=\"risk-low\">Operational challenges</span> for the Agri Department in overseeing online pesticide and herbicide sales (13).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Chief Minister Revanth Reddy extended May Day wishes (1, 2, 20), and the CMs of Andhra Pradesh and Telangana highlighted schemes for workers on May Day (3, 12).</li>\n    <li>The Chief Minister is focused on student welfare, ordering timely supply of study material (6, 7).</li>\n    <li>PM Modi is scheduled to launch projects in Telangana (4, 19).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the progress of the centralized procurement process for student supplies to ensure the June 15 deadline is met (6, 7, 8, 14, 15, 17).</li>\n    <li>Assess the implications of the overhauling of the Special Intelligence Branch and Greyhounds, as indicated by the DGP designate (5).</li>\n    <li>Ensure the Agri Department is prepared to oversee online pesticide and herbicide sales (13).</li>\n    <li>Prepare for the PM's visit and project launches (4, 19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific districts are mentioned in the provided news headlines that require immediate attention. However, districts with significant student populations should be prioritized for monitoring the supply of educational materials (6, 7, 8, 14, 15, 17).</p>\n```",
-    "dataSnapshot": {
-      "temperature": "37°C",
-      "humidity": "17%",
-      "wind": "12.1 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 64,
-      "pm25": 16.8,
-      "goldPerGram": "₹9,155",
-      "newsCount": 41,
-      "topHeadlines": [
-        "CM Revanth Reddy extends May Day and Buddha Purnima wishes - The Hans India",
-        "Revanth Reddy Extends Buddha Purnima Wishes - Deccan Chronicle",
-        "Andhra Pradesh, Telangana CMs greet workers on May Day; highlight schemes - lokmattimes.com",
-        "Modi to launch projects worth Rs 7,823 cr: Kishan - The New Indian Express",
-        "Telangana DGP designate CV Anand hints at overhauling Special Intelligence Branch, Greyhounds - The New Indian Express"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-01T09:47:43.078Z",
     "timestampIST": "1/5/2026, 3:17:43 pm",
     "executiveSummary": "<p>Retired DGP B. Shivadhar Reddy has been appointed as the State Security Advisor for a 3-year term. A pharma reactor blast injured 9 people, with 3 in critical condition.  DGP designate CV Anand indicated an overhaul of the Special Intelligence Branch and Greyhounds. CM Revanth Reddy set a June 15 deadline for the supply of materials to students.</p>",
@@ -5676,6 +5653,29 @@
         "Telangana CM Revanth Reddy unveils statue of former Andhra Pradesh CM NTR in Hyderabad - The News Mill",
         "BRS leader questions Telangana government over paddy procurement delays and farmer distress - The News Mill",
         "Revanth Reddy slams Fadnavis over Tummidihatti barrage talks - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-31T08:48:13.519Z",
+    "timestampIST": "31/5/2026, 2:18:13 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing scrutiny, appearing in court in Hyderabad over cases from the previous BRS regime (16, 20). He is also engaged in a dispute with Fadnavis regarding the Tummidihatti barrage (14, 18, 19). Concerns have been raised about potential voter roll issues affecting Dalits, tribals, and migrant workers (1).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing scrutiny, appearing in court in Hyderabad over cases from the previous BRS regime (16, 20). He is also engaged in a dispute with Fadnavis regarding the Tummidihatti barrage (14, 18, 19). Concerns have been raised about potential voter roll issues affecting Dalits, tribals, and migrant workers (1).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS cadres are criticizing the government over the arrest of Balka Suman in Mancherial (3).</li>\n    <li><span class=\"risk-medium\">Legal Challenges:</span> The CM is appearing in court in Hyderabad over cases registered during the BRS regime (16, 20).</li>\n    <li><span class=\"risk-low\">Farmer Unrest:</span> BRS leaders are questioning the government over paddy procurement delays and farmer distress (13).</li>\n    <li><span class=\"risk-low\">Voter Disenfranchisement:</span> Concerns exist that Dalits, tribals, and migrant workers may lose their names from voter rolls (1).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's meetings with Kharge (2, 5) and his court appearance (16, 20) suggest potential political maneuvering and legal challenges.</li>\n    <li>The CM's statements on free power for farmers (4, 6, 8, 10) and the BRS's criticism (13) highlight a key policy area under political debate.</li>\n    <li>The CM's criticism of Fadnavis regarding the barrage (14, 18, 19) and the BRS's criticism of the government (3, 13) indicate potential political friction.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the legal proceedings against the CM closely.</li>\n    <li>Assess the situation in Mancherial following Balka Suman's arrest.</li>\n    <li>Review and address concerns regarding potential voter roll issues.</li>\n    <li>Prepare a public statement addressing the paddy procurement delays and farmer distress.</li>\n    <li>Prepare a response to the criticism from Fadnavis regarding the Tummidihatti barrage.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Mancherial:</b> Monitor the situation following the arrest of Balka Suman (3).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35.8°C",
+      "humidity": "33%",
+      "wind": "11.1 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 61,
+      "pm25": 27.2,
+      "goldPerGram": "₹9,163",
+      "newsCount": 34,
+      "topHeadlines": [
+        "SIR in Telangana: Dalits, tribals and migrant workers may lose their names from voter rolls, warns CM - NewsMeter",
+        "Mallikarjun Kharge meets Telangana leaders during Hyderabad stopover - The Hindu",
+        "BRS cadres slam government over arrest of Balka Suman in Mancherial - Telangana Today",
+        "Telangana govt will continue 24x7 free power for farmers: CM Revanth Reddy - BusinessLine",
+        "Telangana Leader Revanth Reddy and Kharge Discuss at Hyderabad Airport - Devdiscourse"
       ]
     }
   }
