@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02T02:52:18.108Z",
-    "timestampIST": "2/5/2026, 8:22:18 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is engaging with RTC unions regarding the absorption of workers and has announced wage payouts related to a strike (1, 12, 16). The CM has instructed officials to address misconceptions about staff transfers to Rythu Discom (2).  DGP CV Anand met with CM Revanth Reddy after assuming charge (5).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is engaging with RTC unions regarding the absorption of workers and has announced wage payouts related to a strike (1, 12, 16). The CM has instructed officials to address misconceptions about staff transfers to Rythu Discom (2).  DGP CV Anand met with CM Revanth Reddy after assuming charge (5).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for unrest:</span>  RTC unions are in discussions with the CM regarding absorption and merger, which could lead to labor disputes if negotiations fail (1, 11, 14, 15, 16, 20).</li>\n    <li><span class=\"risk-low\">Public perception:</span> Misconceptions regarding staff transfers to Rythu Discom need to be addressed to avoid negative public sentiment (2).</li>\n    <li><span class=\"risk-low\">Infrastructure concerns:</span>  The CM is addressing power supply deficiencies (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on RTC issues (1, 11, 12, 13, 14, 15, 16, 20) and the appointment of a State Security Advisor (6) suggests a focus on maintaining order and addressing potential labor unrest.</li>\n    <li>The CM's directive to address power supply deficiencies (9) and the announcement of a world-class bus terminus (17) indicate a focus on infrastructure development.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize and actively monitor the ongoing negotiations between the CM and RTC unions to mitigate potential labor unrest (1, 11, 14, 15, 16, 20).</li>\n    <li>Ensure effective communication and clarification regarding staff transfers to Rythu Discom to address public misconceptions (2).</li>\n    <li>Monitor the Pranahitha-Chevella project, particularly in light of upcoming talks with Maharashtra (3, 19).</li>\n    <li>Address power supply deficiencies as directed by the CM (9).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Sircilla:</b>  Focus on providing support to the families affected by the ORR accident (10).</li>\n    <li><b>Shamshabad:</b>  Monitor the development of the world-class bus terminus (17).</li>\n    <li><b>Thummidihatti:</b> Prepare for the CM's potential visit to the Pranahita-Chevella site on May 7 (19).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.1°C",
-      "humidity": "33%",
-      "wind": "9.9 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 61,
-      "pm25": 22.4,
-      "goldPerGram": "₹9,155",
-      "newsCount": 42,
-      "topHeadlines": [
-        "Telangana CM Revanth asks RTC unions to reach consensus on absorption; announces strike wage payout - The New Indian Express",
-        "Telangana CM Reddy asks officials to clear misconceptions over staff transfers to Rythu Discom - The New Indian Express",
-        "Uttam Reddy seeks detailed proposals on Pranahitha-Chevella project ahead of Maharashtra talks - The New Indian Express",
-        "At least 6 killed after car crashes into stationary lorry in Telangana - The Times of India",
-        "Hyderabad: CV Anand Meets CM Revanth Reddy After Assuming Charge as DGP #Gallery - Social News XYZ"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-02T06:08:12.960Z",
     "timestampIST": "2/5/2026, 11:38:12 am",
     "executiveSummary": "<p>DGP CV Anand met with CM Revanth Reddy after assuming charge. (1) CM Revanth Reddy announced a major infrastructure push for TGSRTC, including 1000 e-buses and international standard terminals. (2) The CM is addressing RTC worker concerns, including wage payouts and merger discussions. (3, 13, 14, 15, 17, 18) A car crash resulted in at least 6 fatalities. (6)</p>",
@@ -5653,6 +5630,29 @@
         "Ready for SIR, Revanth Tells Kharge - Deccan Chronicle",
         "Revanth to Embark on Statewide Tour to Celebrate Telangana Formation Day - Deccan Chronicle",
         "Harish Demands Withdrawal Of ‘Rythu Discom’ - Deccan Chronicle"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-01T04:16:42.340Z",
+    "timestampIST": "1/6/2026, 9:46:42 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy will launch Indiramma Houses in Asifabad today (1, 2). He will also review the Employee Health Scheme ahead of its rollout (3). The CM is scheduled to embark on a statewide tour to celebrate Telangana Formation Day (9). Traffic diversions are imposed in Asifabad today due to the CM's visit (19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will launch Indiramma Houses in Asifabad today (1, 2). He will also review the Employee Health Scheme ahead of its rollout (3). The CM is scheduled to embark on a statewide tour to celebrate Telangana Formation Day (9). Traffic diversions are imposed in Asifabad today due to the CM's visit (19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS and BJP are challenging the CM regarding unmet promises and electoral roll revision (14, 16, 18).</li>\n    <li><span class=\"risk-low\">Public Order:</span> Traffic diversions in Asifabad due to the CM's tour could cause minor disruptions (19).</li>\n    <li><span class=\"risk-low\">Political:</span> Potential for increased political activity and criticism from opposition parties (10, 15).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's launch of Indiramma Houses (1, 2) and review of the Employee Health Scheme (3) are key policy initiatives.</li>\n    <li>The CM's meeting with Kharge (4, 8, 12) indicates ongoing political discussions and potentially cabinet reshuffle (5).</li>\n    <li>Opposition parties are criticizing the government regarding free power and electoral roll revision (10, 14, 15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure smooth execution of the Indiramma Houses launch in Asifabad and manage traffic diversions effectively (1, 2, 19).</li>\n    <li>Prepare for potential scrutiny and criticism from opposition parties regarding unmet promises and electoral roll revision (14, 16, 18).</li>\n    <li>Monitor the rollout of the Employee Health Scheme and address any potential issues (3, 20).</li>\n    <li>Prepare for the CM's statewide tour and ensure adequate security and logistical arrangements (9).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Asifabad:</b> Due to the CM's visit and Indiramma Houses launch, this district requires immediate attention for security and logistical arrangements (1, 2, 19).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "33.8°C",
+      "humidity": "31%",
+      "wind": "9.3 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 60,
+      "pm25": 17.1,
+      "goldPerGram": "₹9,163",
+      "newsCount": 37,
+      "topHeadlines": [
+        "CM Revanth Reddy to Launch Indiramma Houses in Asifabad Today - INDToday",
+        "CM Revanth to launch Indiramma housing Phase-II today - The New Indian Express",
+        "CM Revanth will review Employee Health Scheme ahead of rollout - The New Indian Express",
+        "Revanth Sounds Voter Roll Alert, Briefs Kharge on Telangana Challenges - Hyderabad Mail",
+        "Now, Congress may focus on Telangana Cabinet rejig - The New Indian Express"
       ]
     }
   }
