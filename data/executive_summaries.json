@@ -1,74 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02T06:08:12.960Z",
-    "timestampIST": "2/5/2026, 11:38:12 am",
-    "executiveSummary": "<p>DGP CV Anand met with CM Revanth Reddy after assuming charge. (1) CM Revanth Reddy announced a major infrastructure push for TGSRTC, including 1000 e-buses and international standard terminals. (2) The CM is addressing RTC worker concerns, including wage payouts and merger discussions. (3, 13, 14, 15, 17, 18) A car crash resulted in at least 6 fatalities. (6)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>DGP CV Anand met with CM Revanth Reddy after assuming charge. (1) CM Revanth Reddy announced a major infrastructure push for TGSRTC, including 1000 e-buses and international standard terminals. (2) The CM is addressing RTC worker concerns, including wage payouts and merger discussions. (3, 13, 14, 15, 17, 18) A car crash resulted in at least 6 fatalities. (6)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for unrest among RTC unions</span> due to ongoing discussions regarding merger and worker absorption. (3, 13, 16)</li>\n    <li><span class=\"risk-low\">Public concern over road safety</span> following a fatal car crash. (6)</li>\n    <li><span class=\"risk-low\">Possible delays or complications</span> in staff transfers to Rythu Discom due to existing misconceptions. (4)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on TGSRTC (2, 7, 18) is directly linked to addressing worker concerns and potential merger discussions. (3, 13, 16)</li>\n    <li>The announcement of a world-class bus terminal (19) is part of the larger infrastructure push for TGSRTC, as mentioned in headline (2).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor negotiations between the CM and RTC unions closely to mitigate potential labor unrest. (3, 13, 16)</li>\n    <li>Issue a public statement on road safety following the car crash, emphasizing preventative measures. (6)</li>\n    <li>Clarify and address any misconceptions regarding staff transfers to Rythu Discom to ensure a smooth transition. (4)</li>\n    <li>Expedite the preparation of the draft MoU for the Free MMTS Scheme in Hyderabad. (10)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Sircilla:</b> Requires attention due to the ORR accident and the deaths of residents. (12)</li>\n    <li><b>Hyderabad:</b> Requires attention due to the Free MMTS Scheme and the CM's focus on resolving power supply deficiencies. (10, 11)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "37.8°C",
-      "humidity": "19%",
-      "wind": "6.8 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 63,
-      "pm25": 16.4,
-      "goldPerGram": "₹9,155",
-      "newsCount": 36,
-      "topHeadlines": [
-        "Hyderabad: CV Anand Meets CM Revanth Reddy After Assuming Charge as DGP #Gallery - Social News XYZ",
-        "1000 e-buses, international standard terminals: CM Revanth announces major infra push to revive TGSRTC - NewsMeter",
-        "Telangana CM Revanth asks RTC unions to reach consensus on absorption; announces strike wage payout - The New Indian Express",
-        "Telangana CM Reddy asks officials to clear misconceptions over staff transfers to Rythu Discom - The New Indian Express",
-        "Uttam Reddy seeks detailed proposals on Pranahitha-Chevella project ahead of Maharashtra talks - The New Indian Express"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-02T09:09:00.223Z",
-    "timestampIST": "2/5/2026, 2:39:00 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy met with the new DGP CV Anand. The CM announced a major infrastructure push for TGSRTC, including 1000 e-buses and international standard terminals (6). The CM is also addressing RTC worker dues and services, including strike wage payouts and withdrawal of cases (7, 19, 20).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with the new DGP CV Anand. The CM announced a major infrastructure push for TGSRTC, including 1000 e-buses and international standard terminals (6). The CM is also addressing RTC worker dues and services, including strike wage payouts and withdrawal of cases (7, 19, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Potential for unrest:</span> Activists are warning of a crisis related to the Telangana scholarship row (1).</li>\n  <li><span class=\"risk-medium\">Public Safety:</span> Six fatalities reported after a car crashed into a stationary lorry in Telangana (10).</li>\n  <li><span class=\"risk-low\">Labor Relations:</span> Discussions are ongoing with RTC unions regarding absorption and the merger issue (7, 18).</li>\n  <li><span class=\"risk-low\">Farmer Protests:</span> Controversy surrounds the Bharat Future City Project (11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The CM is actively involved in addressing both RTC worker issues (7, 18, 19, 20) and power supply deficiencies (16), indicating a focus on infrastructure and public services.</li>\n  <li>The CM's meeting with the new DGP (4) and the appointment of a State Security Advisor (13) suggest a focus on security and law enforcement.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>DGP should investigate the car crash incident and increase traffic safety measures (10).</li>\n  <li>Monitor the situation regarding the Telangana scholarship row and potential activism (1).</li>\n  <li>Ensure swift resolution of RTC worker issues to maintain public transport services (7, 18, 19, 20).</li>\n  <li>Assess the impact of the Bharat Future City Project controversy and engage with stakeholders (11).</li>\n  <li>Prioritize the resolution of power supply deficiencies as directed by the CM (16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Sircilla:</b> Focus on providing support to the families of the deceased in the ORR accident (17).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "39.5°C",
-      "humidity": "16%",
-      "wind": "10.1 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 62,
-      "pm25": 14.5,
-      "goldPerGram": "₹9,155",
-      "newsCount": 36,
-      "topHeadlines": [
-        "Activists warn of crisis as Telangana scholarship row hits students - The Siasat Daily",
-        "\"Huge slap to administration of Assam government\": Congress leader Sama Ram Mohan Reddy on Congress leader... - lokmattimes.com",
-        "Power substations work fast-tracked by Revanth Reddy - newsage.in",
-        "Hyderabad: CV Anand Meets CM Revanth Reddy After Assuming Charge as DGP #Gallery - Social News XYZ",
-        "Proposal for directly-elected mayor for Hyderabad civic polls under consideration - The New Indian Express"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-02T10:54:09.947Z",
-    "timestampIST": "2/5/2026, 4:24:09 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy met with newly appointed DGP CV Anand. (4) The CM announced a major infrastructure push for TGSRTC, including 1000 e-buses and international standard terminals. (6) The CM also addressed RTC union concerns, including strike wage payouts and talks on merger issues. (7, 18, 19, 20) There are reports of a car crash in Telangana that resulted in at least 6 fatalities. (10)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with newly appointed DGP CV Anand. (4) The CM announced a major infrastructure push for TGSRTC, including 1000 e-buses and international standard terminals. (6) The CM also addressed RTC union concerns, including strike wage payouts and talks on merger issues. (7, 18, 19, 20) There are reports of a car crash in Telangana that resulted in at least 6 fatalities. (10)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Potential for unrest:</span> Activists are warning of a crisis related to the Telangana scholarship row. (1)</li>\n  <li><span class=\"risk-medium\">Public Safety:</span> At least 6 fatalities reported after a car crash. (10)</li>\n  <li><span class=\"risk-low\">Labor Relations:</span> Discussions ongoing with RTC unions regarding absorption and merger issues. (7, 18)</li>\n  <li><span class=\"risk-low\">Farmer Protests:</span> Controversy surrounding the Bharat Future City Project. (11)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy is actively involved in addressing multiple issues, including power supply deficiencies (16), TGSRTC (6, 7, 18, 19, 20), and staff transfers. (8)</li>\n  <li>The CM is focused on infrastructure development, including power substations (3) and the revival of TGSRTC (6).</li>\n  <li>The government is addressing RTC worker dues (20) and the CM is asking RTC unions to reach a consensus on absorption (7, 18).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>DGP should investigate the car crash and provide a detailed report. (10)</li>\n  <li>Monitor the situation regarding the Telangana scholarship row and potential activism. (1)</li>\n  <li>Ensure effective communication and negotiation with RTC unions regarding the merger and absorption issues. (7, 18)</li>\n  <li>Review the proposals for the Pranahitha-Chevella project. (9)</li>\n  <li>Address power supply deficiencies as directed by the CM. (16)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Sircilla:</b> KTR condoles deaths in an ORR accident. (17)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "39.3°C",
-      "humidity": "16%",
-      "wind": "10.3 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 60,
-      "pm25": 13,
-      "goldPerGram": "₹9,155",
-      "newsCount": 34,
-      "topHeadlines": [
-        "Activists warn of crisis as Telangana scholarship row hits students - The Siasat Daily",
-        "\"Huge slap to administration of Assam government\": Congress leader Sama Ram Mohan Reddy on Congress leader... - lokmattimes.com",
-        "Power substations work fast-tracked by Revanth Reddy - newsage.in",
-        "Hyderabad: CV Anand Meets CM Revanth Reddy After Assuming Charge as DGP #Gallery - Social News XYZ",
-        "Proposal for directly-elected mayor for Hyderabad civic polls under consideration - The New Indian Express"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-02T13:16:48.501Z",
     "timestampIST": "2/5/2026, 6:46:48 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy met with newly appointed DGP CV Anand. The CM ordered fast-track construction of power substations and announced a major infrastructure push for TGSRTC, including 1000 e-buses. The CM is also addressing RTC worker dues and services, including wage payouts related to a strike.</p>",
@@ -5653,6 +5584,29 @@
         "CM Revanth will review Employee Health Scheme ahead of rollout - The New Indian Express",
         "Revanth Sounds Voter Roll Alert, Briefs Kharge on Telangana Challenges - Hyderabad Mail",
         "Now, Congress may focus on Telangana Cabinet rejig - The New Indian Express"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-01T11:38:49.671Z",
+    "timestampIST": "1/6/2026, 5:08:49 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is scheduled to launch Indiramma Houses in Asifabad today (headlines 11, 12). He will also review the Employee Health Scheme ahead of its rollout (headline 13). BRS cadres were detained ahead of the CM's tour to Asifabad (headline 7).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is scheduled to launch Indiramma Houses in Asifabad today (headlines 11, 12). He will also review the Employee Health Scheme ahead of its rollout (headline 13). BRS cadres were detained ahead of the CM's tour to Asifabad (headline 7).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS cadres detained in Asifabad ahead of CM's tour, potentially indicating unrest or attempts to disrupt the event. (headline 7)</li>\n    <li><span class=\"risk-medium\">Public Perception:</span> KTR demands CM Revanth Reddy fulfil 420 promises before the next election, potentially highlighting unmet expectations. (headline 10)</li>\n    <li><span class=\"risk-low\">Environmental:</span> Possible rainfall deficit forecast, requiring preparedness measures for farmers. (headlines 1, 4)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM is focused on both immediate actions (launching housing, reviewing health schemes - headlines 11, 12, 13) and long-term planning (crop diversification due to potential rainfall deficit - headlines 1, 4).</li>\n    <li>The CM's tour to Asifabad (headline 7) coincides with the launch of Indiramma Houses in the same district (headlines 11, 12).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure adequate security and crowd control measures are in place for the CM's events in Asifabad, given the detention of BRS cadres. (headline 7, 11, 12)</li>\n    <li>Monitor the situation in Asifabad closely during the CM's tour. (headline 7, 11, 12)</li>\n    <li>Prepare and disseminate information regarding the Employee Health Scheme rollout. (headline 13)</li>\n    <li>Coordinate with the Agriculture Department to implement crop diversification strategies and support farmers in light of the potential rainfall deficit. (headlines 1, 4)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Asifabad:</b> High priority due to the CM's visit, launch of Indiramma Houses, and potential for political activity. (headlines 7, 11, 12)</li>\n    <li><b>Mahabubnagar:</b> The CM is scheduled to tour Mahabubnagar on June 4 and 5, requiring preparation. (headline 9)</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "35.8°C",
+      "humidity": "28%",
+      "wind": "8.1 km/h",
+      "weatherDesc": "Clear Sky",
+      "aqi": 63,
+      "pm25": 12.8,
+      "goldPerGram": "₹9,163",
+      "newsCount": 35,
+      "topHeadlines": [
+        "Farmers Must Be Prepared For Possible Rainfall Deficit: Revanth Reddy - INDToday",
+        "Canada’s CIBC, Swiss Nestlé Pick Hyderabad for New GCCs - Analytics India Magazine",
+        "VB-G RAM G: Telangana Government Seeks Restoration Of Power To Take Up Works, Removal Of Two Month's Break - ETV Bharat",
+        "CM Revanth Reddy for crop diversification, as below normal rainfall is forecast - The Hindu",
+        "Telangana govt bans cash wages, brings gig workers under new regulations - Business Standard"
       ]
     }
   }
