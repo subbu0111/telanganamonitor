@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21T21:28:00.291Z",
-    "timestampIST": "22/5/2026, 2:58:00 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy announced the arrest of Bageerath and Bandi Sanjay's son by the police. The Telangana government has increased minimum wages, potentially benefiting 1.11 crore workers, with revisions up to ₹20,000 per month. The CM is seeking a special session on the Women’s Reservation Bill.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy announced the arrest of Bageerath and Bandi Sanjay's son by the police. The Telangana government has increased minimum wages, potentially benefiting 1.11 crore workers, with revisions up to ₹20,000 per month. The CM is seeking a special session on the Women’s Reservation Bill.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> The arrest of Bandi Sanjay's son and the subsequent political reactions, including accusations of shielding and politicization, could lead to increased political tensions. (Headlines 3, 7, 8, 17)</li>\n  <li><span class=\"risk-medium\">Public Discontent:</span> Discrepancies between the CM's claims and AAI's clarification regarding the Begumpet airport underpass could erode public trust. (Headline 9)</li>\n  <li><span class=\"risk-low\">Labor Unrest:</span> While the wage hike is intended to benefit workers, potential issues may arise during implementation or if the revised wages are perceived as insufficient by some worker categories. (Headlines 6, 10, 15, 18, 20)</li>\n  <li><span class=\"risk-low\">Economic Impact:</span> The CM's claim that only 20% of paddy will be procured could impact farmers and the agricultural sector. (Headline 19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The arrest of Bageerath (Headlines 1, 12) and Bandi Sanjay's son (Headline 3) are both related to police actions and statements by the CM, indicating a focus on law enforcement and political messaging.</li>\n  <li>The Telangana government's minimum wage hike (Headlines 6, 10, 15, 18, 20) and the CM's promise of a universal housing policy for journalists (Headline 2) reflect the government's focus on social welfare and economic policies.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the political fallout from the arrest of Bandi Sanjay's son and Bageerath, and prepare a public statement to address the allegations of shielding and politicization.</li>\n  <li>Issue a clarification regarding the Begumpet airport underpass discrepancy to maintain public trust.</li>\n  <li>Monitor the implementation of the minimum wage hike and be prepared to address any potential labor unrest or disputes.</li>\n  <li>Assess the impact of the paddy procurement claim on farmers and the agricultural sector.</li>\n  <li>Prepare for the special session on the Women’s Reservation Bill.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>No specific districts are mentioned in the news headlines that require immediate attention. However, the implementation of the minimum wage hike should be monitored across all districts to ensure compliance and address any potential issues.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.3°C",
-      "humidity": "48%",
-      "wind": "11.6 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 69,
-      "pm25": 31.5,
-      "goldPerGram": "₹9,280",
-      "newsCount": 56,
-      "topHeadlines": [
-        "Bageerath Did Not Surrender, Was Arrested, Says Revanth - Deccan Chronicle",
-        "CM Revanth Reddy promises universal housing policy for journalists - newsage.in",
-        "Police Arrested Bandi Sanjay’s Son, Says Telangana CM - Ommcom News",
-        "Shift from IT to skill-based jobs, Revanth tells youth - The Times of India",
-        "Rajiv Gandhi Led India Into Technology Era: Revanth Reddy - INDToday"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-21T23:04:33.275Z",
-    "timestampIST": "22/5/2026, 4:34:33 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy has called for a special Parliament session on the Women’s Reservation Bill (1, 14). The CM has been addressing the issue of minimum wage increases and worker reclassification (6, 10, 15, 18, 20). The CM is also involved in a dispute regarding the arrest of Bageerath and the POCSO case involving Bandi Sanjay's son (2, 7, 8, 12, 17).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has called for a special Parliament session on the Women’s Reservation Bill (1, 14). The CM has been addressing the issue of minimum wage increases and worker reclassification (6, 10, 15, 18, 20). The CM is also involved in a dispute regarding the arrest of Bageerath and the POCSO case involving Bandi Sanjay's son (2, 7, 8, 12, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Disagreements and accusations surrounding the POCSO case involving Bandi Sanjay's son and the CM's involvement could lead to political tensions (7, 8, 17).</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Potential for public reaction to the CM's claim that only 20% of paddy will be procured (19).</li>\n    <li><span class=\"risk-low\">Misinformation:</span> Conflicting claims regarding the Begumpet airport underpass (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's statements regarding the arrest of Bageerath (2, 12) and the POCSO case (7, 8, 17) are related and could indicate political maneuvering.</li>\n    <li>The announcements about minimum wage hikes (6, 10, 15, 18, 20) and worker reclassification are interconnected.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prepare a detailed statement clarifying the government's position on the POCSO case and address accusations of shielding Bandi Sanjay (7, 8, 17).</li>\n    <li>Issue a clarification regarding the Begumpet airport underpass to address the contradiction (9).</li>\n    <li>Monitor public sentiment regarding paddy procurement percentages (19).</li>\n    <li>Prepare a communication strategy to highlight the benefits of the minimum wage increase and worker reclassification (6, 10, 15, 18, 20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the provided headlines that require immediate attention.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30.5°C",
-      "humidity": "54%",
-      "wind": "13.1 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 64,
-      "pm25": 18.7,
-      "goldPerGram": "₹9,280",
-      "newsCount": 55,
-      "topHeadlines": [
-        "Telangana CM Revanth Reddy calls for special Parliament session on women’s quota - The News Mill",
-        "Bageerath Did Not Surrender, Was Arrested, Says Revanth - Deccan Chronicle",
-        "CM Revanth Reddy promises universal housing policy for journalists - newsage.in",
-        "Shift from IT to skill-based jobs, Revanth tells youth - The Times of India",
-        "Rajiv Gandhi Led India Into Technology Era: Revanth Reddy - INDToday"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-22T03:52:14.870Z",
     "timestampIST": "22/5/2026, 9:22:14 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy has called for a special Parliament session on the women’s quota (2, 15). The CM addressed the arrest of Bageerath (3, 13) and the POCSO case involving Bandi Sanjay's son (8, 9, 18). The Telangana government has hiked minimum wages, benefiting 1.11 crore workers, with revisions up to ₹20,000 per month (7, 11, 16, 19).</p>",
@@ -2029,6 +1983,29 @@
       "weatherDesc": "Overcast",
       "aqi": 57,
       "pm25": 28.8,
+      "goldPerGram": "₹9,098",
+      "newsCount": 36,
+      "topHeadlines": [
+        "Telangana CM Revanth Reddy announces cash reward of Rs.25 lakh each to chess players Arjun, Harika - Newsonair",
+        "CM Revanth Likely To Take Up SBI Chairman Issue With Centre During His Delhi Visit - Deccan Chronicle",
+        "Revanth takes SBI court challenge to Mum-Delhi, metro funding on agenda - The Times of India",
+        "'Arrange Meeting With Ashwini Vaishnav': CM Revanth Reddy To Kishan Reddy Over Hyderabad Metro Delay - ETV Bharat",
+        "Revanth Reddy Writes To Kishan Reddy, Seeks Meeting With Railway Minister Over Pending Hyderabad Metro... - Deccan Chronicle"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-20T23:10:41.896Z",
+    "timestampIST": "21/6/2026, 4:40:41 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaging with the Union Government on critical infrastructure projects and land disputes, including the Hyderabad Metro Phase-II funding and the SBI land issue, with a Delhi visit scheduled for June 22-23 (Headlines #2, #3, #4, #5, #10, #13, #15). The BRS party has accused the Congress government of betraying farmers and demanded its resignation (Headline #6). The CM also announced a cash reward of Rs. 25 lakh each to chess players Arjun and Harika (Headline #1).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaging with the Union Government on critical infrastructure projects and land disputes, including the Hyderabad Metro Phase-II funding and the SBI land issue, with a Delhi visit scheduled for June 22-23 (Headlines #2, #3, #4, #5, #10, #13, #15). The BRS party has accused the Congress government of betraying farmers and demanded its resignation (Headline #6). The CM also announced a cash reward of Rs. 25 lakh each to chess players Arjun and Harika (Headline #1).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability:</span> BRS's demand for the Congress government's resignation due to alleged betrayal of farmers indicates heightened political opposition and potential for unrest (Headline #6).</li>\n    <li><span class=\"risk-medium\">Infrastructure Delays:</span> The ongoing issues with Hyderabad Metro Phase-II funding and land acquisition, despite Telangana's Rs. 15,000 Crore move, pose a risk to urban development and public perception (Headlines #4, #5, #12, #15).</li>\n    <li><span class=\"risk-medium\">Inter-Governmental Disputes:</span> The CM's intent to raise the SBI Chairman issue and the SBI court challenge with the Centre and RBI during his Delhi visit suggests potential friction with central institutions (Headlines #2, #3, #13).</li>\n    <li><span class=\"risk-low\">Farmer Discontent:</span> While BRS claims betrayal, the \"Revanth Reddy’s latest U turn leaves farmers worried\" suggests a potential for farmer dissatisfaction, though specific details are not provided (Headline #16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #2, #3, #4, #5, #10, #13, and #15 all indicate the Chief Minister's proactive engagement with the Union Government and central institutions during his upcoming Delhi visit (June 22-23) to address key state issues, particularly regarding the Hyderabad Metro and the SBI land dispute.</li>\n    <li>Headlines #4, #5, #12, and #15 highlight the critical and ongoing challenges related to the Hyderabad Metro Phase-II, specifically concerning funding and the need for a joint meeting with the Railway Minister.</li>\n    <li>Headlines #6 and #16 both relate to farmer issues, with BRS accusing the government of betrayal and a separate report mentioning farmer worry over a \"U turn,\" suggesting a potential for widespread agricultural discontent.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize the Chief Minister's engagements in Delhi (June 22-23) to secure central government support and resolution for the Hyderabad Metro Phase-II funding and the SBI land dispute (Headlines #2, #3, #4, #5, #10, #13, #15).</li>\n    <li>Develop a robust communication strategy to counter BRS's allegations regarding farmer betrayal and address concerns raised by the \"U turn\" (Headlines #6, #16).</li>\n    <li>Monitor public sentiment and potential for protests related to farmer issues, especially in light of BRS's strong statements (Headline #6).</li>\n    <li>Expedite internal coordination for the development of the Gandhi Sarovar Project, leveraging the recently cleared 83 acres of defence land (Headline #19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Requires immediate attention due to the critical issues surrounding the Hyderabad Metro Phase-II funding and delays (Headlines #4, #5, #12, #15), the announcement of an international bus terminal (Headline #18), and the inauguration of the FIFA-AIFF Telangana Academy (Headline #20).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "24.5°C",
+      "humidity": "85%",
+      "wind": "8.9 km/h",
+      "weatherDesc": "Dense Drizzle",
+      "aqi": 49,
+      "pm25": 25.1,
       "goldPerGram": "₹9,098",
       "newsCount": 36,
       "topHeadlines": [
