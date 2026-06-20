@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21T07:57:15.636Z",
-    "timestampIST": "21/5/2026, 1:27:15 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is planning a Telangana Data City and will launch the second phase of Indiramma Houses in Asifabad on June 2 (12). The state is expanding its GCC policy beyond Hyderabad (1, 14). The IMD has issued a severe heatwave alert for 14 districts, with Hyderabad temperatures expected to rise (19).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is planning a Telangana Data City and will launch the second phase of Indiramma Houses in Asifabad on June 2 (12). The state is expanding its GCC policy beyond Hyderabad (1, 14). The IMD has issued a severe heatwave alert for 14 districts, with Hyderabad temperatures expected to rise (19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Health:</span> Severe heatwave conditions are predicted for 14 districts, potentially impacting public health (19).</li>\n    <li><span class=\"risk-medium\">Road Safety:</span> Rising accidents involving children have prompted the rollout of a Child Road Safety Plan (4, 18).</li>\n    <li><span class=\"risk-medium\">Law and Order:</span> CM Revanth Reddy has warned police against neglecting law and order (13).</li>\n    <li><span class=\"risk-low\">Infrastructure:</span> Potential delays or cost overruns related to Hyderabad Metro Phase 2, pending finalization of funding details (9, 11, 17, 20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The expansion of the GCC policy beyond Hyderabad (1, 14) aligns with the CM's plans for a Telangana Data City (8), suggesting a focus on economic growth corridors.</li>\n    <li>The introduction of a special law against food adulteration (7) may be linked to rising cancer cases, indicating a public health concern.</li>\n    <li>The Child Road Safety Plan (4, 18) is a direct response to rising accidents involving children.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Issue immediate directives to district administrations in the 14 districts under severe heatwave alert to implement public health measures (19).</li>\n    <li>Prioritize the rollout of the Child Road Safety Plan, ensuring adequate resources and enforcement (4, 18).</li>\n    <li>Review and strengthen law enforcement protocols, as per the CM's warning (13).</li>\n    <li>Expedite the planning and execution of the Telangana Data City project (8).</li>\n    <li>Coordinate with the Centre regarding the funding and implementation of Hyderabad Metro Phase 2 (9, 11, 17, 20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>The 14 districts under severe heatwave alert require immediate attention to mitigate public health risks (19). Asifabad requires attention due to the upcoming launch of the second phase of Indiramma Houses on June 2 (12).</p>\n```",
-    "dataSnapshot": {
-      "temperature": "39.7°C",
-      "humidity": "22%",
-      "wind": "8.5 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 66,
-      "pm25": 25.4,
-      "goldPerGram": "₹9,339",
-      "newsCount": 50,
-      "topHeadlines": [
-        "Telangana expands GCC policy beyond Hyderabad - newsage.in",
-        "Hyderabad: Revanth Reddy Pays Tribute to Rajiv Gandhi #Gallery - Social News XYZ",
-        "Telangana reviews police system reforms - newsage.in",
-        "Telangana begins road safety action plan for children - newsage.in",
-        "Jhansi Rajender Reddy extends birthday greetings to Rohin Reddy - The Hans India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-21T11:32:59.599Z",
     "timestampIST": "21/5/2026, 5:02:59 pm",
     "executiveSummary": "<p>Chief Minister A. Revanth Reddy has announced a minimum wage hike for 1.11 crore workers in Telangana, with new rates effective from June 1.  The CM is also calling for a special Parliament session to discuss the Women's Reservation Bill.  A container truck fire in Medak resulted in the destruction of 10 Maruti cars.</p>",
@@ -2014,6 +1991,29 @@
         "Telangana minister defends CM Revanth Reddy's controversial remarks - The News Mill",
         "CM Revanth Reddy Highlights Telangana’s Focus on Health, Fitness and Education - boldnewsonline.com",
         "Telangana Should Produce Unicorns: CM Reddy - Outlook India"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-20T10:33:39.590Z",
+    "timestampIST": "20/6/2026, 4:03:39 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has announced significant initiatives across education, sports, and infrastructure, including cash rewards for chess players (1), plans for modern grain silos (3, 9), and reviews of bullet train corridors and Warangal airport (8). The government is also focusing on skill development to counter potential job losses from AI (11, 18) and has launched an anti-drug drive alongside youth initiatives (14). A notable public safety incident involved Rajendranagar police saving an infant's life (2).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has announced significant initiatives across education, sports, and infrastructure, including cash rewards for chess players (1), plans for modern grain silos (3, 9), and reviews of bullet train corridors and Warangal airport (8). The government is also focusing on skill development to counter potential job losses from AI (11, 18) and has launched an anti-drug drive alongside youth initiatives (14). A notable public safety incident involved Rajendranagar police saving an infant's life (2).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential Job Displacement due to AI:</span> CM Revanth Reddy highlights an \"AI Storm\" potentially costing millions of jobs (11, 18), indicating a significant socio-economic challenge requiring proactive government intervention.</li>\n    <li><span class=\"risk-low\">Controversial Remarks by CM:</span> A minister is defending the CM's controversial remarks (4), which could indicate potential public or political backlash, though the specific nature and impact are not detailed.</li>\n    <li><span class=\"risk-low\">Public Safety Incidents:</span> A road accident required police intervention to save an infant's life (2), highlighting ongoing public safety concerns related to traffic.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's emphasis on health, fitness, and education (5, 12) directly correlates with the inauguration of the FIFA-AIFF Telangana Talent Academy (6), the vision for Telangana as an education and sports hub (15, 19), and the anti-drug drive coupled with sports and education initiatives for youth (14).</li>\n    <li>The proposal for modern grain silos (3) and the plan to set up 50K MT grain silos (9) demonstrate a consistent government focus on agricultural infrastructure and procurement efficiency.</li>\n    <li>CM Revanth Reddy's statements on an \"AI Storm\" potentially costing millions of jobs (11, 18) are directly addressed by the government's push to boost skills and education (11), including plans to prepare youth for global job markets by learning German and Japanese (13), and nurturing Telangana as an AI powerhouse (17).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Develop and disseminate a comprehensive strategy for skill development and re-skilling programs to mitigate the projected impact of AI on employment, as highlighted by the CM (11, 18).</li>\n    <li>Expedite the implementation of modern grain silo projects (3, 9) to enhance agricultural procurement and storage capabilities.</li>\n    <li>Monitor public and political reactions to the CM's \"controversial remarks\" (4) and prepare communication strategies if necessary.</li>\n    <li>Review and enhance road safety measures, particularly in areas prone to accidents, following the incident in Rajendranagar (2).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><strong>Rajendranagar:</strong> Requires immediate attention due to a recent road accident where police saved an infant's life (2), indicating a potential need for enhanced traffic safety measures or emergency response training.</li>\n    <li><strong>Langer Houz:</strong> Centre has cleared Defence land for the Gandhi Sarovar Project (7), suggesting upcoming infrastructure development and potential resource allocation needs in this area.</li>\n    <li><strong>Warangal:</strong> CM Revanth Reddy reviewed plans for a Warangal airport (8), indicating future infrastructure development and potential economic growth in the region.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "36.1°C",
+      "humidity": "35%",
+      "wind": "7.6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 61,
+      "pm25": 21.8,
+      "goldPerGram": "₹9,098",
+      "newsCount": 30,
+      "topHeadlines": [
+        "Telangana CM Revanth Reddy announces cash reward of Rs.25 lakh each to chess players Arjun, Harika - Newsonair",
+        "Rajendranagar police saves infant’s life with timely CPR after road accident - Telangana Today",
+        "Modern grain silos proposed for Telangana procurement - newsage.in",
+        "Telangana minister defends CM Revanth Reddy's controversial remarks - The News Mill",
+        "CM Revanth Reddy Highlights Telangana’s Focus on Health, Fitness and Education - boldnewsonline.com"
       ]
     }
   }
