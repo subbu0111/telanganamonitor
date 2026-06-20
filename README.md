@@ -13,7 +13,7 @@ An intelligent dashboard designed for government decision-makers to monitor Tela
 
 ## 🎯 Overview
 
-TelanganaMonitor is a centralized intelligence platform that aggregates real-time data from multiple sources and provides AI-powered analysis for senior state administration (Chief Minister, IAS/IPS officers). The system automates intelligence collection and generates actionable briefings every 2 hours with a consolidated daily digest at 7 AM IST.
+TelanganaMonitor is a centralized intelligence platform that aggregates real-time data from multiple sources and provides AI-powered analysis for senior state administration. The system automates intelligence collection and generates actionable briefings every 2 hours with a consolidated daily digest at 7 AM IST.
 
 **Key Insight:** No API keys required for basic usage—works with free, open-source data feeds!
 
@@ -93,38 +93,6 @@ TelanganaMonitor is a centralized intelligence platform that aggregates real-tim
 - Node.js v16+ or higher
 - npm or yarn
 - Git
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/subbu0111/telanganamonitor.git
-   cd telanganamonitor
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Create configuration file** (optional, for AI analysis)
-   ```bash
-   cp .env.example .env
-   ```
-   
-   Update `.env` with your OpenRouter API key (optional for basic dashboard):
-   ```env
-   OPENROUTER_API_KEY=your_api_key_here
-   ```
-
-4. **Start the server**
-   ```bash
-   npm start
-   ```
-   
-   The dashboard will be available at `http://localhost:3000`
-
----
 
 ## 📖 Usage
 
@@ -393,12 +361,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📞 Support & Feedback
-
-- **Issues:** [GitHub Issues](https://github.com/subbu0111/telanganamonitor/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/subbu0111/telanganamonitor/discussions)
-- **Email:** subbu0111@github.com
-
 ---
 
 ## 🙏 Acknowledgments
@@ -423,9 +385,6 @@ Contributions are welcome! To contribute:
 - [ ] Data visualization exports
 
 ---
-
-**Made with ❤️ for Telangana State Administration**
-
 ---
 
 ## 📚 Additional Resources
