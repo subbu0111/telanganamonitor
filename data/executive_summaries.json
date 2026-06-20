@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21T15:32:23.959Z",
-    "timestampIST": "21/5/2026, 9:02:23 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy addressed the youth, emphasizing a shift towards skill-based jobs (1). The government has increased minimum wages, benefiting workers (3, 7, 13, 16, 18, 20). The CM addressed the POCSO case involving Bandi Sanjay's son, clarifying the arrest and criticizing the politicization of the issue (4, 8, 10, 15).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy addressed the youth, emphasizing a shift towards skill-based jobs (1). The government has increased minimum wages, benefiting workers (3, 7, 13, 16, 18, 20). The CM addressed the POCSO case involving Bandi Sanjay's son, clarifying the arrest and criticizing the politicization of the issue (4, 8, 10, 15).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Ongoing controversy surrounding the POCSO case involving Bandi Sanjay's son and the CM's response could lead to increased political tensions and public scrutiny (4, 5, 8, 10, 15).</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Potential for worker dissatisfaction if the minimum wage hike implementation faces delays or complications (3, 7, 13, 16, 18, 20).</li>\n    <li><span class=\"risk-low\">Infrastructure Hazard:</span> A container truck fire in Medak resulted in the destruction of 10 Maruti cars (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Minimum wage increases are a recurring theme across multiple news sources, indicating a significant government initiative (3, 7, 13, 16, 18, 20).</li>\n    <li>The POCSO case and related statements by CM Revanth Reddy are covered by multiple news outlets, highlighting the political sensitivity of the issue (4, 5, 8, 10, 15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment regarding the minimum wage hike and its implementation.</li>\n    <li>Prepare a public statement clarifying the government's stance on the POCSO case and address any misinformation.</li>\n    <li>Assess the impact of the container truck fire in Medak and ensure appropriate safety measures are in place.</li>\n    <li>Prepare for a special session on the Women’s Reservation Bill (12).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Medak:</b> Focus on assessing the damage and providing support following the container truck fire (19).</li>\n</ul>\n```\n",
-    "dataSnapshot": {
-      "temperature": "36.5°C",
-      "humidity": "27%",
-      "wind": "6.5 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 67,
-      "pm25": 53.2,
-      "goldPerGram": "₹9,280",
-      "newsCount": 62,
-      "topHeadlines": [
-        "Shift from IT to skill-based jobs, Revanth tells youth - The Times of India",
-        "Rajiv Gandhi Led India Into Technology Era: Revanth Reddy - INDToday",
-        "Telangana Govt Hikes Minimum Wages, To Benefit 1.11 Crore Workers - ETV Bharat",
-        "CM Revanth rejects Bandi Sanjay’s ‘surrender’ claim in son’s POCSO case, slams BRS for 'politicising issue' - The South First",
-        "Praveen Kumar questions Revanth Reddy’s bid to shield Bandi Sanjay and his son in POCSO case - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-21T18:00:59.589Z",
     "timestampIST": "21/5/2026, 11:30:59 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy stated that Bageerath was arrested, contradicting claims of surrender (1, 3, 7, 11, 13). The CM also addressed the arrest of Bandi Sanjay’s son in a POCSO case, accusing the BRS of politicizing the issue (3, 7, 8, 18). The Telangana government has increased minimum wages, benefiting 1.11 crore workers, and is seeking a special session on the Women's Reservation Bill (6, 10, 15, 16, 19).</p>",
@@ -2014,6 +1991,29 @@
         "Revanth Reddy announces international bus terminal in Hyderabad and plans for Telangana development - The News Mill",
         "Telangana CM Revanth Reddy announces cash reward of Rs.25 lakh each to chess players Arjun, Harika - Newsonair",
         "Telangana: Centre Clears 83 Acres Of Defence Land For Development Of Gandhi Sarovar Project - ETV Bharat"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-20T17:27:19.964Z",
+    "timestampIST": "20/6/2026, 10:57:19 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaging with central government officials, specifically seeking a meeting with the Railway Minister regarding the Hyderabad Metro (2, 7, 12) and potentially raising the SBI land row with the RBI and Centre (10). The BRS opposition has accused the Congress government of betraying farmers (3), while the CM has announced significant development plans including an international bus terminal in Hyderabad and the Bharat Future City (15, 18). Public safety was highlighted by Rajendranagar police saving an infant's life after a road accident (19).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaging with central government officials, specifically seeking a meeting with the Railway Minister regarding the Hyderabad Metro (2, 7, 12) and potentially raising the SBI land row with the RBI and Centre (10). The BRS opposition has accused the Congress government of betraying farmers (3), while the CM has announced significant development plans including an international bus terminal in Hyderabad and the Bharat Future City (15, 18). Public safety was highlighted by Rajendranagar police saving an infant's life after a road accident (19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Opposition/Farmer Discontent:</span> The BRS alleges the Congress government has \"betrayed farmers\" and demands its resignation (3), indicating potential for protests or political instability.</li>\n    <li><span class=\"risk-medium\">Infrastructure Project Delays/Funding Issues:</span> The Hyderabad Metro Phase-II is \"stuck\" despite a proposed Rs.15,000 Crore move (9), and the CM is seeking a meeting with the Railway Minister over \"pending Hyderabad Metro\" issues (2, 12), suggesting significant challenges in a critical urban infrastructure project.</li>\n    <li><span class=\"risk-low\">Land Disputes with Central Entities:</span> The CM is \"likely to raise SBI land row with RBI and the Centre\" (10), indicating an ongoing dispute that could require inter-governmental negotiation.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines 2, 7, 9, and 12 all relate to the Hyderabad Metro project. The CM is actively seeking a meeting with the Union Railway Minister (2, 7, 12) to address the \"stuck\" Phase-II of the Metro (9), indicating a concerted effort to resolve a major infrastructure challenge.</li>\n    <li>Headlines 15 and 18 both highlight the Chief Minister's focus on urban development and future planning for Telangana, with announcements of an international bus terminal in Hyderabad (15) and the Bharat Future City milestone (18).</li>\n    <li>Headlines 3 and 13 both touch upon farmer-related issues and political criticism. The BRS accuses the government of betraying farmers (3), while a separate report notes the CM's \"latest U turn leaves farmers worried\" (13), suggesting a potential for growing discontent among the agricultural community.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize the Chief Minister's upcoming meetings in Delhi (7) to secure resolutions for the Hyderabad Metro funding and the SBI land row (2, 10, 12).</li>\n    <li>Develop a clear communication strategy to address the BRS's allegations of farmer betrayal (3) and the reported \"U turn\" causing farmer worry (13), potentially outlining specific government initiatives for agricultural support.</li>\n    <li>Expedite the planning and execution for the announced international bus terminal in Hyderabad (15) and the Bharat Future City (18) to demonstrate progress on key development initiatives.</li>\n    <li>Acknowledge and commend the Rajendranagar police for their swift action in saving an infant's life (19), reinforcing public trust in law enforcement.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Requires immediate attention due to the critical issues surrounding the Hyderabad Metro Phase-II (2, 9, 12), the proposed international bus terminal (15), and the Bharat Future City (18). Additionally, the Rajendranagar police incident (19) highlights ongoing public safety needs.</li>\n    <li><b>Districts with significant agricultural populations:</b> Need monitoring due to the BRS's claims of farmer betrayal (3) and reports of farmer worry (13), which could lead to unrest or protests.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.4°C",
+      "humidity": "61%",
+      "wind": "9.1 km/h",
+      "weatherDesc": "Drizzle",
+      "aqi": 51,
+      "pm25": 33.9,
+      "goldPerGram": "₹9,098",
+      "newsCount": 39,
+      "topHeadlines": [
+        "Telangana CM Revanth Reddy announces cash reward of Rs.25 lakh each to chess players Arjun, Harika - Newsonair",
+        "Revanth Reddy Writes To Kishan Reddy, Seeks Meeting With Railway Minister Over Pending Hyderabad Metro... - Deccan Chronicle",
+        "Congress government has betrayed farmers, must step down: BRS - Telangana Today",
+        "Telangana Neta Natter | Revanth Puts Up An All-round Show - Deccan Chronicle",
+        "Telangana CM pays tribute to Professor K Jayashankar on death anniversary - The News Mill"
       ]
     }
   }
