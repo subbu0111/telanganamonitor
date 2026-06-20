@@ -108,7 +108,7 @@ Keep tone authoritative, concise, governance-focused.`;
       'X-Title': 'TelanganaMonitor Daily Digest'
     },
     body: JSON.stringify({
-      model: 'google/gemini-2.0-flash-lite-001',
+      model: 'google/gemini-2.5-flash',
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.5,
       max_tokens: 3000
