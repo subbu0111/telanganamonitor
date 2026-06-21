@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22T17:53:39.599Z",
-    "timestampIST": "22/5/2026, 11:23:39 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy congratulated NIMS doctors for completing 2,000 kidney transplants. KTR criticized the Revanth government regarding paddy procurement, land deals, and the delay in the Bandi Bageerath POCSO case arrest. KTR will attend Telangana Formation Day celebrations in Malaysia on June 6.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy congratulated NIMS doctors for completing 2,000 kidney transplants. KTR criticized the Revanth government regarding paddy procurement, land deals, and the delay in the Bandi Bageerath POCSO case arrest. KTR will attend Telangana Formation Day celebrations in Malaysia on June 6.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Internal rift within the Telangana Congress over the TPCC chief is evident. (Headline 3)</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span> Opposition parties are criticizing the Telangana government over delays in crop procurement. (Headline 11)</li>\n    <li><span class=\"risk-low\">Legal/Reputational Risk:</span> KTR is attacking Revanth Reddy over the delay in the arrest in the POCSO case. (Headlines 8, 10, 15, 17)</li>\n    <li><span class=\"risk-low\">Procurement Issues:</span> The government faces questions over contradictory paddy procurement claims. (Headline 2)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>KTR is criticizing the Revanth Reddy government on multiple fronts, including paddy procurement (Headline 12) and the POCSO case (Headlines 8, 10, 15, 17).</li>\n    <li>The Telangana government faces criticism from both opposition parties (Headline 11) and KTR (Headline 12) regarding different issues.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Address the concerns raised by opposition parties regarding crop procurement delays.</li>\n    <li>Prepare a response to KTR's allegations regarding the POCSO case and land deals.</li>\n    <li>Monitor the internal dynamics within the Telangana Congress.</li>\n    <li>Review and clarify the government's paddy procurement claims.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Nizamabad: The Telangana government conducted a Praja Palana Pragathi Pranalika meeting in Nizamabad. (Headline 1) Further investigation may be needed to understand the outcome of this meeting.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.4°C",
-      "humidity": "51%",
-      "wind": "12.8 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 58,
-      "pm25": 34.3,
-      "goldPerGram": "₹9,230",
-      "newsCount": 27,
-      "topHeadlines": [
-        "Telangana Govt Conducts Grand Praja Palana Pragathi Pranalika Meeting In Nizamabad - INDToday",
-        "Telangana govt faces questions over contradictory paddy procurement claims - Telangana Today",
-        "Internal rift in Telangana Congress over TPCC chief comes out in the open - Telangana Today",
-        "NIMS Completes 2,000 Kidney Transplants, CM Revanth Congratulates Medical Team - INDToday",
-        "Telangana CM congratulates NIMS doctors for 2,000 kidney transplants milestone - The News Mill"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-22T19:49:26.615Z",
     "timestampIST": "23/5/2026, 1:19:26 am",
     "executiveSummary": "<p>The Telangana Cabinet is scheduled to meet today, with a focus on welfare schemes (2). KTR has launched strong criticisms against CM Revanth Reddy regarding paddy procurement, land deals, and the delay in the POCSO case (15, 18, 20). NIMS completed 2,000 kidney transplants, and CM Revanth Reddy congratulated the medical team (6, 7, 8).</p>",
@@ -2037,6 +2014,29 @@
         "KTR warns of Modi-Revanth nexus in Musi Riverfront project targeting poor people’s homes - Telangana Today",
         "Hyderabad: Nurse killed in hit-and-run accident in Asifnagar - Telangana Today",
         "Telangana CM Revanth Reddy to leave for Delhi on three-day trip - ThePrint"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-21T19:44:36.770Z",
+    "timestampIST": "22/6/2026, 1:14:36 am",
+    "executiveSummary": "<p>A fatal hit-and-run accident involving a nurse occurred in Asifnagar, Hyderabad (#2). Separately, a Telangana RTC electric bus caught fire, though all 40 passengers escaped safely (#4). Prime Minister Modi inaugurated projects worth approximately ₹9,400 crore in Telangana (#3).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A fatal hit-and-run accident involving a nurse occurred in Asifnagar, Hyderabad (#2). Separately, a Telangana RTC electric bus caught fire, though all 40 passengers escaped safely (#4). Prime Minister Modi inaugurated projects worth approximately ₹9,400 crore in Telangana (#3).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span> Public Safety (Road Accidents): A fatal hit-and-run in Hyderabad highlights ongoing road safety concerns (#2).</li>\n    <li><span class=\"risk-medium\">MEDIUM</span> Public Safety (Transportation Infrastructure): An electric bus fire, while not resulting in casualties, raises questions about public transport safety and maintenance (#4).</li>\n    <li><span class=\"risk-low\">LOW</span> Infrastructure Development: The inauguration of projects worth ₹9,400 crore by the Prime Minister indicates significant ongoing development, posing minimal immediate risk but requiring continued oversight (#3).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The fatal hit-and-run in Asifnagar, Hyderabad (#2), and the Telangana RTC electric bus fire (#4) both highlight immediate public safety concerns within the state's transportation sector.</li>\n    <li>The inauguration of projects worth ₹9,400 crore by PM Modi (#3) suggests significant investment in Telangana, which may include infrastructure improvements that could indirectly impact public safety and transportation in the long term.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct Hyderabad City Police to prioritize investigation and apprehension in the Asifnagar hit-and-run case (#2).</li>\n    <li>Initiate an immediate inquiry into the Telangana RTC electric bus fire to ascertain cause and implement preventative measures across the fleet (#4).</li>\n    <li>Task relevant departments with ensuring timely and effective implementation of the projects inaugurated by PM Modi, focusing on their intended benefits for the state (#3).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Hyderabad District: Requires immediate attention due to the fatal hit-and-run accident in Asifnagar (#2) and the potential for public safety concerns related to the electric bus fire (as RTC buses operate across districts, but the incident highlights a state-level transport issue) (#4).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "27.6°C",
+      "humidity": "69%",
+      "wind": "11.7 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 40,
+      "pm25": 18.7,
+      "goldPerGram": "₹9,098",
+      "newsCount": 5,
+      "topHeadlines": [
+        "Iran to resume oil exports under US framework - Telangana Today",
+        "Hyderabad: Nurse killed in hit-and-run accident in Asifnagar - Telangana Today",
+        "PM Modi inaugurates projects worth around ₹9,400 crore in Telangana - Newsonair",
+        "Narrow escape for 40 as Telangana RTC electric bus catches fire - The Shillong Times",
+        "LPG price today — 21 June: Domestic and commercial cylinder rates in Delhi, Mumbai, Bengaluru, Kolkata, Hyderabad - Mint"
       ]
     }
   }
