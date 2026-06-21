@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22T03:52:14.870Z",
-    "timestampIST": "22/5/2026, 9:22:14 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy has called for a special Parliament session on the women’s quota (2, 15). The CM addressed the arrest of Bageerath (3, 13) and the POCSO case involving Bandi Sanjay's son (8, 9, 18). The Telangana government has hiked minimum wages, benefiting 1.11 crore workers, with revisions up to ₹20,000 per month (7, 11, 16, 19).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has called for a special Parliament session on the women’s quota (2, 15). The CM addressed the arrest of Bageerath (3, 13) and the POCSO case involving Bandi Sanjay's son (8, 9, 18). The Telangana government has hiked minimum wages, benefiting 1.11 crore workers, with revisions up to ₹20,000 per month (7, 11, 16, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Disagreements and accusations surrounding the POCSO case involving Bandi Sanjay's son and the response from KCR and BRS (8, 9, 18).</li>\n    <li><span class=\"risk-low\">Public Discontent:</span> Potential for public reaction to the claim that only 20% of paddy will be procured (20).</li>\n    <li><span class=\"risk-low\">Airport Controversy:</span> Contradiction between Revanth Reddy's claims and AAI clarification regarding the Begumpet airport underpass (10).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's statements on the POCSO case (8, 9, 18) are directly related to the political opposition and potential for public scrutiny.</li>\n    <li>The minimum wage hike (7, 11, 16, 19) is a significant policy change that could impact the state's workforce and economy.</li>\n    <li>Revanth Reddy's focus on skill-based jobs (5) aligns with the government's economic policies and the minimum wage adjustments.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prepare a detailed response to the allegations and counter-allegations surrounding the POCSO case, including legal and public relations strategies.</li>\n    <li>Issue a clarification on the paddy procurement policy to address public concerns and potential misinformation.</li>\n    <li>Review and clarify the government's stance on the Begumpet airport underpass issue to avoid further confusion.</li>\n    <li>Prepare a communication strategy to highlight the benefits of the minimum wage hike and the government's focus on skill-based jobs.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the headlines that require immediate attention.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "33.7°C",
-      "humidity": "47%",
-      "wind": "17 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 62,
-      "pm25": 12.8,
-      "goldPerGram": "₹9,280",
-      "newsCount": 44,
-      "topHeadlines": [
-        "Telangana, Andhra Pradesh weather today: Hyderabad hits season’s highest temperature, Vizag and Kurnool to - The Economic Times",
-        "Telangana CM Revanth Reddy calls for special Parliament session on women’s quota - The News Mill",
-        "Bageerath Did Not Surrender, Was Arrested, Says Revanth - Deccan Chronicle",
-        "CM Revanth Reddy promises universal housing policy for journalists - newsage.in",
-        "Shift from IT to skill-based jobs, Revanth tells youth - The Times of India"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-22T07:47:30.610Z",
     "timestampIST": "22/5/2026, 1:17:30 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy stated that Bandi Bhageerath was arrested, contradicting claims of surrender (3, 5, 9, 19). The Telangana government has increased minimum wages for 1.11 crore workers (4, 13, 17). CM Revanth Reddy is calling for a special Parliament session to pass the women’s quota bill (6, 8).</p>",
@@ -2014,6 +1991,29 @@
         "Revanth takes SBI court challenge to Mum-Delhi, metro funding on agenda - The Times of India",
         "'Arrange Meeting With Ashwini Vaishnav': CM Revanth Reddy To Kishan Reddy Over Hyderabad Metro Delay - ETV Bharat",
         "Revanth Reddy Writes To Kishan Reddy, Seeks Meeting With Railway Minister Over Pending Hyderabad Metro... - Deccan Chronicle"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-21T04:23:25.423Z",
+    "timestampIST": "21/6/2026, 9:53:25 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaging with the Union government on critical infrastructure and land issues, specifically regarding the Hyderabad Metro Phase 2 project and the Raidurg Land Row (Headlines #4, #5, #6, #7, #8, #13, #15, #16, #18). The CM is scheduled to visit Delhi from June 22-23 to address these matters. Concurrently, the BRS party has accused the Congress government of betraying farmers (Headline #9), and concerns have been raised about a perceived \"U turn\" by CM Revanth Reddy affecting farmers (Headline #19).</p>",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaging with the Union government on critical infrastructure and land issues, specifically regarding the Hyderabad Metro Phase 2 project and the Raidurg Land Row (Headlines #4, #5, #6, #7, #8, #13, #15, #16, #18). The CM is scheduled to visit Delhi from June 22-23 to address these matters. Concurrently, the BRS party has accused the Congress government of betraying farmers (Headline #9), and concerns have been raised about a perceived \"U turn\" by CM Revanth Reddy affecting farmers (Headline #19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Political Opposition and Farmer Discontent (Headlines #9, #19) - The BRS party's accusation of the Congress government betraying farmers and concerns over the CM's \"U turn\" could lead to increased political instability and potential protests.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Hyderabad Metro Phase 2 Project Delays (Headlines #4, #7, #8, #15, #18) - Ongoing disputes and delays in the Hyderabad Metro Phase 2 project could impact urban development, public perception, and potentially lead to public inconvenience.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Raidurg Land Row (Headlines #5, #6, #16) - The CM's agenda to address the Raidurg Land Row with the RBI and Centre indicates a significant land dispute that could have financial and legal implications for the state.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #4, #7, #8, #13, #15, #18: These headlines collectively indicate a concerted effort by CM Revanth Reddy to resolve the stalled Hyderabad Metro Phase 2 project by seeking meetings with Union Ministers and addressing funding issues.</li>\n    <li>Headlines #5, #6, #16: These headlines show CM Revanth Reddy's intention to address the Raidurg Land Row during his upcoming Delhi visit, specifically with the RBI and the Centre, highlighting a significant land dispute.</li>\n    <li>Headlines #9, #19: These headlines both point to growing discontent among farmers and political opposition regarding the Congress government's policies, with the BRS accusing betrayal and concerns over a \"U turn.\"</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize diplomatic engagement during the CM's Delhi visit to secure commitments for Hyderabad Metro Phase 2 funding and resolution of the Raidurg Land Row (Headlines #4, #5, #6, #7, #8, #13, #15, #16, #18).</li>\n    <li>Develop a clear communication strategy to address farmer concerns and counter allegations of betrayal and \"U turns\" from the BRS (Headlines #9, #19).</li>\n    <li>Monitor public sentiment regarding the Hyderabad Metro project and prepare for potential public outreach to explain progress and challenges (Headlines #4, #15).</li>\n    <li>Initiate an internal review of the Raidurg Land Row to prepare comprehensive documentation and legal arguments for discussions with the RBI and Centre (Headlines #5, #6, #16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Hyderabad: Requires immediate attention due to the ongoing issues with the Hyderabad Metro Phase 2 project and the Raidurg Land Row, both of which have significant implications for the city's infrastructure and land management (Headlines #4, #5, #6, #7, #8, #15, #16, #18).</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "26.4°C",
+      "humidity": "83%",
+      "wind": "5.4 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 53,
+      "pm25": 16.7,
+      "goldPerGram": "₹9,098",
+      "newsCount": 31,
+      "topHeadlines": [
+        "Telangana CM Revanth Reddy advises NEET UG 2026 candidates to remain confident and calm - The News Mill",
+        "LPG price today — 21 June: Domestic and commercial cylinder rates in Delhi, Mumbai, Bengaluru, Kolkata, Hyderabad - Mint",
+        "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - Newsonair",
+        "Union Minister G Kishan Reddy accuses Telangana govt of delaying Hyderabad Metro Phase 2 project - Newsonair",
+        "Raidurg Land Row On CM’s Agenda In Delhi - Deccan Chronicle"
       ]
     }
   }
