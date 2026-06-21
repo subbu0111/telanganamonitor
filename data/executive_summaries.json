@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22T14:42:44.485Z",
-    "timestampIST": "22/5/2026, 8:12:44 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy and KTR are engaged in a public exchange regarding the delay in the arrest in the POCSO case and paddy procurement. KTR will attend Telangana Formation Day celebrations in Malaysia on June 6. The CM congratulated NIMS doctors for reaching a milestone of 2,000 kidney transplants.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy and KTR are engaged in a public exchange regarding the delay in the arrest in the POCSO case and paddy procurement. KTR will attend Telangana Formation Day celebrations in Malaysia on June 6. The CM congratulated NIMS doctors for reaching a milestone of 2,000 kidney transplants.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> KTR's criticism of the Revanth government on multiple issues, including the POCSO case and procurement, could escalate political tensions. (Headlines 5, 9, 12, 14)</li>\n  <li><span class=\"risk-medium\">Public Discontent:</span> Opposition parties are criticizing the government over delays in crop procurement. (Headline 8)</li>\n  <li><span class=\"risk-low\">Legal Scrutiny:</span> The arrest of Bandi Bhageerath and the ongoing POCSO case could lead to further legal and media attention. (Headlines 5, 7, 12, 17, 19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The POCSO case and the delay in arrest are central to the political attacks between KTR and CM Revanth Reddy. (Headlines 5, 7, 12, 14)</li>\n  <li>KTR is criticizing the Revanth government on both the POCSO case and paddy procurement, indicating a coordinated opposition strategy. (Headlines 9, 14)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor public statements from KTR and other opposition leaders for further criticisms.</li>\n  <li>Assess the government's response to the criticism regarding crop procurement.</li>\n  <li>Prepare a public statement addressing the allegations related to the POCSO case and the arrest of Bandi Bhageerath.</li>\n  <li>Review the implementation plan for the minimum wage hike for 1.11 crore workers. (Headline 18)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>No specific districts are mentioned in the news headlines that require immediate attention.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "32.8°C",
-      "humidity": "50%",
-      "wind": "12.5 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 54,
-      "pm25": 44.8,
-      "goldPerGram": "₹9,230",
-      "newsCount": 27,
-      "topHeadlines": [
-        "Telangana CM congratulates NIMS doctors for 2,000 kidney transplants milestone - The News Mill",
-        "Telangana CM Reddy congratulates team of doctors on kidney transplant milestone - ANI News",
-        "Revanth Reddy congratulates NIMS doctors on kidney transplant milestone - Telangana Today",
-        "BRS leaders defend Harish Rao’s remarks on Future City project - Telangana Today",
-        "Sai Bageerath: KTR attacks Revanth over delay in arrest in POCSO case row. - Deccan Herald"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-22T17:53:39.599Z",
     "timestampIST": "22/5/2026, 11:23:39 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy congratulated NIMS doctors for completing 2,000 kidney transplants. KTR criticized the Revanth government regarding paddy procurement, land deals, and the delay in the Bandi Bageerath POCSO case arrest. KTR will attend Telangana Formation Day celebrations in Malaysia on June 6.</p>",
@@ -2014,6 +1991,29 @@
         "Narrow escape for 40 as Telangana RTC electric bus catches fire - The Shillong Times",
         "Fix meeting with Vaishnaw on IRFC loan: CM to Kishan - The New Indian Express",
         "Telangana Education Commission report: A good start, but not a blueprint - The New Indian Express"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-21T15:53:27.467Z",
+    "timestampIST": "21/6/2026, 9:23:27 pm",
+    "executiveSummary": "The Chief Minister is traveling to Delhi for a three-day trip, with key agenda items including the Raidurg Land Row, Hyderabad Metro funding, and a meeting with the Railway Minister regarding IRFC loans. Political tensions are high, with the Congress and BJP sparring over Telangana promises and Metro approvals, and KTR alleging a Modi-Revanth nexus concerning the Musi Riverfront project. Public safety concerns include a fatal hit-and-run in Asifnagar and an electric bus fire that saw 40 people narrowly escape.",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\nThe Chief Minister is traveling to Delhi for a three-day trip, with key agenda items including the Raidurg Land Row, Hyderabad Metro funding, and a meeting with the Railway Minister regarding IRFC loans. Political tensions are high, with the Congress and BJP sparring over Telangana promises and Metro approvals, and KTR alleging a Modi-Revanth nexus concerning the Musi Riverfront project. Public safety concerns include a fatal hit-and-run in Asifnagar and an electric bus fire that saw 40 people narrowly escape.\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Inter-party Conflict:</span> High-level political sparring between Congress and BJP (Headline #1), and specific allegations by KTR (Headline #3) indicate significant political friction that could impact governance and public perception.</li>\n    <li><span class=\"risk-medium\">Public Safety/Infrastructure Failure:</span> A hit-and-run fatality in Asifnagar (Headline #4) and an electric bus catching fire (Headline #8) highlight immediate public safety concerns and potential infrastructure reliability issues.</li>\n    <li><span class=\"risk-medium\">Financial/Inter-Governmental Disputes:</span> The Telangana government's potential complaint to RBI against SBI (Headline #11) and the CM's request for a meeting with the Railway Minister regarding IRFC loans (Headline #9, #18, #19, #20) indicate ongoing financial and inter-governmental disputes.</li>\n    <li><span class=\"risk-low\">Project Delays/Governance Challenges:</span> Concerns flagged over the proposed VB-G RAM G Act (Headline #2) and accusations of delay in Hyderabad Metro Phase 2 (Headline #16) suggest potential hurdles in legislative and infrastructure project implementation.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #1, #16, #18, #19, and #20 show a clear connection regarding the Hyderabad Metro project. The Congress and BJP are sparring over Metro approvals (#1), Union Minister G Kishan Reddy accuses the Telangana government of delaying Phase 2 (#16), and CM Revanth Reddy is seeking a meeting with the Railway Minister (Ashwini Vaishnaw) via Kishan Reddy to discuss Metro funding and IRFC loans (#18, #19, #20).</li>\n    <li>Headlines #6, #9, #17, #18, #19, and #20 are all related to CM Revanth Reddy's upcoming three-day trip to Delhi. His agenda includes the Raidurg Land Row (#17), seeking a meeting with the Railway Minister on IRFC loans (#9, #19, #20), and discussing metro funding (#18).</li>\n    <li>Headlines #1 and #3 both highlight political contention. Headline #1 details Congress-BJP sparring over Telangana promises and Metro approvals, while Headline #3 features KTR warning of a Modi-Revanth nexus, indicating broader political friction between the ruling and opposition parties.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize the CM's Delhi agenda, specifically addressing the Raidurg Land Row and securing Metro funding/IRFC loan discussions with the Railway Minister (Headlines #6, #9, #17, #18, #19, #20).</li>\n    <li>Initiate an immediate investigation into the hit-and-run accident in Asifnagar (Headline #4) to identify and apprehend the perpetrator, and review traffic safety measures in the area.</li>\n    <li>Conduct an urgent safety audit of Telangana RTC electric buses following the fire incident (Headline #8) to prevent future occurrences and ensure public transport safety.</li>\n    <li>Prepare a comprehensive response to the Union Minister's accusations regarding Hyderabad Metro Phase 2 delays (Headline #16) and proactively communicate the government's stance and progress.</li>\n    <li>Formulate a strategy to address the concerns raised by the Cabinet panel regarding the proposed VB-G RAM G Act (Headline #2) to ensure smooth legislative progress.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad/Asifnagar:</b> Immediate attention required due to the fatal hit-and-run accident (Headline #4). This area needs enhanced traffic enforcement and potentially a review of pedestrian safety infrastructure.</li>\n    <li><b>Warangal:</b> CM Revanth Reddy reviewed Warangal airport plans (Headline #5), indicating potential for significant infrastructure development and requiring ongoing monitoring and support.</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "29.2°C",
+      "humidity": "61%",
+      "wind": "6.9 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 43,
+      "pm25": 24.8,
+      "goldPerGram": "₹9,098",
+      "newsCount": 22,
+      "topHeadlines": [
+        "Congress-BJP spar through open letters over Telangana promises and Metro approvals - Telangana Today",
+        "Telangana Cabinet panel flags concerns over proposed VB-G RAM G Act - Telangana Today",
+        "KTR warns of Modi-Revanth nexus in Musi Riverfront project targeting poor people’s homes - Telangana Today",
+        "Hyderabad: Nurse killed in hit-and-run accident in Asifnagar - Telangana Today",
+        "Telangana CM Revanth Reddy reviews bullet train corridors and Warangal airport plans - The News Mill"
       ]
     }
   }
