@@ -1,74 +1,5 @@
 [
   {
-    "timestamp": "2026-05-23T06:34:38.079Z",
-    "timestampIST": "23/5/2026, 12:04:38 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is involved in multiple events, including congratulating NIMS on completing 2,000 kidney transplants (9, 12, 19, 20) and laying the foundation stone for works at Yadagirigutta Temple (5). A Telangana Cabinet meeting is scheduled today focusing on welfare schemes (15). The Telangana POLYCET 2026 result is expected to be declared today (1, 8).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is involved in multiple events, including congratulating NIMS on completing 2,000 kidney transplants (9, 12, 19, 20) and laying the foundation stone for works at Yadagirigutta Temple (5). A Telangana Cabinet meeting is scheduled today focusing on welfare schemes (15). The Telangana POLYCET 2026 result is expected to be declared today (1, 8).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> Internal rifts within the Telangana Congress are emerging (18).</li>\n    <li><span class=\"risk-medium\">Farmer Unrest:</span>  Disagreements and accusations regarding paddy procurement are ongoing, potentially leading to chaos among farmers (6, 7, 17).</li>\n    <li><span class=\"risk-low\">Education Sector Disruption:</span> The Telangana Education Commission chief has resigned four months before the end of their term (2).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's involvement in the Yadagirigutta Temple foundation stone laying (5) and the Cabinet meeting focusing on welfare schemes (15) suggests a focus on public works and governance.</li>\n    <li>The conflicting claims on paddy procurement (6, 7, 17) and the BJP's allegations against the Congress government (3) indicate potential political tensions and challenges in agricultural policy.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation regarding paddy procurement and farmer sentiment closely.</li>\n    <li>Assess the implications of the Education Commission chief's resignation and ensure a smooth transition.</li>\n    <li>Prepare for potential political fallout from internal Congress rifts.</li>\n    <li>Monitor the release of the POLYCET 2026 results and be prepared for any issues.</li>\n    <li>Ensure the Cabinet meeting on welfare schemes is well-coordinated and effectively communicated.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Nizamabad:</b> Given the Telangana Govt Conducts Grand Praja Palana Pragathi Pranalika Meeting In Nizamabad (16), this district requires monitoring to assess the impact of the meeting and any related developments.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "37.8°C",
-      "humidity": "31%",
-      "wind": "17.7 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 64,
-      "pm25": 21.6,
-      "goldPerGram": "₹9,230",
-      "newsCount": 35,
-      "topHeadlines": [
-        "Telangana POLYCET 2026 result to be declared today: Know how to download rank card - India Today",
-        "Telangana Education Commission chief quits four months before term ends - The New Indian Express",
-        "Congress government pushed farmers into distress, alleges BJP leader Alleti - The New Indian Express",
-        "ASBL Shares the Stage with CM Revanth Reddy at Way2News Conclave on Hyderabads Real Estate Future - TheWire.in",
-        "Revanth Reddy Lays Foundation Stone for Rs.99.55 Cr Works at Yadagirigutta Temple - Deccan Chronicle"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-23T09:55:25.883Z",
-    "timestampIST": "23/5/2026, 3:25:25 pm",
-    "executiveSummary": "<p>Sixteen heatstroke deaths were reported in Telangana, prompting a ₹4 lakh ex gratia announcement (1). The Chief Minister laid foundation stones for ₹99.55 crore worth of development works at Yadagirigutta (3, 9). The Telangana Cabinet is meeting today with a focus on welfare schemes (20).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Sixteen heatstroke deaths were reported in Telangana, prompting a ₹4 lakh ex gratia announcement (1). The Chief Minister laid foundation stones for ₹99.55 crore worth of development works at Yadagirigutta (3, 9). The Telangana Cabinet is meeting today with a focus on welfare schemes (20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Health:</span> Sixteen deaths due to heatstroke (1).</li>\n    <li><span class=\"risk-medium\">Political:</span> Potential for political fallout related to paddy procurement and farmer distress (7, 10, 11).</li>\n    <li><span class=\"risk-low\">Law & Order:</span> An advocate was killed in a suspected hit-and-run in Hyderabad's Masab Tank (2).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister is involved in multiple events, including laying foundation stones and congratulating NIMS on kidney transplants (3, 9, 13, 16).</li>\n    <li>The Telangana Cabinet meeting today focusing on welfare schemes could be linked to the government's response to the heatstroke deaths and farmer distress (1, 7, 10, 20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct immediate support and relief efforts to areas affected by heatstroke (1).</li>\n    <li>Monitor the Cabinet meeting outcomes regarding welfare schemes (20).</li>\n    <li>Assess the situation regarding paddy procurement and farmer distress, and prepare a response (7, 10, 11).</li>\n    <li>Review security protocols in Hyderabad, particularly in areas like Masab Tank, following the hit-and-run incident (2).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Focus on districts reporting heatstroke fatalities to provide immediate medical assistance and support (1).</li>\n    <li>Monitor districts with significant agricultural activity due to the ongoing concerns regarding paddy procurement (7, 10, 11).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "37.7°C",
-      "humidity": "31%",
-      "wind": "12.5 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 64,
-      "pm25": 23.1,
-      "goldPerGram": "₹9,230",
-      "newsCount": 34,
-      "topHeadlines": [
-        "16 die of heatstroke in Telangana, government announces ₹4 lakh ex gratia - The Hindu",
-        "Advocate killed after SUV rams into him in suspected hit-and-run case in Hyderabad’s Masab Tank - The Hindu",
-        "Telangana CM lays foundation stones for development works worth ₹99.55 crore at Yadagirigutta - The Hindu",
-        "Hyderabad, Kolkata, Mumbai among India’s most expensive cities for fuel after price hike; check list - The Times of India",
-        "Telangana POLYCET 2026 result to be declared today: Know how to download rank card - India Today"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-23T11:13:57.260Z",
-    "timestampIST": "23/5/2026, 4:43:57 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy launched development works worth ₹99.55 crore at Yadagirigutta (8, 14). Sixteen heatstroke deaths were reported in Telangana, with the government announcing ₹4 lakh ex gratia (6). The Telangana POLYCET 2026 result is scheduled to be declared today (10, 17).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy launched development works worth ₹99.55 crore at Yadagirigutta (8, 14). Sixteen heatstroke deaths were reported in Telangana, with the government announcing ₹4 lakh ex gratia (6). The Telangana POLYCET 2026 result is scheduled to be declared today (10, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Health Crisis:</span> Sixteen deaths due to heatstroke (6).</li>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Kavitha's demands at the Telangana Cabinet meeting (2). BRS is spreading canards on paddy procurement (15). KTR dares the government to release a white paper on grain procurement (16).</li>\n    <li><span class=\"risk-medium\">Public Safety:</span>  A speeding car rammed into an advocate in Hyderabad, with a police probe underway (3, 7).</li>\n    <li><span class=\"risk-low\">Education Disruption:</span> Telangana Education Commission chief quits four months before term ends (11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's activities at Yadagirigutta (4, 5, 8, 14) could be linked to potential political messaging and public perception.</li>\n    <li>The heatstroke deaths (6) and the high temperature (Weather: 37.8°C) are directly correlated.</li>\n    <li>The POLYCET 2026 result release (10, 17) could lead to public inquiries and potential administrative pressure.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Health Department to intensify heatstroke prevention and response measures, including public awareness campaigns.</li>\n    <li>Monitor the political discourse surrounding paddy procurement and grain procurement to mitigate potential unrest.</li>\n    <li>Ensure a swift and thorough investigation into the hit-and-run incident involving the advocate in Hyderabad.</li>\n    <li>Monitor the release of the POLYCET 2026 results and prepare for potential public queries.</li>\n    <li>Prepare a response to KTR's challenge regarding the white paper on grain procurement.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b>  Focus on public safety due to the hit-and-run incident (3, 7).</li>\n    <li><b>Yadagirigutta:</b> Monitor the progress of the development works launched by the CM (4, 5, 8, 14).</li>\n    <li><b>All Districts:</b> Monitor and respond to the heatstroke situation (6).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "37.8°C",
-      "humidity": "28%",
-      "wind": "12.4 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 63,
-      "pm25": 23.9,
-      "goldPerGram": "₹9,230",
-      "newsCount": 37,
-      "topHeadlines": [
-        "Honda launches New Honda City MMC at Green Honda dealership - Telangana Today",
-        "Telangana Cabinet meeting faces Kavitha demands - newsage.in",
-        "Telangana: Speeding car rams into advocate in Hyderabad, police probe underway - ANI News",
-        "Yadagirigutta temple development launched by Revanth - newsage.in",
-        "Revanth Reddy Launches Major Development Works At Yadagirigutta - INDToday"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-23T13:39:14.032Z",
     "timestampIST": "23/5/2026, 7:09:14 pm",
     "executiveSummary": "<p>Sixteen heatstroke deaths were reported in Telangana, with the government announcing ₹4 lakh ex gratia (8). The Chief Minister laid foundation stones for ₹99.55 crore of development works at Yadagirigutta (10, 15). A speeding car hit an advocate in Hyderabad, with a police probe underway (5, 9).</p>",
@@ -2014,6 +1945,29 @@
         "CM Revanth Reddy Writes To Kishan Reddy Seeking Meeting With Railway Minister On Metro Phase-2 Issues - The Morning Voice",
         "Telangana CM Revanth Reddy inaugurates Vanamahotsavam - The News Mill",
         "Metro Loan Delay To Cost ₹2.5 Cr A Day, Revanth To Notify Centre - Deccan Chronicle"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-22T12:07:40.383Z",
+    "timestampIST": "22/6/2026, 5:37:40 pm",
+    "executiveSummary": "<p>Chief Minister Reddy has engaged with Union Minister Rajnath Singh to advance key infrastructure projects, specifically requesting the development of Adilabad airport with MRO and cargo facilities, and approvals for defence projects (Headlines #2, #5, #6, #7, #9, #11, #14, #15). Concurrently, a statewide school bandh is planned for June 23 by ABVP over fee hike issues (Headline #3), posing a potential public order concern. Additionally, the CM's intervention led to a Khammam student's family receiving a house within 24 hours (Headline #17), demonstrating rapid administrative response.</p>",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>Chief Minister Reddy has engaged with Union Minister Rajnath Singh to advance key infrastructure projects, specifically requesting the development of Adilabad airport with MRO and cargo facilities, and approvals for defence projects (Headlines #2, #5, #6, #7, #9, #11, #14, #15). Concurrently, a statewide school bandh is planned for June 23 by ABVP over fee hike issues (Headline #3), posing a potential public order concern. Additionally, the CM's intervention led to a Khammam student's family receiving a house within 24 hours (Headline #17), demonstrating rapid administrative response.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Order Disturbance (Statewide School Bandh):</span> ABVP has called for a statewide school closure on June 23 due to fee hike issues (Headline #3). This could lead to protests and disruptions.</li>\n    <li><span class=\"risk-low\">Political Criticism (CM's Actions):</span> The CM is facing criticism from the BJP for losing control ahead of GHMC polls (Headline #12) and from Congress leaders regarding \"Donald Trump Avenue\" (Headline #4). KTR also accuses Congress of pushing farmers into crisis (Headline #10).</li>\n    <li><span class=\"risk-low\">Road Safety Incident:</span> An Innova crashed into a divider on the Hyderabad ORR, injuring two individuals (Headline #1). While isolated, it highlights ongoing road safety concerns.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #2, #5, #6, #7, #9, #11, #14, #15, and #20 all indicate a concerted effort by CM Reddy to engage with the central government (Rajnath Singh) for infrastructure development, specifically focusing on Adilabad airport, defence projects, and reviewing bullet train corridors and Warangal airport plans. This demonstrates a strategic push for state development.</li>\n    <li>Headlines #4, #10, and #12 collectively highlight political opposition and criticism directed at CM Revanth Reddy from various parties (Congress leaders, KTR, BJP) concerning different issues, suggesting a period of heightened political scrutiny.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the statewide school bandh called by ABVP for June 23 (Headline #3) and deploy appropriate law enforcement to ensure public safety and prevent escalation.</li>\n    <li>Direct relevant departments to follow up on the CM's requests to Rajnath Singh regarding Adilabad airport development and defence project approvals (Headlines #2, #5, #6, #7, #9, #11, #14, #15).</li>\n    <li>Initiate a review of road safety measures on the Hyderabad ORR following the Innova crash (Headline #1) to prevent future incidents.</li>\n    <li>Leverage the positive public perception from the CM's rapid intervention in Khammam (Headline #17) to highlight effective governance.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Adilabad District:</b> Immediate attention is required for the proposed airport development, as CM Reddy has made multiple requests to the Union Minister for its development, including MRO, cargo facilities, and a passenger terminal (Headlines #2, #6, #7, #9, #14, #15).</li>\n    <li><b>Khammam District:</b> The CM's swift intervention in providing a house to a student's family within 24 hours (Headline #17) demonstrates effective administrative action and potential for positive public relations.</li>\n    <li><b>Hyderabad District:</b> Road safety measures on the Outer Ring Road (ORR) should be reviewed following an accident resulting in two injuries (Headline #1).</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "33.4°C",
+      "humidity": "44%",
+      "wind": "8 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 34,
+      "pm25": 7.7,
+      "goldPerGram": "₹9,098",
+      "newsCount": 30,
+      "topHeadlines": [
+        "Two injured as Innova crashes into divider on Hyderabad ORR - Telangana Today",
+        "Telangana CM Reddy asks Rajnath Singh to develop Adilabad airport - BusinessLine",
+        "Telangana School Bandh Tomorrow: ABVP Calls for Statewide Closure on June 23 Over Fee Hike Issues - Sakshi Education",
+        "Now, Revanth irks Congress leaders with the Donald Trump Avenue - The South First",
+        "Revanth Reddy Meets Rajnath Singh; Discusses Telangana Development Priorities - INDToday"
       ]
     }
   }
