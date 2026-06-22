@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-23T19:13:18.997Z",
-    "timestampIST": "24/5/2026, 12:43:18 am",
-    "executiveSummary": "<p>The Telangana government is facing multiple challenges. A senior advocate was killed in Hyderabad in a suspected targeted attack (10, 18). Sixteen heatstroke deaths have been reported, with the government offering ₹4 lakh ex gratia (17). The Chief Minister launched development works worth approximately ₹300 crore at Yadagirigutta (5, 7, 16, 19).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is facing multiple challenges. A senior advocate was killed in Hyderabad in a suspected targeted attack (10, 18). Sixteen heatstroke deaths have been reported, with the government offering ₹4 lakh ex gratia (17). The Chief Minister launched development works worth approximately ₹300 crore at Yadagirigutta (5, 7, 16, 19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Health Crisis:</span> Sixteen heatstroke deaths reported across the state (17).</li>\n    <li><span class=\"risk-high\">Security Threat:</span> Senior advocate killed in a suspected targeted attack in Hyderabad (10, 18).</li>\n    <li><span class=\"risk-medium\">Political:</span> Centre's green energy investment offer awaits Telangana government response (1).</li>\n    <li><span class=\"risk-low\">Administrative:</span> Telangana Education Commission chief quits four months before term ends (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The government's response to the heatstroke deaths (17) may require coordination with the launch of new development works (5, 7, 16, 19).</li>\n    <li>The advocate's death (10, 15, 18) requires immediate police investigation and potential security review.</li>\n    <li>The government's focus on school infrastructure (2, 6) is happening alongside the launch of new academic programs (11).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Health Department to intensify heatwave mitigation efforts and provide immediate relief to affected citizens.</li>\n    <li>Instruct the Hyderabad Police to expedite the investigation into the advocate's death and ensure public safety.</li>\n    <li>Review the status of the Centre's green energy investment offer and prepare a timely response.</li>\n    <li>Assess the implications of the Education Commission chief's resignation and appoint a replacement.</li>\n    <li>Monitor the implementation of the minimum wage hike (3) and its impact on contract workers.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the suspected targeted attack on an advocate (10, 15, 18).</li>\n    <li><b>12 Districts:</b> Due to the heatwave warning issued today (4).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30.3°C",
-      "humidity": "50%",
-      "wind": "13.1 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 61,
-      "pm25": 19.5,
-      "goldPerGram": "₹9,230",
-      "newsCount": 31,
-      "topHeadlines": [
-        "Centre Ready With Rs 10,000-Crore Green Energy Investment, Telangana Govt Yet To Respond: Kishan Reddy - Deccan Chronicle",
-        "Telangana Cabinet Approves Breakfast, Midday Meals in All Govt Schools, Jr Colleges - Deccan Chronicle",
-        "INTUC Welcomes Telangana Govt’s Minimum Wage Hike, Seeks Better Pay for Contract Workers - Deccan Chronicle",
-        "Heatwave warning in 12 Telangana districts today, warm night conditions in eight districts - The Hindu",
-        "Revanth Reddy Launches Major Development Works At Yadagirigutta - INDToday"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-23T20:55:25.456Z",
-    "timestampIST": "24/5/2026, 2:25:25 am",
-    "executiveSummary": "<p>The Telangana government is facing multiple challenges. A senior advocate was killed in Hyderabad in a suspected targeted attack and another was killed in a hit-and-run. Sixteen heatstroke deaths have been reported, prompting ₹4 lakh ex gratia payments. The CM launched development works worth approximately ₹300 crore at Yadagirigutta.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is facing multiple challenges. A senior advocate was killed in Hyderabad in a suspected targeted attack and another was killed in a hit-and-run. Sixteen heatstroke deaths have been reported, prompting ₹4 lakh ex gratia payments. The CM launched development works worth approximately ₹300 crore at Yadagirigutta.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Safety:</span> Two advocate deaths in Hyderabad, one a suspected targeted attack and the other a hit-and-run, indicate potential law and order concerns. (Headlines 10, 15, 18)</li>\n    <li><span class=\"risk-high\">Public Health:</span> Sixteen heatstroke deaths reported across the state. (Headline 17)</li>\n    <li><span class=\"risk-medium\">Political:</span>  K Kavitha placed four demands before the Telangana Cabinet meeting. (Headline 14)</li>\n    <li><span class=\"risk-low\">Infrastructure:</span>  Centre's green energy investment of Rs 10,000 crore is pending Telangana government response. (Headline 1)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The high number of heatstroke deaths (Headline 17) may necessitate increased public health awareness campaigns and resource allocation.</li>\n    <li>The advocate deaths (Headlines 10, 15, 18) require immediate police investigation and heightened security measures in Hyderabad.</li>\n    <li>The CM's launch of development works at Yadagirigutta (Headlines 5, 7, 16, 19) may require increased security presence.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to expedite investigations into the advocate deaths and enhance security in Hyderabad.</li>\n    <li>Instruct the Health Department to intensify heatstroke prevention measures and provide immediate medical assistance.</li>\n    <li>Review and respond to the Centre's Rs 10,000-crore green energy investment proposal.</li>\n    <li>Monitor the situation in Yadagirigutta closely, given the recent development works and CM's presence.</li>\n    <li>Assess the implications of the Telangana Education Commission chief's resignation. (Headline 20)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>All Districts:</b> Given the heatwave warning (Headline 4) and heatstroke deaths (Headline 17), all districts require heightened monitoring and public health interventions.</li>\n    <li><b>Hyderabad:</b> Due to the advocate deaths (Headlines 10, 15, 18), Hyderabad requires immediate law enforcement attention and increased security.</li>\n    <li><b>12 Districts:</b>  Due to the heatwave warning (Headline 4), these districts require immediate attention.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29.5°C",
-      "humidity": "55%",
-      "wind": "14.2 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 60,
-      "pm25": 18.3,
-      "goldPerGram": "₹9,230",
-      "newsCount": 30,
-      "topHeadlines": [
-        "Centre Ready With Rs 10,000-Crore Green Energy Investment, Telangana Govt Yet To Respond: Kishan Reddy - Deccan Chronicle",
-        "Telangana Cabinet Approves Breakfast, Midday Meals in All Govt Schools, Jr Colleges - Deccan Chronicle",
-        "INTUC Welcomes Telangana Govt’s Minimum Wage Hike, Seeks Better Pay for Contract Workers - Deccan Chronicle",
-        "Heatwave warning in 12 Telangana districts today, warm night conditions in eight districts - The Hindu",
-        "Revanth Reddy Launches Major Development Works At Yadagirigutta - INDToday"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-23T22:54:52.071Z",
     "timestampIST": "24/5/2026, 4:24:52 am",
     "executiveSummary": "<p>The Telangana government is facing multiple challenges. A heatwave warning is in effect for 12 districts, with 16 heatstroke deaths reported and ₹4 lakh ex gratia announced (4, 17). Two murders and a suspected targeted attack on a senior advocate in Hyderabad have raised law and order concerns (5, 10, 15, 18).</p>",
@@ -1922,6 +1876,29 @@
         "Revanth seeks def min support for Adilabad airport expansion - The Times of India",
         "RS Praveen Kumar criticises Telangana government on Bandi Bageerath's interim bail, highlights inconsistencies in bail petition - The South First",
         "Hyderabad: 'Farmers Let Down' - Harish Steps Up Attacks On Revanth - Deccan Chronicle"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-22T22:04:21.763Z",
+    "timestampIST": "23/6/2026, 3:34:21 am",
+    "executiveSummary": "<p>The Chief Minister is actively pursuing central government support for key infrastructure projects, including defence projects and the expansion of Adilabad Airport, through meetings with Union Ministers Rajnath Singh and Ashwini Vaishnaw (#2, #9, #18). Significant political opposition is emerging, with KTR and Harish Rao accusing the CM of being a \"broker,\" following BJP diktats, and failing farmers (#8, #11, #19, #20). Funding for the Hyderabad Metro remains a critical issue, with the Centre withholding a ₹13,537 crore loan, prompting discussions with the Urban Development Ministry (#4, #5, #6, #7, #13).</p>",
+    "fullAnalysis": "```html\n<!DOCTYPE html>\n<html>\n<head>\n<title>Intelligence Briefing - Telangana Government</title>\n</head>\n<body>\n\n<h3>📋 Executive Summary</h3>\n<p>The Chief Minister is actively pursuing central government support for key infrastructure projects, including defence projects and the expansion of Adilabad Airport, through meetings with Union Ministers Rajnath Singh and Ashwini Vaishnaw (#2, #9, #18). Significant political opposition is emerging, with KTR and Harish Rao accusing the CM of being a \"broker,\" following BJP diktats, and failing farmers (#8, #11, #19, #20). Funding for the Hyderabad Metro remains a critical issue, with the Centre withholding a ₹13,537 crore loan, prompting discussions with the Urban Development Ministry (#4, #5, #6, #7, #13).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span> - Political Opposition and Governance Criticism: Multiple opposition leaders (KTR, Harish Rao, RS Praveen Kumar) are publicly criticizing the Chief Minister and the government on issues ranging from farmer welfare to alleged inconsistencies in legal proceedings (#8, #10, #11, #19, #20). This could lead to increased public discontent and political instability.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span> - Infrastructure Funding Delays: The Centre's withholding of a ₹13,537 crore loan for the Hyderabad Metro (#13) and the referral of funding talks to the Urban Development Ministry (#6) pose a significant risk to the timely completion and expansion of critical urban infrastructure.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span> - Inter-Governmental Relations Strain: While the CM is seeking central support for projects (#2, #9, #18), the ongoing dispute over Metro funding (#13) and public accusations from opposition leaders regarding the CM's alignment with the BJP (#8) indicate potential strain in Centre-State relations.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #4, #5, #6, #7, and #13 all relate to the critical issue of funding for the Hyderabad Metro, highlighting the Chief Minister's engagement with Union Ministers and the significant financial hurdle posed by the Centre's withheld loan.</li>\n    <li>Headlines #8, #11, #19, and #20 demonstrate a concerted opposition campaign by BRS leaders (KTR, Harish Rao) against the Chief Minister, focusing on accusations of failing farmers and aligning with the BJP.</li>\n    <li>Headlines #2, #9, and #18 show the Chief Minister's proactive efforts to secure Central government support for key development projects, specifically defence projects and the expansion of Adilabad Airport, through direct engagement with Union Defence Minister Rajnath Singh.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize immediate follow-up with the Union Urban Development Ministry regarding the Hyderabad Metro funding to resolve the ₹13,537 crore loan issue (#6, #13).</li>\n    <li>Develop a comprehensive communication strategy to counter opposition narratives regarding farmer welfare and alleged alignment with the BJP, addressing claims made by KTR and Harish Rao (#8, #11, #19, #20).</li>\n    <li>Expedite the approval process for defence projects and Adilabad Airport expansion by maintaining consistent liaison with the Ministry of Defence, as requested by the CM (#2, #9, #18).</li>\n    <li>Initiate the planning and resource allocation for the proposed internship programme for engineering graduates, as announced by the CM (#1).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Adilabad District: Requires immediate attention due to the Chief Minister's request for support from the Union Defence Minister for the expansion and development of Adilabad Airport (#9, #18).</li>\n    <li>Hyderabad District: Requires immediate attention due to the ongoing critical discussions and funding issues surrounding the Hyderabad Metro project (#4, #5, #6, #7, #13).</li>\n</ul>\n\n</body>\n</html>\n```",
+    "dataSnapshot": {
+      "temperature": "27.6°C",
+      "humidity": "64%",
+      "wind": "12.6 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 18,
+      "pm25": 7.9,
+      "goldPerGram": "₹9,132",
+      "newsCount": 41,
+      "topHeadlines": [
+        "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - News On AIR",
+        "Telangana CM requests defence project approvals from Rajnath Singh - The News Mill",
+        "Telangana student dies in the US after a sudden illness - The Times of India",
+        "Revanth, Kishan meet Vaishnaw over stalled IRFC loan for Metro - The Times of India",
+        "Revanth, Kishan Iron Out Metro Issues - Deccan Chronicle"
       ]
     }
   }
