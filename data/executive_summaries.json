@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-23T22:54:52.071Z",
-    "timestampIST": "24/5/2026, 4:24:52 am",
-    "executiveSummary": "<p>The Telangana government is facing multiple challenges. A heatwave warning is in effect for 12 districts, with 16 heatstroke deaths reported and ₹4 lakh ex gratia announced (4, 17). Two murders and a suspected targeted attack on a senior advocate in Hyderabad have raised law and order concerns (5, 10, 15, 18).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is facing multiple challenges. A heatwave warning is in effect for 12 districts, with 16 heatstroke deaths reported and ₹4 lakh ex gratia announced (4, 17). Two murders and a suspected targeted attack on a senior advocate in Hyderabad have raised law and order concerns (5, 10, 15, 18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Health Crisis:</span> 16 heatstroke deaths reported, with a heatwave warning in effect for 12 districts (4, 17).</li>\n    <li><span class=\"risk-high\">Law and Order:</span> Two murders and a suspected targeted attack on an advocate in Hyderabad raise concerns (5, 10, 15, 18).</li>\n    <li><span class=\"risk-medium\">Political:</span> K Kavitha placed four demands before the Telangana Cabinet meeting (14).</li>\n    <li><span class=\"risk-low\">Infrastructure:</span> The Centre is ready with a Rs 10,000-crore Green Energy Investment, but the Telangana government is yet to respond (1).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<p>1. The heatwave (4) and the reported heatstroke deaths (17) are directly correlated, indicating a potential public health crisis.</p>\n<p>2. The two murders and the suspected targeted attack on an advocate (5, 10, 15, 18) highlight potential law and order issues in Hyderabad.</p>\n<p>3. The government's announcement of ex gratia for heatstroke victims (17) is a direct response to the reported deaths.</p>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Issue immediate public health advisories and deploy resources to mitigate the impact of the heatwave in the affected districts (4).</li>\n    <li>Direct the police to expedite investigations into the murders and the suspected targeted attack, and increase patrols in vulnerable areas (5, 10, 15, 18).</li>\n    <li>Review and respond to the Centre's Rs 10,000-crore Green Energy Investment proposal (1).</li>\n    <li>Monitor the situation in Yadagirigutta, where development works worth approximately ₹200 crore are underway (7, 16, 19).</li>\n    <li>Assess the implications of the Telangana Education Commission chief's resignation (20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p><b>High Priority:</b> The 12 districts under heatwave warning require immediate attention to prevent further heatstroke fatalities (4). Hyderabad needs increased police presence and investigative resources due to the recent murders and the attack on the advocate (5, 10, 15, 18).</p>\n```",
-    "dataSnapshot": {
-      "temperature": "28.9°C",
-      "humidity": "58%",
-      "wind": "14.9 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 61,
-      "pm25": 27.8,
-      "goldPerGram": "₹9,230",
-      "newsCount": 28,
-      "topHeadlines": [
-        "Centre Ready With Rs 10,000-Crore Green Energy Investment, Telangana Govt Yet To Respond: Kishan Reddy - Deccan Chronicle",
-        "Telangana Cabinet Approves Breakfast, Midday Meals in All Govt Schools, Jr Colleges - Deccan Chronicle",
-        "INTUC Welcomes Telangana Govt’s Minimum Wage Hike, Seeks Better Pay for Contract Workers - Deccan Chronicle",
-        "Heatwave warning in 12 Telangana districts today, warm night conditions in eight districts - The Hindu",
-        "Two murders shake Telangana; raise law and order concerns - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-24T03:49:32.949Z",
     "timestampIST": "24/5/2026, 9:19:32 am",
     "executiveSummary": "<p>The Telangana government confirmed 16 deaths due to heatstroke and announced ₹4 lakh ex gratia for each victim (1, 18). Two murders and a suspected targeted attack resulting in the death of a senior advocate in Hyderabad have raised law and order concerns (6, 11, 16, 19). Chief Minister Revanth Reddy launched development works worth approximately ₹200 crore at Yadagirigutta (8, 17, 20).</p>",
@@ -1899,6 +1876,29 @@
         "Telangana student dies in the US after a sudden illness - The Times of India",
         "Revanth, Kishan meet Vaishnaw over stalled IRFC loan for Metro - The Times of India",
         "Revanth, Kishan Iron Out Metro Issues - Deccan Chronicle"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-23T03:42:47.119Z",
+    "timestampIST": "23/6/2026, 9:12:47 am",
+    "executiveSummary": "<p>The Chief Minister is actively engaged in securing central government support for key infrastructure projects, specifically Hyderabad Metro Phase-2 funding and defence project approvals, including Adilabad airport expansion (Headlines #1, #2, #4, #7, #9, #10, #11, #12, #14). Concurrently, the state faces internal political pressure, with the ABVP calling for a statewide school bandh (Headline #3) and opposition parties criticizing government actions on various fronts (Headlines #13, #15, #16). A significant financial concern is the Centre's withholding of a ₹13,537 crore loan for the Hyderabad Metro (Headline #18).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Chief Minister is actively engaged in securing central government support for key infrastructure projects, specifically Hyderabad Metro Phase-2 funding and defence project approvals, including Adilabad airport expansion (Headlines #1, #2, #4, #7, #9, #10, #11, #12, #14). Concurrently, the state faces internal political pressure, with the ABVP calling for a statewide school bandh (Headline #3) and opposition parties criticizing government actions on various fronts (Headlines #13, #15, #16). A significant financial concern is the Centre's withholding of a ₹13,537 crore loan for the Hyderabad Metro (Headline #18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Statewide School Bandh (Headline #3) - Potential for disruption to education and public order.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Hyderabad Metro Phase-2 Funding Shortfall (Headlines #1, #2, #4, #9, #11, #18) - Significant financial implications and potential delays for a critical urban infrastructure project.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Political Opposition and Criticism (Headlines #13, #15, #16) - Could lead to increased public dissent and challenges to governance.</li>\n    <li><span class=\"risk-low\">LOW</span>: Telangana Government vs. SBI Land Dispute (Headline #5) - Potential for legal challenges and concerns among industry leaders.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #1, #2, #4, #9, #10, #11, #12, #18 indicate a concerted effort by the Telangana CM and other state leaders to secure funding for Hyderabad Metro Phase-2, highlighting the critical nature of this project and the financial challenges involved, including the Centre's withholding of a ₹13,537 crore loan.</li>\n    <li>Headlines #7 and #14 demonstrate the Chief Minister's focus on securing central government support for defence-related projects, specifically general defence project approvals and the expansion of Adilabad airport, indicating a broader strategy for infrastructure development and central government engagement.</li>\n    <li>Headlines #13, #15, and #16 show a pattern of increased criticism from opposition parties (KTR, RS Praveen Kumar, Harish Rao) against the current Telangana government on various issues, including governance, bail proceedings, and farmer welfare, suggesting heightened political tensions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Engage immediately with ABVP leadership to understand and address demands to mitigate the impact of the statewide school bandh (Headline #3).</li>\n    <li>Formulate a clear strategy for addressing the ₹13,537 crore loan withholding for Hyderabad Metro Phase-2, potentially involving direct engagement with the Urban Development Ministry as suggested by Headline #11.</li>\n    <li>Prepare a public communication strategy to counter opposition criticism regarding governance, bail issues, and farmer welfare (Headlines #13, #15, #16).</li>\n    <li>Prioritize follow-up with the Ministry of Defence regarding approvals for defence projects and the Adilabad airport expansion (Headlines #7, #14).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><strong>Hyderabad:</strong> Immediate attention required due to ongoing discussions and financial challenges related to the Metro Phase-2 project (Headlines #1, #2, #4, #9, #10, #11, #12, #18) and the land dispute with SBI (Headline #5).</li>\n    <li><strong>Adilabad:</strong> Focus on securing approvals for the airport expansion project, as requested by the CM (Headline #14).</li>\n    <li><strong>Statewide:</strong> Monitor the impact and public response to the ABVP-called school bandh (Headline #3) across all districts.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.7°C",
+      "humidity": "57%",
+      "wind": "16.4 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 18,
+      "pm25": 6,
+      "goldPerGram": "₹9,132",
+      "newsCount": 44,
+      "topHeadlines": [
+        "T’gana CM discusses Hyderabad Metro financing with Railway Minister Ashwini Vaishnaw - tennews.in",
+        "Telangana CM meets Railway Minister to discuss Hyderabad Metro Phase-2 funding - The News Mill",
+        "Telangana school bandh today: Why has ABVP called statewide shutdown? Key demands explained - Moneycontrol.com",
+        "Telangana CM discusses Hyderabad Metro Phase-2 funding with Railway Minister - ANI News",
+        "Why a Telangana govt vs SBI tussle over 5 acres of land has industry leaders worried - ThePrint"
       ]
     }
   }
