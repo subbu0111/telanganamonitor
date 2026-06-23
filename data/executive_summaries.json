@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24T19:19:46.509Z",
-    "timestampIST": "25/5/2026, 12:49:46 am",
-    "executiveSummary": "<p>The Telangana government confirmed 16 deaths due to intense heat. (11) The Chief Minister congratulated NIMS doctors for reaching a milestone of 2,000 kidney transplants. (9) The CM laid the foundation stone for development works worth ₹99.55 crore at the Yadadri temple. (10) Political tensions are rising, with the BJP and BRS criticizing the current government on various issues including power sector privatization and paddy procurement. (3, 4, 7)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government confirmed 16 deaths due to intense heat. (11) The Chief Minister congratulated NIMS doctors for reaching a milestone of 2,000 kidney transplants. (9) The CM laid the foundation stone for development works worth ₹99.55 crore at the Yadadri temple. (10) Political tensions are rising, with the BJP and BRS criticizing the current government on various issues including power sector privatization and paddy procurement. (3, 4, 7)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Health Crisis:</span> 16 deaths reported due to intense heat. (11)</li>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS and BJP are actively criticizing the government on key issues like paddy procurement and power sector policies. (3, 4, 7)</li>\n    <li><span class=\"risk-low\">Procurement Issues:</span> Allegations of procurement irregularities and demands for MSP for rain-damaged paddy. (5)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The intense heat (11) could potentially exacerbate existing issues related to agriculture, such as the rain-damaged paddy mentioned in headline (5).</li>\n    <li>Political criticism regarding paddy procurement (3, 5) could be linked to the government's handling of agricultural issues in the face of adverse weather conditions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct immediate resources to mitigate the impact of the heatwave, focusing on vulnerable populations. (11)</li>\n    <li>Assess the current status of paddy procurement and address the concerns raised by BRS regarding the May 31 deadline. (3, 5)</li>\n    <li>Monitor political rhetoric and public sentiment regarding the power sector privatization allegations. (4)</li>\n    <li>Ensure effective communication regarding government initiatives, such as the Yadadri temple development, to counter negative narratives. (10)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>Focus immediate attention on districts experiencing the most severe heat, as the 16 deaths are a critical indicator of potential widespread impact. (11) Monitor districts with significant agricultural activity, particularly those affected by rain-damaged paddy, to address procurement concerns. (3, 5)</p>\n```\n",
-    "dataSnapshot": {
-      "temperature": "31.5°C",
-      "humidity": "41%",
-      "wind": "13.2 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 38,
-      "pm25": 18.7,
-      "goldPerGram": "₹9,230",
-      "newsCount": 11,
-      "topHeadlines": [
-        "Telangana BJP unit pitches for Godavari-Cauvery river interlinking project - Telangana Today",
-        "No One Can Reject PM Modi’s Offer: Dharmapuri Arvind - INDToday",
-        "BRS demands urgent paddy procurement by May 31 - Telangana Today",
-        "Jagadish Reddy charges Congress govt with attempting to privatise power sector through RDSS - Telangana Today",
-        "Niranjan Reddy alleges procurement irregularities, demands MSP for rain-damaged paddy - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-24T20:58:11.979Z",
     "timestampIST": "25/5/2026, 2:28:11 am",
     "executiveSummary": "<p>The Telangana Chief Minister congratulated NIMS doctors for achieving 2,000 kidney transplants (1). The BRS demands urgent paddy procurement by May 31 (4). The government confirmed 16 deaths due to intense heat (11).</p>",
@@ -1830,6 +1807,29 @@
         "Congress government’s selective media leaks draw scrutiny - Telangana Today",
         "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - News On AIR",
         "'Spent Two Years Running Around Courts': Padma Shri Awardee Darshanam Mogilaiah Says Government-Allotted Plot is Stuck in Court Dispute - NewsGram"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-23T20:17:05.112Z",
+    "timestampIST": "24/6/2026, 1:47:05 am",
+    "executiveSummary": "<p>The Telangana government is facing significant scrutiny and allegations regarding the Hyderabad Metro Phase-II project, with opposition parties alleging a ₹30,000 crore scam involving the Chief Minister and Union Minister Kishan Reddy (9, 10, 19). Concurrently, there are conflicting reports on the progress of Metro Phase-II, with some indicating a breakthrough (2) and others deepening uncertainty (3). The government also plans to launch an internship program for engineering graduates (1).</p>",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>The Telangana government is facing significant scrutiny and allegations regarding the Hyderabad Metro Phase-II project, with opposition parties alleging a ₹30,000 crore scam involving the Chief Minister and Union Minister Kishan Reddy (9, 10, 19). Concurrently, there are conflicting reports on the progress of Metro Phase-II, with some indicating a breakthrough (2) and others deepening uncertainty (3). The government also plans to launch an internship program for engineering graduates (1).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Corruption Allegations:</span> Allegations of a ₹30,000 crore Metro scam against the CM and Union Minister (9, 10, 19) could lead to significant political unrest and damage public trust.</li>\n    <li><span class=\"risk-medium\">Public Safety/Governance (Metro Project Uncertainty):</span> Conflicting reports on the Hyderabad Metro Phase-II (2, 3, 12) create uncertainty and potential delays in critical infrastructure development, impacting public services and perception.</li>\n    <li><span class=\"risk-medium\">Inter-Party Conflict:</span> Harish Rao's call for 'Congress Hatao, Singareni Bachao' (5) and allegations of blackmail politics by CM Revanth (11) indicate escalating political tensions.</li>\n    <li><span class=\"risk-low\">Judicial/Land Dispute:</span> A Padma Shri awardee's government-allotted plot is stuck in a court dispute (8), highlighting potential issues with land allocation and judicial processes.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines 2, 3, 9, 10, 12, 14, 16, 18, 19, and 20 all relate to the Hyderabad Metro project, specifically Phase-II expansion, its funding, alleged scams, and the appointment of SBICAPS as a consultant. This indicates a major ongoing development with significant political and financial implications.</li>\n    <li>Headlines 9, 10, 11, and 19 demonstrate a coordinated opposition campaign by BRS leaders (KTR, Harish Rao) against the Chief Minister, alleging a ₹30,000 crore Metro scam and blackmail politics.</li>\n    <li>Headlines 6 and 18 detail a meeting between CM Revanth Reddy, Union Minister G. Kishan Reddy, and Manohar Lal Khattar, which is directly linked to the Centre-State pact and loan discussions for the Hyderabad Metro expansion.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately address the ₹30,000 crore Metro scam allegations (9, 10, 19) with a transparent and detailed public statement, providing clarity on the project's financial aspects and decision-making processes.</li>\n    <li>Provide a definitive update on the status of Hyderabad Metro Phase-II (2, 3, 12, 14) to alleviate public uncertainty and counter conflicting narratives.</li>\n    <li>Initiate a review of the land dispute involving Padma Shri awardee Darshanam Mogilaiah (8) to ensure timely resolution and uphold public trust in government allocations.</li>\n    <li>Monitor inter-party rhetoric, particularly calls for 'Congress Hatao' (5) and allegations of blackmail (11), to anticipate and mitigate potential political unrest.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Hyderabad: The ongoing developments and controversies surrounding the Hyderabad Metro project (2, 3, 9, 10, 12, 14, 16, 18, 19, 20) directly impact the city's infrastructure, public perception, and political stability.</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "26.8°C",
+      "humidity": "60%",
+      "wind": "16.4 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 15,
+      "pm25": 6,
+      "goldPerGram": "₹9,138",
+      "newsCount": 41,
+      "topHeadlines": [
+        "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - Newsonair",
+        "CM Revanth Secures Breakthrough on Hyderabad Metro Phase-2 - The Morning Voice",
+        "Uncertainty deepens over Metro Phase-II after Revanth Reddy’s Delhi visit - Telangana Today",
+        "Editorial: Britain’s musical chairs - Telangana Today",
+        "Harish Rao calls for ‘Congress Hatao, Singareni Bachao’ fight to protect SCCL - Telangana Today"
       ]
     }
   }
