@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24T11:20:19.266Z",
-    "timestampIST": "24/5/2026, 4:50:19 pm",
-    "executiveSummary": "<p>The Telangana government is facing criticism from the BJP regarding Godavari basin projects (Headline 1). The Cabinet approved a Mid-Day Meal Scheme in Junior Colleges (Headline 4) and Breakfast and Midday Meals in all government schools and junior colleges (Headline 8). Two murders were reported in Telangana, raising law and order concerns (Headline 11), and a senior advocate was killed in a suspected targeted attack in Hyderabad (Headline 16).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is facing criticism from the BJP regarding Godavari basin projects (Headline 1). The Cabinet approved a Mid-Day Meal Scheme in Junior Colleges (Headline 4) and Breakfast and Midday Meals in all government schools and junior colleges (Headline 8). Two murders were reported in Telangana, raising law and order concerns (Headline 11), and a senior advocate was killed in a suspected targeted attack in Hyderabad (Headline 16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Safety:</span> Two murders and a suspected targeted attack in Hyderabad raise serious law and order concerns. (Headline 11, 16)</li>\n    <li><span class=\"risk-medium\">Political Instability:</span> BJP criticizes the Telangana government over Godavari basin projects (Headline 1).</li>\n    <li><span class=\"risk-medium\">Health Crisis:</span> 16 deaths have been confirmed due to intense heat (Headline 6).</li>\n    <li><span class=\"risk-low\">Infrastructure Delays:</span> The Centre is ready with a Rs 10,000-Crore Green Energy Investment, but the Telangana government has yet to respond (Headline 7).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Telangana government is implementing welfare schemes such as the Mid-Day Meal Scheme (Headline 4, 8) and a minimum wage hike (Headline 9), potentially impacting state finances.</li>\n    <li>The government is laying foundation stones for development works at Yadadri temple (Headline 5, 13), indicating ongoing infrastructure projects.</li>\n    <li>The heatwave warning (Headline 10) and confirmed heat-related deaths (Headline 6) highlight a critical public health concern.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to immediately investigate the murders and the suspected targeted attack, increasing police presence and surveillance in affected areas (Headline 11, 16).</li>\n    <li>Assess the state's preparedness for the ongoing heatwave and implement immediate public health measures (Headline 6, 10).</li>\n    <li>Expedite a response to the Centre's green energy investment offer (Headline 7).</li>\n    <li>Review and strengthen security measures at Yadadri temple and other locations where development works are underway (Headline 5, 13).</li>\n    <li>Monitor the BJP's criticism of the government regarding Godavari basin projects and prepare a response (Headline 1).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>All Districts:</b> Implement heatwave safety measures and monitor for heat-related illnesses (Headline 6, 10).</li>\n    <li><b>Hyderabad:</b> Prioritize law enforcement and investigation efforts due to the reported murders and the suspected targeted attack (Headline 11, 16).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "37.5°C",
-      "humidity": "24%",
-      "wind": "13 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 55,
-      "pm25": 14,
-      "goldPerGram": "₹9,230",
-      "newsCount": 18,
-      "topHeadlines": [
-        "BJP slams Telangana government over ‘non-serious’ approach to Godavari basin projects - The South First",
-        "No One Can Reject PM Modi’s Offer: Dharmapuri Arvind - INDToday",
-        "NETAS NATTER | Revanth’s Hall of Wisdom, the Font of Ideas - Deccan Chronicle",
-        "Telangana Cabinet Approves Mid-Day Meal Scheme In Junior Colleges - ETV Bharat",
-        "CM lays foundation stone for development works worth Rs 99.55 crore at Yadadri temple - The New Indian Express"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-24T13:39:20.908Z",
-    "timestampIST": "24/5/2026, 7:09:20 pm",
-    "executiveSummary": "<p>The Telangana government is facing criticism regarding power sector privatization and procurement irregularities. The Cabinet approved a Mid-Day Meal Scheme in Junior Colleges and breakfast/midday meals in all government schools and junior colleges. Two murders and 16 heat-related deaths in the state are reported.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is facing criticism regarding power sector privatization and procurement irregularities. The Cabinet approved a Mid-Day Meal Scheme in Junior Colleges and breakfast/midday meals in all government schools and junior colleges. Two murders and 16 heat-related deaths in the state are reported.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Safety:</span> Two murders reported in Telangana, raising law and order concerns. (Headline 14)</li>\n    <li><span class=\"risk-high\">Public Health:</span> 16 deaths confirmed due to intense heat, with a heatwave warning in 12 districts. (Headlines 9, 13)</li>\n    <li><span class=\"risk-medium\">Political Instability:</span> Accusations of privatization attempts and procurement irregularities against the government. (Headlines 1, 2)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The government's focus on school infrastructure (Headline 15) and the approval of the Mid-Day Meal Scheme (Headline 7, 11) indicates a focus on social welfare.</li>\n    <li>Kishan Reddy's statements on renewable energy (Headline 3, 10) highlight the Centre's interest in green energy investment in Telangana.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to investigate the two reported murders and enhance law enforcement presence in affected areas. (Headline 14)</li>\n    <li>Issue immediate public health advisories and deploy resources to mitigate the impact of the heatwave in the 12 affected districts. (Headline 13)</li>\n    <li>Review and address the allegations of procurement irregularities and privatization attempts. (Headlines 1, 2)</li>\n    <li>Expedite the government's response to the Centre's offer of Rs 10,000-Crore Green Energy Investment. (Headline 10)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>12 Districts:</b> Immediate attention is required in the 12 districts under heatwave warning to address public health concerns. (Headline 13)</li>\n    <li><b>Areas with Reported Murders:</b> Law enforcement should focus on the areas where the two murders occurred to ensure public safety. (Headline 14)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35.1°C",
-      "humidity": "29%",
-      "wind": "7.5 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 50,
-      "pm25": 16.5,
-      "goldPerGram": "₹9,230",
-      "newsCount": 19,
-      "topHeadlines": [
-        "Jagadish Reddy charges Congress govt with attempting to privatise power sector through RDSS - Telangana Today",
-        "Niranjan Reddy alleges procurement irregularities, demands MSP for rain-damaged paddy - Telangana Today",
-        "Hyderabad Should Become A Renewable Energy Hub: Kishan Reddy - INDToday",
-        "BJP slams Telangana government over ‘non-serious’ approach to Godavari basin projects - The South First",
-        "No One Can Reject PM Modi’s Offer: Dharmapuri Arvind - INDToday"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-24T15:05:39.543Z",
     "timestampIST": "24/5/2026, 8:35:39 pm",
     "executiveSummary": "<p>The Telangana government is facing scrutiny regarding paddy procurement and power sector privatization allegations (1, 2, 3). The Cabinet approved the Mid-Day Meal Scheme in Junior Colleges and breakfast/midday meals in schools (8, 12).  Law and order concerns are raised due to two reported murders (15).  A heatwave warning is in effect for 12 districts (14).</p>",
@@ -1876,6 +1830,29 @@
         "UNITED NEWS OF INDIA - UNITED NEWS OF INDIA",
         "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - News On AIR",
         "Centre offers olive branch: What transpired at Revanth Reddy-Khattar meeting on Hyderabad metro loan - theweek.in"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-23T14:52:41.910Z",
+    "timestampIST": "23/6/2026, 8:22:41 pm",
+    "executiveSummary": "<p>The Hyderabad Metro Rail project is a central focus, with progress reported on Phase 1 takeover and Phase 2 expansion talks following meetings in Delhi, and SBICAPS appointed as a consultant for valuation (Headlines #9, #13, #14, #15, #16). Concurrently, the BRS party, including KTR and Harish Rao, has accused the Telangana CM and Union Minister Kishan Reddy of a ₹30,000 crore \"Metro scam\" and engaging in \"blackmail politics\" (Headlines #2, #3, #4, #12). Furthermore, BRS leaders were placed under house arrest ahead of a farmers' protest (Headline #17).</p>",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>The Hyderabad Metro Rail project is a central focus, with progress reported on Phase 1 takeover and Phase 2 expansion talks following meetings in Delhi, and SBICAPS appointed as a consultant for valuation (Headlines #9, #13, #14, #15, #16). Concurrently, the BRS party, including KTR and Harish Rao, has accused the Telangana CM and Union Minister Kishan Reddy of a ₹30,000 crore \"Metro scam\" and engaging in \"blackmail politics\" (Headlines #2, #3, #4, #12). Furthermore, BRS leaders were placed under house arrest ahead of a farmers' protest (Headline #17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Allegations of ₹30,000 crore Metro scam involving the Telangana CM and a Union Minister (Headlines #2, #3, #12). This could lead to significant political instability and public distrust.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: House arrest of BRS leaders ahead of farmers' protest (Headline #17). This indicates potential for escalating political tensions and public unrest, particularly concerning agricultural issues.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Court dispute over government-allotted plot for Padma Shri awardee Darshanam Mogilaiah (Headline #1). This highlights potential issues with land allocation and legal processes, which could reflect poorly on governance.</li>\n    <li><span class=\"risk-low\">LOW</span>: CM Revanth Reddy's warning to southern states against becoming ‘second-grade citizens’ (Headline #8). While a political statement, it could contribute to inter-state tensions but does not pose an immediate internal security risk for Telangana.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The allegations of a ₹30,000 crore \"Metro scam\" by BRS (Headlines #2, #3, #12) directly contradict the positive outcomes reported from Delhi meetings regarding Hyderabad Metro Phase 1 takeover and Phase 2 expansion (Headlines #9, #13, #15, #16). This suggests a significant political conflict surrounding the Metro project.</li>\n    <li>The BRS allegations of a \"Metro scam\" (Headlines #2, #3, #12) and \"blackmail politics\" (Headline #4) are further exacerbated by the house arrest of BRS leaders, including KTR and Harish Rao, ahead of a farmers' protest (Headline #17). This indicates a broader pattern of political confrontation between the ruling party and the opposition.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Formally address the ₹30,000 crore Metro scam allegations with a transparent investigation or public statement to mitigate political fallout and maintain public trust (Referencing Headlines #2, #3, #12).</li>\n    <li>Monitor the situation regarding the house arrest of BRS leaders and the farmers' protest closely to prevent escalation of political tensions and potential public disorder (Referencing Headline #17).</li>\n    <li>Expedite the resolution of the court dispute concerning the Padma Shri awardee's government-allotted plot to demonstrate effective governance and support for eminent citizens (Referencing Headline #1).</li>\n    <li>Ensure smooth progress and transparency in the Hyderabad Metro Phase 1 takeover and Phase 2 expansion, particularly with SBICAPS as a consultant, to counter negative narratives (Referencing Headlines #14, #15, #16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Immediate attention is required due to the ongoing developments and controversies surrounding the Hyderabad Metro Rail project, including scam allegations, takeover talks, and expansion plans (Headlines #2, #3, #5, #7, #9, #12, #13, #14, #15, #16, #20). This is also the likely focal point for political protests and opposition activities mentioned in Headline #17.</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "27.2°C",
+      "humidity": "73%",
+      "wind": "10.4 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 23,
+      "pm25": 6.1,
+      "goldPerGram": "₹9,138",
+      "newsCount": 49,
+      "topHeadlines": [
+        "'Spent Two Years Running Around Courts': Padma Shri Awardee Darshanam Mogilaiah Says Government-Allotted Plot is Stuck in Court Dispute - NewsGram",
+        "BRS alleges ₹30,000 crore Metro scam involving Telangana CM and Union Minister Kishan Reddy - The News Mill",
+        "KTR alleges ₹30,000 crore \"Metro scam,\" accuses Telangana CM and Union Minister Kishan Reddy of political collusion - ANI News",
+        "CM Revanth resorting to blackmail politics, alleges Harish Rao - Telangana Today",
+        "Hyderabad Metro Rail takeover by Telangana government takes a curious turn - Telangana Today"
       ]
     }
   }
