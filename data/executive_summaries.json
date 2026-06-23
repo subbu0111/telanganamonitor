@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24T09:56:38.826Z",
-    "timestampIST": "24/5/2026, 3:26:38 pm",
-    "executiveSummary": "<p>The Telangana government confirmed 16 deaths due to intense heat (5). The CM laid the foundation stone for development works worth ₹99.55 crore at the Yadadri temple (4), while Revanth launched development works worth ₹100 crore at Yadagirigutta (12). Two murders in Telangana have raised law and order concerns (10), including the suspected targeted killing of a senior advocate in Hyderabad (15).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government confirmed 16 deaths due to intense heat (5). The CM laid the foundation stone for development works worth ₹99.55 crore at the Yadadri temple (4), while Revanth launched development works worth ₹100 crore at Yadagirigutta (12). Two murders in Telangana have raised law and order concerns (10), including the suspected targeted killing of a senior advocate in Hyderabad (15).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Health Crisis:</span> 16 confirmed deaths due to intense heat (5).</li>\n    <li><span class=\"risk-high\">Law and Order:</span> Two murders reported, raising concerns (10), including a targeted attack (15).</li>\n    <li><span class=\"risk-medium\">Heatwave Impact:</span> Heatwave warning in 12 districts today (9).</li>\n    <li><span class=\"risk-low\">Political:</span> K Kavitha placed four demands before the Telangana Cabinet meeting (19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's foundation stone laying at Yadadri temple (4) and Revanth's development works at Yadagirigutta (12) both indicate ongoing infrastructure projects.</li>\n    <li>The heatwave warning (9) and the confirmed heat-related deaths (5) highlight a critical public health issue.</li>\n    <li>The two murders (10) and the targeted attack on an advocate (15) indicate potential law and order challenges.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct immediate support and resources to the affected districts facing a heatwave (9).</li>\n    <li>Initiate a thorough investigation into the two murders and the targeted attack on the advocate (10, 15).</li>\n    <li>Review and enhance public health measures to mitigate the impact of the heatwave, including public awareness campaigns.</li>\n    <li>Monitor the implementation of the Mid-Day Meal Scheme in Junior Colleges (3, 7).</li>\n    <li>Assess the impact of the minimum wage hike (8) on contract workers.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>All 12 districts under heatwave warning (9)</b> require immediate attention and resource allocation to address the public health crisis.</li>\n    <li><b>Hyderabad</b> due to the reported murders and the targeted attack (10, 15), requiring increased police presence and investigation.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "38.2°C",
-      "humidity": "24%",
-      "wind": "15.7 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 59,
-      "pm25": 13.9,
-      "goldPerGram": "₹9,230",
-      "newsCount": 21,
-      "topHeadlines": [
-        "No One Can Reject PM Modi’s Offer: Dharmapuri Arvind - INDToday",
-        "NETAS NATTER | Revanth’s Hall of Wisdom, the Font of Ideas - Deccan Chronicle",
-        "Telangana Cabinet Approves Mid-Day Meal Scheme In Junior Colleges - ETV Bharat",
-        "CM lays foundation stone for development works worth Rs 99.55 crore at Yadadri temple - The New Indian Express",
-        "Telangana government confirms 16 deaths in state due to intense heat - The New Indian Express"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-24T11:20:19.266Z",
     "timestampIST": "24/5/2026, 4:50:19 pm",
     "executiveSummary": "<p>The Telangana government is facing criticism from the BJP regarding Godavari basin projects (Headline 1). The Cabinet approved a Mid-Day Meal Scheme in Junior Colleges (Headline 4) and Breakfast and Midday Meals in all government schools and junior colleges (Headline 8). Two murders were reported in Telangana, raising law and order concerns (Headline 11), and a senior advocate was killed in a suspected targeted attack in Hyderabad (Headline 16).</p>",
@@ -1876,6 +1853,29 @@
         "This New Paddle Sport Can Be Played Almost Anywhere - Telangana Today",
         "Hyderabad Metro Phase-II: Centre asks Telangana to take up pending Issues with Urban Development Ministry - The South First",
         "Talks with Minister Vaishnaw on IRFC loan for Hyderabad Metro takeover positive, says CM Revanth - The New Indian Express"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-23T11:18:58.330Z",
+    "timestampIST": "23/6/2026, 4:48:58 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has engaged in significant discussions in Delhi regarding the Hyderabad Metro, with a Centre-State pact clearing the path for its expansion and SBICAPS appointed as consultant for Phase-I valuation. Concurrently, the BRS has accused CM Reddy of a potential ₹30,000 crore Metro Rail scam and betrayal of farmers with a new procurement policy. Political tensions are rising, with BRS leaders placed under house arrest ahead of farmer protests, and the BJP criticizing the CM's control ahead of GHMC polls.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has engaged in significant discussions in Delhi regarding the Hyderabad Metro, with a Centre-State pact clearing the path for its expansion and SBICAPS appointed as consultant for Phase-I valuation. Concurrently, the BRS has accused CM Reddy of a potential ₹30,000 crore Metro Rail scam and betrayal of farmers with a new procurement policy. Political tensions are rising, with BRS leaders placed under house arrest ahead of farmer protests, and the BJP criticizing the CM's control ahead of GHMC polls.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Public Order:</span> BRS leaders were placed under house arrest ahead of farmer protests (#11), indicating potential for public unrest and escalating political tensions, exacerbated by accusations against the CM (#6, #17).</li>\n    <li><span class=\"risk-medium\">Governance/Corruption Allegations:</span> Allegations of a massive ₹30,000 crore scam related to Metro Rail assets by KTR (#6) could undermine public trust and require immediate, transparent clarification.</li>\n    <li><span class=\"risk-medium\">Inter-State Relations:</span> CM Revanth Reddy's warning to southern states against becoming ‘second-grade citizens’ (#1) could strain relations with the Centre and other states, potentially impacting future collaborations.</li>\n    <li><span class=\"risk-low\">Economic/Policy Backlash:</span> BRS leader K.T. Rama Rao's accusation that CM Revanth betrayed farmers with a new procurement policy (#17) could lead to farmer discontent, though the immediate impact on economic stability is not specified.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #2, #5, #7, #8, #9, #14, #16, and #20 all pertain to the Hyderabad Metro, specifically discussions in Delhi regarding its expansion, financing, and the appointment of SBICAPS as a consultant for Phase-I valuation. This indicates a concerted effort and significant progress on this key infrastructure project.</li>\n    <li>Headlines #6 and #17, both from BRS leader K.T. Rama Rao, directly criticize CM Revanth Reddy, accusing him of a ₹30,000 crore Metro Rail scam and betraying farmers. These criticisms are further contextualized by the BJP's criticism of CM Reddy losing control ahead of GHMC polls (#15) and the house arrest of BRS leaders ahead of farmer protests (#11), suggesting a coordinated opposition strategy against the current government.</li>\n    <li>Headlines #4 and #19 highlight government initiatives and criticisms regarding youth employment. CM Revanth Reddy plans to launch an internship program for engineering graduates (#4), while BJP leader Alleti Maheshwar Reddy criticizes the government for ignoring the demands of unemployed youth (#19), indicating a focus on and political debate around youth employment issues.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Issue a clear and comprehensive statement addressing the allegations of a ₹30,000 crore Metro Rail scam (#6) to maintain public trust and transparency.</li>\n    <li>Monitor farmer protests and political gatherings closely, particularly in light of BRS leaders being placed under house arrest (#11) and accusations regarding procurement policy (#17), to prevent escalation and ensure public safety.</li>\n    <li>Expedite the formalization and implementation of the Centre-State pact for Hyderabad Metro expansion (#2) and the SBICAPS consultancy for Phase-I valuation (#8, #9) to demonstrate progress on key infrastructure.</li>\n    <li>Develop and publicize details of the planned internship program for engineering graduates (#4) to address concerns about unemployed youth (#19) and showcase government initiatives.</li>\n    <li>Engage with the Union Urban Development Ministry regarding pending issues for Hyderabad Metro Phase-II (#14) to ensure smooth progress of the project.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><strong>Hyderabad:</strong> The city of Hyderabad requires immediate attention due to ongoing developments and political tensions surrounding the Metro Rail project (#2, #5, #6, #7, #8, #9, #14, #16, #20) and the upcoming GHMC polls (#15).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "31°C",
+      "humidity": "56%",
+      "wind": "10.6 km/h",
+      "weatherDesc": "Thunderstorm",
+      "aqi": 33,
+      "pm25": 5.7,
+      "goldPerGram": "₹9,132",
+      "newsCount": 52,
+      "topHeadlines": [
+        "Revanth Reddy warns southern states against becoming ‘second-grade citizens’ - The Hindu",
+        "Centre-State pact clears path for Hyderabad Metro expansion - Awaz The Voice",
+        "UNITED NEWS OF INDIA - UNITED NEWS OF INDIA",
+        "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - News On AIR",
+        "Centre offers olive branch: What transpired at Revanth Reddy-Khattar meeting on Hyderabad metro loan - theweek.in"
       ]
     }
   }
