@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25T14:56:39.001Z",
-    "timestampIST": "25/5/2026, 8:26:39 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism regarding crop procurement delays, with the Centre accused of non-cooperation (1, 3, 7, 11). A BJP delegation will inspect a procurement centre in Vikarabad, challenging the government on farmers' issues (13, 14). The government has launched a 10-day paddy purchase drive (16).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism regarding crop procurement delays, with the Centre accused of non-cooperation (1, 3, 7, 11). A BJP delegation will inspect a procurement centre in Vikarabad, challenging the government on farmers' issues (13, 14). The government has launched a 10-day paddy purchase drive (16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Farmers are facing difficulties selling crops (5), and the BJP is actively targeting the government over procurement issues (13, 14).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> The Centre's alleged lack of support for crop procurement could exacerbate existing challenges (1, 3, 7, 11).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Criticism of the government's planning regarding procurement delays (9) and the \"Future City\" claims (19) could erode public trust.</li>\n    <li><span class=\"risk-low\">LOW:</span> A road accident on the ORR near Shamirpet resulted in one fatality and one injury (10).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The BJP's focus on farmer issues (13, 14) is directly linked to the ongoing challenges in crop procurement and the Centre's alleged lack of support (1, 3, 7, 11).</li>\n    <li>The criticism of procurement delays (9) and the Centre's non-cooperation (1, 3, 7, 11) are both related to the difficulties faced by farmers (5).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize addressing the procurement delays and farmer grievances, particularly in light of the BJP's planned inspection of the Vikarabad procurement centre (13, 14).</li>\n    <li>Issue a public statement clarifying the government's position on the Centre's alleged lack of support for crop procurement (1, 3, 7, 11).</li>\n    <li>Ensure effective communication and coordination between relevant departments to facilitate the 10-day paddy purchase drive (16).</li>\n    <li>Prepare a response to the BJP's anticipated challenges regarding farmers' issues (13, 14).</li>\n    <li>Monitor the situation in Vikarabad closely, given the planned inspection by the BJP (13, 14).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Vikarabad:</b> Immediate attention is required due to the upcoming inspection by the BJP delegation focused on procurement issues (13, 14).</li>\n    <li><b>Areas with reported procurement delays:</b> Monitor these areas closely to address farmer grievances (5, 9).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "32.7°C",
-      "humidity": "46%",
-      "wind": "5.2 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 44,
-      "pm25": 45.2,
-      "goldPerGram": "₹9,186",
-      "newsCount": 22,
-      "topHeadlines": [
-        "Revanth Reddy blames Centre over crop procurement delays - Telangana Today",
-        "Rajgopal Reddy apologises to farmers over procurement delays in Telangana - Telangana Today",
-        "Telangana Buying Grain Despite Lack Of Central Support: Revanth Reddy - INDToday",
-        "Telangana Procures Crops Amid Crisis, Education Reforms &amp; Meal Scheme - Deccan Herald",
-        "Farmers facing troubles to sell crops: Jeevan Reddy - Telangana Today"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-25T17:45:22.242Z",
-    "timestampIST": "25/5/2026, 11:15:22 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy announced the allocation of 100 acres of land for women-led rice mills, warehouses, and logistics parks. The CM is also facing criticism regarding crop procurement delays and blames the Centre for lack of cooperation. A BRS leader has threatened protests by Telangana farmers over the paddy procurement issue.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy announced the allocation of 100 acres of land for women-led rice mills, warehouses, and logistics parks. The CM is also facing criticism regarding crop procurement delays and blames the Centre for lack of cooperation. A BRS leader has threatened protests by Telangana farmers over the paddy procurement issue.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> BRS leader Harish Rao threatens protests by Telangana farmers over the paddy procurement issue. (Headline 18)</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Farmers are facing troubles selling crops. (Headline 13)</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Procurement delays are exposing the Congress government’s poor planning. (Headline 17)</li>\n    <li><span class=\"risk-low\">LOW:</span> One person was killed and another injured in an ORR crash near Shamirpet. (Headline 19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM is procuring maize and other crops despite financial challenges (Headline 1, 11, 12), while simultaneously blaming the Centre for lack of support in procurement (Headline 5, 9, 15, 20).</li>\n    <li>The government is allocating land for women-led rice mills and warehouses (Headline 2, 3), potentially to address crop processing and storage issues.</li>\n    <li>Procurement delays are a recurring theme, with both the CM and BJP members addressing the issue (Headline 8, 10, 17).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Assess the potential impact and prepare for possible protests threatened by BRS leader Harish Rao. (Headline 18)</li>\n    <li>Initiate immediate measures to expedite crop procurement and address farmers' concerns. (Headline 13, 17)</li>\n    <li>Clarify the government's stance on the Centre's cooperation in crop procurement and communicate it effectively to the public. (Headline 5, 9, 15, 20)</li>\n    <li>Review and expedite the Musi rejuvenation project to capitalize on job creation and quality of life improvements. (Headline 14)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>Focus should be on districts where crop procurement is facing delays and where farmers are struggling to sell their crops. Specific districts are not mentioned in the headlines, but this should be determined by field reports.</p>\n```",
-    "dataSnapshot": {
-      "temperature": "30.5°C",
-      "humidity": "53%",
-      "wind": "9.4 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 61,
-      "pm25": 62.9,
-      "goldPerGram": "₹9,186",
-      "newsCount": 30,
-      "topHeadlines": [
-        "Telangana government procures maize despite financial challenges, says CM Revanth Reddy - The News Mill",
-        "Telangana government allocates 100 acres for women-led rice mills and warehouses - The News Mill",
-        "Telangana CM announces 100 acres of land for women groups to set up rice mills, warehouses and logistics parks - ANI News",
-        "Empowering Women: Telangana CM's Vision for SHGs - Devdiscourse",
-        "Revanth Slams Centre For Not Procuring Harvest Produce - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-25T19:43:14.984Z",
     "timestampIST": "26/5/2026, 1:13:14 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is addressing crop procurement challenges, blaming the Centre for lack of support (5, 8, 9, 13, 19). The CM is also focused on the Musi rejuvenation project, which is expected to create jobs and improve life quality in Hyderabad (2, 17, 18). The government is allocating 100 acres for women-led rice mills and warehouses (6).</p>",
@@ -1853,6 +1807,29 @@
         "Heavy rainfall alert in four Telangana districts, thunderstorm forecast in 28 districts for today - The Hindu",
         "Harish Rao Urges Telangana Government To Protect Water Rights - INDToday",
         "TGSRTC to introduce 37 new electric buses on five additional Hyderabad routes - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-24T17:55:35.800Z",
+    "timestampIST": "24/6/2026, 11:25:35 pm",
+    "executiveSummary": "<p>The Chief Minister is actively engaging with the Centre on critical water sharing disputes, specifically regarding Tungabhadra (#1) and Godavari water talks with Maharashtra (#8). Significant public safety and governance concerns include allegations of a Rs 1,000-crore scam in the PM-KUSUM scheme (#17) and a former sarpanch's suicide over unpaid government dues (#20). Infrastructure development is a key focus, with plans for Hyderabad Metro expansion (#16) and an international bus terminal (#18).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Chief Minister is actively engaging with the Centre on critical water sharing disputes, specifically regarding Tungabhadra (#1) and Godavari water talks with Maharashtra (#8). Significant public safety and governance concerns include allegations of a Rs 1,000-crore scam in the PM-KUSUM scheme (#17) and a former sarpanch's suicide over unpaid government dues (#20). Infrastructure development is a key focus, with plans for Hyderabad Metro expansion (#16) and an international bus terminal (#18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Water Disputes:</span> Ongoing disputes over Tungabhadra water share (#1) and Godavari water talks with Maharashtra (#8) require immediate high-level intervention to prevent escalation and ensure water security.</li>\n    <li><span class=\"risk-high\">Public Grievance/Governance:</span> The suicide of a former sarpanch over unpaid government dues (#20) and allegations of a Rs 1,000-crore scam in the PM-KUSUM scheme (#17) indicate significant public dissatisfaction and potential corruption issues that could erode public trust.</li>\n    <li><span class=\"risk-medium\">Political Opposition/Stability:</span> Growing demand for KCR's return (#2) and BRS MLC questioning Hyderabad Metro takeover (#4) suggest increasing political pressure and scrutiny on the current administration.</li>\n    <li><span class=\"risk-medium\">Public Safety (Weather):</span> Heavy rainfall alert in four districts and thunderstorm forecast in 28 districts (#11) pose immediate risks of disruption and potential damage.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's efforts to secure Central intervention for Tungabhadra water share (#1) and mediate Godavari water talks with Maharashtra (#8) indicate a concentrated effort to address critical interstate water resource issues.</li>\n    <li>The BRS MLC's questions regarding the Hyderabad Metro takeover (#4) and the Chief Minister's subsequent meetings with Union Ministers for Hyderabad Metro expansion (#16) highlight the political and financial scrutiny surrounding major infrastructure projects.</li>\n    <li>The CM's announcement of an internship program for engineering graduates (#3) and the continued focus of Telangana engineering colleges on CSE despite AI fears (#7) suggest a strategic alignment towards skill development and technological advancement within the state's workforce.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize immediate engagement with the Centre and Maharashtra to resolve the Tungabhadra (#1) and Godavari water disputes (#8) to prevent further escalation.</li>\n    <li>Launch an immediate inquiry into the alleged Rs 1,000-crore scam in the PM-KUSUM scheme (#17) and address the issue of unpaid government dues following the sarpanch's suicide (#20) to restore public confidence.</li>\n    <li>Direct relevant departments to prepare for and respond to the heavy rainfall and thunderstorm alerts in 28 districts (#11) to mitigate potential damage and ensure public safety.</li>\n    <li>Formulate a clear communication strategy regarding the Hyderabad Metro takeover (#4) and expansion plans (#16) to address public and political concerns.</li>\n    <li>Expedite the launch of the mega insurance scheme for employees and pensioners (#5) as announced by the CM to demonstrate commitment to public welfare.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><p>Four districts under heavy rainfall alert and 28 districts with thunderstorm forecasts (#11) require immediate attention for disaster preparedness and response.</p></li>\n    <li><p>Mahabubnagar district is highlighted for the potential establishment of a BrahMos Missile Manufacturing Unit (#15), indicating a strategic industrial development focus.</p></li>\n    <li><p>Hyderabad continues to be a central point of activity with Metro expansion plans (#16), new bus routes (#13), land protection efforts (#14), and the proposed international bus terminal (#18).</p></li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "25.9°C",
+      "humidity": "78%",
+      "wind": "6.4 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 21,
+      "pm25": 5.5,
+      "goldPerGram": "₹9,131",
+      "newsCount": 38,
+      "topHeadlines": [
+        "Tungabhadra water share: Telangana CM Revanth Reddy urges Centre's intervention - Deccan Herald",
+        "KCR return demand grows, says KTR - newsage.in",
+        "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - News On AIR",
+        "BRS MLC seeks answers on Hyderabad Metro takeover, questions secrecy and financial burden - Telangana Today",
+        "CM Revanth Reddy to Launch Mega Insurance Scheme for Telangana Employees, Pensioners - Deccan Chronicle"
       ]
     }
   }
