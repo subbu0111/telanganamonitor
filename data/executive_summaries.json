@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25T19:43:14.984Z",
-    "timestampIST": "26/5/2026, 1:13:14 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is addressing crop procurement challenges, blaming the Centre for lack of support (5, 8, 9, 13, 19). The CM is also focused on the Musi rejuvenation project, which is expected to create jobs and improve life quality in Hyderabad (2, 17, 18). The government is allocating 100 acres for women-led rice mills and warehouses (6).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is addressing crop procurement challenges, blaming the Centre for lack of support (5, 8, 9, 13, 19). The CM is also focused on the Musi rejuvenation project, which is expected to create jobs and improve life quality in Hyderabad (2, 17, 18). The government is allocating 100 acres for women-led rice mills and warehouses (6).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Farmers are facing troubles selling crops (16), and there are procurement delays (14).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> The Centre is not cooperating in paddy procurement, according to the CM (19).</li>\n    <li><span class=\"risk-low\">LOW:</span> Opposition leaders Harish Rao and Sravan are criticizing the government (3, 11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on crop procurement (2, 5, 8, 9, 12, 13, 15, 19) and the allocation for women-led businesses (4, 6, 7) are both related to supporting the agricultural sector and empowering women.</li>\n    <li>The Musi rejuvenation project (2, 17, 18) is linked to job creation and improving the quality of life in Hyderabad.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize resolving crop procurement delays and assisting farmers in selling their produce.</li>\n    <li>Engage with the Central government to address the paddy procurement issue.</li>\n    <li>Monitor the progress of the Musi rejuvenation project and its impact on job creation.</li>\n    <li>Assess the impact of the 100-acre allocation for women-led rice mills and warehouses.</li>\n    <li>Address the concerns raised by opposition leaders regarding government performance.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Focus on districts experiencing crop procurement delays and where farmers are facing difficulties selling their crops. (14, 16)</li>\n    <li>Hyderabad: Monitor the progress of the Musi rejuvenation project. (17, 18)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30.2°C",
-      "humidity": "50%",
-      "wind": "9.7 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 64,
-      "pm25": 49,
-      "goldPerGram": "₹9,186",
-      "newsCount": 34,
-      "topHeadlines": [
-        "Telangana, Karnataka Agree to Resolve Krishna River Issues Amicably - Deccan Chronicle",
-        "CM apprises Left leaders on crop procurement, Musi rejuvenation project - The Times of India",
-        "Harish Demands Cut In State-Imposed VAT On Petrol, Diesel - Deccan Chronicle",
-        "Revanth Asks Women to Take up Bigger Businesses - Deccan Chronicle",
-        "Telangana government procures maize despite financial challenges, says CM Revanth Reddy - The News Mill"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-25T21:10:26.167Z",
     "timestampIST": "26/5/2026, 2:40:26 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on crop procurement and the Musi rejuvenation project, facing challenges with central government cooperation on paddy procurement (5, 9, 10, 14, 20). The government is allocating resources for women-led businesses, including rice mills and warehouses (6, 7, 8). Discussions are ongoing regarding the Krishna River with Karnataka (1).</p>",
@@ -1830,6 +1807,29 @@
         "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - News On AIR",
         "BRS MLC seeks answers on Hyderabad Metro takeover, questions secrecy and financial burden - Telangana Today",
         "CM Revanth Reddy to Launch Mega Insurance Scheme for Telangana Employees, Pensioners - Deccan Chronicle"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-24T19:49:53.373Z",
+    "timestampIST": "25/6/2026, 1:19:53 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaging with the Centre on critical water-sharing issues concerning Tungabhadra and Godavari rivers, as indicated by headlines #2, #5, #7, and #14. The government is also focusing on public welfare with plans for an internship program for engineering graduates (#1) and a mega insurance scheme for employees and pensioners (#10). Concurrently, there are concerns regarding ministerial autonomy (#15) and the Hyderabad Metro takeover (#9), while HYDRAA has successfully reclaimed government land and a lake in Ranga Reddy district (#6, #20).</p>",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaging with the Centre on critical water-sharing issues concerning Tungabhadra and Godavari rivers, as indicated by headlines #2, #5, #7, and #14. The government is also focusing on public welfare with plans for an internship program for engineering graduates (#1) and a mega insurance scheme for employees and pensioners (#10). Concurrently, there are concerns regarding ministerial autonomy (#15) and the Hyderabad Metro takeover (#9), while HYDRAA has successfully reclaimed government land and a lake in Ranga Reddy district (#6, #20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Inter-state water disputes (Tungabhadra, Godavari) requiring Central intervention (#2, #5, #7, #14). This could lead to political tensions and resource scarcity.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Potential political dissent and internal party issues stemming from the CM's 10-day ultimatum on SIR awareness drives (#4, #16) and debate over ministerial autonomy (#15).</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Heavy rainfall and thunderstorm alerts in four districts and 28 districts respectively (#17), posing immediate public safety and infrastructure risks.</li>\n    <li><span class=\"risk-low\">LOW</span>: Opposition demands for KCR's return (#8) and questions regarding the Hyderabad Metro takeover (#9) indicate ongoing political scrutiny but do not pose immediate operational risks.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #2, #5, #7, and #14 all highlight Chief Minister Revanth Reddy's consistent efforts to seek the Centre's intervention on inter-state water-sharing issues, specifically concerning the Tungabhadra and Godavari rivers. This indicates a high-priority focus on water security for the state.</li>\n    <li>Headlines #6 and #20 both report on HYDRAA's successful reclamation of government land and a lake in Ranga Reddy district, with #20 specifying the value at 1000 Crore. This demonstrates effective action against encroachment and protection of public assets in the region.</li>\n    <li>Headlines #4 and #16 both refer to CM Revanth Reddy's directives and messages to Congress leaders regarding SIR (Samagraha Indhana Runa) awareness drives, with #4 mentioning a 10-day ultimatum and #16 stating the SIR begins tomorrow. This indicates a concerted effort to mobilize party members for a specific government initiative.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize follow-up with the Centre regarding the Tungabhadra and Godavari water-sharing disputes, leveraging the CM's direct appeals (#2, #5, #7, #14).</li>\n    <li>Monitor the implementation and impact of the CM's 10-day ultimatum for Congress leaders on SIR awareness drives (#4, #16) to ensure compliance and effectiveness.</li>\n    <li>Activate disaster management protocols and issue public advisories for the four districts with heavy rainfall alerts and 28 districts with thunderstorm forecasts (#17).</li>\n    <li>Support and expand the efforts of HYDRAA in land reclamation, particularly in areas like Ranga Reddy district, given the significant value of reclaimed land (#6, #20).</li>\n    <li>Address concerns raised by the BRS MLC regarding the Hyderabad Metro takeover (#9) to maintain transparency and public confidence.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Ranga Reddy District:</b> Requires continued attention due to successful land reclamation efforts by HYDRAA (#6, #20), indicating potential for further action against encroachments.</li>\n    <li><b>Four unnamed districts with heavy rainfall alert and 28 unnamed districts with thunderstorm forecast:</b> Immediate attention is required for public safety and disaster preparedness due to severe weather warnings (#17).</li>\n    <li><b>Hyderabad:</b> Focus on the introduction of 37 new electric buses on five additional routes (#19) for public transport improvements, and address the BRS MLC's concerns regarding the Hyderabad Metro takeover (#9).</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "25.3°C",
+      "humidity": "73%",
+      "wind": "4.1 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 19,
+      "pm25": 4.3,
+      "goldPerGram": "₹9,131",
+      "newsCount": 41,
+      "topHeadlines": [
+        "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - News On AIR",
+        "Revanth Reddy seeks Centre’s intervention on Tungabhadra water - Telangana Today",
+        "TS SSC Supplementary Result 2026 Releasing TODAY @bse.telangana.gov.in; Check Details Here - Shiksha",
+        "Revanth Reddy gives Congress leaders 10-day ultimatum on SIR awareness drives - The Times of India",
+        "Revanth seeks Centre’s intervention on Tungabhadra water share - The Times of India"
       ]
     }
   }
