@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25T04:01:14.083Z",
-    "timestampIST": "25/5/2026, 9:31:14 am",
-    "executiveSummary": "<p>Telangana launched a 10-day paddy purchase drive. (1) Petrol and diesel prices have increased by Rs 7.5 in the last two weeks. (2) Political opposition continues with KTR criticizing the Congress's electricity meter plans (6) and Jagadish Reddy accusing the government of privatizing the power sector. (10)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Telangana launched a 10-day paddy purchase drive. (1) Petrol and diesel prices have increased by Rs 7.5 in the last two weeks. (2) Political opposition continues with KTR criticizing the Congress's electricity meter plans (6) and Jagadish Reddy accusing the government of privatizing the power sector. (10)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for Public Discontent:</span> Rising fuel prices could lead to public dissatisfaction. (2)</li>\n    <li><span class=\"risk-low\">Political Opposition:</span> Continued criticism from KTR and other BRS leaders regarding government policies. (3, 6, 10)</li>\n    <li><span class=\"risk-low\">Paddy Procurement Challenges:</span> BRS demands urgent paddy procurement by May 31, potentially indicating concerns about the process. (9)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The BRS's demand for urgent paddy procurement (9) could be linked to Niranjan Reddy's allegations of procurement irregularities and the demand for MSP for rain-damaged paddy (11).</li>\n    <li>KTR's criticism of the Congress's electricity meter plans (6) and Jagadish Reddy's accusations of privatization (10) both highlight concerns about the government's energy policies.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment regarding fuel price increases and prepare a communication strategy. (2)</li>\n    <li>Assess the current status of the paddy procurement drive and address any potential bottlenecks. (1, 9, 11)</li>\n    <li>Review the government's response to criticisms regarding energy policies and prepare a public response. (6, 10)</li>\n    <li>Brief the CM on the meeting between Tamil Nadu Minister P Viswanathan and CM Revanth Reddy. (4)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the headlines that require immediate attention.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "34.2°C",
-      "humidity": "41%",
-      "wind": "14 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 41,
-      "pm25": 18.6,
-      "goldPerGram": "₹9,230",
-      "newsCount": 14,
-      "topHeadlines": [
-        "Telangana launches 'war-like' 10-day paddy purchase drive - The New Indian Express",
-        "Petrol, diesel prices increased by Rs 7.5 in two weeks - check fuel rates in your city - The Times of India",
-        "\"Revanth Reddy's 'Future City' claims are baseless\": KTR - ANI News",
-        "Tamil Nadu Minister P Viswanathan meets Telangana CM Revanth Reddy in Hyderabad - The News Mill",
-        "Telangana CM congratulates NIMS doctors for 2,000 kidney transplants milestone - The News Mill"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-25T10:10:44.808Z",
     "timestampIST": "25/5/2026, 3:40:44 pm",
     "executiveSummary": "<p>A fatal crash on the ORR near Shamirpet resulted in one death and one injury (1). The Chief Minister is facing criticism regarding food grain procurement from the Centre (2, 3). The BJP is planning to inspect a Vikarabad procurement center (5), and BRS is demanding urgent paddy procurement by May 31 (15).</p>",
@@ -1830,6 +1807,29 @@
         "SBICAPS appointed consultant for Hyderabad Metro Phase-I valuation after Telangana CM meeting in Delhi - The News Mill",
         "Uncertainty deepens over Metro Phase-II after Revanth Reddy’s Delhi visit - Telangana Today",
         "Editorial: Britain’s musical chairs - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-24T07:42:21.223Z",
+    "timestampIST": "24/6/2026, 1:12:21 pm",
+    "executiveSummary": "<p>The Chief Minister has issued a strong warning against voter deletions during the Special Intensive Revision (SIR) drive, setting a 10-day deadline for vigilance (#1, #5). Significant political controversy surrounds the Hyderabad Metro project, with the BRS alleging a ₹30,000 crore scam involving the CM and Union Minister Kishan Reddy, while the government is working with the Centre to reset the plan (#18, #19, #6). Additionally, the BRS is challenging the government on water rights and the protection of SCCL (#3, #14).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Chief Minister has issued a strong warning against voter deletions during the Special Intensive Revision (SIR) drive, setting a 10-day deadline for vigilance (#1, #5). Significant political controversy surrounds the Hyderabad Metro project, with the BRS alleging a ₹30,000 crore scam involving the CM and Union Minister Kishan Reddy, while the government is working with the Centre to reset the plan (#18, #19, #6). Additionally, the BRS is challenging the government on water rights and the protection of SCCL (#3, #14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Corruption Allegations:</span> Allegations of a ₹30,000 crore Metro scam by BRS against the CM and Union Minister Kishan Reddy (#18, #19) could significantly damage public trust and lead to political unrest.</li>\n    <li><span class=\"risk-medium\">Inter-Party Conflict/Governance Challenges:</span> The \"Trump Avenue\" row (#2), Harish Rao's warnings on water rights (#3) and SCCL protection (#14), and allegations of blackmail politics (#20) indicate escalating political tensions that could hinder governance.</li>\n    <li><span class=\"risk-medium\">Electoral Integrity Concerns:</span> The CM's warning against voter deletions during the SIR drive (#1, #5) highlights potential issues with electoral processes that require strict oversight to maintain public confidence.</li>\n    <li><span class=\"risk-low\">Project Delays/Uncertainty:</span> Despite efforts to reset the Metro plan (#6), uncertainty deepens over Metro Phase-II after the CM's Delhi visit (#12), potentially impacting infrastructure development and public perception.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The appointment of SBICAPS to study Hyderabad Metro Phase-I valuation and Phase-II expansion (#9, #11) is directly linked to the CM's efforts to secure a breakthrough on Hyderabad Metro Phase-2 (#10) and the government's plan to reset the Metro project with the Centre (#6).</li>\n    <li>The BRS allegations of a ₹30,000 crore \"Metro scam\" involving the Telangana CM and Union Minister Kishan Reddy (#18, #19) are likely a direct political response to the CM's meetings with Union Ministers (#15) and the ongoing discussions about the Hyderabad Metro project.</li>\n    <li>The CM's warning against voter deletions during the SIR drive (#1) and setting a 10-day deadline (#5) indicates a proactive measure to address potential irregularities in electoral rolls, which is a critical aspect of governance and public trust.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately address the BRS allegations of a ₹30,000 crore Metro scam with a transparent official statement and consider initiating an independent inquiry to restore public confidence (#18, #19).</li>\n    <li>Ensure strict monitoring and accountability for the Special Intensive Revision (SIR) drive, adhering to the 10-day deadline set by the CM, to prevent voter deletions and uphold electoral integrity (#1, #5).</li>\n    <li>Engage in direct communication with opposition leaders, particularly Harish Rao, to address concerns regarding Telangana's water rights and the protection of SCCL, to de-escalate political tensions (#3, #14).</li>\n    <li>Expedite the Metro project review and decision-making process, leveraging the SBICAPS study (#9, #11), to provide clarity on Phase-II expansion and mitigate public uncertainty (#12).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Requires immediate attention due to the \"Trump Avenue\" row (#2), the ongoing controversies and alleged scam surrounding the Hyderabad Metro project (#6, #9, #10, #11, #12, #18, #19), and the potential for political unrest stemming from these issues.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32°C",
+      "humidity": "46%",
+      "wind": "16.2 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 33,
+      "pm25": 3.6,
+      "goldPerGram": "₹9,138",
+      "newsCount": 30,
+      "topHeadlines": [
+        "\"No negligence will be tolerated\": Telangana CM Revanth Reddy warns leaders to stay vigilant against voter deletions during SIR - ANI News",
+        "Trump Avenue row erupts in Hyderabad; BRS and BJP target Congress over road renaming - GujaratSamachar English",
+        "Harish Rao warns Revanth Reddy against compromising on Telangana water rights - Telangana Today",
+        "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - News On AIR",
+        "SIR Drive Under Scanner: Revanth Sets 10-Day Deadline - Deccan Chronicle"
       ]
     }
   }
