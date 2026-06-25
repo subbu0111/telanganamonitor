@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-26T07:51:37.974Z",
-    "timestampIST": "26/5/2026, 1:21:37 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism regarding high petrol prices and the Centre's crop procurement policies (3, 5, 11, 17, 19). The Telangana government is focusing on empowering women's Self-Help Groups (SHGs) by establishing rice mills, logistic parks, and super bazaars, with land allocation for these initiatives (2, 4, 15, 16). Discussions are ongoing with Karnataka to resolve Krishna River issues (7).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism regarding high petrol prices and the Centre's crop procurement policies (3, 5, 11, 17, 19). The Telangana government is focusing on empowering women's Self-Help Groups (SHGs) by establishing rice mills, logistic parks, and super bazaars, with land allocation for these initiatives (2, 4, 15, 16). Discussions are ongoing with Karnataka to resolve Krishna River issues (7).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Discontent:</span> Criticism over high petrol prices and the government's handling of crop procurement could lead to public dissatisfaction (3, 5, 17).</li>\n    <li><span class=\"risk-low\">Political Opposition:</span> The BRS party is criticizing the current government's actions (6, 20).</li>\n    <li><span class=\"risk-low\">Financial Strain:</span> The government is procuring maize despite financial challenges (12, 18).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on empowering women's SHGs (2, 4, 10, 13, 15, 16) is a key policy initiative, potentially aimed at addressing economic concerns and building support.</li>\n    <li>Criticism of the Centre's crop procurement (5, 11, 17, 18) is linked to the government's efforts to procure maize (12, 18).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Address public concerns regarding high petrol prices by reviewing and potentially adjusting state-imposed VAT (3, 9, 19).</li>\n    <li>Prioritize and expedite the establishment of rice mills, logistic parks, and super bazaars for women SHGs (2, 4, 15).</li>\n    <li>Monitor the progress of crop procurement and address any logistical or financial challenges (5, 12, 18).</li>\n    <li>Prepare a public statement addressing the criticism regarding crop procurement and petrol prices.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the headlines. However, focus on districts with significant agricultural activity, particularly those involved in maize cultivation, to monitor crop procurement efforts.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "36.3°C",
-      "humidity": "35%",
-      "wind": "13.8 km/h",
-      "weatherDesc": "Light Drizzle",
-      "aqi": 66,
-      "pm25": 28.4,
-      "goldPerGram": "₹9,186",
-      "newsCount": 34,
-      "topHeadlines": [
-        "Congress in Telangana: Rural Delivery Falters Amid Centre-State Blame Game - The South First",
-        "Telangana govt to help women SHGs set up rice mills, logistic parks, super bazaars - YourStory.com",
-        "Petrol Costliest In Telangana, Revanth Reddy Under Fire Over High Tax - NDTV",
-        "Take on corporates with super bazaars: Telangana CM tells SHGs - The New Indian Express",
-        "Centre not procuring even 30 per cent of crops, says Telangana CM - The New Indian Express"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-26T15:36:26.596Z",
     "timestampIST": "26/5/2026, 9:06:26 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is under fire regarding high petrol taxes in Telangana (10). He is also facing criticism from the Centre regarding crop procurement (12, 19). The CM is encouraging women's self-help groups (SHGs) to establish businesses, including rice mills and super bazaars (9, 11, 18).</p>",
@@ -1853,6 +1830,29 @@
         "TS SSC supplementary results 2026 expected to be released today at bse.telangana.gov.in - India Today",
         "TS SSC Supplementary Result 2026 Today: Where And How To Check Telangana Class 10 Marks Memo - News18",
         "`You have 10 days’: Amid SIR, CM Revanth issues ultimatum to Congress cadres on voter awareness campaign - NewsMeter"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-25T10:43:47.269Z",
+    "timestampIST": "25/6/2026, 4:13:47 pm",
+    "executiveSummary": "Chief Minister Revanth Reddy is actively engaged in inter-state water sharing negotiations, seeking solutions with Karnataka and Andhra Pradesh (Headline #3), and requesting PM Modi's mediation for Godavari water talks with Maharashtra (Headline #10). Concurrently, the CM has issued a 10-day ultimatum to Telangana Congress leaders to seriously engage with the Special Intensive Revision (SIR) voter awareness campaign, which has commenced today (Headlines #8, #13, #15, #18). In public safety, HYDRAA has successfully reclaimed government land and a lake in Ranga Reddy district (Headline #20).",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\nChief Minister Revanth Reddy is actively engaged in inter-state water sharing negotiations, seeking solutions with Karnataka and Andhra Pradesh (Headline #3), and requesting PM Modi's mediation for Godavari water talks with Maharashtra (Headline #10). Concurrently, the CM has issued a 10-day ultimatum to Telangana Congress leaders to seriously engage with the Special Intensive Revision (SIR) voter awareness campaign, which has commenced today (Headlines #8, #13, #15, #18). In public safety, HYDRAA has successfully reclaimed government land and a lake in Ranga Reddy district (Headline #20).\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Inter-State Water Disputes:</span> Ongoing negotiations with Karnataka, AP, and Maharashtra regarding river water sharing (Headlines #3, #10, #16, #19) could escalate if solutions are not reached, potentially impacting agricultural and public water supply.</li>\n    <li><span class=\"risk-medium\">Political Compliance & Voter Awareness:</span> Chief Minister Revanth Reddy's ultimatum to Congress cadres regarding the SIR campaign (Headlines #8, #13, #18) indicates potential internal party compliance issues, which could affect voter awareness and electoral processes if not addressed effectively.</li>\n    <li><span class=\"risk-low\">Public Order during Educational Result Release:</span> The release of TS SSC Supplementary results today (Headlines #5, #9, #11, #12, #17) could lead to minor public gatherings or queries at educational institutions, though no specific threats are indicated.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Chief Minister Revanth Reddy's participation in the inauguration of Tungabhadra Gates (Headline #7) and his subsequent statements on preferring solutions over disputes (Headline #3) and seeking Centre's intervention on Tungabhadra water (Headlines #16, #19) demonstrate a concerted effort towards resolving inter-state water sharing issues.</li>\n    <li>The commencement of the Special Intensive Revision (SIR) in Telangana (Headline #15) is directly linked to Chief Minister Revanth Reddy's warnings and 10-day ultimatum to Congress leaders to take the voter awareness campaign seriously (Headlines #8, #13, #18).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor progress of inter-state water negotiations, particularly regarding Godavari water talks with Maharashtra, and prepare contingency plans for potential outcomes (Headlines #3, #10, #16, #19).</li>\n    <li>Ensure robust communication and support for the Special Intensive Revision (SIR) campaign, closely tracking compliance from Congress cadres as per the Chief Minister's directive (Headlines #8, #13, #15, #18).</li>\n    <li>Direct relevant departments to provide necessary support and information access for students and parents following the release of TS SSC Supplementary results today (Headlines #5, #9, #11, #12, #17).</li>\n    <li>Commend and support HYDRAA's efforts in land reclamation in Ranga Reddy district, and investigate potential for similar initiatives in other vulnerable areas (Headline #20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Ranga Reddy District:</b> Requires immediate attention due to HYDRAA's successful reclamation of government land and a lake (Headline #20), indicating potential for further land encroachment issues or successful enforcement actions.</li>\n    <li><b>Hyderabad:</b> The proposed international bus terminal (Headline #14) and the opening of a new jewelry showroom in Banjara Hills (Headline #2) indicate ongoing development and commercial activity, requiring continued infrastructure and security oversight.</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "30.7°C",
+      "humidity": "54%",
+      "wind": "11.5 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 35,
+      "pm25": 12.2,
+      "goldPerGram": "₹9,131",
+      "newsCount": 37,
+      "topHeadlines": [
+        "HPS Begumpet celebrates Investiture Ceremony, welcomes new student council - Telangana Today",
+        "Suvarnam Jewels opens second showroom in Hyderabad’s Banjara Hills - Telangana Today",
+        "I prefer solutions over disputes, says Telangana CM on river water sharing issues with Karnataka and AP - The Hindu",
+        "Pic Of The Day: South CM Trio Shakes SM - Gulte",
+        "TS SSC Supplementary result 2026 to be released today; check link to access - Business Standard"
       ]
     }
   }
