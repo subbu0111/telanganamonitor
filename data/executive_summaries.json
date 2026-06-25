@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-26T15:36:26.596Z",
-    "timestampIST": "26/5/2026, 9:06:26 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is under fire regarding high petrol taxes in Telangana (10). He is also facing criticism from the Centre regarding crop procurement (12, 19). The CM is encouraging women's self-help groups (SHGs) to establish businesses, including rice mills and super bazaars (9, 11, 18).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is under fire regarding high petrol taxes in Telangana (10). He is also facing criticism from the Centre regarding crop procurement (12, 19). The CM is encouraging women's self-help groups (SHGs) to establish businesses, including rice mills and super bazaars (9, 11, 18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public dissatisfaction over high petrol prices</span>: Petrol prices are the highest in Telangana, leading to criticism of CM Revanth Reddy (10, 17).</li>\n    <li><span class=\"risk-medium\">Tensions with the Central Government</span>: The CM is criticizing the Centre over crop procurement (12, 19).</li>\n    <li><span class=\"risk-low\">Financial challenges related to maize procurement</span>: The Telangana government is procuring maize despite financial challenges (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on supporting women's SHGs (9, 11, 18) could be linked to the government's broader economic strategy and efforts to address rural delivery issues (8).</li>\n    <li>The criticism of the Centre's crop procurement (12, 19) is connected to the CM's efforts to procure maize (20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Address public concerns regarding high petrol prices and consider options to mitigate the issue (10, 17).</li>\n    <li>Prepare a response to the Centre's crop procurement policies and proactively engage in discussions (12, 19).</li>\n    <li>Monitor the financial impact of the maize procurement efforts (20).</li>\n    <li>Review the progress of the Musi rejuvenation project (16).</li>\n    <li>Facilitate the establishment of rice mills, logistic parks, and super bazaars for women SHGs (9, 11, 18).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are mentioned in the headlines that require immediate attention. However, the focus on crop procurement (12, 19, 20) suggests a need to monitor agricultural districts.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.5°C",
-      "humidity": "56%",
-      "wind": "6 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 62,
-      "pm25": 61.9,
-      "goldPerGram": "₹9,230",
-      "newsCount": 26,
-      "topHeadlines": [
-        "Telangana inter board introduces AI, QR codes and local dialect in new syllabus - Telangana Today",
-        "Osmania University awaits Rs 1,000 crore promised by CM Revanth Reddy: Principal - Telangana Today",
-        "World Yogasana Championship 2026 unveiled in New Delhi - Telangana Today",
-        "Telangana Women Get Super Bazaars, Rice Mills, 553 Buses - INDToday",
-        "Manipur’s new faultline: Why Kuki–Naga conflict needs a political solution - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-26T18:28:00.598Z",
     "timestampIST": "26/5/2026, 11:58:00 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered timely salary payments for gram panchayat staff (1, 2). The CM is facing criticism regarding high petrol prices in Telangana (12) and the Centre's crop procurement (14). The government is supporting women's SHGs in establishing rice mills, logistic parks, and super bazaars (6, 11, 13).</p>",
@@ -1876,6 +1853,29 @@
         "'Voters facing trouble': Owaisi warns of ‘Citizenship’ concerns over SIR in Telangana - The Economic Times",
         "Tungabhadra Gates Inauguration: CMs Reddy, Shivakumar, Naidu urge for unity over water sharing - Deccan Herald",
         "'No Tolerance For Negligence,' Reddy Urges Seriousness from Cong on State SIR - The Quint"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-25T18:11:21.666Z",
+    "timestampIST": "25/6/2026, 11:41:21 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaging with state staff to increase revenue by requesting an extra hour of work (#1, #6, #10) and is planning an internship program for engineering graduates (#2). Significant inter-state discussions have led to a consensus on water-sharing issues with Karnataka and Andhra Pradesh, particularly concerning the Tungabhadra project, with the CM urging central support for resolution (#11, #12, #15, #16). The government has also extended free insurance cover to employees and pensioners (#3) and signed a cooperation agreement with Germany’s Thuringia (#7).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaging with state staff to increase revenue by requesting an extra hour of work (#1, #6, #10) and is planning an internship program for engineering graduates (#2). Significant inter-state discussions have led to a consensus on water-sharing issues with Karnataka and Andhra Pradesh, particularly concerning the Tungabhadra project, with the CM urging central support for resolution (#11, #12, #15, #16). The government has also extended free insurance cover to employees and pensioners (#3) and signed a cooperation agreement with Germany’s Thuringia (#7).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Political Opposition and Allegations - KTR has targeted CM Revanth Reddy over a real estate slump and rising debt (#14), and the CM has branded BRS as 'Blackmail Rajakiya Samithi' amid a phone-tapping probe (#19). Harish Rao has also questioned the CM's claims regarding Tungabhadra (#5, #8).</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Clarity on Sitarama Project - CPI (M) is seeking clarity on the Sitarama Project ahead of the CM's Khammam visit (#4), indicating potential public or political scrutiny.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Hyderabad Metro Rail Takeover - There are conflicting versions regarding the Telangana government’s proposed takeover of Hyderabad Metro Rail (#9), which could lead to uncertainty or disputes.</li>\n    <li><span class=\"risk-low\">LOW</span>: Employee Cooperation for Extra Work - While the CM has urged staff to work an extra hour for revenue (#1, #6, #10), the success of this initiative relies on employee cooperation, which may not be guaranteed.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's push for an extra hour of work from state staff (#1, #6, #10) is directly linked to his goal of achieving economy targets set in the \"Telangana Rising vision\" (#10) and generating more revenue (#1).</li>\n    <li>The consensus reached on water-sharing issues with Karnataka and Andhra Pradesh (#11, #12) is further reinforced by the CM's appeal to the Centre to resolve rightful water share between states in the Tungabhadra project (#15, #16, #20), indicating a multi-pronged approach to water resource management.</li>\n    <li>The extension of free insurance cover to employees and pensioners (#3) can be seen as a welfare measure (#6) aimed at securing cooperation from employees, who are also being asked to work an extra hour (#1, #6, #10).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize clear communication and engagement with CPI (M) regarding the Sitarama Project ahead of the CM's Khammam visit to address concerns and prevent potential political friction (#4).</li>\n    <li>Develop a clear and unified stance on the proposed takeover of Hyderabad Metro Rail to resolve conflicting versions and ensure transparency (#9).</li>\n    <li>Formulate a strategy to address the allegations made by KTR regarding real estate slump and rising debt (#14) and the BRS 'Blackmail Rajakiya Samithi' branding (#19) to manage political narratives.</li>\n    <li>Expedite the launch of the internship programme for engineering graduates (#2) to demonstrate tangible progress on employment initiatives.</li>\n    <li>Follow up on the cooperation agreement with Germany’s Thuringia (#7) to identify immediate actionable steps and potential benefits for the state.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Khammam District:</b> Immediate attention is required due to the CPI (M)'s demand for clarity on the Sitarama Project ahead of the CM's visit (#4). Ensuring transparency and addressing concerns in this district is crucial.</li>\n    <li><b>Tungabhadra Basin Districts:</b> Continued focus on districts within the Tungabhadra basin is necessary given the ongoing discussions on water-sharing with Karnataka and Andhra Pradesh (#11, #12, #15, #16, #20). The inauguration of new gates is expected to address long-standing distress, requiring monitoring of implementation and impact.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "25.7°C",
+      "humidity": "79%",
+      "wind": "8.6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 24,
+      "pm25": 14.4,
+      "goldPerGram": "₹9,104",
+      "newsCount": 36,
+      "topHeadlines": [
+        "Telangana CM pushes for extra hour of work from state staff for more revenue - EdexLive",
+        "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - News On AIR",
+        "Telangana Extends Free Insurance Cover To Employees, Pensioners - INDToday",
+        "CPI (M) seeks clarity on Sitarama Project ahead of CM Revanth’s Khammam visit - Telangana Today",
+        "Harish Rao questions Revanth Reddy’s claims on Tungabhadra - Telangana Today"
       ]
     }
   }
