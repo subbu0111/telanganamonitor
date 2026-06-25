@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25T23:04:52.020Z",
-    "timestampIST": "26/5/2026, 4:34:52 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on crop procurement and the Musi rejuvenation project, facing challenges with central government cooperation on paddy procurement (5, 18, 19, 20).  Discussions are ongoing with Left leaders regarding crop procurement and the Musi project (2).  The government is allocating resources to empower women, including plans to support women-led businesses and rice mills (6, 7, 8).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focused on crop procurement and the Musi rejuvenation project, facing challenges with central government cooperation on paddy procurement (5, 18, 19, 20).  Discussions are ongoing with Left leaders regarding crop procurement and the Musi project (2).  The government is allocating resources to empower women, including plans to support women-led businesses and rice mills (6, 7, 8).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH:</span>  Potential for farmer unrest due to crop procurement delays and lack of central support (9, 10, 13, 14, 15, 17, 20).</li>\n  <li><span class=\"risk-medium\">MEDIUM:</span>  Political friction with the central government over paddy procurement, potentially impacting state finances (9, 10, 14, 20).</li>\n  <li><span class=\"risk-low\">LOW:</span>  Opposition criticism regarding government performance on crop procurement (12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The Musi rejuvenation project (2, 18, 19) is linked to job creation and improving the quality of life in Hyderabad.</li>\n  <li>Crop procurement issues (2, 5, 9, 10, 13, 14, 15, 16, 17, 20) are a central focus of the CM's agenda and are a point of contention with the central government.</li>\n  <li>The CM's focus on empowering women (4, 6, 7, 8) includes plans for women-led businesses and rice mills.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Expedite negotiations with the central government to resolve paddy procurement issues.</li>\n  <li>Prioritize the timely procurement of crops to mitigate farmer distress.</li>\n  <li>Accelerate the implementation of the Musi rejuvenation project to demonstrate tangible progress.</li>\n  <li>Develop a clear communication strategy to address public concerns regarding crop procurement delays.</li>\n  <li>Monitor the political discourse surrounding crop procurement and the government's performance.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li>Focus on districts experiencing crop procurement delays, as highlighted by farmer concerns (17, 15). Specific districts are not mentioned in the provided data, but this should be determined through further investigation.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.4°C",
-      "humidity": "58%",
-      "wind": "10.8 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 66,
-      "pm25": 21.1,
-      "goldPerGram": "₹9,186",
-      "newsCount": 34,
-      "topHeadlines": [
-        "Telangana, Karnataka Agree to Resolve Krishna River Issues Amicably - Deccan Chronicle",
-        "CM apprises Left leaders on crop procurement, Musi rejuvenation project - The Times of India",
-        "Harish Demands Cut In State-Imposed VAT On Petrol, Diesel - Deccan Chronicle",
-        "Revanth Asks Women to Take up Bigger Businesses - Deccan Chronicle",
-        "Telangana government procures maize despite financial challenges, says CM Revanth Reddy - The News Mill"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-26T03:44:25.323Z",
-    "timestampIST": "26/5/2026, 9:14:25 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism regarding high petrol prices, with BRS and Harish Rao demanding a VAT cut (1, 7, 16). The CM is also engaged in disputes with the Centre over crop procurement, particularly maize, and is procuring crops despite a lack of central support (3, 9, 10, 14, 15, 18, 19). The CM is focusing on empowering women through SHGs and plans to support women-led businesses, including rice mills and warehouses (2, 8, 11, 12, 13).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism regarding high petrol prices, with BRS and Harish Rao demanding a VAT cut (1, 7, 16). The CM is also engaged in disputes with the Centre over crop procurement, particularly maize, and is procuring crops despite a lack of central support (3, 9, 10, 14, 15, 18, 19). The CM is focusing on empowering women through SHGs and plans to support women-led businesses, including rice mills and warehouses (2, 8, 11, 12, 13).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH</span>: Public dissatisfaction and potential protests due to high petrol prices, fueled by opposition demands for VAT reduction (1, 7, 16).</li>\n  <li><span class=\"risk-medium\">MEDIUM</span>: Continued disputes with the Centre over crop procurement, potentially impacting farmers and creating political friction (3, 9, 14, 15, 18, 19).</li>\n  <li><span class=\"risk-medium\">MEDIUM</span>: Criticism of the current government's performance by BRS, potentially leading to increased political pressure (1, 17).</li>\n  <li><span class=\"risk-low\">LOW</span>: Procurement delays and related apologies to farmers (20).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The criticism regarding high petrol prices (1, 7, 16) is directly linked to the opposition's demands for a VAT cut.</li>\n  <li>The CM's focus on crop procurement (3, 9, 10, 14, 15, 18, 19) is intertwined with the Centre's procurement policies.</li>\n  <li>The CM's initiatives to empower women (2, 8, 11, 12, 13) are a key policy focus.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Assess the feasibility of a VAT reduction on petrol and diesel to address public and opposition concerns (1, 7, 16).</li>\n  <li>Engage with the Centre to resolve crop procurement issues and secure adequate support for farmers (3, 9, 14, 15, 18, 19).</li>\n  <li>Prioritize the implementation of plans to support women-led businesses, including rice mills and warehouses (2, 8, 11, 12, 13).</li>\n  <li>Prepare a public statement addressing the criticism regarding petrol prices and crop procurement delays.</li>\n  <li>Monitor the political landscape for any potential protests or public demonstrations related to petrol prices or crop procurement.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>No specific districts are mentioned in the headlines. However, focus should be given to districts with significant agricultural activity, particularly those involved in maize cultivation, to address crop procurement issues (3, 9, 10, 14, 15, 18, 19).</p>\n```",
-    "dataSnapshot": {
-      "temperature": "32.5°C",
-      "humidity": "46%",
-      "wind": "11 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 61,
-      "pm25": 20.2,
-      "goldPerGram": "₹9,186",
-      "newsCount": 34,
-      "topHeadlines": [
-        "Petrol Costliest In Telangana, Revanth Reddy Under Fire Over High Tax BRS Demands VAT Cut - NDTV",
-        "Take on corporates with super bazaars: Telangana CM tells SHGs - The New Indian Express",
-        "Centre not procuring even 30 per cent of crops, says Telangana CM - The New Indian Express",
-        "BRS government had approved smart meter plan in 2017, diverted funds: Officials - The New Indian Express",
-        "Telangana, Karnataka Agree to Resolve Krishna River Issues Amicably - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-26T07:51:37.974Z",
     "timestampIST": "26/5/2026, 1:21:37 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism regarding high petrol prices and the Centre's crop procurement policies (3, 5, 11, 17, 19). The Telangana government is focusing on empowering women's Self-Help Groups (SHGs) by establishing rice mills, logistic parks, and super bazaars, with land allocation for these initiatives (2, 4, 15, 16). Discussions are ongoing with Karnataka to resolve Krishna River issues (7).</p>",
@@ -1853,6 +1807,29 @@
         "Revanth Reddy seeks Centre’s intervention on Tungabhadra water - Telangana Today",
         "TS SSC Supplementary Result 2026 Releasing TODAY @bse.telangana.gov.in; Check Details Here - Shiksha",
         "Revanth Reddy gives Congress leaders 10-day ultimatum on SIR awareness drives - The Times of India"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-25T03:44:50.380Z",
+    "timestampIST": "25/6/2026, 9:14:50 am",
+    "executiveSummary": "The Chief Minister is actively engaging with the Centre on critical inter-state water disputes concerning Tungabhadra (5, 8, 11) and Godavari (19) rivers. The government is launching a new Social Impact Report (SIR) initiative (4) and an internship program for engineering graduates (2), while also preparing to introduce a mega insurance scheme for employees and pensioners (14). Concurrently, the High Court has quashed five criminal cases against CM Revanth Reddy (10, 15), and HYDRAA has reclaimed government land and a lake in Ranga Reddy district (9).",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\nThe Chief Minister is actively engaging with the Centre on critical inter-state water disputes concerning Tungabhadra (5, 8, 11) and Godavari (19) rivers. The government is launching a new Social Impact Report (SIR) initiative (4) and an internship program for engineering graduates (2), while also preparing to introduce a mega insurance scheme for employees and pensioners (14). Concurrently, the High Court has quashed five criminal cases against CM Revanth Reddy (10, 15), and HYDRAA has reclaimed government land and a lake in Ranga Reddy district (9).\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span> - Inter-state Water Disputes: CM Revanth Reddy is seeking Central intervention for Tungabhadra water (5, 8, 11) and PM Modi's mediation for Godavari water talks with Maharashtra (19). Failure to resolve these could lead to significant inter-state tensions and resource scarcity.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span> - Political Opposition and Governance Scrutiny: BRS MLC is questioning the Hyderabad Metro takeover (13), and CM's parallel review meetings are sparking debate over ministerial autonomy (20). This indicates potential political friction and scrutiny of government decisions.</li>\n    <li><span class=\"risk-low\">LOW</span> - SIR Awareness Drive: CM Revanth Reddy has given Congress leaders a 10-day ultimatum for SIR awareness drives (7). While a deadline exists, the immediate risk is internal party coordination rather than a broader public safety or governance issue.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's efforts to seek Central intervention on Tungabhadra water (5, 8, 11) are further reinforced by his request to PM Modi to mediate Godavari water talks with Maharashtra (19), indicating a concerted strategy to address inter-state water disputes at the national level.</li>\n    <li>The launch of the Social Impact Report (SIR) initiative (4) is directly linked to the Chief Minister's 10-day ultimatum to Congress leaders for SIR awareness drives (7), highlighting the government's push for public engagement and the importance placed on this new program.</li>\n    <li>The High Court quashing five criminal cases against CM Revanth Reddy (10, 15) could be seen in contrast with the growing demand for KCR's return (12) and the BRS MLC's questioning of the Hyderabad Metro takeover (13), potentially influencing the political narrative and public perception of the current administration.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize diplomatic engagement with the Centre and Maharashtra for the Tungabhadra (5, 8, 11) and Godavari (19) water disputes to ensure timely resolution and secure water resources for the state.</li>\n    <li>Ensure robust implementation and public awareness campaigns for the new Social Impact Report (SIR) initiative (4, 7) and the internship program for engineering graduates (2) to maximize their impact and public acceptance.</li>\n    <li>Expedite the launch of the mega insurance scheme for Telangana employees and pensioners (14) to address welfare concerns and bolster employee morale.</li>\n    <li>Monitor political discourse surrounding the Hyderabad Metro takeover (13) and ministerial autonomy (20) to pre-empt potential political challenges and maintain governmental stability.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Ranga Reddy District: Immediate attention is required due to HYDRAA's reclamation of government land and a lake (9), which may involve ongoing land management and potential legal or social implications.</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "27°C",
+      "humidity": "68%",
+      "wind": "12.6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 21,
+      "pm25": 8.5,
+      "goldPerGram": "₹9,131",
+      "newsCount": 42,
+      "topHeadlines": [
+        "TS SSC Supplementary Result 2026 out today; marks memo available at bse.telangana.gov.in - The Times of India",
+        "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - News On AIR",
+        "Telangana CM Revanth Reddy advises NEET UG 2026 candidates to remain confident and calm - The News Mill",
+        "SIR kicks off in T today - The Times of India",
+        "Revanth Reddy seeks Centre’s intervention on Tungabhadra water - Telangana Today"
       ]
     }
   }
