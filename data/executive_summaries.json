@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27T04:00:34.775Z",
-    "timestampIST": "27/5/2026, 9:30:34 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is focusing on Cheyutha program delivery through banks. (1) The government has allocated 100 acres for women-led rice mills and warehouses. (3) The CM has ordered timely salary payments for gram panchayat staff. (4, 5)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focusing on Cheyutha program delivery through banks. (1) The government has allocated 100 acres for women-led rice mills and warehouses. (3) The CM has ordered timely salary payments for gram panchayat staff. (4, 5)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for political friction:</span> BJP delegation to inspect Vikarabad procurement centre and challenge Telangana government on farmers' issues. (13)</li>\n    <li><span class=\"risk-low\">Rural delivery challenges:</span> Rural delivery falters amid Centre-state blame game. (14)</li>\n    <li><span class=\"risk-low\">Osmania University funding:</span> Osmania University awaits Rs 1,000 crore promised by CM Revanth Reddy. (7)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The government's allocation of land for women-led rice mills and warehouses (3) aligns with the broader initiative to support women SHGs in setting up rice mills, logistic parks, and super bazaars. (15)</li>\n    <li>The CM's focus on timely salary payments for gram panchayat staff (4, 5) indicates a priority on administrative efficiency and employee welfare.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the BJP delegation's inspection of the Vikarabad procurement centre and prepare a response to any challenges raised. (13)</li>\n    <li>Ensure the timely release of funds to Osmania University as promised. (7)</li>\n    <li>Oversee the implementation of the Cheyutha program through banks. (1)</li>\n    <li>Track the progress of the allocation of land for women-led rice mills and warehouses. (3)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Vikarabad:</b> Due to the BJP delegation's planned inspection of the procurement centre. (13)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "32.9°C",
-      "humidity": "47%",
-      "wind": "14.9 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 53,
-      "pm25": 14.4,
-      "goldPerGram": "₹9,230",
-      "newsCount": 15,
-      "topHeadlines": [
-        "Cheyutha through banks, not post offices: CM Revanth Reddy - The New Indian Express",
-        "Express Exclusive | Kanugolu likely to join Revanth’s team - The New Indian Express",
-        "Telangana government allocates 100 acres for women-led rice mills and warehouses - The News Mill",
-        "Revanth Reddy Ensures Timely Salaries for Panchayat Employees - Devdiscourse",
-        "Telangana CM orders timely salaries for gram panchayat staff on 1st of every month - ThePrint"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-27T09:55:00.251Z",
     "timestampIST": "27/5/2026, 3:25:00 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered the Panchayat Raj Department to ensure 50,000 employees receive their salaries on the first of every month (5, 16, 17). He also ordered high vigilance due to the rain threat (6). The IMD forecasts pre-monsoon rainfall for Telangana and Hyderabad (11).</p>",
@@ -1871,6 +1848,29 @@
       "goldPerGram": "₹9,104",
       "newsCount": 0,
       "topHeadlines": []
+    }
+  },
+  {
+    "timestamp": "2026-06-26T07:55:41.856Z",
+    "timestampIST": "26/6/2026, 1:25:41 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has initiated several key governance reforms, including a call for a 'Drug-Free Telangana' (1) and urging government employees to work an extra hour daily to boost revenue (3, 5, 12, 14). The state government has also signed MoUs with 16 banks for insurance cover for employees (10, 11, 20) and plans an internship program for engineering graduates (2). A fatal head-on collision occurred on the AMB Flyover in Hyderabad, resulting in two fatalities (4).</p>",
+    "fullAnalysis": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n.risk-high { color: red; font-weight: bold; }\n.risk-medium { color: orange; font-weight: bold; }\n.risk-low { color: green; font-weight: bold; }\n</style>\n</head>\n<body>\n\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has initiated several key governance reforms, including a call for a 'Drug-Free Telangana' (1) and urging government employees to work an extra hour daily to boost revenue (3, 5, 12, 14). The state government has also signed MoUs with 16 banks for insurance cover for employees (10, 11, 20) and plans an internship program for engineering graduates (2). A fatal head-on collision occurred on the AMB Flyover in Hyderabad, resulting in two fatalities (4).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Safety (Road Accidents):</span> A head-on collision on the AMB Flyover in Hyderabad resulted in two fatalities (4), indicating a critical road safety issue.</li>\n    <li><span class=\"risk-medium\">Inter-State Water Disputes:</span> CM Revanth Reddy is seeking a permanent solution to the Tungabhadra water dispute (8, 13, 16) and has requested PM Modi to mediate Godavari water talks with Maharashtra (18), highlighting ongoing inter-state water challenges.</li>\n    <li><span class=\"risk-medium\">Drug Menace:</span> CM Revanth Reddy and the Governor have called for a 'Drug-Free Telangana' (1), indicating a recognized threat from drug-related activities.</li>\n    <li><span class=\"risk-low\">Political Opposition:</span> BRS leader Harish criticized CM Revanth's 'celebrations' as political publicity (9), and KTR criticized Congress for failing citizens (19), suggesting political friction.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's call for government employees to work an extra hour daily (3, 5, 12, 14) directly supports the state's objective to boost revenue, which could fund initiatives like the planned internship program for engineering graduates (2) or contribute to state funding for the Hyderabad Metro (15).</li>\n    <li>The signing of MoUs with 16 banks for insurance cover for employees (10, 11) and the extension of free insurance cover to employees and pensioners (20) are direct actions taken by the Telangana government to enhance employee welfare, potentially as part of broader governance reforms.</li>\n    <li>CM Revanth Reddy's repeated calls for a permanent solution to the Tungabhadra water dispute (8, 13, 16) and his request for PM Modi to mediate Godavari water talks (18) highlight a consistent focus on resolving inter-state water issues, potentially influenced by the inauguration of Tungabhadra Dam crest gates (7) which marks new water cooperation.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately review road safety measures and enforcement on the AMB Flyover and similar high-traffic areas in Hyderabad, following the fatal collision (4).</li>\n    <li>Develop and implement a comprehensive strategy for the 'Drug-Free Telangana' initiative, leveraging the CM's and Governor's call to action (1).</li>\n    <li>Formulate a detailed plan for the proposed internship program for engineering graduates, including funding mechanisms and industry partnerships (2).</li>\n    <li>Prepare a detailed brief for the Chief Minister on the Tungabhadra water dispute and Godavari water talks, outlining negotiation strategies and potential outcomes for discussions with the Centre and Maharashtra (8, 13, 16, 18).</li>\n    <li>Monitor the implementation and impact of the extra work hour directive for government employees to ensure productivity gains and revenue boost (3, 5, 12, 14).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Immediate attention is required due to the fatal head-on collision on the AMB Flyover (4), necessitating a review of road safety infrastructure and traffic management.</li>\n</ul>\n\n</body>\n</html>",
+    "dataSnapshot": {
+      "temperature": "27°C",
+      "humidity": "71%",
+      "wind": "13.3 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 40,
+      "pm25": 21.8,
+      "goldPerGram": "₹9,104",
+      "newsCount": 38,
+      "topHeadlines": [
+        "Say No To Drugs: CM Revanth Reddy, Governor Call For A 'Drug-Free Telangana' - NDTV",
+        "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - News On AIR",
+        "CM Revanth tells govt employees to work one hour extra daily to boost revenue - The News Minute",
+        "Two killed in head-on collision on AMB Flyover in Hyderabad - Telangana Today",
+        "`Just an hour more’: CM Revanth Reddy urges govt employees to dedicate extra time to boost state revenue - NewsMeter"
+      ]
     }
   }
 ]
