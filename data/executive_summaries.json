@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27T12:56:01.632Z",
-    "timestampIST": "27/5/2026, 6:26:01 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered high vigil due to rain threats and directed the Panchayat Raj Department to ensure 50,000 employees receive salaries on the first of every month (9, 8, 17, 18). The government allocated 100 acres for women-led rice mills and warehouses (16).  Hyderabad's Coempt Eduteck is under scrutiny (5).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has ordered high vigil due to rain threats and directed the Panchayat Raj Department to ensure 50,000 employees receive salaries on the first of every month (9, 8, 17, 18). The government allocated 100 acres for women-led rice mills and warehouses (16).  Hyderabad's Coempt Eduteck is under scrutiny (5).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential disruption due to rain.</span> Revanth Reddy has ordered high vigil amid rain threat (9).</li>\n    <li><span class=\"risk-medium\">Financial risk related to salary disbursement.</span> Ensuring timely salary payments to 50,000 employees in the Panchayat Raj Department is a key priority (8, 17, 18).</li>\n    <li><span class=\"risk-low\">Reputational risk related to educational institution.</span> Hyderabad's Coempt Eduteck is under scanner amid CBSE portal fiasco, conflict-of-interest charge (5).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on timely salaries (8, 17, 18) could be linked to the government's broader governance style, as suggested by ThePrint (11).</li>\n    <li>The weather updates for the SRH vs RR match in Chandigarh (3, 7, 10) highlight the potential impact of rain, which aligns with the CM's order for high vigil (9).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor weather patterns closely and ensure preparedness for potential rain-related disruptions.</li>\n    <li>Verify the implementation of the salary disbursement order to the Panchayat Raj Department.</li>\n    <li>Conduct a thorough investigation into the allegations against Coempt Eduteck.</li>\n    <li>Assess the progress of the Hyderabad Housing Project targeting one lakh LIG houses (1).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>All Districts:</b> Monitor weather conditions and ensure preparedness for potential rain-related disruptions, as per the CM's order (9).</li>\n</ul>\n```\n",
-    "dataSnapshot": {
-      "temperature": "33.7°C",
-      "humidity": "51%",
-      "wind": "5.8 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 62,
-      "pm25": 21.1,
-      "goldPerGram": "₹9,230",
-      "newsCount": 22,
-      "topHeadlines": [
-        "Hyderabad Housing Project Targets One Lakh LIG Houses - INDToday",
-        "Rain safeguards ordered for Telangana farmers - newsage.in",
-        "SRH vs RR Weather Updates of Chandigarh: Will rain affect IPL 2026 Eliminator? Check pitch report &amp; what h - The Economic Times",
-        "SRH vs RR Eliminator Playing 11: Check probable playing 11 and head-to-head for today's match - The Economic Times",
-        "Hyderabad's Coempt Eduteck under scanner amid CBSE portal fiasco, conflict-of-interest charge - India Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-27T17:19:49.092Z",
     "timestampIST": "27/5/2026, 10:49:49 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy extended Bakrid greetings and is focused on water resource management, writing to the Maharashtra CM regarding the Tummidihatti barrage (2, 3, 4, 7).</p>\n<p>The CM has ordered high vigilance due to rain threats and directed the Panchayat Raj Department to ensure timely salary disbursement to 50,000 employees (20, 19).</p>\n<p>Protests regarding procurement delays occurred near the CM's native village, Kondareddypally (10).</p>",
@@ -1870,6 +1847,29 @@
         "Revanth Reddy seeks permanent solution to Tungabhadra water dispute - newsage.in",
         "Employee accident insurance approved in Telangana - newsage.in",
         "Telangana CM A. Revanth Reddy and Union Minister G. Kishan Reddy meet Manohar Lal Khattar at his residence - News On AIR"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-26T14:27:35.488Z",
+    "timestampIST": "26/6/2026, 7:57:35 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has called for government employees to work an extra hour daily to boost state revenue (#3, #17, #20), a move criticized by a BRS MLC (#1). The CM is also set to launch ₹13,000-crore HAM road projects in Nalgonda on June 28 (#2) and has sought a permanent solution to the Tungabhadra water dispute (#11), with a three-state meeting held for farmers (#13). Two fatal road accidents occurred in Hyderabad, specifically at Gachibowli Flyover (#16) and AMB Flyover (#18).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has called for government employees to work an extra hour daily to boost state revenue (#3, #17, #20), a move criticized by a BRS MLC (#1). The CM is also set to launch ₹13,000-crore HAM road projects in Nalgonda on June 28 (#2) and has sought a permanent solution to the Tungabhadra water dispute (#11), with a three-state meeting held for farmers (#13). Two fatal road accidents occurred in Hyderabad, specifically at Gachibowli Flyover (#16) and AMB Flyover (#18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Opposition to Governance Initiatives:</span> The BRS MLC's criticism of the CM's call for longer office hours (#1) indicates potential political friction regarding administrative directives, which could impact employee morale and policy implementation.</li>\n    <li><span class=\"risk-high\">Road Safety Concerns:</span> Two separate fatal road accidents in Hyderabad at Gachibowli Flyover (#16) and AMB Flyover (#18) within 24 hours highlight significant public safety issues on key infrastructure.</li>\n    <li><span class=\"risk-medium\">Inter-Party Accusations and Political Stability:</span> Accusations by KT Rama Rao against Congress regarding land grabbing (#6) and Union Minister Kishan Reddy's claims against Congress and BRS for opposing SIR in alignment with the Majlis party (#9, #10) suggest heightened political tensions and potential for public unrest or policy obstruction.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's call for government employees to work an extra hour daily (#3, #17, #20) has drawn criticism from a BRS MLC (#1), indicating a direct political challenge to the CM's administrative directives.</li>\n    <li>The appointment of Ramakrishna Rao as Advisor (#5) immediately follows his role as outgoing CS (#4), suggesting a continuity of experience in key advisory roles within the administration.</li>\n    <li>Union Minister Kishan Reddy's accusation that Congress and BRS are opposing Telangana's SIR in alignment with the Majlis party (#9) is reiterated by ANI News (#10), reinforcing the political narrative being pushed by the Union Minister.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Initiate a comprehensive review of road safety measures and enforcement, particularly on flyovers in Hyderabad, in light of the fatal accidents at Gachibowli and AMB Flyovers (#16, #18).</li>\n    <li>Develop a communication strategy to address concerns raised by the BRS MLC regarding the extended working hours for government employees (#1, #3, #17, #20), emphasizing the rationale and benefits for state revenue.</li>\n    <li>Prioritize the resolution of the Tungabhadra water dispute by actively engaging with the three states involved (#11, #13) to ensure a permanent solution for farmers.</li>\n    <li>Monitor political rhetoric from opposition parties, specifically regarding accusations of land grabbing (#6) and opposition to SIR (#9, #10), to preempt potential public perception issues or challenges to governance.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Immediate attention is required due to two fatal road accidents on Gachibowli Flyover (#16) and AMB Flyover (#18), indicating critical public safety concerns on key urban infrastructure.</li>\n    <li><b>Nalgonda:</b> Will be a focus for the Chief Minister on June 28 with the launch of ₹13,000-crore HAM road projects (#2), requiring security and logistical preparedness.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.5°C",
+      "humidity": "68%",
+      "wind": "4.8 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 34,
+      "pm25": 28.7,
+      "goldPerGram": "₹9,105",
+      "newsCount": 37,
+      "topHeadlines": [
+        "BRS MLC slams CM Revanth’s call for longer office hours - Telangana Today",
+        "CM Revanth Reddy to launch ₹13,000-crore HAM road projects in Nalgonda on June 28 - The Hindu",
+        "Telangana CM Revanth Reddy urges employees to work extra hour daily - WION",
+        "Outgoing Telangana CS Ramakrishna Rao joins ranks of bureaucrats stepping in as Advisors - The Hindu",
+        "Sanjay Jaju is the New CS, Ramakrishna Rao appointed as Advisor - Telangana Today"
       ]
     }
   }
