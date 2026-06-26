@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27T17:19:49.092Z",
-    "timestampIST": "27/5/2026, 10:49:49 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy extended Bakrid greetings and is focused on water resource management, writing to the Maharashtra CM regarding the Tummidihatti barrage (2, 3, 4, 7).</p>\n<p>The CM has ordered high vigilance due to rain threats and directed the Panchayat Raj Department to ensure timely salary disbursement to 50,000 employees (20, 19).</p>\n<p>Protests regarding procurement delays occurred near the CM's native village, Kondareddypally (10).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy extended Bakrid greetings and is focused on water resource management, writing to the Maharashtra CM regarding the Tummidihatti barrage (2, 3, 4, 7).</p>\n<p>The CM has ordered high vigilance due to rain threats and directed the Panchayat Raj Department to ensure timely salary disbursement to 50,000 employees (20, 19).</p>\n<p>Protests regarding procurement delays occurred near the CM's native village, Kondareddypally (10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Potential for Public Unrest:</span> BRS staged a protest over procurement delays near Kondareddypally (10).</li>\n    <li><span class=\"risk-medium\">Infrastructure Strain:</span> Nine districts are under an orange alert due to weather (12).</li>\n    <li><span class=\"risk-medium\">Agricultural Distress:</span> Rain-soaked paddy procurement is a concern (1, 14).</li>\n    <li><span class=\"risk-low\">Administrative Disruption:</span> Several MRO transfers are underway (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on water resources (Tummidihatti barrage) (3, 4, 7) is critical given the current weather conditions and rain alerts (12, 14).</li>\n    <li>The CM's directive to ensure timely salary disbursement (19) suggests a focus on maintaining administrative stability amidst potential challenges.</li>\n    <li>The BRS protest near Kondareddypally (10) highlights potential political sensitivities in the CM's native area, especially concerning procurement issues.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in the nine districts under the orange alert, ensuring disaster response protocols are in place (12).</li>\n    <li>Expedite the resolution of procurement delays, especially in areas near Kondareddypally, to mitigate public dissatisfaction (10).</li>\n    <li>Ensure effective communication with Maharashtra regarding the Tummidihatti barrage project (3, 4, 7).</li>\n    <li>Review and reinforce rain safeguards for farmers to protect crops (1, 14).</li>\n    <li>Monitor the implementation of the CM's directive regarding timely salary disbursement to 50,000 employees (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>Focus immediate attention on the nine districts under the orange alert (12). Monitor Kondareddypally and surrounding areas due to the BRS protest (10).</p>\n```",
-    "dataSnapshot": {
-      "temperature": "27.7°C",
-      "humidity": "64%",
-      "wind": "8.3 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 41,
-      "pm25": 31.1,
-      "goldPerGram": "₹9,230",
-      "newsCount": 29,
-      "topHeadlines": [
-        "Rain-soaked paddy will be procured without fail, assures Uttam Kumar Reddy - Telangana Today",
-        "CM Revanth Reddy Extends Heartfelt Bakrid Greetings to Muslims, Emphasizes Values of Sacrifice and... - Deccan Chronicle",
-        "Revanth Reddy writes letter to Maharashtra CM on Tummidihatti barrage - Telangana Today",
-        "Revanth seeks talks with Maha on raising Tummidihatti barrage height - The Times of India",
-        "T-Fiber push to bring high-speed internet to every Telangana village - The Hindu"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-27T20:20:41.603Z",
     "timestampIST": "28/5/2026, 1:50:41 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy will launch a meal program for Inter students on June 12 (1). The government is procuring maize despite financial challenges (16). BRS staged a protest over procurement delays near the CM's native village, Kondareddypally (14).</p>",
@@ -1870,6 +1847,29 @@
         "Telangana CM Revanth Reddy urges employees to work extra hour daily - WION",
         "Outgoing Telangana CS Ramakrishna Rao joins ranks of bureaucrats stepping in as Advisors - The Hindu",
         "Sanjay Jaju is the New CS, Ramakrishna Rao appointed as Advisor - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-26T17:49:28.896Z",
+    "timestampIST": "26/6/2026, 11:19:28 pm",
+    "executiveSummary": "Sanjay Jaju has been appointed as the new Chief Secretary for Telangana, with Ramarao as Special CS to CM and N. Sridhar as Principal Secretary to CM, indicating significant administrative changes. The Chief Minister is actively promoting economic development through an internship program for engineering graduates and launching ₹13,000-crore HAM road projects in Nalgonda. Public safety concerns are highlighted by two fatalities due to wrong-side driving on Hyderabad's AMB flyover, and a call for a 'Drug-Free Telangana' by the CM and Governor.",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\nSanjay Jaju has been appointed as the new Chief Secretary for Telangana, with Ramarao as Special CS to CM and N. Sridhar as Principal Secretary to CM, indicating significant administrative changes. The Chief Minister is actively promoting economic development through an internship program for engineering graduates and launching ₹13,000-crore HAM road projects in Nalgonda. Public safety concerns are highlighted by two fatalities due to wrong-side driving on Hyderabad's AMB flyover, and a call for a 'Drug-Free Telangana' by the CM and Governor.\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Road Safety - Two lives lost due to wrong-side driving on Hyderabad’s AMB flyover (#3) and two people killed in a road accident at Gachibowli Flyover (#20). This indicates a critical and immediate public safety concern in urban areas.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Political Opposition/Governance Challenges - BRS MLC slams CM Revanth’s call for longer office hours (#5), KT Rama Rao accuses Congress of grabbing assigned lands (#10), and Union Minister Kishan Reddy accuses Congress and BRS of opposing SIR in alignment with Majlis party (#13, #14). These indicate potential political friction and challenges to governance initiatives.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Water Dispute - CM Revanth Reddy seeks a permanent solution to the Tungabhadra water dispute (#15), though a management meeting united three states for farmers (#17). While there's cooperation, the underlying dispute remains a potential point of contention.</li>\n    <li><span class=\"risk-low\">LOW</span>: Employee Grievances - Jeevan Reddy demands withdrawal of GO 9 over fee reimbursement row (#4) and BRS MLC slams CM Revanth’s call for longer office hours (#5, #7). While not immediately critical, these could lead to employee dissatisfaction if not addressed.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The appointment of Sanjay Jaju as the new Chief Secretary (#2, #9) is further supported by the appointment of N. Sridhar as Principal Secretary to the Chief Minister (#12), indicating a comprehensive restructuring of key administrative positions within the state government.</li>\n    <li>The Chief Minister's call for employees to work an extra hour daily (#7) is met with criticism from a BRS MLC (#5), highlighting potential political opposition and employee sentiment challenges regarding new work policies.</li>\n    <li>The two separate headlines regarding fatalities on Hyderabad flyovers (#3, #20) both describe road accidents resulting in deaths, indicating a recurring and serious public safety issue related to road infrastructure and traffic enforcement in the Hyderabad area.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately initiate a comprehensive road safety audit and enforcement drive, particularly focusing on flyovers and high-risk areas in Hyderabad, given the recent fatalities (#3, #20).</li>\n    <li>Convene a meeting with relevant departments to address the fee reimbursement row (GO 9) (#4) and clarify the implications of extended working hours (#5, #7) to mitigate potential employee dissatisfaction and political opposition.</li>\n    <li>Prioritize follow-up on the Tungabhadra water dispute (#15) despite the recent management meeting (#17) to ensure a lasting resolution and prevent future inter-state conflicts.</li>\n    <li>Develop and launch the internship program for engineering graduates (#1) expeditiously to address unemployment and leverage the state's talent pool.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Immediate attention is required due to two separate incidents of fatal road accidents on flyovers (AMB flyover #3, Gachibowli Flyover #20), indicating a critical need for enhanced traffic management and enforcement.</li>\n    <li><b>Nalgonda:</b> Will require significant administrative and logistical support for the successful launch and implementation of the ₹13,000-crore HAM road projects on June 28 (#6).</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "26.5°C",
+      "humidity": "74%",
+      "wind": "7.9 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 36,
+      "pm25": 28.5,
+      "goldPerGram": "₹9,105",
+      "newsCount": 36,
+      "topHeadlines": [
+        "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - News On AIR",
+        "SANJAY JAJU APPOINTED AS NEXT TELANGANA CHIEF SECRETARY RAMARAO AS SPECIAL CS TO CM - IndianMandarins",
+        "Wrong-side driving claims two lives on Hyderabad’s AMB flyover - Telangana Today",
+        "Jeevan Reddy demands withdrawal of GO 9 over fee reimbursement row - Telangana Today",
+        "BRS MLC slams CM Revanth’s call for longer office hours - Telangana Today"
       ]
     }
   }
