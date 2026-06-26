@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27T09:55:00.251Z",
-    "timestampIST": "27/5/2026, 3:25:00 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered the Panchayat Raj Department to ensure 50,000 employees receive their salaries on the first of every month (5, 16, 17). He also ordered high vigilance due to the rain threat (6). The IMD forecasts pre-monsoon rainfall for Telangana and Hyderabad (11).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has ordered the Panchayat Raj Department to ensure 50,000 employees receive their salaries on the first of every month (5, 16, 17). He also ordered high vigilance due to the rain threat (6). The IMD forecasts pre-monsoon rainfall for Telangana and Hyderabad (11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential disruption to government services</span>: The CM's order to ensure timely salaries for 50,000 employees (5, 16, 17) suggests a potential risk of delayed payments or administrative challenges.</li>\n    <li><span class=\"risk-medium\">Weather-related disruptions</span>: The forecast of pre-monsoon rainfall (11) necessitates high vigilance (6) to mitigate potential impacts on infrastructure and public safety.</li>\n    <li><span class=\"risk-low\">Financial strain</span>: Osmania University is awaiting ₹1,000 crore promised by the CM (19), which may pose a financial strain.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's focus on timely salaries (5, 16, 17) could be linked to the implementation of new governance strategies (8).</li>\n    <li>The weather forecast (11) and the CM's order for high vigilance (6) are directly correlated, indicating a proactive approach to potential weather-related risks.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure the timely disbursement of salaries to the 50,000 employees as per the CM's directive (5, 16, 17).</li>\n    <li>Coordinate with relevant departments to implement rain safeguards for farmers (2).</li>\n    <li>Monitor the weather forecast closely and prepare for potential disruptions due to pre-monsoon rainfall (11).</li>\n    <li>Review the financial status of Osmania University and expedite the release of the promised funds (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad</b>: Requires attention due to the inauguration of 60 new electric buses (3) and the pre-monsoon rainfall forecast (11).</li>\n    <li><b>All districts</b>: Given the statewide pre-monsoon rainfall forecast (11), all districts require heightened vigilance and preparedness.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35.4°C",
-      "humidity": "40%",
-      "wind": "10.7 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 65,
-      "pm25": 19.2,
-      "goldPerGram": "₹9,230",
-      "newsCount": 23,
-      "topHeadlines": [
-        "Hyderabad Housing Project Targets One Lakh LIG Houses - INDToday",
-        "Rain safeguards ordered for Telangana farmers - newsage.in",
-        "Ponnam Prabhakar inaugurates 60 new electric buses in Hyderabad - Telangana Today",
-        "New Chandigarh Weather Forecast, SRH vs RR: Will it rain during today's IPL match? Check New PCA Stadium pitch report - Firstpost",
-        "Ensure 50,000 employees get salaries on first of every month: CM Revanth to Panchayat Raj Dept - NewsMeter"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-27T12:56:01.632Z",
     "timestampIST": "27/5/2026, 6:26:01 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy has ordered high vigil due to rain threats and directed the Panchayat Raj Department to ensure 50,000 employees receive salaries on the first of every month (9, 8, 17, 18). The government allocated 100 acres for women-led rice mills and warehouses (16).  Hyderabad's Coempt Eduteck is under scrutiny (5).</p>",
@@ -1870,6 +1847,29 @@
         "CM Revanth tells govt employees to work one hour extra daily to boost revenue - The News Minute",
         "Two killed in head-on collision on AMB Flyover in Hyderabad - Telangana Today",
         "`Just an hour more’: CM Revanth Reddy urges govt employees to dedicate extra time to boost state revenue - NewsMeter"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-26T10:54:04.761Z",
+    "timestampIST": "26/6/2026, 4:24:04 pm",
+    "executiveSummary": "Chief Minister Revanth Reddy is actively pursuing solutions for the Tungabhadra water dispute (3, 14, 19) and has initiated an internship program for engineering graduates (1). Public safety is a concern following two fatal road accidents in Hyderabad (7, 9). The government has also approved and signed MoUs for employee accident insurance (4, 16, 17) and is urging government employees to work extra hours to boost revenue (8, 11, 18).",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\nChief Minister Revanth Reddy is actively pursuing solutions for the Tungabhadra water dispute (3, 14, 19) and has initiated an internship program for engineering graduates (1). Public safety is a concern following two fatal road accidents in Hyderabad (7, 9). The government has also approved and signed MoUs for employee accident insurance (4, 16, 17) and is urging government employees to work extra hours to boost revenue (8, 11, 18).\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Safety (Road Accidents):</span> Two separate fatal road accidents occurred in Hyderabad at Gachibowli Flyover (7) and AMB Flyover (9), indicating a potential immediate public safety concern in the capital region.</li>\n    <li><span class=\"risk-medium\">Inter-State Water Dispute:</span> The Tungabhadra water dispute remains a prominent issue, with CM Revanth Reddy seeking a permanent solution (3, 14, 19). While efforts are underway, the ongoing nature of the dispute presents a medium-term risk to regional stability and resource management.</li>\n    <li><span class=\"risk-medium\">Political Opposition/Criticism:</span> The government is facing accusations from Union Minister Kishan Reddy regarding alignment with the Majlis party (2) and from the BJP for deflecting attention from state issues (10). A BRS leader also criticized CM Revanth's 'celebrations' as political publicity (15) and called him a 'trojan horse' (20). This indicates a heightened political environment that could impact governance.</li>\n    <li><span class=\"risk-low\">Employee Morale/Productivity:</span> The CM's directive for government employees to work one hour extra daily to boost revenue (8, 11, 18) could potentially impact employee morale if not managed effectively, though the immediate risk is low.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's efforts to find a permanent solution to the Tungabhadra water dispute (3, 14, 19) are complemented by the inauguration of 33 Tungabhadra Dam crest gates (13), suggesting a focus on water management and cooperation.</li>\n    <li>The approval of employee accident insurance (4) is directly linked to the signing of MoUs with 16 banks for this insurance cover (16, 17), indicating a swift implementation of a new welfare measure for government employees.</li>\n    <li>CM Revanth Reddy's call for a 'Drug-Free Telangana' (6) aligns with the broader focus on public safety and social well-being, potentially linking to efforts to reduce crime and improve community health.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately review traffic safety measures and enforcement on major flyovers in Hyderabad, specifically Gachibowli and AMB Flyover, given the recent fatal accidents (7, 9).</li>\n    <li>Convene an inter-departmental meeting to strategize on the Tungabhadra water dispute, leveraging the recent dam gate inauguration (13) and the CM's call for a permanent solution (3, 14, 19).</li>\n    <li>Develop a communication strategy to address political criticisms from Union Minister Kishan Reddy (2), BJP (10), and BRS leaders (15, 20) to maintain public confidence and counter narratives.</li>\n    <li>Initiate a comprehensive plan for the \"Drug-Free Telangana\" campaign (6), involving relevant departments and community outreach programs.</li>\n    <li>Monitor the implementation of the employee accident insurance program (4, 16, 17) and assess initial feedback to ensure its effectiveness and address any unforeseen issues.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Immediate attention is required due to two fatal road accidents on the Gachibowli Flyover (7) and AMB Flyover (9). This necessitates a review of traffic management and safety protocols in the capital.</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "29.9°C",
+      "humidity": "57%",
+      "wind": "10.6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 44,
+      "pm25": 19.9,
+      "goldPerGram": "₹9,104",
+      "newsCount": 40,
+      "topHeadlines": [
+        "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - News On AIR",
+        "Union Minister Kishan Reddy accuses Congress and BRS of opposing Telangana’s SIR in alignment with Majlis party - The News Mill",
+        "Revanth Reddy seeks permanent solution to Tungabhadra water dispute - newsage.in",
+        "Employee accident insurance approved in Telangana - newsage.in",
+        "Telangana CM A. Revanth Reddy and Union Minister G. Kishan Reddy meet Manohar Lal Khattar at his residence - News On AIR"
       ]
     }
   }
