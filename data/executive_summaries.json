@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27T20:20:41.603Z",
-    "timestampIST": "28/5/2026, 1:50:41 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will launch a meal program for Inter students on June 12 (1). The government is procuring maize despite financial challenges (16). BRS staged a protest over procurement delays near the CM's native village, Kondareddypally (14).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will launch a meal program for Inter students on June 12 (1). The government is procuring maize despite financial challenges (16). BRS staged a protest over procurement delays near the CM's native village, Kondareddypally (14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for public unrest</span>: BRS protest over procurement delays near Kondareddypally (14).</li>\n    <li><span class=\"risk-medium\">Weather-related disruptions</span>: IMD issued an orange alert in nine Telangana districts today (15).</li>\n    <li><span class=\"risk-low\">Procurement challenges</span>: Government procuring maize despite financial challenges (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The government's focus on procuring rain-soaked paddy (5) and issuing rain safeguards for farmers (18) aligns with the IMD's orange alert (15).</li>\n    <li>The Hyderabad housing project targeting one lakh affordable homes (3, 10, 17) reflects the government's focus on housing programs.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation in Kondareddypally and surrounding areas due to the BRS protest (14).</li>\n    <li>Activate disaster response protocols in the nine districts under the orange alert (15).</li>\n    <li>Ensure smooth procurement of maize and rain-soaked paddy (5, 16).</li>\n    <li>Review and expedite the Hyderabad housing project (3, 10, 17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>The nine districts under the IMD's orange alert require immediate attention to mitigate potential weather-related risks (15). Specific districts are not mentioned in the provided data.</p>\n```",
-    "dataSnapshot": {
-      "temperature": "27°C",
-      "humidity": "69%",
-      "wind": "10.8 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 44,
-      "pm25": 22.4,
-      "goldPerGram": "₹9,230",
-      "newsCount": 32,
-      "topHeadlines": [
-        "Revanth To Launch Meal For Inter Students on June 12 - Deccan Chronicle",
-        "Telangana housing programme triggers Ponguleti challenge - newsage.in",
-        "LIG houses Hyderabad project launched for one lakh affordable homes - newsage.in",
-        "Yadadri Bhuvanagiri Handloom Festival To Showcase 100 Pochampally Weavers - Deccan Chronicle",
-        "Rain-soaked paddy will be procured without fail, assures Uttam Kumar Reddy - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-27T23:18:24.992Z",
     "timestampIST": "28/5/2026, 4:48:24 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy will launch a meal program for Inter students on June 12 (1). The government is procuring rain-soaked paddy (5) and maize (16). The IMD has issued an orange alert for nine Telangana districts today (15).</p>",
@@ -1893,6 +1870,29 @@
         "SANJAY JAJU APPOINTED AS NEXT TELANGANA CHIEF SECRETARY RAMARAO AS SPECIAL CS TO CM - IndianMandarins",
         "Wrong-side driving claims two lives on Hyderabad’s AMB flyover - Telangana Today",
         "Jeevan Reddy demands withdrawal of GO 9 over fee reimbursement row - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-26T21:20:16.783Z",
+    "timestampIST": "27/6/2026, 2:50:16 am",
+    "executiveSummary": "<p>The Telangana government is planning to borrow ₹21,000 Crore in the next three months (#2). Key administrative changes include the appointment of Sanjay Jaju as the new Chief Secretary and Ramakrishna Rao as Special CS to the CM, with N. Sridhar also posted as Principal Secretary to the Chief Minister (#4, #11, #14). Public safety concerns are highlighted by two fatalities due to wrong-side driving on Hyderabad’s AMB flyover (#5).</p>",
+    "fullAnalysis": "```html\n<!DOCTYPE html>\n<html>\n<head>\n<title>Intelligence Briefing</title>\n<style>\n  .risk-high { color: red; font-weight: bold; }\n  .risk-medium { color: orange; font-weight: bold; }\n  .risk-low { color: green; font-weight: bold; }\n</style>\n</head>\n<body>\n\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is planning to borrow ₹21,000 Crore in the next three months (#2). Key administrative changes include the appointment of Sanjay Jaju as the new Chief Secretary and Ramakrishna Rao as Special CS to the CM, with N. Sridhar also posted as Principal Secretary to the Chief Minister (#4, #11, #14). Public safety concerns are highlighted by two fatalities due to wrong-side driving on Hyderabad’s AMB flyover (#5).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">Public Safety (Traffic Fatalities):</span> Two lives lost due to wrong-side driving on Hyderabad’s AMB flyover (#5). This indicates an immediate need for traffic enforcement and awareness campaigns.</li>\n  <li><span class=\"risk-medium\">Financial Strain (Borrowing):</span> Telangana plans to borrow ₹21,000 Crore in the next three months (#2). This significant borrowing could impact the state's financial health and future development projects.</li>\n  <li><span class=\"risk-medium\">Political Opposition/Inter-party Conflict:</span> Union Minister Kishan Reddy accuses Congress and BRS of opposing Telangana’s SIR in alignment with the Majlis party (#1, #15). KT Rama Rao also accuses Congress of grabbing assigned lands (#12). This indicates ongoing political friction that could hinder governance.</li>\n  <li><span class=\"risk-low\">Bureaucratic Morale (Work Hours):</span> BRS MLC slams CM Revanth’s call for longer office hours, while CM Revanth Reddy urges employees to work an extra hour daily (#7, #9). This could lead to discontent among state employees if not managed properly.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The appointment of Sanjay Jaju as the new Chief Secretary (#4, #11) and Ramakrishna Rao as Special CS to the CM/Advisor (#4, #10, #11) indicates a significant reshuffling of top administrative positions, potentially to streamline governance and support the CM's initiatives, such as the call for longer office hours (#9).</li>\n  <li>Union Minister Kishan Reddy's accusation against Congress and BRS regarding the SIR (#1, #15) and KT Rama Rao's accusation against Congress regarding assigned lands (#12) both highlight ongoing political tensions and inter-party conflicts within the state.</li>\n  <li>CM Revanth Reddy's focus on launching ₹13,000-crore HAM road projects in Nalgonda (#8) and the plan to borrow ₹21,000 Crore (#2) suggest a significant push for infrastructure development, which will require substantial financial resources.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Immediately direct Hyderabad traffic police to enhance enforcement and awareness campaigns against wrong-side driving, particularly on flyovers, following the two fatalities on the AMB flyover (#5).</li>\n  <li>Task the Finance Department to provide a detailed briefing on the necessity and implications of the planned ₹21,000 Crore borrowing, including repayment strategies and impact on state finances (#2).</li>\n  <li>Convene a meeting with key administrative officials, including the new Chief Secretary Sanjay Jaju (#4, #11) and Principal Secretary N. Sridhar (#14), to discuss strategies for addressing political opposition and ensuring smooth implementation of government policies.</li>\n  <li>Initiate a dialogue with employee unions regarding the proposed longer working hours (#7, #9) to mitigate potential discontent and ensure employee welfare, possibly leveraging the newly approved free accident insurance for employees (#17) as a goodwill gesture.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><strong>Hyderabad:</strong> Immediate attention is required due to the two fatalities caused by wrong-side driving on the AMB flyover (#5). Enhanced traffic management and public awareness campaigns are critical.</li>\n  <li><strong>Nalgonda:</strong> Will be a focus for significant infrastructure development with CM Revanth Reddy launching ₹13,000-crore HAM road projects on June 28 (#8). This requires close monitoring for project execution and resource allocation.</li>\n</ul>\n\n</body>\n</html>\n```",
+    "dataSnapshot": {
+      "temperature": "24.8°C",
+      "humidity": "86%",
+      "wind": "7.8 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 39,
+      "pm25": 22.6,
+      "goldPerGram": "₹9,105",
+      "newsCount": 32,
+      "topHeadlines": [
+        "Union Minister Kishan Reddy accuses Congress and BRS of opposing Telangana’s SIR in alignment with Majlis party - The News Mill",
+        "Telangana To Borrow ₹21,000 Crore in Next 3 Months - Deccan Chronicle",
+        "Telangana govt plans to launch internship programme for engineering graduates: CM A Revanth Reddy - News On AIR",
+        "SANJAY JAJU APPOINTED AS NEXT TELANGANA CHIEF SECRETARY RAMARAO AS SPECIAL CS TO CM - IndianMandarins",
+        "Wrong-side driving claims two lives on Hyderabad’s AMB flyover - Telangana Today"
       ]
     }
   }
