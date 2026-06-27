@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28T03:49:25.947Z",
-    "timestampIST": "28/5/2026, 9:19:25 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is seeking talks with the Maharashtra Chief Minister regarding the Tummidihatti barrage height (1, 3, 4, 16, 18, 20). The Telangana government will spend Rs 180 crore on meals for Intermediate students (7). The T-Fiber project aims to provide high-speed internet to rural Telangana (2, 5, 9, 17).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is seeking talks with the Maharashtra Chief Minister regarding the Tummidihatti barrage height (1, 3, 4, 16, 18, 20). The Telangana government will spend Rs 180 crore on meals for Intermediate students (7). The T-Fiber project aims to provide high-speed internet to rural Telangana (2, 5, 9, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for inter-state tension</span>: Discussions regarding the Tummidihatti barrage height could lead to disagreements with Maharashtra (1, 3, 4, 16, 18, 20).</li>\n    <li><span class=\"risk-low\">Disruption to Power Supply</span>: Heavy rains have disrupted power supply (6).</li>\n    <li><span class=\"risk-low\">Procurement Issues</span>: Rain-soaked paddy needs to be procured (14).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The T-Fiber project (2, 5, 9, 17) and the government's focus on rural connectivity are linked, suggesting a strategic push for digital infrastructure in Telangana.</li>\n    <li>The discussions on the Tummidihatti barrage (1, 3, 4, 16, 18, 20) are directly related to water needs in North Telangana.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the progress of talks between Telangana and Maharashtra regarding the Tummidihatti barrage.</li>\n    <li>Assess the impact of heavy rains on power supply and coordinate with relevant departments for restoration.</li>\n    <li>Ensure smooth procurement of rain-soaked paddy.</li>\n    <li>Monitor the launch of the meal program for Intermediate students on June 12 (10).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>North Telangana</b>: Monitor the situation related to the Tummidihatti barrage, as it directly impacts water needs in this region (1, 3, 4, 16, 18, 20).</li>\n    <li><b>Areas affected by heavy rains</b>: Monitor power supply and agricultural impact in districts experiencing heavy rainfall (6, 14).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30.7°C",
-      "humidity": "59%",
-      "wind": "11.9 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 39,
-      "pm25": 17.9,
-      "goldPerGram": "₹9,230",
-      "newsCount": 36,
-      "topHeadlines": [
-        "CM Revanth seeks talks with his Maharashtra counterpart on Tummidihatti barrage height - The New Indian Express",
-        "What is T-Fiber project? How will it ensure high-speed internet connectivity in Telangana’s rural homes? - NewsMeter",
-        "What is Tummidihatti Barrage dispute? Why CM Revanth want to meet Maharashtra counterpart Devendra Fadnavis? - NewsMeter",
-        "High Stakes in Tummidihatti: Telangana and Maharashtra Set for Critical Discussion - Devdiscourse",
-        "Telangana's Digital Leap: Fast-Tracking Fibre Network for Rural Connectivity - Devdiscourse"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-28T08:01:32.282Z",
     "timestampIST": "28/5/2026, 1:31:32 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy will meet with the Maharashtra counterpart to discuss the Tummidihatti barrage height (6, 8, 9). The government assures procurement of rain-soaked paddy (4, 20). The government will launch a meal program for Intermediate students on June 12, spending Rs 180 crore (13, 16).</p>",
@@ -1916,6 +1893,29 @@
         "Trump thanks India for naming road adjoining US Consulate in Hyderabad as \"Donald Trump Avenue\" - ANI News",
         "Unprecedented honour: Trump thanks India after Hyderabad names road after him - India Today",
         "Drug-Free Telangana Is A Shared Responsibility, Say Leaders - Deccan Chronicle"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-27T06:53:17.084Z",
+    "timestampIST": "27/6/2026, 12:23:17 pm",
+    "executiveSummary": "<p>The Chief Minister has extensively reviewed the Musi Riverfront Project, including rehabilitation and land acquisition, and announced 2 BHK houses for affected families (Headlines 1, 5, 6, 7). Traffic congestion was reported on the Botanical Garden Flyover due to an accident, and two fatalities occurred on the AMB flyover due to wrong-side driving (Headlines 4, 16). Political tensions are high, with accusations of land seizure against the Congress party (Headline 8) and allegations of Congress and BRS acting in tandem with AIMIM on voter roll revisions (Headlines 9, 13).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Chief Minister has extensively reviewed the Musi Riverfront Project, including rehabilitation and land acquisition, and announced 2 BHK houses for affected families (Headlines 1, 5, 6, 7). Traffic congestion was reported on the Botanical Garden Flyover due to an accident, and two fatalities occurred on the AMB flyover due to wrong-side driving (Headlines 4, 16). Political tensions are high, with accusations of land seizure against the Congress party (Headline 8) and allegations of Congress and BRS acting in tandem with AIMIM on voter roll revisions (Headlines 9, 13).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Safety (Traffic Accidents):</span> Two fatalities due to wrong-side driving on the AMB flyover and significant traffic congestion on the Botanical Garden Flyover (Headlines 4, 16).</li>\n    <li><span class=\"risk-medium\">Governance (Land Acquisition/Rehabilitation):</span> Ongoing land acquisition and rehabilitation for the Musi Riverfront Project, with potential for public discontent if not managed effectively (Headlines 1, 6, 7).</li>\n    <li><span class=\"risk-medium\">Political Stability (Inter-Party Conflict):</span> Allegations of land seizure against the Congress (Headline 8) and accusations of Congress and BRS aligning with AIMIM on voter roll revisions (Headlines 9, 13) indicate heightened political friction.</li>\n    <li><span class=\"risk-medium\">Financial (State Borrowing):</span> Telangana plans to borrow ₹21,000 Crore in the next three months (Headline 14), which could impact the state's financial health.</li>\n    <li><span class=\"risk-low\">Public Safety (Drug Control):</span> Leaders emphasize \"Drug-Free Telangana Is A Shared Responsibility\" (Headline 12), indicating an ongoing focus on drug control.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's review of the Musi Riverfront Project (Headlines 1, 5, 6) is directly linked to the announcement of 2 BHK houses for families living along the Musi riverbed (Headline 7), indicating a comprehensive approach to the project's social impact.</li>\n    <li>The U.S. President's gratitude for \"Donald Trump Avenue\" in Hyderabad (Headlines 3, 10, 11) highlights the city's growing international recognition and diplomatic ties.</li>\n    <li>The accusations by KTR regarding Congress's land seizure (Headline 8) and Kishan Reddy's allegations of Congress and BRS aligning with AIMIM on voter roll revisions (Headlines 9, 13) both point to significant political opposition and inter-party conflict within Telangana.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the DGP to immediately review traffic safety measures on flyovers, particularly focusing on preventing wrong-side driving, following the fatalities on the AMB flyover (Headline 16).</li>\n    <li>Ensure the Musi Riverfront Project's land acquisition and rehabilitation processes are transparent and expedited, given the CM's direct involvement and the announcement of 2 BHK housing (Headlines 1, 6, 7).</li>\n    <li>Task relevant departments to prepare a detailed report on the implications of the planned ₹21,000 Crore borrowing, including repayment strategies and impact on state finances (Headline 14).</li>\n    <li>Convene a meeting with key political stakeholders to address allegations of voter roll revision irregularities and land seizure to de-escalate political tensions (Headlines 8, 9, 13).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Requires immediate attention due to significant traffic accidents (Botanical Garden Flyover, AMB flyover) and congestion (Headlines 4, 16). The Musi Riverfront Project, including land acquisition and rehabilitation, is also centered here (Headlines 1, 5, 6, 7).</li>\n    <li><b>Nalgonda:</b> Will be a focus for infrastructure development with the CM launching ₹13,000-crore HAM road projects on June 28 (Headline 20).</li>\n    <li><b>Amrabad:</b> Important for wildlife conservation efforts, as the tiger count in the Amrabad Reserve has risen to 42 (Headline 18).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30.9°C",
+      "humidity": "58%",
+      "wind": "10.8 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 61,
+      "pm25": 25.8,
+      "goldPerGram": "₹9,105",
+      "newsCount": 33,
+      "topHeadlines": [
+        "Telangana CM Reviews Musi Riverfront Project, Discusses Rehabilitation And Land Acquisition - ETV Bharat",
+        "Silver Rate Today in Hyderabad – Silver Price per Gram &amp; Kg | 27 June 2026 - The Times of India",
+        "U.S. President takes to social media to thank India for ‘Donald Trump Avenue’ in Hyderabad - The Hindu",
+        "Accident on Botanical Garden Flyover Triggers Traffic Congestion in Hyderabad - Deccan Chronicle",
+        "Telangana CM reviews Musi Riverfront project details - The News Mill"
       ]
     }
   }
