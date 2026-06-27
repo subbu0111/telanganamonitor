@@ -1941,5 +1941,28 @@
         "KTR accuses Revanth Reddy of failing Telangana’s farmers - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-06-27T17:12:20.722Z",
+    "timestampIST": "27/6/2026, 10:42:20 pm",
+    "executiveSummary": "<p>Allegations of a significant scam totaling Rs 2,041 crore in residential school supplies have been made by RS Praveen Kumar (1). Concurrently, the Chief Minister's administration faces accusations from the opposition regarding the compromise of Telangana's water rights (3, 9, 12) and attempts to disrupt the SIR process (4, 11). The Chief Minister has announced plans for an international bus terminal in Hyderabad and reviewed the Musi Riverfront Project, including rehabilitation efforts (13, 18).</p>",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>Allegations of a significant scam totaling Rs 2,041 crore in residential school supplies have been made by RS Praveen Kumar (1). Concurrently, the Chief Minister's administration faces accusations from the opposition regarding the compromise of Telangana's water rights (3, 9, 12) and attempts to disrupt the SIR process (4, 11). The Chief Minister has announced plans for an international bus terminal in Hyderabad and reviewed the Musi Riverfront Project, including rehabilitation efforts (13, 18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Allegations of Rs 2,041 crore scam in residential schools supplies (1) and reduced security for the accuser (2) pose a significant governance and public trust risk.</li>\n    <li><span class=\"risk-high\">HIGH:</span> Accusations of compromising Telangana's water rights (3, 9, 12) could lead to inter-state disputes and public unrest.</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Allegations of attempting to provoke Muslims and disrupt the SIR process (4, 11) carry potential for communal tension and law and order issues.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The allegations by RS Praveen Kumar regarding a Rs 2,041 crore scam in residential school supplies (1) are directly linked to his claim of reduced security cover after exposing scams (2), suggesting potential retaliation or intimidation.</li>\n    <li>Multiple headlines (3, 9, 12) from different sources and political figures (Harish Rao, BRS) converge on the accusation that the current Telangana government is compromising the state's water rights, specifically mentioning the Karnataka water project.</li>\n    <li>The Chief Minister's review of the Musi Riverfront Project (18) and instructions to allot double-bedroom houses to families living in the Musi riverbed (16) are directly related to his announcement of a Musi Experience Centre (14), indicating a concerted focus on the Musi river development and associated rehabilitation.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Initiate an immediate, transparent inquiry into the alleged Rs 2,041 crore scam in residential school supplies (1) and ensure the security of RS Praveen Kumar (2).</li>\n    <li>Address the accusations regarding the compromise of Telangana's water rights (3, 9, 12) with a clear public statement and detailed explanation of the government's stance and actions.</li>\n    <li>Formally respond to allegations of attempting to provoke Muslims and disrupt the SIR process (4, 11) to mitigate potential communal tensions.</li>\n    <li>Expedite the Musi Riverfront Project, including the allocation of double-bedroom houses (16, 18) and the establishment of the Musi Experience Centre (14), to demonstrate progress on public welfare initiatives.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Hyderabad: The city is a focal point for several key developments, including the proposed international bus terminal (13), the Musi Riverfront Project (14, 16, 18), and the alleged \"Donald Trump Avenue\" (20), requiring close monitoring and coordinated action.</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "25.6°C",
+      "humidity": "85%",
+      "wind": "2 km/h",
+      "weatherDesc": "Thunderstorm",
+      "aqi": 61,
+      "pm25": 34.6,
+      "goldPerGram": "₹9,105",
+      "newsCount": 33,
+      "topHeadlines": [
+        "RS Praveen Kumar alleges Rs 2,041 crore scam in residential schools supplies - Telangana Today",
+        "RS Praveen Kumar says govt reduced his security cover after exposing scams - Telangana Today",
+        "Harish Rao Alleges Telangana Water Rights Being Compromised - INDToday",
+        "'Attempt to provoke Muslims': BJP accuses Telangana CM of disrupting SIR process - The Times of India",
+        "Hero MotoCorp launches all-new Passion Disc in India - Telangana Today"
+      ]
+    }
   }
 ]
