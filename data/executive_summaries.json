@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28T20:25:48.297Z",
-    "timestampIST": "29/5/2026, 1:55:48 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy unveiled a statue of former Andhra Pradesh CM NTR in Hyderabad and paid tribute on his birth anniversary (3, 20). The CM announced a unified card for all Telangana citizens to track welfare benefits (5, 6, 8, 12, 13). Sunitha Lakshma Reddy criticized the Congress government regarding paddy procurement delays in Medak (9).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy unveiled a statue of former Andhra Pradesh CM NTR in Hyderabad and paid tribute on his birth anniversary (3, 20). The CM announced a unified card for all Telangana citizens to track welfare benefits (5, 6, 8, 12, 13). Sunitha Lakshma Reddy criticized the Congress government regarding paddy procurement delays in Medak (9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for Public Dissatisfaction:</span> Delays in paddy procurement in Medak, as reported by Sunitha Lakshma Reddy, could lead to farmer unrest (9).</li>\n    <li><span class=\"risk-low\">Political Criticism:</span> Criticism from Sunitha Lakshma Reddy regarding paddy procurement delays could be leveraged by political opponents (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The unveiling of NTR's statue (3, 20) and Revanth Reddy's statements about NTR's importance (1, 7) demonstrate a focus on legacy and political messaging.</li>\n    <li>The announcement of a unified welfare card (5, 6, 8, 12, 13) aligns with the CM's vision to transform Hyderabad into a global city (4, 11, 17).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Address the paddy procurement delays in Medak to mitigate farmer dissatisfaction and potential political fallout.</li>\n    <li>Expedite the implementation of the unified welfare card to ensure efficient tracking of welfare benefits.</li>\n    <li>Monitor public sentiment regarding the government's actions, particularly in light of the NTR statue unveiling and the unified card initiative.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Medak:</b> Immediate attention is required due to the reported delays in paddy procurement, as highlighted by Sunitha Lakshma Reddy (9).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.9°C",
-      "humidity": "60%",
-      "wind": "10.8 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 62,
-      "pm25": 33.9,
-      "goldPerGram": "₹9,230",
-      "newsCount": 33,
-      "topHeadlines": [
-        "Like Indiramma, NTR is equally important to us, says Revanth Reddy - Telangana Today",
-        "Unveiling Legacy: Tribute to NT Rama Rao by Telangana CM - Devdiscourse",
-        "Telangana CM Revanth Reddy unveils statue of former Andhra Pradesh CM NTR in Hyderabad - The News Mill",
-        "Revanth Unveils NTR Statue, Says Cong. Govt Will Transform Hyd Into a Global City With Future City... - Deccan Chronicle",
-        "Telangana to create unified card detailing all welfare benefits - The News Mill"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-28T23:18:48.935Z",
     "timestampIST": "29/5/2026, 4:48:48 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy unveiled a statue of former Andhra Pradesh CM NTR in Hyderabad and paid tribute on his birth anniversary (3, 20). The CM proposed a unified card for all Telangana citizens to track welfare benefits (5, 6, 8, 12, 13). Sunitha Lakshma Reddy criticized the Congress government regarding paddy procurement delays in Medak (9).</p>",
@@ -1962,6 +1939,29 @@
         "RS Praveen Kumar alleges Rs 2,041 crore scam in residential schools supplies - Telangana Today",
         "RS Praveen Kumar says govt reduced his security cover after exposing scams - Telangana Today",
         "Harish Rao Alleges Telangana Water Rights Being Compromised - INDToday"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-27T21:05:17.137Z",
+    "timestampIST": "28/6/2026, 2:35:17 am",
+    "executiveSummary": "Political opposition, including Harish Rao and RS Praveen Kumar, alleges significant corruption and compromise of Telangana's water rights by the current administration (1, 4, 5, 6, 10, 12, 15). The Chief Minister is launching major road works and planning an international bus terminal and Musi riverbed development (2, 16, 17, 19). Concurrently, the BJP accuses the CM of attempting to provoke Muslims and disrupt the SIR process (7, 14).",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\nPolitical opposition, including Harish Rao and RS Praveen Kumar, alleges significant corruption and compromise of Telangana's water rights by the current administration (1, 4, 5, 6, 10, 12, 15). The Chief Minister is launching major road works and planning an international bus terminal and Musi riverbed development (2, 16, 17, 19). Concurrently, the BJP accuses the CM of attempting to provoke Muslims and disrupt the SIR process (7, 14).\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Allegations of significant corruption (Rs 2,041 crore scam in residential schools supplies) and compromised water rights (1, 4, 6, 10, 12, 15). These claims, particularly from prominent opposition figures, could lead to public unrest and political instability.</li>\n    <li><span class=\"risk-high\">HIGH</span>: Accusations of attempting to provoke Muslims and disrupt the SIR process by the BJP and Union Minister Kishan Reddy (7, 14). This could escalate communal tensions and impact public order.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Reduced security cover for RS Praveen Kumar after exposing alleged scams (5). This raises concerns about the safety of whistleblowers and could deter future disclosures.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines 1, 6, 10, 12, and 15 all relate to allegations by opposition figures (Harish Rao, KTR, BRS) that CM Revanth Reddy is compromising Telangana's water rights, specifically concerning the Tungabhadra water and Karnataka water projects.</li>\n    <li>Headlines 7 and 14 both detail accusations from the BJP and Union Minister Kishan Reddy that the Telangana CM is attempting to provoke Muslims and disrupt the SIR process.</li>\n    <li>Headlines 2, 16, 17, and 19 indicate the Chief Minister's focus on infrastructure development and urban planning, including major road works, an international bus terminal in Hyderabad, and addressing housing for families in the Musi riverbed.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately investigate the allegations of a Rs 2,041 crore scam in residential schools supplies (4) and the claims regarding compromised water rights (1, 6, 10, 12, 15) to provide a transparent response.</li>\n    <li>Address the concerns raised by RS Praveen Kumar regarding his reduced security cover (5) and ensure adequate protection for individuals exposing alleged malfeasance.</li>\n    <li>Publicly clarify the government's stance and actions regarding the accusations of provoking Muslims and disrupting the SIR process (7, 14) to de-escalate potential communal tensions.</li>\n    <li>Prioritize the launch of major road works (2) and the development of the international bus terminal (16) and Musi Experience Centre (17) to demonstrate progress on infrastructure commitments.</li>\n    <li>Expedite the allotment of double-bedroom houses to families in the Musi riverbed (19) to address public welfare concerns.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Hyderabad: The city is a focal point for several key initiatives and concerns, including the launch of major road works (2), plans for an international bus terminal (16), the establishment of a Musi Experience Centre (17), and the allotment of housing in the Musi riverbed (19). Additionally, a political meet is scheduled in Hyderabad (9).</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "23.6°C",
+      "humidity": "95%",
+      "wind": "10.1 km/h",
+      "weatherDesc": "Light Drizzle",
+      "aqi": 58,
+      "pm25": 16.1,
+      "goldPerGram": "₹9,105",
+      "newsCount": 30,
+      "topHeadlines": [
+        "Revanth Gave Away Tungabhadra Water To Naidu, DK: Harish - Deccan Chronicle",
+        "Revanth to Launch Telangana's Biggest Road Works Today - Deccan Chronicle",
+        "Telangana Neta Natter | Remember The Name — It’s Revanthanna - Deccan Chronicle",
+        "RS Praveen Kumar alleges Rs 2,041 crore scam in residential schools supplies - Telangana Today",
+        "RS Praveen Kumar says govt reduced his security cover after exposing scams - Telangana Today"
       ]
     }
   }
