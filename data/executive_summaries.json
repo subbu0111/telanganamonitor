@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27T23:18:24.992Z",
-    "timestampIST": "28/5/2026, 4:48:24 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will launch a meal program for Inter students on June 12 (1). The government is procuring rain-soaked paddy (5) and maize (16). The IMD has issued an orange alert for nine Telangana districts today (15).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will launch a meal program for Inter students on June 12 (1). The government is procuring rain-soaked paddy (5) and maize (16). The IMD has issued an orange alert for nine Telangana districts today (15).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for localized disruption due to heavy rainfall in nine districts. (15)</span></li>\n    <li><span class=\"risk-low\">Protest by BRS over procurement delays near CM's native village, Kondareddypally. (14)</span></li>\n    <li><span class=\"risk-low\">Challenges to the Telangana housing program. (2)</span></li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The government's focus on procuring rain-soaked paddy (5) and the IMD's orange alert (15) suggest a need for proactive measures to support farmers in affected districts.</li>\n    <li>The launch of the meal program for Inter students (1) and the focus on affordable housing (3, 10, 17) indicate the government's focus on social welfare initiatives.</li>\n    <li>The CM is actively pursuing discussions with Maharashtra regarding the Tummidihatti barrage (7, 9, 11), highlighting the importance of water resources.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure disaster response teams are on high alert in the nine districts under the orange alert. (15)</li>\n    <li>Monitor the BRS protest near Kondareddypally and assess potential for escalation. (14)</li>\n    <li>Expedite the procurement of rain-soaked paddy and maize to support farmers. (5, 16)</li>\n    <li>Prioritize communication with Maharashtra regarding the Tummidihatti barrage. (7, 9, 11)</li>\n    <li>Review and assess the progress of the affordable housing projects in Hyderabad. (3, 10, 17)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>The nine districts under the IMD's orange alert require immediate attention to assess and mitigate potential impacts of heavy rainfall. (15)</p>\n```",
-    "dataSnapshot": {
-      "temperature": "26.4°C",
-      "humidity": "70%",
-      "wind": "10.9 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 37,
-      "pm25": 20,
-      "goldPerGram": "₹9,230",
-      "newsCount": 30,
-      "topHeadlines": [
-        "Revanth To Launch Meal For Inter Students on June 12 - Deccan Chronicle",
-        "Telangana housing programme triggers Ponguleti challenge - newsage.in",
-        "LIG houses Hyderabad project launched for one lakh affordable homes - newsage.in",
-        "Yadadri Bhuvanagiri Handloom Festival To Showcase 100 Pochampally Weavers - Deccan Chronicle",
-        "Rain-soaked paddy will be procured without fail, assures Uttam Kumar Reddy - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-28T03:49:25.947Z",
     "timestampIST": "28/5/2026, 9:19:25 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is seeking talks with the Maharashtra Chief Minister regarding the Tummidihatti barrage height (1, 3, 4, 16, 18, 20). The Telangana government will spend Rs 180 crore on meals for Intermediate students (7). The T-Fiber project aims to provide high-speed internet to rural Telangana (2, 5, 9, 17).</p>",
@@ -1916,6 +1893,29 @@
         "Union Minister Kishan Reddy accuses Congress and BRS of opposing Telangana’s SIR in alignment with Majlis party - The News Mill",
         "Telangana To Borrow ₹21,000 Crore in Next 3 Months - Deccan Chronicle",
         "SANJAY JAJU APPOINTED AS NEXT TELANGANA CHIEF SECRETARY RAMARAO AS SPECIAL CS TO CM - IndianMandarins"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-27T03:36:58.733Z",
+    "timestampIST": "27/6/2026, 9:06:58 am",
+    "executiveSummary": "<p>The state is facing significant political contention, with KTR accusing the Telangana Congress of land seizure (#1, #17) and Union Minister Kishan Reddy alleging Congress and BRS are acting in tandem with AIMIM on voter roll revision and opposing Telangana’s SIR (#2, #6). Financially, Telangana plans to borrow ₹21,000 Crore in the next three months (#7). Key administrative changes include Sanjay Jaju's appointment as the new Chief Secretary and N. Sridhar as Principal Secretary to the Chief Minister (#8, #16, #19), while the outgoing CS Ramakrishna Rao becomes an Advisor (#15, #16). Public safety concerns include two fatalities from wrong-side driving on Hyderabad’s AMB flyover (#9) and a continued focus on preventing drug abuse with calls for shared responsibility from leaders, the Governor, and CM (#5, #20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The state is facing significant political contention, with KTR accusing the Telangana Congress of land seizure (#1, #17) and Union Minister Kishan Reddy alleging Congress and BRS are acting in tandem with AIMIM on voter roll revision and opposing Telangana’s SIR (#2, #6). Financially, Telangana plans to borrow ₹21,000 Crore in the next three months (#7). Key administrative changes include Sanjay Jaju's appointment as the new Chief Secretary and N. Sridhar as Principal Secretary to the Chief Minister (#8, #16, #19), while the outgoing CS Ramakrishna Rao becomes an Advisor (#15, #16). Public safety concerns include two fatalities from wrong-side driving on Hyderabad’s AMB flyover (#9) and a continued focus on preventing drug abuse with calls for shared responsibility from leaders, the Governor, and CM (#5, #20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Inter-party Conflict:</span> Allegations of land seizure by KTR against Congress (#1, #17) and accusations by Kishan Reddy against Congress and BRS for aligning with AIMIM on critical issues (#2, #6) indicate high political tension and potential for disruption.</li>\n    <li><span class=\"risk-medium\">Financial Strain:</span> The plan to borrow ₹21,000 Crore in the next three months (#7) suggests a significant financial need, which could impact state projects and fiscal stability.</li>\n    <li><span class=\"risk-medium\">Public Safety (Traffic):</span> Two lives lost due to wrong-side driving on Hyderabad’s AMB flyover (#9) highlights an immediate and critical public safety issue requiring intervention.</li>\n    <li><span class=\"risk-medium\">Public Safety (Drug Abuse):</span> The repeated emphasis by leaders, the Governor, and CM on preventing drug abuse (#5, #20) indicates an ongoing and serious public health and safety challenge.</li>\n    <li><span class=\"risk-low\">Administrative Transition:</span> The appointment of a new Chief Secretary and Principal Secretary to the CM (#8, #16, #19) and the outgoing CS becoming an Advisor (#15, #16) represents a significant administrative change, which, while necessary, carries a low risk of temporary operational adjustments.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The appointments of Sanjay Jaju as the new Chief Secretary (#8, #16) and N. Sridhar as Principal Secretary to the Chief Minister (#19) are directly related to the administrative restructuring, with the outgoing CS Ramakrishna Rao transitioning to an Advisor role (#15, #16), indicating a comprehensive leadership change within the state administration.</li>\n    <li>The accusations by KTR regarding land seizure by the Telangana Congress (#1, #17) are part of a broader pattern of political contention, further evidenced by Union Minister Kishan Reddy's allegations against Congress and BRS for acting in tandem with AIMIM on voter roll revision and opposing Telangana’s SIR (#2, #6). This suggests a highly charged political environment with multiple parties making serious allegations against each other.</li>\n    <li>The CM Revanth Reddy's call for employees to work an extra hour daily (#14) and the subsequent criticism from BRS MLC (#12) indicate a push for increased productivity within the administration, potentially linked to the state's financial needs, such as the planned borrowing of ₹21,000 Crore (#7), to fund projects like the ₹13,000-crore HAM road projects in Nalgonda (#13).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Home Department and Hyderabad City Police to immediately review and implement enhanced traffic safety measures on the AMB flyover and other high-risk areas to prevent further fatalities from wrong-side driving (#9).</li>\n    <li>Convene an urgent inter-departmental meeting involving the Finance Department to assess the implications of the planned ₹21,000 Crore borrowing (#7) and develop a clear strategy for its utilization and repayment.</li>\n    <li>Instruct the newly appointed Chief Secretary Sanjay Jaju (#8, #16) and Principal Secretary N. Sridhar (#19) to prioritize addressing the allegations of land seizure (#1, #17) and voter roll revision issues (#2, #6) to maintain public trust and administrative integrity.</li>\n    <li>Launch a comprehensive public awareness campaign on drug abuse prevention, leveraging the calls for shared responsibility from leaders, the Governor, and CM (#5, #20), with specific outreach programs in vulnerable communities.</li>\n    <li>Task the new administrative leadership to evaluate the impact of the CM's call for longer office hours (#14) on employee morale and productivity, considering the BRS MLC's criticism (#12), and implement supportive measures if necessary.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Immediate attention is required due to the fatal wrong-side driving incident on the AMB flyover (#9), necessitating enhanced traffic enforcement and safety measures.</li>\n    <li><b>Nalgonda:</b> Significant focus will be needed as CM Revanth Reddy is set to launch ₹13,000-crore HAM road projects on June 28 (#13), requiring robust project management and security.</li>\n    <li><b>Amrabad Reserve:</b> Continued monitoring and conservation efforts are crucial given the reported increase in the tiger count to 42 (#11), ensuring the protection of this growing wildlife population.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "27.9°C",
+      "humidity": "69%",
+      "wind": "10.7 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 61,
+      "pm25": 18.2,
+      "goldPerGram": "₹9,105",
+      "newsCount": 29,
+      "topHeadlines": [
+        "KTR accuses Telangana Congress of land seizure in Telangana - The News Mill",
+        "Congress, BRS Acting in Tandem With AIMIM on Voter Roll Revision Issue, Alleges Kishan Reddy - The Morning Voice",
+        "Trump thanks India for naming road adjoining US Consulate in Hyderabad as \"Donald Trump Avenue\" - ANI News",
+        "Unprecedented honour: Trump thanks India after Hyderabad names road after him - India Today",
+        "Drug-Free Telangana Is A Shared Responsibility, Say Leaders - Deccan Chronicle"
       ]
     }
   }
