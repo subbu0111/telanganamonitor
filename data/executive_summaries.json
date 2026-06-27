@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28T08:01:32.282Z",
-    "timestampIST": "28/5/2026, 1:31:32 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will meet with the Maharashtra counterpart to discuss the Tummidihatti barrage height (6, 8, 9). The government assures procurement of rain-soaked paddy (4, 20). The government will launch a meal program for Intermediate students on June 12, spending Rs 180 crore (13, 16).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will meet with the Maharashtra counterpart to discuss the Tummidihatti barrage height (6, 8, 9). The government assures procurement of rain-soaked paddy (4, 20). The government will launch a meal program for Intermediate students on June 12, spending Rs 180 crore (13, 16).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Disruption to power supply due to heavy rains.</span> (11)</li>\n    <li><span class=\"risk-medium\">Potential for public unrest due to the Tummidihatti barrage dispute.</span> (6, 8, 9)</li>\n    <li><span class=\"risk-low\">Procurement challenges related to rain-soaked paddy.</span> (4, 20)</li>\n    <li><span class=\"risk-low\">Negative publicity regarding the Telangana Congress leader’s son accused of impregnating a minor.</span> (12)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Heavy rains (11) have impacted paddy (4, 20), potentially creating procurement challenges.</li>\n    <li>The government is focused on rural connectivity through the T-Fiber project (7, 10, 15) while also addressing immediate needs like Intermediate student meals (13, 16).</li>\n    <li>The Tummidihatti Barrage dispute (6, 8, 9) is a key focus for the CM.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the progress of the meeting between CM Revanth Reddy and the Maharashtra counterpart regarding the Tummidihatti barrage.</li>\n    <li>Ensure smooth procurement of rain-soaked paddy.</li>\n    <li>Assess and address any power supply disruptions caused by heavy rains.</li>\n    <li>Prepare for the launch of the meal program for Intermediate students on June 12.</li>\n    <li>Monitor the situation regarding the Telangana Congress leader's son.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Areas affected by heavy rains:</b> Monitor for power outages and paddy procurement issues. (11, 4, 20)</li>\n    <li><b>Yadadri Bhuvanagiri:</b> Monitor the Handloom Festival. (19)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "36°C",
-      "humidity": "38%",
-      "wind": "9.2 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 65,
-      "pm25": 16.8,
-      "goldPerGram": "₹9,230",
-      "newsCount": 37,
-      "topHeadlines": [
-        "Future City to Emerge as National Model, Say Telangana Ministers - Deccan Chronicle",
-        "Vacant plots, dilapidated housing societies inspected for LIG houses in and around Hyderabad - The Hindu",
-        "New species of gecko discovered in Assam - Telangana Today",
-        "Telangana govt assures procurement of rain-soaked paddy - The News Minute",
-        "Revanth Reddy Pays Tribute to N. T. Rama Rao on Birth Anniversary - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-28T13:53:23.445Z",
     "timestampIST": "28/5/2026, 7:23:23 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is focusing on welfare initiatives, including a unified welfare card for citizens (2, 3). The government is also addressing the impact of heavy rains, including paddy procurement and power supply disruptions (9, 18). Discussions with the Maharashtra counterpart are planned regarding the Tummidihatti barrage (12, 15, 16).</p>",
@@ -1916,6 +1893,29 @@
         "U.S. President takes to social media to thank India for ‘Donald Trump Avenue’ in Hyderabad - The Hindu",
         "Accident on Botanical Garden Flyover Triggers Traffic Congestion in Hyderabad - Deccan Chronicle",
         "Telangana CM reviews Musi Riverfront project details - The News Mill"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-27T10:10:37.407Z",
+    "timestampIST": "27/6/2026, 3:40:37 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively reviewing the Musi Riverfront Project, including land acquisition and the allocation of double-bedroom houses for families residing in the Musi riverbed (Headlines #2, #4, #8, #9, #10). Telangana has signed a cooperation agreement with Germany’s Thuringia (Headline #3). Hyderabad experienced traffic congestion due to an accident on the Botanical Garden Flyover and two fatalities from wrong-side driving on the AMB flyover (Headlines #7, #20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively reviewing the Musi Riverfront Project, including land acquisition and the allocation of double-bedroom houses for families residing in the Musi riverbed (Headlines #2, #4, #8, #9, #10). Telangana has signed a cooperation agreement with Germany’s Thuringia (Headline #3). Hyderabad experienced traffic congestion due to an accident on the Botanical Garden Flyover and two fatalities from wrong-side driving on the AMB flyover (Headlines #7, #20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Traffic Safety:</span> Two fatalities from wrong-side driving on the AMB flyover and traffic congestion due to an accident on the Botanical Garden Flyover indicate ongoing road safety issues in Hyderabad (Headlines #7, #20).</li>\n    <li><span class=\"risk-medium\">Financial Strain:</span> Telangana plans to borrow ₹21,000 Crore in the next three months, which could impact the state's financial stability (Headline #18).</li>\n    <li><span class=\"risk-low\">Political Allegations:</span> Opposition leaders KTR and Kishan Reddy have made allegations regarding land seizure and voter roll revision, potentially leading to political friction (Headlines #11, #13, #17).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's directives to set up a Musi Experience Centre and allot double-bedroom houses to families living in the Musi riverbed are directly related to the ongoing review of the Musi Riverfront Project, indicating a comprehensive approach to the project's social and environmental aspects (Headlines #1, #2, #4, #8, #9, #10).</li>\n    <li>The U.S. President's social media gratitude and subsequent news reports about \"Donald Trump Avenue\" in Hyderabad highlight a diplomatic gesture and its public recognition (Headlines #6, #14, #15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Hyderabad Traffic Police to implement immediate measures to address wrong-side driving and improve traffic management, particularly on flyovers, following recent accidents and fatalities (Headlines #7, #20).</li>\n    <li>Prioritize the Musi Riverfront Project's land acquisition and rehabilitation efforts to ensure timely completion and address the needs of affected families (Headlines #2, #4, #9, #10).</li>\n    <li>Monitor the state's borrowing plan of ₹21,000 Crore to ensure fiscal prudence and efficient allocation of funds (Headline #18).</li>\n    <li>Initiate a public awareness campaign on road safety, specifically targeting wrong-side driving, given the recent fatalities (Headline #20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Requires immediate attention due to traffic congestion from an accident on the Botanical Garden Flyover and two fatalities from wrong-side driving on the AMB flyover (Headlines #7, #20). The Musi Riverfront Project, including rehabilitation and land acquisition, is also centered in Hyderabad (Headlines #1, #2, #4, #8, #9, #10).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "27.1°C",
+      "humidity": "80%",
+      "wind": "7.1 km/h",
+      "weatherDesc": "Dense Drizzle",
+      "aqi": 62,
+      "pm25": 21.2,
+      "goldPerGram": "₹9,105",
+      "newsCount": 29,
+      "topHeadlines": [
+        "Set up Musi Experience Centre To Raise Awareness Among People: CM - Deccan Chronicle",
+        "Telangana Chief Minister Reventh Reddy instructed officials to allot double-bedroom houses to families living in the Musi riverbed - AIMA Media",
+        "Telangana signs cooperation agreement with Germany’s Thuringia - News On AIR",
+        "Telangana CM Reviews Musi Riverfront Project, Discusses Rehabilitation And Land Acquisition - ETV Bharat",
+        "Silver Rate Today in Hyderabad – Silver Price per Gram &amp; Kg | 27 June 2026 - The Times of India"
       ]
     }
   }
