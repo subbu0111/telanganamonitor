@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29T18:35:17.836Z",
-    "timestampIST": "30/5/2026, 12:05:17 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on strengthening ties with the TDP, including installing NTR statues (7, 11).  He is also facing criticism regarding the SIR project's impact on migrant votes (2, 6).  Political tensions are high, with allegations exchanged between Revanth Reddy and K Chandrasekhar Rao (4), and BRS opposing welfare scheme changes (8, 10).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focused on strengthening ties with the TDP, including installing NTR statues (7, 11).  He is also facing criticism regarding the SIR project's impact on migrant votes (2, 6).  Political tensions are high, with allegations exchanged between Revanth Reddy and K Chandrasekhar Rao (4), and BRS opposing welfare scheme changes (8, 10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Exchange of allegations between Revanth Reddy and K Chandrasekhar Rao (4), and BRS opposition to welfare scheme changes (8, 10) could escalate tensions.</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span>  Concerns raised about the SIR project's impact on migrant votes (2, 6) could lead to public dissatisfaction.</li>\n    <li><span class=\"risk-low\">Infrastructure Concerns:</span> Two separate bus accidents triggered panic in Hyderabad (15).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy's actions to install NTR statues (7, 11) are directly linked to garnering TDP support (7, 11) and strengthening ties ahead of Hyderabad civic polls (11).</li>\n    <li>The BRS's demand to withdraw the 'Rythu DISCOM' proposal (10) is connected to their allegations that the Congress government is conspiring to end KCR’s welfare schemes (8).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric between the Congress and BRS parties closely.</li>\n    <li>Assess the potential impact of the SIR project on migrant communities and address any arising concerns.</li>\n    <li>Review and enhance public transport safety measures in Hyderabad following the recent bus accidents.</li>\n    <li>Prepare a communication strategy to address any public concerns regarding the 'Rythu DISCOM' proposal and welfare schemes.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the recent bus accidents (15) and upcoming civic polls (11), increased vigilance and public safety measures are required.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "30°C",
-      "humidity": "58%",
-      "wind": "7.6 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 33,
-      "pm25": 23.9,
-      "goldPerGram": "₹9,163",
-      "newsCount": 19,
-      "topHeadlines": [
-        "Revanth Reddy Urges Telangana Congress to Bolster Constituency Oversight Before SIR Launch - Devdiscourse",
-        "Revanth Reddy Flags SIR Threat To Migrant Votes - INDToday",
-        "Only Revanth Reddy Can Impress Congress, And TDP At A Time - Gulte",
-        "Telangana Leaders Revanth Reddy and K Chandrasekhar Rao Exchange Allegations During Roadshows - News On AIR",
-        "Land Cost For North RRRail Crosses ₹6,900 Crore - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-29T21:52:33.277Z",
     "timestampIST": "30/5/2026, 3:22:33 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on the upcoming SIR (likely a government initiative) and its potential impact on voters, particularly migrants and those from Dalit, minority, and women communities. (2, 4, 6) Political tensions are high, with accusations of conspiracies regarding farm power and welfare schemes exchanged between Congress and BRS leaders. (3, 12, 14) Two bus accidents caused panic in Hyderabad. (19)</p>",
@@ -2008,6 +1985,29 @@
         "'Telangana society boycotts KCR family; BRS has no future': CM Revanth Reddy - Deccan Herald",
         "KTR blames Revanth Reddy and BJP for Musi River destruction in Telangana - The News Mill",
         "Harish Rao dares Revanth Reddy to dissolve Assembly, seek fresh mandate - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-28T19:23:02.359Z",
+    "timestampIST": "29/6/2026, 12:53:02 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has initiated a \"mega road plan\" (4) and launched HAM Road Projects in Nalgonda (16), while also calling for a special Assembly session to review government performance and challenge opposition parties (5, 7, 13). Political tensions remain high, with Harish Rao accusing the CM of diverting attention from failures (1) and challenging him to dissolve the Assembly (9, 12). Additionally, Himayat Sagar floodgates have been lifted, alerting low-lying areas of the Musi River (6), and two fatal accidents occurred in Warangal (11).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has initiated a \"mega road plan\" (4) and launched HAM Road Projects in Nalgonda (16), while also calling for a special Assembly session to review government performance and challenge opposition parties (5, 7, 13). Political tensions remain high, with Harish Rao accusing the CM of diverting attention from failures (1) and challenging him to dissolve the Assembly (9, 12). Additionally, Himayat Sagar floodgates have been lifted, alerting low-lying areas of the Musi River (6), and two fatal accidents occurred in Warangal (11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability:</span> High political friction with the opposition, including calls for the CM to dissolve the Assembly (9, 12) and accusations of diverting public attention (1), could lead to increased political unrest and hinder governance.</li>\n    <li><span class=\"risk-medium\">Public Safety (Flooding):</span> The lifting of Himayat Sagar floodgates (6) poses a potential risk to low-lying areas along the Musi River, requiring immediate monitoring and preparedness.</li>\n    <li><span class=\"risk-medium\">Public Safety (Accidents):</span> Two fatal accidents in Warangal resulting in two deaths and four injuries (11) highlight ongoing road safety concerns in the district.</li>\n    <li><span class=\"risk-low\">Environmental Damage/Public Health (Musi River):</span> Allegations of Musi River destruction (8) and the CM's statement about dumping project hurdles in the river (14) suggest potential environmental and public health concerns.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's call for a special Assembly session (5, 7, 13) directly correlates with the opposition's challenges regarding government performance and calls for the dissolution of the Assembly (1, 9, 12).</li>\n    <li>The lifting of Himayat Sagar floodgates (6) and the subsequent alert for low-lying areas of the Musi River are relevant to the ongoing political discourse surrounding the Musi River's condition, as seen in KTR's blame (8) and the CM's statement (14).</li>\n    <li>The CM's launch of HAM Road Projects in Nalgonda (16) and the \"mega road plan\" (4) indicate a focused effort on infrastructure development, potentially in response to public demands or to showcase government performance.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Closely monitor the situation in low-lying areas along the Musi River following the lifting of Himayat Sagar floodgates (6) and ensure all necessary precautions are in place.</li>\n    <li>Prepare for the upcoming special Assembly session (5, 7) by consolidating data on government performance to address opposition challenges effectively (1, 9, 12, 13).</li>\n    <li>Initiate a review of road safety measures in Warangal district following the reported fatal accidents (11) and consider targeted interventions.</li>\n    <li>Address public and political concerns regarding the Musi River's condition (8, 14) by providing clear communication on mitigation strategies and development plans.</li>\n    <li>Ensure effective coordination and communication regarding the SLBC project deadline, given the reported confusion among CM and Ministers (17).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Warangal:</b> Immediate attention is required due to two fatal accidents resulting in two deaths and four injuries (11).</li>\n    <li><b>Nalgonda:</b> The district is a focus of infrastructure development with the launch of HAM Road Projects (16).</li>\n    <li><b>Hyderabad (Musi River areas):</b> Requires monitoring due to the lifting of Himayat Sagar floodgates and potential impact on low-lying areas (6).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "23.8°C",
+      "humidity": "95%",
+      "wind": "6.7 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 26,
+      "pm25": 10.7,
+      "goldPerGram": "₹9,105",
+      "newsCount": 52,
+      "topHeadlines": [
+        "Harish Accuses Revanth Of Trying To Divert Public Attention From Failures - Deccan Chronicle",
+        "Next avatar of BRS could be ‘HRS’: Komatireddy - The Times of India",
+        "Telangana CM presents Rugby Premier League trophy as Hyderabad Heroes win Season 2 title - The Hindu",
+        "Revanth Reddy kicks off mega road plan - metroindia.net",
+        "Revanth Reddy Calls for Special Assembly Session, Challenges BRS and BJP - Hyderabad Mail"
       ]
     }
   }
