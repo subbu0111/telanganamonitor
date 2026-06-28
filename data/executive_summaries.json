@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28T23:18:48.935Z",
-    "timestampIST": "29/5/2026, 4:48:48 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy unveiled a statue of former Andhra Pradesh CM NTR in Hyderabad and paid tribute on his birth anniversary (3, 20). The CM proposed a unified card for all Telangana citizens to track welfare benefits (5, 6, 8, 12, 13). Sunitha Lakshma Reddy criticized the Congress government regarding paddy procurement delays in Medak (9).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy unveiled a statue of former Andhra Pradesh CM NTR in Hyderabad and paid tribute on his birth anniversary (3, 20). The CM proposed a unified card for all Telangana citizens to track welfare benefits (5, 6, 8, 12, 13). Sunitha Lakshma Reddy criticized the Congress government regarding paddy procurement delays in Medak (9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Potential for public dissatisfaction</span> regarding paddy procurement delays in Medak, as reported by Sunitha Lakshma Reddy (9).</li>\n    <li><span class=\"risk-low\">Public perception</span> regarding the Congress government's actions, as highlighted by Sunitha Lakshma Reddy's criticism (9).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The unveiling of NTR's statue (3, 20) and Revanth Reddy's statements about NTR's importance (1, 7) show a focus on honoring past leaders.</li>\n    <li>The unified card initiative (5, 6, 8, 12, 13) aims to streamline welfare benefits, potentially impacting public perception of the government.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment in Medak district regarding paddy procurement delays (9).</li>\n    <li>Prepare a communication strategy to address concerns related to paddy procurement (9).</li>\n    <li>Expedite the implementation of the unified welfare card to ensure efficient tracking of benefits (5, 6, 8, 12, 13).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Medak:</b> Requires immediate attention due to the reported paddy procurement delays and the criticism from Sunitha Lakshma Reddy (9).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.4°C",
-      "humidity": "59%",
-      "wind": "13.7 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 35,
-      "pm25": 15.1,
-      "goldPerGram": "₹9,230",
-      "newsCount": 33,
-      "topHeadlines": [
-        "Like Indiramma, NTR is equally important to us, says Revanth Reddy - Telangana Today",
-        "Unveiling Legacy: Tribute to NT Rama Rao by Telangana CM - Devdiscourse",
-        "Telangana CM Revanth Reddy unveils statue of former Andhra Pradesh CM NTR in Hyderabad - The News Mill",
-        "Revanth Unveils NTR Statue, Says Cong. Govt Will Transform Hyd Into a Global City With Future City... - Deccan Chronicle",
-        "Telangana to create unified card detailing all welfare benefits - The News Mill"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-29T03:50:57.723Z",
-    "timestampIST": "29/5/2026, 9:20:57 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy unveiled a statue of NTR in Hyderabad (6, 7). He also directed officials to roll out a 'unified welfare card' for all schemes (3, 8, 9, 11, 15, 16). Ministers Sridhar Babu and Srinivasa Reddy stated that Future City will set a new infrastructure benchmark (1, 20).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy unveiled a statue of NTR in Hyderabad (6, 7). He also directed officials to roll out a 'unified welfare card' for all schemes (3, 8, 9, 11, 15, 16). Ministers Sridhar Babu and Srinivasa Reddy stated that Future City will set a new infrastructure benchmark (1, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-low\">Potential for public gatherings or increased media attention surrounding the unveiling of NTR's statue in Hyderabad. (6, 7, 19)</span></li>\n    <li><span class=\"risk-low\">Possible public dissatisfaction regarding paddy procurement delays in Medak, as reported by Sunitha Lakshma Reddy. (12)</span></li>\n    <li><span class=\"risk-low\">Increased public interest and potential for scrutiny regarding the implementation of the 'unified welfare card'. (3, 8, 9, 11, 15, 16)</span></li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The unveiling of NTR's statue (6, 7, 19) and the CM's statements on NTR's importance (2, 4, 10) highlight a focus on honoring NTR.</li>\n    <li>The CM's emphasis on the 'unified welfare card' (3, 8, 9, 11, 15, 16) aligns with the broader vision of transforming Hyderabad into a global city with Future City (7, 14, 20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor media coverage and public sentiment regarding the unveiling of NTR's statue and the CM's statements.</li>\n    <li>Assess and address the concerns raised by Sunitha Lakshma Reddy regarding paddy procurement delays in Medak.</li>\n    <li>Expedite the rollout of the 'unified welfare card' and ensure effective communication of its benefits to the public.</li>\n    <li>Prepare for potential public interest and scrutiny related to the Future City project.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Medak:</b> Monitor the situation regarding paddy procurement delays, as reported by Sunitha Lakshma Reddy. (12)</li>\n    <li><b>Hyderabad:</b> Monitor public sentiment and potential gatherings related to the unveiling of NTR's statue and the Future City project. (6, 7, 14, 19, 20)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.4°C",
-      "humidity": "51%",
-      "wind": "13.6 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 32,
-      "pm25": 10.2,
-      "goldPerGram": "₹9,230",
-      "newsCount": 23,
-      "topHeadlines": [
-        "Telangana hopes Future City will set new infrastructure benchmark: Ministers Sridhar Babu, Srinivasa Reddy - The New Indian Express",
-        "NTR is an inspiration to us; he is as important as Indira Gandhi: Telangana CM Revanth Reddy - The New Indian Express",
-        "Telangana CM Revanth Reddy directs officials to roll out 'unified welfare card' for all schemes - The New Indian Express",
-        "Like Indiramma, NTR is equally important to us, says Revanth Reddy - Telangana Today",
-        "Unveiling Legacy: Tribute to NT Rama Rao by Telangana CM - Devdiscourse"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-29T07:59:23.966Z",
     "timestampIST": "29/5/2026, 1:29:23 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy unveiled a statue of NTR in Hyderabad. The CM is pushing for Japanese investments at the Osaka World Expo. A unified welfare card for all schemes is being rolled out across Telangana.</p>",
@@ -1985,6 +1939,29 @@
         "Revanth to Launch Telangana's Biggest Road Works Today - Deccan Chronicle",
         "Telangana Neta Natter | Remember The Name — It’s Revanthanna - Deccan Chronicle",
         "RS Praveen Kumar alleges Rs 2,041 crore scam in residential schools supplies - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-28T04:00:25.837Z",
+    "timestampIST": "28/6/2026, 9:30:25 am",
+    "executiveSummary": "<p>The state faces immediate flood risks with warnings issued for 19 districts (10). Political tensions are escalating, highlighted by allegations of compromised water rights (11, 16) and a significant reduction in security for RS Praveen Kumar following his claims of a ₹2,041 crore scam (3, 4, 14, 15). The Chief Minister has announced plans for double-bedroom homes for Musi Riverbed residents (5) and will launch major road works today (12).</p>",
+    "fullAnalysis": "```html\n<!DOCTYPE html>\n<html>\n<head>\n<title>Intelligence Briefing - Telangana Government</title>\n<style>\n  .risk-high { color: red; font-weight: bold; }\n  .risk-medium { color: orange; font-weight: bold; }\n  .risk-low { color: green; font-weight: bold; }\n</style>\n</head>\n<body>\n\n<h3>📋 Executive Summary</h3>\n<p>The state faces immediate flood risks with warnings issued for 19 districts (10). Political tensions are escalating, highlighted by allegations of compromised water rights (11, 16) and a significant reduction in security for RS Praveen Kumar following his claims of a ₹2,041 crore scam (3, 4, 14, 15). The Chief Minister has announced plans for double-bedroom homes for Musi Riverbed residents (5) and will launch major road works today (12).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">Flash Flood Risk:</span> Flash flood warnings for 19 districts require immediate and sustained official vigilance (10).</li>\n  <li><span class=\"risk-medium\">Security & Political Instability:</span> Reduction of RS Praveen Kumar's security after alleging a ₹2,041 crore scam could indicate political targeting and potential for public unrest or further allegations (3, 4, 14, 15).</li>\n  <li><span class=\"risk-medium\">Water Rights Disputes:</span> Allegations from Harish Rao and KTR regarding the compromise of Telangana's water rights could lead to inter-state disputes or public protests (11, 16).</li>\n  <li><span class=\"risk-medium\">Governance & Corruption Allegations:</span> The alleged ₹2,041 crore scam in residential school supplies by RS Praveen Kumar warrants immediate investigation to maintain public trust (14).</li>\n  <li><span class=\"risk-low\">Voter Roll Revision Controversy:</span> Union Minister Kishan Reddy's accusation against CM Revanth Reddy regarding the voter roll revision process suggests potential political friction (6).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>The reduction of RS Praveen Kumar's security (3, 4, 15) appears directly linked to his allegations of a ₹2,041 crore scam in residential school supplies (14). This suggests a potential retaliatory action following his public accusations.</li>\n  <li>Allegations by Harish Rao (11, 16) and KTR (20) both criticize the current government regarding water management and farmers' issues, indicating a coordinated opposition narrative on critical resource management.</li>\n  <li>The Chief Minister's directive for officials to be on high alert for flash floods in 19 districts (10) underscores the immediate need for robust disaster preparedness, potentially impacting the implementation of new road works (12) or housing projects (5) if resources are diverted.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Immediately activate disaster response protocols and monitor the 19 districts under flash flood warning, ensuring adequate resources are deployed (10).</li>\n  <li>Initiate an independent and transparent inquiry into the alleged ₹2,041 crore scam in residential school supplies as claimed by RS Praveen Kumar (14).</li>\n  <li>Review and ensure appropriate security measures for RS Praveen Kumar, considering the allegations he has made (3, 4, 15).</li>\n  <li>Prepare a public statement addressing the allegations of compromised water rights to counter the opposition's narrative (11, 16).</li>\n  <li>Prioritize the launch of major road works (12) and the Musi Riverbed double-bedroom housing project (5) while ensuring flood preparedness does not impede these critical infrastructure initiatives.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><strong>19 Districts under Flash Flood Warning:</strong> These districts require immediate and continuous monitoring, resource allocation, and emergency preparedness due to the flash flood warning issued by the Telangana Government (10).</li>\n  <li><strong>Musi Riverbed Area:</strong> Focus on this area for the implementation of the double-bedroom homes project, ensuring coordination with flood mitigation efforts given the current weather advisories (5, 10).</li>\n</ul>\n\n</body>\n</html>\n```",
+    "dataSnapshot": {
+      "temperature": "27°C",
+      "humidity": "80%",
+      "wind": "6.5 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 56,
+      "pm25": 11.6,
+      "goldPerGram": "₹9,105",
+      "newsCount": 31,
+      "topHeadlines": [
+        "Retd IAS officer is Telangana RERA chief - The New Indian Express",
+        "Telangana schools turn inspections into interactive classrooms - The New Indian Express",
+        "KTR condemns Telangana government for reducing RS Praveen Kumar’s security - The News Mill",
+        "\"Malicious Act\": KTR slams Telangana govt over reduction of RS Praveen Kumar's security - ANI News",
+        "Musi Riverbed Residents to Get Double-Bedroom Homes, Says CM Revanth Reddy - The Morning Voice"
       ]
     }
   }
