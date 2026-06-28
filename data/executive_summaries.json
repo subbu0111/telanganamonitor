@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29T07:59:23.966Z",
-    "timestampIST": "29/5/2026, 1:29:23 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy unveiled a statue of NTR in Hyderabad. The CM is pushing for Japanese investments at the Osaka World Expo. A unified welfare card for all schemes is being rolled out across Telangana.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy unveiled a statue of NTR in Hyderabad. The CM is pushing for Japanese investments at the Osaka World Expo. A unified welfare card for all schemes is being rolled out across Telangana.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> The Andhra Pradesh Jana Sena Party's anti-Nageshwar campaign has sparked Telangana sentiment (Headline 1).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> Two separate bus accidents triggered panic in Hyderabad (Headline 4).</li>\n    <li><span class=\"risk-low\">Political:</span> Sunitha Lakshma Reddy criticized the Congress over paddy procurement delays in Medak (Headline 16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The unveiling of the NTR statue (Headlines 10, 11) and the CM's statements on NTR's importance (Headlines 6, 8, 14) are linked to the political landscape.</li>\n    <li>The CM's push for Japanese investments (Headline 2) and the focus on Future City (Headlines 5, 18) suggest a focus on infrastructure and economic development.</li>\n    <li>The unified welfare card (Headlines 7, 12, 13, 15, 19, 20) is directly related to the government's welfare schemes.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor public sentiment regarding the NTR statue unveiling and any potential reactions.</li>\n    <li>Assess the causes of the bus accidents and implement immediate safety measures.</li>\n    <li>Address the concerns raised by Sunitha Lakshma Reddy regarding paddy procurement delays in Medak.</li>\n    <li>Ensure the smooth and efficient rollout of the unified welfare card.</li>\n    <li>Provide updates on the progress of the CM's efforts to secure Japanese investments.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Monitor public reaction to the NTR statue unveiling and address any safety concerns following the bus accidents.</li>\n    <li><b>Medak:</b> Address the concerns regarding paddy procurement delays.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "36.5°C",
-      "humidity": "31%",
-      "wind": "14.1 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 63,
-      "pm25": 12.1,
-      "goldPerGram": "₹9,230",
-      "newsCount": 22,
-      "topHeadlines": [
-        "How Andhra Pradesh Jana Sena Party's anti-Nageshwar campaign sparked Telangana sentiment - theweek.in",
-        "Telangana CM pushes for Japanese investments in key sectors at Osaka World Expo - Newsonair",
-        "Revanth Reddy’s NTR statue gamble: A self-inflicted wound that could bury Congress in Telangana - The South First",
-        "Two separate bus accidents trigger panic in Hyderabad - Telangana Today",
-        "Telangana hopes Future City will set new infrastructure benchmark: Ministers Sridhar Babu, Srinivasa Reddy - The New Indian Express"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-29T11:37:20.277Z",
     "timestampIST": "29/5/2026, 5:07:20 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy unveiled a statue of former Andhra Pradesh CM NTR in Hyderabad (11, 12). The CM is promoting a \"unified welfare card\" for all schemes (8, 13, 14, 16, 20).  Two bus accidents caused panic in Hyderabad (5).</p>",
@@ -1962,6 +1939,29 @@
         "KTR condemns Telangana government for reducing RS Praveen Kumar’s security - The News Mill",
         "\"Malicious Act\": KTR slams Telangana govt over reduction of RS Praveen Kumar's security - ANI News",
         "Musi Riverbed Residents to Get Double-Bedroom Homes, Says CM Revanth Reddy - The Morning Voice"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-28T08:54:38.657Z",
+    "timestampIST": "28/6/2026, 2:24:38 pm",
+    "executiveSummary": "<p>The government faces accusations of land grabbing in Hyderabad involving a Telugu Desam MP (#1) and criticism regarding the reduction of RS Praveen Kumar's security by KTR (#14, #15). There are also reports of BRS and Youth Congress leaders being detained ahead of the Chief Minister's Nalgonda visit (#3). The government is considering moving the Supreme Court against the VB G RAM G Act (#6) and plans to reach out to non-BJP ruled states on the same (#9).</p>",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>The government faces accusations of land grabbing in Hyderabad involving a Telugu Desam MP (#1) and criticism regarding the reduction of RS Praveen Kumar's security by KTR (#14, #15). There are also reports of BRS and Youth Congress leaders being detained ahead of the Chief Minister's Nalgonda visit (#3). The government is considering moving the Supreme Court against the VB G RAM G Act (#6) and plans to reach out to non-BJP ruled states on the same (#9).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Public Order:</span> Detention of opposition leaders ahead of CM's visit (#3) and accusations of the CM losing control ahead of GHMC polls (#10) indicate potential for increased political friction and public unrest.</li>\n    <li><span class=\"risk-medium\">Governance/Legal Challenge:</span> The government's consideration of moving the Supreme Court against the VB G RAM G Act (#6) and reaching out to non-BJP ruled states (#9) suggests a significant inter-state or center-state legal and political challenge.</li>\n    <li><span class=\"risk-medium\">Public Safety/Trust:</span> Unfulfilled assurances to Sigachi tragedy victims (#5) and accusations of land grab (#1) could erode public trust and lead to further protests or legal action.</li>\n    <li><span class=\"risk-low\">International Relations/Citizen Welfare:</span> The death of a Telangana student in London and the family's request for government aid for repatriation (#2, #4) requires diplomatic and administrative attention.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The government's intent to move the Supreme Court against the VB G RAM G Act (#6) and its plan to reach out to non-BJP ruled states on the same issue (#9) indicates a coordinated legal and political strategy to challenge central legislation.</li>\n    <li>The criticism from BJP regarding CM Revanth Reddy losing control ahead of GHMC polls (#10) and Ramchander Rao's statement about BJP becoming \"god\" for the CM (#8) both highlight escalating political tensions between the BJP and the ruling party in Telangana, particularly in the context of upcoming municipal elections.</li>\n    <li>The appointment of K.S. Sreenivasa Raju as TG-RERA Chairperson (#7) and the mention of a retired IAS officer as Telangana RERA chief (#12) are directly related, confirming a key administrative appointment for real estate regulation.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately investigate the land grab allegations in Hyderabad involving a Telugu Desam MP (#1) to protect government land and ensure transparency.</li>\n    <li>Address the concerns of Sigachi tragedy victims regarding unfulfilled assurances (#5) to prevent further public discontent and potential protests.</li>\n    <li>Monitor the political climate in Nalgonda following the detention of BRS and Youth Congress leaders (#3) ahead of the CM's visit, ensuring public order and freedom of assembly.</li>\n    <li>Initiate diplomatic and administrative procedures to facilitate the repatriation of the Telangana student's body from London and provide necessary support to the family (#2, #4).</li>\n    <li>Prepare a comprehensive legal strategy for the potential Supreme Court challenge against the VB G RAM G Act (#6) and coordinate outreach efforts with non-BJP ruled states (#9).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Immediate attention is required due to serious allegations of land grabbing involving a former MP and a Telugu Desam MP (#1). This could have significant implications for governance and public trust.</li>\n    <li><b>Nalgonda:</b> Close monitoring is necessary due to the detention of opposition leaders ahead of the Chief Minister's visit (#3). This indicates potential for political unrest and requires proactive measures to maintain public order.</li>\n    <li><b>Maheshwaram:</b> Political activity is intensifying with KTR launching a campaign (#19), suggesting increased political competition and potential for public gatherings.</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "26.7°C",
+      "humidity": "79%",
+      "wind": "15.9 km/h",
+      "weatherDesc": "Thunderstorm+Hail",
+      "aqi": 49,
+      "pm25": 12.8,
+      "goldPerGram": "₹9,105",
+      "newsCount": 38,
+      "topHeadlines": [
+        "Former MP accuses Telugu Desam MP of land grab in Hyderabad, urges Revanth Reddy to protect government land - Telangana Today",
+        "Telangana student dies in London; family requests government aid for repatriation - The News Mill",
+        "BRS, Youth Congress leaders detained ahead of Revanth Reddy’s Nalgonda visit - Telangana Today",
+        "Telangana Student Found Dead in London; Family Seeks Answers, Urges Government to Bring Body Home - pragativadi.com",
+        "One year after Sigachi tragedy, victims seek fulfilment of Revanth Reddy’s assurances - Telangana Today"
       ]
     }
   }
