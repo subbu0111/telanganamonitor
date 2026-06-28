@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29T21:52:33.277Z",
-    "timestampIST": "30/5/2026, 3:22:33 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on the upcoming SIR (likely a government initiative) and its potential impact on voters, particularly migrants and those from Dalit, minority, and women communities. (2, 4, 6) Political tensions are high, with accusations of conspiracies regarding farm power and welfare schemes exchanged between Congress and BRS leaders. (3, 12, 14) Two bus accidents caused panic in Hyderabad. (19)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focused on the upcoming SIR (likely a government initiative) and its potential impact on voters, particularly migrants and those from Dalit, minority, and women communities. (2, 4, 6) Political tensions are high, with accusations of conspiracies regarding farm power and welfare schemes exchanged between Congress and BRS leaders. (3, 12, 14) Two bus accidents caused panic in Hyderabad. (19)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-high\">HIGH:</span> Potential voter backlash due to SIR implementation, particularly among Dalits, minorities, women, and migrant communities. (2, 6)</li>\n  <li><span class=\"risk-medium\">MEDIUM:</span> Increased political polarization and potential for unrest due to allegations of undermining welfare schemes and farm power supply. (3, 12, 14)</li>\n  <li><span class=\"risk-low\">LOW:</span> Public panic and potential for further incidents following two bus accidents in Hyderabad. (19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>Revanth Reddy's focus on the SIR initiative (2, 4, 5, 6, 10) is directly linked to his efforts to garner support from the TDP, as evidenced by the installation of NTR statues. (11, 15)</li>\n  <li>The BRS's opposition to the \"Rythu DISCOM\" proposal (14) aligns with Harish Rao's criticism of remarks regarding farm power supply (13), indicating a coordinated political strategy.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Conduct immediate damage control and public outreach to address concerns regarding the SIR initiative, particularly among vulnerable communities. (2, 6)</li>\n  <li>Monitor and de-escalate political rhetoric surrounding farm power and welfare schemes to prevent further polarization. (3, 12, 13, 14)</li>\n  <li>Review and enhance public transport safety protocols following the two bus accidents in Hyderabad. (19)</li>\n  <li>Assess the potential impact of the \"Rythu DISCOM\" proposal and address BRS concerns. (14)</li>\n  <li>Prepare a communication strategy to counter negative perceptions surrounding Revanth Reddy's actions, such as the NTR statue installations. (11, 15, 18)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Hyderabad:</b> Due to the bus accidents and the upcoming civic polls, this district requires increased vigilance and public safety measures. (15, 19)</li>\n  <li><b>All Districts:</b> Monitor for any negative reactions to the SIR initiative, especially in areas with significant Dalit, minority, women, and migrant populations. (2, 6)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29.4°C",
-      "humidity": "53%",
-      "wind": "13.3 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 34,
-      "pm25": 14.3,
-      "goldPerGram": "₹9,163",
-      "newsCount": 22,
-      "topHeadlines": [
-        "Telangana Plans Single Smart Welfare Card With AI System - INDToday",
-        "SIR exercise may affect Dalits, minorities, women: Revanth - Telangana Today",
-        "Harish Accuses Congress of Plan To Cut Farm Power - Deccan Chronicle",
-        "Protect Voters From SIR or Lose Power, Says CM Revanth - Deccan Chronicle",
-        "Revanth Reddy Urges Telangana Congress to Bolster Constituency Oversight Before SIR Launch - Devdiscourse"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-29T23:14:33.296Z",
     "timestampIST": "30/5/2026, 4:44:33 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on the upcoming SIR (likely a government program) launch, expressing concerns about its potential impact on Dalits, minorities, women, and migrant votes (2, 6). He is also actively working to strengthen ties with the TDP, including installing an NTR statue (11, 15). Political rivals are accusing the Congress government of various actions, including plans to cut farm power and end welfare schemes (3, 12, 14).</p>",
@@ -2025,6 +2002,29 @@
       "pm25": 9.2,
       "goldPerGram": "₹9,105",
       "newsCount": 52,
+      "topHeadlines": [
+        "Ready to debate on BJP, BRS &amp; Cong rule: CM - The Times of India",
+        "Harish Accuses Revanth Of Trying To Divert Public Attention From Failures - Deccan Chronicle",
+        "Next avatar of BRS could be ‘HRS’: Komatireddy - The Times of India",
+        "Telangana CM presents Rugby Premier League trophy as Hyderabad Heroes win Season 2 title - The Hindu",
+        "Revanth Reddy kicks off mega road plan - metroindia.net"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-28T23:04:03.731Z",
+    "timestampIST": "29/6/2026, 4:34:03 am",
+    "executiveSummary": "<p>The Chief Minister has called for a special Assembly session to debate the performance of the current government against previous administrations (Headlines #1, #6, #8, #15). This comes amidst significant political challenges from the BRS, with accusations of diverting public attention from failures and calls to dissolve the Assembly (Headlines #2, #11, #14). Concurrently, floodgates of Himayat Sagar have been lifted, alerting low-lying areas of the Musi River (Headline #7), while the Chief Minister has announced plans to address project hurdles in the Musi River and initiated new road projects (Headlines #5, #16, #18). Separately, two fatalities and four injuries were reported in Warangal due to separate accidents (Headline #13).</p>",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>The Chief Minister has called for a special Assembly session to debate the performance of the current government against previous administrations (Headlines #1, #6, #8, #15). This comes amidst significant political challenges from the BRS, with accusations of diverting public attention from failures and calls to dissolve the Assembly (Headlines #2, #11, #14). Concurrently, floodgates of Himayat Sagar have been lifted, alerting low-lying areas of the Musi River (Headline #7), while the Chief Minister has announced plans to address project hurdles in the Musi River and initiated new road projects (Headlines #5, #16, #18). Separately, two fatalities and four injuries were reported in Warangal due to separate accidents (Headline #13).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Musi River Flood Risk and Political Blame Game. The lifting of Himayat Sagar floodgates (Headline #7) poses an immediate risk to low-lying areas. This is exacerbated by political accusations regarding the Musi River's destruction (Headlines #9, #10), potentially complicating emergency response and public trust.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Political Instability and Governance Challenges. The Chief Minister's call for a special Assembly session (Headlines #6, #8) and challenges from the opposition to dissolve the Assembly (Headlines #11, #14) indicate a period of heightened political tension, potentially impacting governance stability and policy implementation.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Public Safety in Warangal. Two fatalities and four injuries reported in Warangal due to separate accidents (Headline #13) indicate a localized public safety concern requiring immediate attention.</li>\n    <li><span class=\"risk-low\">LOW</span>: Project Implementation Confusion. Discrepancies between the CM and Ministers regarding the SLBC project deadline (Headline #19) suggest potential internal coordination issues, which could lead to delays or inefficiencies in project delivery.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's call for a special Assembly session to debate government performance (Headlines #1, #6, #8, #15) is directly challenged by BRS leaders Harish Rao and KTR, who accuse the CM of diverting attention from failures and conspire against the Musi River (Headlines #2, #9, #10, #11, #14). This indicates a highly confrontational political environment.</li>\n    <li>The lifting of Himayat Sagar floodgates (Headline #7) and the subsequent alert for low-lying areas of the Musi River directly correlates with the Chief Minister's stated intention to \"dump project hurdles in Musi River\" (Headline #16) and KTR's accusations of the CM and BJP conspiring to \"erase Musi river\" (Headlines #9, #10). This highlights an immediate environmental concern intertwined with significant political rhetoric.</li>\n    <li>The Chief Minister's initiation of mega road plans and HAM Road Projects in Nalgonda (Headlines #5, #18) demonstrates a focus on infrastructure development, which could be seen as a counter-narrative to accusations of governance failures made by the opposition (Headline #2).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately deploy disaster response teams and issue clear public advisories for areas downstream of the Musi River following the lifting of Himayat Sagar floodgates (Headline #7).</li>\n    <li>Convene an urgent meeting with relevant departments to address the confusion surrounding the SLBC project deadline (Headline #19) to ensure clarity and coordinated action.</li>\n    <li>Direct the Warangal district administration to investigate the causes of the accidents (Headline #13) and implement immediate measures to enhance road safety.</li>\n    <li>Prepare a comprehensive briefing for the special Assembly session (Headlines #6, #8) to effectively counter opposition claims and present the government's performance (Headlines #1, #15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad/Ranga Reddy (Musi River Basin)</b>: Immediate attention required due to the lifting of Himayat Sagar floodgates (Headline #7) and the associated risk to low-lying areas along the Musi River. This area is also a focal point for political accusations regarding the river's condition (Headlines #9, #10).</li>\n    <li><b>Warangal</b>: Requires immediate attention due to reported fatalities and injuries from separate accidents (Headline #13), necessitating a review of local public safety measures.</li>\n    <li><b>Nalgonda</b>: Focus for monitoring the implementation and progress of the newly launched HAM Road Projects (Headline #18).</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "23.7°C",
+      "humidity": "94%",
+      "wind": "8.2 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 22,
+      "pm25": 8.3,
+      "goldPerGram": "₹9,105",
+      "newsCount": 47,
       "topHeadlines": [
         "Ready to debate on BJP, BRS &amp; Cong rule: CM - The Times of India",
         "Harish Accuses Revanth Of Trying To Divert Public Attention From Failures - Deccan Chronicle",
