@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29T15:38:45.870Z",
-    "timestampIST": "29/5/2026, 9:08:45 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy unveiled a statue of NTR in Hyderabad, emphasizing the importance of NTR alongside Indira Gandhi (4, 6, 11, 13, 14, 15, 16, 19). The CM also directed officials to roll out a 'unified welfare card' for all schemes (12, 17, 18). Political tensions are rising, with BRS opposing the 'Rythu DISCOM' proposal and alleging an attempt to end free power for farmers (3), and Congress accused of conspiring to end KCR's welfare schemes (1).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy unveiled a statue of NTR in Hyderabad, emphasizing the importance of NTR alongside Indira Gandhi (4, 6, 11, 13, 14, 15, 16, 19). The CM also directed officials to roll out a 'unified welfare card' for all schemes (12, 17, 18). Political tensions are rising, with BRS opposing the 'Rythu DISCOM' proposal and alleging an attempt to end free power for farmers (3), and Congress accused of conspiring to end KCR's welfare schemes (1).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS's opposition to the 'Rythu DISCOM' proposal and allegations against the government regarding welfare schemes could lead to increased political friction (1, 3).</li>\n    <li><span class=\"risk-low\">Public Safety:</span> Two separate bus accidents triggered panic in Hyderabad (9).</li>\n    <li><span class=\"risk-low\">Public Perception:</span> The unveiling of NTR's statue and related political statements could be perceived negatively by some, potentially impacting public sentiment (4, 5, 6, 8, 11, 13, 14, 15, 16, 19).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The unveiling of NTR's statue (4, 11, 13, 14, 15, 16, 19) is directly linked to the Congress party's efforts to strengthen ties with the TDP ahead of Hyderabad civic polls (4).</li>\n    <li>The announcement of the 'unified welfare card' (12, 17, 18) is likely intended to streamline and improve welfare scheme management, potentially addressing concerns raised by political opponents (1, 3).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor BRS's response to the 'Rythu DISCOM' proposal and any potential actions they may take (3).</li>\n    <li>Assess public reaction to the NTR statue unveiling and related political messaging (4, 5, 6, 8, 11, 13, 14, 15, 16, 19).</li>\n    <li>Review and enhance safety protocols for public transportation in Hyderabad following the recent bus accidents (9).</li>\n    <li>Expedite the rollout of the 'unified welfare card' to demonstrate the government's commitment to welfare programs (12, 17, 18).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the unveiling of NTR's statue and the upcoming civic polls, Hyderabad requires increased political monitoring and public safety measures (4, 9, 15, 16).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.7°C",
-      "humidity": "56%",
-      "wind": "3.8 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 28,
-      "pm25": 43.2,
-      "goldPerGram": "₹9,163",
-      "newsCount": 19,
-      "topHeadlines": [
-        "Congress govt conspiring to end KCR’s welfare schemes: Jagadish Reddy - Telangana Today",
-        "Harish Rao slams remarks on three-hour power supply for farmers - Telangana Today",
-        "BRS demands withdrawal of ‘Rythu DISCOM’ proposal, alleges bid to end free power for farmers - Telangana Today",
-        "Revanth Reddy Installs NTR Statue to Strengthen TDP Ties Ahead of Hyderabad Civic Polls - Devdiscourse",
-        "Only Revanth Reddy Can Impress Congress, And TDP At A Time - Gulte"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-29T18:35:17.836Z",
     "timestampIST": "30/5/2026, 12:05:17 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on strengthening ties with the TDP, including installing NTR statues (7, 11).  He is also facing criticism regarding the SIR project's impact on migrant votes (2, 6).  Political tensions are high, with allegations exchanged between Revanth Reddy and K Chandrasekhar Rao (4), and BRS opposing welfare scheme changes (8, 10).</p>",
@@ -2008,6 +1985,29 @@
         "CM Revanth Reddy Launches HAM Road Projects In Nalgonda - INDToday",
         "Confusion reigns supreme as CM and Ministers differ on SLBC project deadline - Telangana Today",
         "Revanth Reddy Pays Tribute To PV Narasimha Rao - INDToday"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-28T17:14:19.268Z",
+    "timestampIST": "28/6/2026, 10:44:19 pm",
+    "executiveSummary": "<p>The Himayat Sagar floodgates have been lifted, alerting low-lying areas of the Musi River (#1). Political tensions are high with the Chief Minister challenging the opposition to an Assembly debate on government performance (#8) and the opposition daring the CM to dissolve the Assembly (#5, #7). Separately, two fatalities and four injuries were reported in accidents in Warangal (#6).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Himayat Sagar floodgates have been lifted, alerting low-lying areas of the Musi River (#1). Political tensions are high with the Chief Minister challenging the opposition to an Assembly debate on government performance (#8) and the opposition daring the CM to dissolve the Assembly (#5, #7). Separately, two fatalities and four injuries were reported in accidents in Warangal (#6).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Flood Risk:</span> Himayat Sagar floodgates lifted, impacting low-lying areas of Musi River (#1).</li>\n    <li><span class=\"risk-medium\">Public Safety:</span> Two killed, four injured in separate accidents in Warangal (#6).</li>\n    <li><span class=\"risk-medium\">Political Instability/Governance Challenge:</span> Opposition challenges CM to dissolve Assembly (#5, #7), and CM challenges opposition to debate performance (#8).</li>\n    <li><span class=\"risk-low\">Infrastructure Project Delays:</span> Confusion among CM and Ministers regarding SLBC project deadline (#12).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The lifting of Himayat Sagar floodgates (#1) and CM Revanth Reddy's statement to \"Dump Project Hurdles in Musi River\" (#9) indicate ongoing issues and potential interventions related to the Musi River.</li>\n    <li>CM Revanth Reddy's challenge to the opposition for an Assembly debate on government performance (#8) directly relates to the opposition's challenge to dissolve the Assembly and seek a fresh mandate (#5, #7), highlighting a significant political confrontation.</li>\n    <li>CM Revanth Reddy launching HAM Road Projects in Nalgonda (#11) and a ₹83-crore drinking water project in Nalgonda (#16) indicates a focus on infrastructure development in that district.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately monitor and manage the situation in low-lying areas along the Musi River following the lifting of Himayat Sagar floodgates (#1).</li>\n    <li>Direct relevant authorities to investigate and address the causes of the accidents in Warangal that resulted in two deaths and four injuries (#6).</li>\n    <li>Prepare for the special assembly session (#2) and the potential debate on government performance (#8), ensuring all necessary data and responses are ready.</li>\n    <li>Address the reported confusion regarding the SLBC project deadline (#12) to ensure project continuity and clarity.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><strong>Hyderabad/Musi River Basin:</strong> Immediate attention required due to Himayat Sagar floodgates being lifted, impacting low-lying areas of the Musi River (#1).</li>\n    <li><strong>Warangal:</strong> Requires attention for public safety and accident investigation following two fatalities and four injuries (#6).</li>\n    <li><strong>Nalgonda:</strong> Focus on monitoring the progress and impact of the newly launched HAM Road Projects (#11) and the ₹83-crore drinking water project (#16).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "23.6°C",
+      "humidity": "97%",
+      "wind": "5.7 km/h",
+      "weatherDesc": "Rain Showers",
+      "aqi": 29,
+      "pm25": 13.5,
+      "goldPerGram": "₹9,105",
+      "newsCount": 50,
+      "topHeadlines": [
+        "Himayat Sagar floodgates lifted, alerted low-lying areas of Musi River - Telangana Today",
+        "Telangana special assembly session to review BRS and opposition performance - The News Mill",
+        "'Telangana society boycotts KCR family; BRS has no future': CM Revanth Reddy - Deccan Herald",
+        "KTR blames Revanth Reddy and BJP for Musi River destruction in Telangana - The News Mill",
+        "Harish Rao dares Revanth Reddy to dissolve Assembly, seek fresh mandate - Telangana Today"
       ]
     }
   }
