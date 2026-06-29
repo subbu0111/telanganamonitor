@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-30T06:47:14.194Z",
-    "timestampIST": "30/5/2026, 12:17:14 pm",
-    "executiveSummary": "<p>The Chief Minister is focused on the upcoming SIR exercise, instructing Congress workers to ensure no one loses their vote. (4) Concerns are raised by BRS and other leaders regarding the SIR exercise's potential impact on vulnerable sections, including Dalits, minorities, women, and migrant voters. (6, 10) Political tensions are high, with allegations exchanged between Revanth Reddy and K Chandrasekhar Rao during roadshows. (12)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Chief Minister is focused on the upcoming SIR exercise, instructing Congress workers to ensure no one loses their vote. (4) Concerns are raised by BRS and other leaders regarding the SIR exercise's potential impact on vulnerable sections, including Dalits, minorities, women, and migrant voters. (6, 10) Political tensions are high, with allegations exchanged between Revanth Reddy and K Chandrasekhar Rao during roadshows. (12)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Potential for voter disenfranchisement during the SIR exercise, as highlighted by the CM's directives and concerns raised by opposition leaders. (2, 4, 6, 10, 14)</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Increased political polarization and potential for unrest due to the exchange of allegations between Revanth Reddy and K Chandrasekhar Rao. (12)</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Public dissatisfaction and potential protests related to paddy procurement delays and farmer distress, as alleged by BRS leader Ravula Sridhar Reddy. (1)</li>\n    <li><span class=\"risk-low\">LOW:</span> Opposition accusations of the government's plans to cut farm power and end welfare schemes. (7, 16, 18)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The SIR exercise (2, 4, 6, 8, 9, 10, 14) is a central focus, with concerns raised about its impact on vulnerable sections and migrant voters, indicating potential for political manipulation and voter suppression.</li>\n    <li>Revanth Reddy's actions, including installing an NTR statue (15, 19), are directly linked to garnering support from TDP and strengthening ties ahead of Hyderabad civic polls.</li>\n    <li>Discussions around farm power and welfare schemes (7, 16, 18) are being used by the opposition to criticize the government.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct election officials to meticulously verify voter registration data, particularly in vulnerable communities, to mitigate the risk of disenfranchisement during the SIR exercise.</li>\n    <li>Issue clear guidelines to Congress workers regarding the SIR process, emphasizing transparency and fairness.</li>\n    <li>Monitor political rallies and roadshows for any escalation of tensions between political parties.</li>\n    <li>Initiate proactive communication with farmers to address concerns about paddy procurement delays and ensure timely resolution.</li>\n    <li>Assess the feasibility of the proposed single smart welfare card with AI system. (5)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Hyderabad: Given the focus on Hyderabad civic polls and Revanth Reddy's actions to garner TDP support (15, 19), this district requires heightened monitoring of political activities and voter engagement.</li>\n    <li>Districts with significant populations of Dalits, minorities, women, and migrant workers: These areas need focused attention during the SIR exercise to ensure equitable voter registration and prevent disenfranchisement. (6, 10)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "36.2°C",
-      "humidity": "28%",
-      "wind": "14.1 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 53,
-      "pm25": 18.3,
-      "goldPerGram": "₹9,163",
-      "newsCount": 21,
-      "topHeadlines": [
-        "BRS leader Ravula Sridhar Reddy questions Telangana govt over paddy procurement, claims delays and farmer distress - ANI News",
-        "Telangana CM draws action plan to protect votes of vulnerable sections in SIR - The News Minute",
-        "Cyberabad police arrest three for fake government orders and illegal land sales - The News Mill",
-        "Ensure not a single person loses vote during SIR: Telangana CM to Congress workers - The New Indian Express",
-        "Telangana Plans Single Smart Welfare Card With AI System - INDToday"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-30T10:02:14.730Z",
-    "timestampIST": "30/5/2026, 3:32:14 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will tour Telangana districts starting June 1 (Headline 2). The Chief Minister has ordered officials to create a \"one stop multi purpose Unified Card\" for every citizen (Headline 4) and is focused on the Special Summary Revision (SIR) exercise, urging caution and action to protect vulnerable voters (Headlines 9, 10, 12, 14, 16, 20).</p>\n<p>Kishan Reddy has criticized the Telangana government regarding paddy procurement (Headlines 1, 5, 6).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will tour Telangana districts starting June 1 (Headline 2). The Chief Minister has ordered officials to create a \"one stop multi purpose Unified Card\" for every citizen (Headline 4) and is focused on the Special Summary Revision (SIR) exercise, urging caution and action to protect vulnerable voters (Headlines 9, 10, 12, 14, 16, 20).</p>\n<p>Kishan Reddy has criticized the Telangana government regarding paddy procurement (Headlines 1, 5, 6).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Potential for political unrest due to allegations of paddy procurement lapses and farmer distress (Headlines 1, 5, 6, 8).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Risk of voter disenfranchisement during the SIR exercise, particularly for Dalits, minorities, women, and migrants (Headlines 9, 12, 16).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Criticism from opposition leaders, including allegations of cutting farm power (Headlines 13, 18).</li>\n    <li><span class=\"risk-low\">LOW:</span> Public perception challenges related to the implementation of the \"one stop multi purpose Unified Card\" (Headline 4, 11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Criticism of the government's paddy procurement (Headlines 1, 5, 6, 8) is linked to the upcoming district tours by CM Revanth Reddy (Headline 2), suggesting a need for damage control and public outreach.</li>\n    <li>The focus on the SIR exercise (Headlines 9, 10, 12, 14, 16, 20) and the CM's directive to protect vulnerable voters suggests a concern about potential electoral challenges.</li>\n    <li>The CM's focus on the SIR exercise (Headlines 9, 10, 12, 14, 16, 20) and the creation of a \"one stop multi purpose Unified Card\" (Headline 4, 11) indicates an attempt to consolidate power and improve governance.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>The Chief Minister's office should prepare a comprehensive response to the allegations regarding paddy procurement, including data and proactive communication strategies.</li>\n    <li>Ensure robust oversight and monitoring of the SIR exercise to prevent voter disenfranchisement, especially among vulnerable groups.</li>\n    <li>Provide clear guidelines and support to Congress workers to bolster constituency oversight before the SIR launch (Headline 15).</li>\n    <li>Expedite the implementation of the \"one stop multi purpose Unified Card\" and communicate its benefits to the public.</li>\n    <li>Prepare for potential public demonstrations or protests related to farmer distress and paddy procurement issues.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>All districts require immediate attention, given the CM's upcoming tour (Headline 2) and the focus on the SIR exercise (Headlines 9, 10, 12, 14, 16, 20). Districts with a higher concentration of vulnerable populations (Dalits, minorities, women, and migrants) should be prioritized during the SIR process.</p>\n```",
-    "dataSnapshot": {
-      "temperature": "37.5°C",
-      "humidity": "24%",
-      "wind": "11.3 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 61,
-      "pm25": 20.8,
-      "goldPerGram": "₹9,163",
-      "newsCount": 25,
-      "topHeadlines": [
-        "Cong Govt Failed in Paddy Procurement, Trying to Blame Centre: Kishan Reddy - Deccan Chronicle",
-        "CM Revanth Reddy To Tour Telangana Districts From June 1 - INDToday",
-        "Indiramma Houses a Gift from Revanth Reddy to Urban Poor: Ponguleti - Deccan Chronicle",
-        "Telangana CM orders officials to create “one stop multi purpose Unified Card” for every citizen of state - News On AIR",
-        "Kishan Reddy Criticizes Telangana Congress Over Paddy Procurement Lapses - Devdiscourse"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-30T13:43:04.055Z",
     "timestampIST": "30/5/2026, 7:13:04 pm",
     "executiveSummary": "<p>BRS leader Balka Suman was arrested by Hyderabad Police, creating tension at Telangana Bhavan (1). Chief Minister Revanth Reddy will tour Telangana districts starting June 1 (4). The CM is focused on the Special Summary Revision (SIR) and protecting votes, particularly of vulnerable sections (13, 14, 16, 18, 19, 20).</p>",
@@ -2008,6 +1962,29 @@
         "Ready to discuss BRS, BJP, Congress’ performance in special Assembly session: CM Revanth challenges Opposition - NewsMeter",
         "Revanth Reddy Vows To Complete Musi River Rejuvenation, Says No Force Can Halt Project - The Morning Voice",
         "Telangana BJP inaugurates nine district offices for grassroots mobilization - The News Mill"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-29T11:03:03.923Z",
+    "timestampIST": "29/6/2026, 4:33:03 pm",
+    "executiveSummary": "<p>The political landscape in Telangana is highly charged, with significant inter-party accusations and challenges. Chief Minister Revanth Reddy is facing strong criticism from the BRS and BJP regarding governance, development, and alleged political maneuvering (Headlines #2, #4, #5, #7, #20). Concurrently, the CM is undertaking an administrative reset, including bringing in a favored IAS officer, and is focusing on key infrastructure projects like the Nagarjunasagar modernization and Musi River rejuvenation (Headlines #6, #9, #10, #12, #16). The BJP is actively expanding its grassroots presence across the state (Headlines #17, #18).</p>",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>The political landscape in Telangana is highly charged, with significant inter-party accusations and challenges. Chief Minister Revanth Reddy is facing strong criticism from the BRS and BJP regarding governance, development, and alleged political maneuvering (Headlines #2, #4, #5, #7, #20). Concurrently, the CM is undertaking an administrative reset, including bringing in a favored IAS officer, and is focusing on key infrastructure projects like the Nagarjunasagar modernization and Musi River rejuvenation (Headlines #6, #9, #10, #12, #16). The BJP is actively expanding its grassroots presence across the state (Headlines #17, #18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Inter-Party Conflict:</span> High volume of direct accusations and challenges between the ruling Congress and opposition BRS/BJP, including calls for assembly dissolution and debates on performance (Headlines #2, #4, #5, #7, #11, #15, #19, #20).</li>\n    <li><span class=\"risk-medium\">Governance & Public Perception:</span> Allegations of ignoring Nalgonda's development, land seizure, and turning public meetings into political shows could negatively impact public trust and perception of the administration (Headlines #4, #5, #7).</li>\n    <li><span class=\"risk-low\">Internal Party Cohesion (Congress):</span> Reports of the \"Telangana Congress kettle threatening to boil over\" suggest potential internal dissent or challenges within the ruling party (Headline #8).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The BRS's accusations against CM Revanth Reddy regarding Nalgonda's development and political showmanship (Headlines #4, #5) are directly challenged by CM Revanth Reddy's counter-claims that \"no one wants BRS back in power\" and his readiness to debate party performance (Headlines #14, #15, #19).</li>\n    <li>CM Revanth Reddy's administrative reset, including bringing in a favored IAS officer (Headlines #6, #9, #10), could be seen as a strategic move to strengthen his administration ahead of the \"strong second-half push\" and with an eye on the 2028 polls (Headline #13).</li>\n    <li>The BJP's inauguration of nine district offices and call for grassroots mobilization (Headlines #17, #18) indicates a strategic effort to strengthen its presence, which aligns with the general increase in political activity and criticism directed at the current administration from opposition parties (Headlines #2, #3).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prepare a detailed response to the BRS's accusations regarding Nalgonda's development and alleged political showmanship, potentially highlighting ongoing or planned development initiatives in the region (Headlines #4, #5).</li>\n    <li>Monitor internal dynamics within the Telangana Congress closely to mitigate any potential \"boiling over\" issues and ensure party cohesion (Headline #8).</li>\n    <li>Develop a communication strategy to address and counter allegations of land seizure and other criticisms from opposition parties, ensuring transparency and accountability (Headlines #7, #20).</li>\n    <li>Expedite the comprehensive modernization of the Nagarjunasagar project and the Musi River rejuvenation to demonstrate tangible progress on key infrastructure commitments (Headlines #12, #16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Nalgonda:</b> Requires immediate attention due to accusations from the BRS regarding the CM ignoring its development and turning public meetings into political shows (Headlines #4, #5).</li>\n    <li><b>Kodangal:</b> K Kavitha's targeting of Revanth Reddy's Kodangal seat suggests it may become a focal point for political contestation (Headline #3).</li>\n    <li><b>Multiple Districts (9):</b> The inauguration of nine BJP district offices indicates increased political activity and grassroots mobilization efforts across these unnamed districts, warranting monitoring (Headlines #17, #18).</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "29.5°C",
+      "humidity": "67%",
+      "wind": "7.4 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 38,
+      "pm25": 12.8,
+      "goldPerGram": "₹9,105",
+      "newsCount": 45,
+      "topHeadlines": [
+        "Telangana mulls incentives to boost rice exports, says Uttam Kumar Reddy - Telangana Today",
+        "Telangana BJP leader critiques Revanth Reddy's administration - The News Mill",
+        "Amid Telangana SIR Drive, K Kavitha Targets Revanth Reddy's Kodangal Seat - NDTV",
+        "BRS accuses Revanth Reddy of turning Nalgonda public meeting into political show - Telangana Today",
+        "Jagadish Reddy accuses Revanth Reddy of ignoring Nalgonda’s development, resorting to personal attacks - Telangana Today"
       ]
     }
   }
