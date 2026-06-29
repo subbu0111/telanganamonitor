@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29T23:14:33.296Z",
-    "timestampIST": "30/5/2026, 4:44:33 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is focused on the upcoming SIR (likely a government program) launch, expressing concerns about its potential impact on Dalits, minorities, women, and migrant votes (2, 6). He is also actively working to strengthen ties with the TDP, including installing an NTR statue (11, 15). Political rivals are accusing the Congress government of various actions, including plans to cut farm power and end welfare schemes (3, 12, 14).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is focused on the upcoming SIR (likely a government program) launch, expressing concerns about its potential impact on Dalits, minorities, women, and migrant votes (2, 6). He is also actively working to strengthen ties with the TDP, including installing an NTR statue (11, 15). Political rivals are accusing the Congress government of various actions, including plans to cut farm power and end welfare schemes (3, 12, 14).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Potential for unrest or voter backlash due to concerns about the SIR program's impact on Dalits, minorities, women, and migrant votes (2, 6).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Increased political tensions and potential for protests or disruptions due to allegations of plans to cut farm power and end welfare schemes (3, 12, 14).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Public panic due to two separate bus accidents in Hyderabad (19).</li>\n    <li><span class=\"risk-low\">LOW:</span> Negative perception of the Congress government due to the NTR statue installation and associated political commentary (11, 15, 18).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The SIR program is a central point of contention, with concerns raised by Revanth Reddy about its potential impact (2, 4, 6, 10) and accusations from the opposition (2).</li>\n    <li>Revanth Reddy's actions to strengthen TDP ties (11, 15) are occurring simultaneously with political accusations and counter-accusations (8, 12, 13, 14).</li>\n    <li>The focus on the SIR program and the upcoming Hyderabad civic polls (15) suggests a strategic effort to consolidate support and manage potential risks.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Conduct an immediate assessment of the SIR program's potential impact on vulnerable groups and develop mitigation strategies.</li>\n    <li>Issue a public statement addressing concerns about the SIR program and the allegations of cutting farm power and ending welfare schemes.</li>\n    <li>Increase security and public awareness following the bus accidents in Hyderabad.</li>\n    <li>Monitor the political rhetoric surrounding the NTR statue installation and its impact on public sentiment.</li>\n    <li>Ensure effective communication and coordination between government departments regarding the SIR launch and related initiatives.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Due to the bus accidents (19) and the upcoming civic polls (15), increased vigilance and public safety measures are required.</li>\n    <li><b>All Districts:</b> Monitor public sentiment and potential for unrest related to the SIR program and accusations of policy changes (2, 3, 4, 6, 10, 12, 14).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "28.9°C",
-      "humidity": "55%",
-      "wind": "14.4 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 28,
-      "pm25": 13.4,
-      "goldPerGram": "₹9,163",
-      "newsCount": 22,
-      "topHeadlines": [
-        "Telangana Plans Single Smart Welfare Card With AI System - INDToday",
-        "SIR exercise may affect Dalits, minorities, women: Revanth - Telangana Today",
-        "Harish Accuses Congress of Plan To Cut Farm Power - Deccan Chronicle",
-        "Protect Voters From SIR or Lose Power, Says CM Revanth - Deccan Chronicle",
-        "Revanth Reddy Urges Telangana Congress to Bolster Constituency Oversight Before SIR Launch - Devdiscourse"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-30T03:36:10.116Z",
-    "timestampIST": "30/5/2026, 9:06:10 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism and internal party concerns regarding the upcoming SIR exercise, with allegations of potential negative impacts on Dalits, minorities, women, and migrant votes (2, 4, 6). The CM is actively attempting to garner TDP support, including the installation of an NTR statue (11, 12, 16). Political rivals, including Harish Rao and K Chandrasekhar Rao, are actively exchanging allegations and criticizing the Congress government's actions (3, 8, 13, 14, 15).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism and internal party concerns regarding the upcoming SIR exercise, with allegations of potential negative impacts on Dalits, minorities, women, and migrant votes (2, 4, 6). The CM is actively attempting to garner TDP support, including the installation of an NTR statue (11, 12, 16). Political rivals, including Harish Rao and K Chandrasekhar Rao, are actively exchanging allegations and criticizing the Congress government's actions (3, 8, 13, 14, 15).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH:</span> Potential for social unrest and political backlash due to concerns surrounding the SIR exercise and its impact on vulnerable groups (2, 4, 6).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Increased political tension and potential for public demonstrations due to allegations of attempts to cut farm power and end welfare schemes (3, 13, 15).</li>\n    <li><span class=\"risk-medium\">MEDIUM:</span> Negative perception and potential for electoral damage due to the NTR statue initiative and associated political maneuvering (11, 12, 16, 20).</li>\n    <li><span class=\"risk-low\">LOW:</span> Ongoing political exchanges and allegations between key leaders, potentially escalating tensions (8).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The SIR exercise (2, 4, 5, 6, 10) is a central point of concern, with multiple headlines highlighting potential negative consequences and political maneuvering related to it.</li>\n    <li>Revanth Reddy's actions, including the SIR launch and NTR statue installations, are directly linked to attempts to garner support and address political challenges (4, 5, 6, 11, 12, 16).</li>\n    <li>Allegations regarding farm power and welfare schemes are being used by opposition leaders to criticize the Congress government (3, 13, 14, 15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Conduct an immediate internal review of the SIR exercise to address concerns raised regarding its potential impact on vulnerable groups (2, 4, 6).</li>\n    <li>Issue a public statement clarifying the government's stance on farm power and welfare schemes to counter opposition allegations (3, 13, 14, 15).</li>\n    <li>Monitor public sentiment and social media regarding the NTR statue initiative and its reception (11, 12, 16, 20).</li>\n    <li>Brief key party leaders on the potential risks associated with the SIR exercise and the need for coordinated messaging (4, 5, 10).</li>\n    <li>Assess the potential impact of the Hyderabad advocate murder case on public perception and political stability (18).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<p>Focus should be on districts where the SIR exercise is being implemented and where the TDP voter base is significant, particularly Hyderabad, given the focus on civic polls and the NTR statue installations (11, 12, 16). Monitor districts where concerns about farm power and welfare schemes are most pronounced (3, 13, 14, 15).</p>\n```",
-    "dataSnapshot": {
-      "temperature": "31.2°C",
-      "humidity": "50%",
-      "wind": "17.2 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 28,
-      "pm25": 12,
-      "goldPerGram": "₹9,163",
-      "newsCount": 21,
-      "topHeadlines": [
-        "Telangana Plans Single Smart Welfare Card With AI System - INDToday",
-        "SIR exercise may affect Dalits, minorities, women: Revanth - Telangana Today",
-        "Harish Accuses Congress of Plan To Cut Farm Power - Deccan Chronicle",
-        "Revanth Puts Leaders On High Alert Over SIR - Deccan Chronicle",
-        "Revanth Reddy Urges Telangana Congress to Bolster Constituency Oversight Before SIR Launch - Devdiscourse"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-30T06:47:14.194Z",
     "timestampIST": "30/5/2026, 12:17:14 pm",
     "executiveSummary": "<p>The Chief Minister is focused on the upcoming SIR exercise, instructing Congress workers to ensure no one loses their vote. (4) Concerns are raised by BRS and other leaders regarding the SIR exercise's potential impact on vulnerable sections, including Dalits, minorities, women, and migrant voters. (6, 10) Political tensions are high, with allegations exchanged between Revanth Reddy and K Chandrasekhar Rao during roadshows. (12)</p>",
@@ -2031,6 +1985,29 @@
         "Next avatar of BRS could be ‘HRS’: Komatireddy - The Times of India",
         "Telangana CM presents Rugby Premier League trophy as Hyderabad Heroes win Season 2 title - The Hindu",
         "Revanth Reddy kicks off mega road plan - metroindia.net"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-29T04:06:45.321Z",
+    "timestampIST": "29/6/2026, 9:36:45 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaging in political challenges, calling for a special Assembly session to debate the performance of BRS, BJP, and Congress (Headline #3, #9, #14, #16). Concurrently, the CM is prioritizing infrastructure development, including the Musi River rejuvenation project and a mega road plan (Headline #4, #7, #13). The lifting of Himayat Sagar floodgates has necessitated alerts for low-lying areas along the Musi River (Headline #15), coinciding with political accusations regarding the river's condition (Headline #18, #19).</p>",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaging in political challenges, calling for a special Assembly session to debate the performance of BRS, BJP, and Congress (Headline #3, #9, #14, #16). Concurrently, the CM is prioritizing infrastructure development, including the Musi River rejuvenation project and a mega road plan (Headline #4, #7, #13). The lifting of Himayat Sagar floodgates has necessitated alerts for low-lying areas along the Musi River (Headline #15), coinciding with political accusations regarding the river's condition (Headline #18, #19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Safety/Environmental Risk (Musi River)</span>: The lifting of Himayat Sagar floodgates and the alerting of low-lying areas along the Musi River (Headline #15) indicates an immediate flood risk.</li>\n    <li><span class=\"risk-medium\">Political Instability/Divisiveness</span>: The CM's challenge to the opposition for a special Assembly session (Headline #3, #9, #14, #16) and accusations from opposition leaders (Headline #10, #18, #19, #20) suggest heightened political tensions and potential for disruption.</li>\n    <li><span class=\"risk-low\">Infrastructure Project Delays/Opposition</span>: While the CM vows to complete the Musi River rejuvenation (Headline #4, #7), opposition leaders are already blaming the CM for its destruction (Headline #18, #19), which could lead to public skepticism or protests.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's commitment to the Musi River Rejuvenation Project (Headline #4, #7) directly correlates with the lifting of Himayat Sagar floodgates and the subsequent alerts for low-lying areas along the Musi River (Headline #15), highlighting the immediate need for effective river management and flood control measures.</li>\n    <li>CM Revanth Reddy's challenge to the opposition for a special Assembly session to discuss party performance (Headline #3, #9, #14, #16) is directly countered by Harish Rao's accusation that the CM is trying to divert public attention from failures (Headline #10) and KTR's blame regarding Musi River destruction (Headline #18, #19), indicating a high-stakes political environment.</li>\n    <li>The BJP's inauguration of nine district offices for grassroots mobilization (Headline #5) and the call for a grassroots push (Headline #6) aligns with the CM's focus on the 2028 polls (Headline #1), indicating early strategic positioning by major political parties for future elections.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately monitor and manage the situation regarding the Himayat Sagar floodgates and Musi River low-lying areas (Headline #15) to ensure public safety and prevent any adverse incidents.</li>\n    <li>Prepare for the special Assembly session (Headline #3, #9, #14, #16) by compiling comprehensive performance reports for all parties to effectively counter opposition narratives and present government achievements.</li>\n    <li>Develop a robust communication strategy to address public concerns and counter opposition accusations regarding the Musi River rejuvenation project (Headline #4, #7, #18, #19), emphasizing transparency and progress.</li>\n    <li>Initiate a review of the mega road plan (Headline #13) to ensure timely execution and address any potential bottlenecks, aligning with the CM's second-half push (Headline #1).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Districts along the Musi River: Immediate attention is required due to the lifting of Himayat Sagar floodgates and the alerting of low-lying areas (Headline #15). This necessitates monitoring, potential evacuation preparedness, and public safety measures.</li>\n    <li>Districts where BJP is establishing new offices: These districts (Headline #5) will likely see increased political activity and grassroots mobilization, requiring monitoring of political dynamics and potential for local-level tensions.</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "27.7°C",
+      "humidity": "71%",
+      "wind": "11.3 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 36,
+      "pm25": 10.1,
+      "goldPerGram": "₹9,105",
+      "newsCount": 49,
+      "topHeadlines": [
+        "With an eye on 2028 polls, Telangana CM Revanth gears up for strong second-half push - The New Indian Express",
+        "No one wants BRS back in power: Telangana CM Revanth - The New Indian Express",
+        "Ready to discuss BRS, BJP, Congress’ performance in special Assembly session: CM Revanth challenges Opposition - NewsMeter",
+        "Revanth Reddy Vows To Complete Musi River Rejuvenation, Says No Force Can Halt Project - The Morning Voice",
+        "Telangana BJP inaugurates nine district offices for grassroots mobilization - The News Mill"
       ]
     }
   }
