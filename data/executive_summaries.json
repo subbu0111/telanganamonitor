@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-05-30T19:19:27.681Z",
-    "timestampIST": "31/5/2026, 12:49:27 am",
-    "executiveSummary": "<p>No critical developments were reported in the last 24 hours.</p>\n<p>Gold price is currently at ₹9163/gram.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>No critical developments were reported in the last 24 hours.</p>\n<p>Gold price is currently at ₹9163/gram.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<p>No risks can be assessed based on the provided data.</p>\n\n<h3>🔗 Cross-Correlation</h3>\n<p>No cross-correlations can be made based on the provided data.</p>\n\n<h3>💡 Recommendations</h3>\n<p>No recommendations can be made based on the provided data.</p>\n\n<h3>🗺️ District Focus</h3>\n<p>No district focus can be determined based on the provided data.</p>\n```",
-    "dataSnapshot": {
-      "temperature": "29.7°C",
-      "humidity": "50%",
-      "wind": "10.1 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 36,
-      "pm25": 15.5,
-      "goldPerGram": "₹9,163",
-      "newsCount": 0,
-      "topHeadlines": []
-    }
-  },
-  {
-    "timestamp": "2026-05-30T21:00:24.500Z",
-    "timestampIST": "31/5/2026, 2:30:24 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism regarding paddy procurement and is scheduled to tour Telangana districts starting June 1st (9).  He is also facing court appearances in Hyderabad related to cases from the BRS regime (4, 8).  BRS leader Balka Suman was arrested by Hyderabad Police (15).</p>",
-    "fullAnalysis": "```html\n<!DOCTYPE html>\n<html>\n<head>\n<title>Telangana Intelligence Briefing</title>\n<style>\n  .risk-high { color: red; font-weight: bold; }\n  .risk-medium { color: orange; font-weight: bold; }\n  .risk-low { color: green; }\n</style>\n</head>\n<body>\n\n  <h3>📋 Executive Summary</h3>\n  <p>Chief Minister Revanth Reddy is facing criticism regarding paddy procurement and is scheduled to tour Telangana districts starting June 1st (9).  He is also facing court appearances in Hyderabad related to cases from the BRS regime (4, 8).  BRS leader Balka Suman was arrested by Hyderabad Police (15).</p>\n\n  <h3>🚨 Risk Assessment</h3>\n  <ul>\n    <li><span class=\"risk-medium\">Political Instability:</span>  Criticism of the current government by both the opposition (KTR, Kishan Reddy) and internal issues (paddy procurement) could lead to unrest (12, 13, 20).</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span>  Paddy farmers are facing hardships due to procurement issues (12).</li>\n    <li><span class=\"risk-low\">Law and Order:</span>  The arrest of BRS leader Balka Suman in Hyderabad could potentially lead to protests or unrest (15).</li>\n    <li><span class=\"risk-low\">Legal Challenges:</span>  The CM's court appearances in Hyderabad related to BRS-era cases could create negative publicity (4, 8).</li>\n  </ul>\n\n  <h3>🔗 Cross-Correlation</h3>\n  <ul>\n    <li>Revanth Reddy is facing criticism from both the opposition (Kishan Reddy, KTR) and within his own party regarding paddy procurement and other issues (5, 12, 13, 20).</li>\n    <li>The CM is facing legal challenges related to the BRS regime while simultaneously criticizing the previous government (4, 5, 8, 10).</li>\n  </ul>\n\n  <h3>💡 Recommendations</h3>\n  <ul>\n    <li>Address paddy procurement issues immediately to mitigate farmer discontent (12, 20).</li>\n    <li>Monitor the situation surrounding the arrest of Balka Suman and potential reactions from BRS supporters (15).</li>\n    <li>Prepare a communication strategy to address the CM's court appearances and counter negative publicity (4, 8).</li>\n    <li>Ensure smooth execution of the district tour starting June 1st (9).</li>\n    <li>Review and address any concerns raised by the Congress VP Alam Khan's involvement in a lawyer murder case (14).</li>\n  </ul>\n\n  <h3>🗺️ District Focus</h3>\n  <ul>\n    <li>All districts: Monitor for any potential unrest related to the CM's upcoming tour starting June 1st (9).</li>\n    <li>All districts: Monitor farmer sentiment and potential protests related to paddy procurement issues (12, 20).</li>\n  </ul>\n\n</body>\n</html>\n```",
-    "dataSnapshot": {
-      "temperature": "28.4°C",
-      "humidity": "57%",
-      "wind": "10.6 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 36,
-      "pm25": 11,
-      "goldPerGram": "₹9,163",
-      "newsCount": 27,
-      "topHeadlines": [
-        "Revanth Reddy slams Fadnavis over Tummidihatti barrage talks - Telangana Today",
-        "YISU to Launch BTech, BSc Courses; CM Revanth Hails Microsoft Placement of 11 Students - Deccan Chronicle",
-        "Telangana CM orders officials to create “one stop multi purpose Unified Card” for every citizen of state - News On AIR",
-        "Telangana CM Revanth Reddy appears before court in Hyderabad over cases registered during BRS regime - Deccan Herald",
-        "Revanth Reddy shifts blame to Centre on paddy procurement after criticising BRS earlier - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-30T22:58:31.940Z",
     "timestampIST": "31/5/2026, 4:28:31 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy will begin a tour of Telangana districts on June 1st (8). The CM unveiled a statue of NTR in Hyderabad (18).  BRS leader Balka Suman was arrested by Hyderabad Police (14).  Kishan Reddy criticized the Congress government regarding paddy procurement (11, 19, 20).</p>",
@@ -1962,6 +1922,29 @@
         "Scores of trees cut down for CM Revanth’s Khammam meeting - Telangana Today",
         "HCA introduces new structure for institution teams from 2026-27 season - Telangana Today",
         "Hyderabad police intensify crackdown on mule account networks - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-29T21:27:15.287Z",
+    "timestampIST": "30/6/2026, 2:57:15 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy dedicated Donald Trump Avenue in Hyderabad with the U.S. Ambassador (Headline 1). The Telangana government has undertaken significant administrative reshuffles, transferring 23 SP-rank officers and 36 DSPs (Headlines 2, 11). Politically, the BRS has accused CM Revanth Reddy of various issues, including turning a public meeting into a political show, ignoring Nalgonda's development, and land seizure (Headlines 14, 15, 17).</p>",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy dedicated Donald Trump Avenue in Hyderabad with the U.S. Ambassador (Headline 1). The Telangana government has undertaken significant administrative reshuffles, transferring 23 SP-rank officers and 36 DSPs (Headlines 2, 11). Politically, the BRS has accused CM Revanth Reddy of various issues, including turning a public meeting into a political show, ignoring Nalgonda's development, and land seizure (Headlines 14, 15, 17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Opposition Accusations:</span> BRS leaders are making strong accusations against CM Revanth Reddy, including claims of duplicate votes, land seizure, and neglecting development, potentially leading to increased political friction and public unrest (Headlines 8, 12, 13, 14, 15, 17, 20).</li>\n    <li><span class=\"risk-medium\">Public Safety/Environmental Concerns:</span> Scores of trees were cut down for a CM's meeting in Khammam, raising environmental concerns and potential public backlash (Headline 4).</li>\n    <li><span class=\"risk-medium\">Administrative Efficiency/Perception:</span> Significant transfers of SP-rank officers and DSPs, alongside reports of the CM bringing in a \"favourite officer,\" could be perceived negatively by some and impact administrative continuity (Headlines 2, 11, 16, 18, 19).</li>\n    <li><span class=\"risk-low\">Financial Crime:</span> Hyderabad police are intensifying crackdowns on mule account networks, indicating ongoing efforts to combat financial crime (Headline 6).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The BRS's accusation of CM Revanth Reddy turning a Nalgonda public meeting into a political show (Headline 14) is reinforced by Jagadish Reddy's accusation that CM Revanth Reddy is ignoring Nalgonda's development (Headline 15), suggesting a coordinated opposition narrative regarding the CM's focus on the district.</li>\n    <li>The transfer of 23 SP-rank officers (Headline 2) and 36 DSPs (Headline 11) aligns with the broader theme of CM Revanth Reddy's \"administrative reset\" and signals \"no room for underperformers\" (Headline 19), indicating a significant overhaul of the police administration.</li>\n    <li>K. Kavitha's suspicion of CM Revanth Reddy winning with duplicate votes (Headline 8) and her targeting of his Kodangal seat amidst the Telangana SIR Drive (Headline 13) both highlight direct political challenges and scrutiny towards the Chief Minister's electoral legitimacy and constituency.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Address BRS accusations regarding Nalgonda's development and the nature of public meetings to counter negative narratives (Headlines 14, 15).</li>\n    <li>Monitor the impact of the large-scale transfers of SP-rank officers and DSPs on law enforcement operations and public perception (Headlines 2, 11).</li>\n    <li>Investigate and respond to allegations of land seizure by the Telangana Congress to maintain public trust (Headline 17).</li>\n    <li>Formulate a clear communication strategy regarding the environmental impact of infrastructure projects, specifically addressing the tree cutting incident in Khammam (Headline 4).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Nalgonda:</b> Requires immediate attention due to accusations from BRS leaders regarding the CM ignoring its development and turning a public meeting into a political show (Headlines 14, 15).</li>\n    <li><b>Khammam:</b> Requires attention due to the environmental impact of scores of trees being cut down for a CM's meeting, potentially leading to public discontent (Headline 4).</li>\n    <li><b>Medchal:</b> The delay in Metro expansion is a point of concern, with the BRS threatening a people's movement, indicating potential public unrest (Headline 7).</li>\n    <li><b>Kodangal:</b> CM Revanth Reddy's constituency is being targeted by K. Kavitha, suggesting heightened political scrutiny and potential for opposition activity (Headline 13).</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "24.1°C",
+      "humidity": "89%",
+      "wind": "14.7 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 19,
+      "pm25": 4.9,
+      "goldPerGram": "₹9,120",
+      "newsCount": 27,
+      "topHeadlines": [
+        "Hyderabad, the capital of the Indian State of Telangana, has honored President Donald Trump by naming a road after him. Telangana Chief Minister A. Revanth Reddy and U.S. Ambassador to India Sergio Gor dedicated Donald Trump Avenue on Tuesday. Th - facebook.com",
+        "Telangana government transfers 23 SP-rank officers - Telangana Today",
+        "CM Revanth To Release Rythu Bharosa Funds Tomorrow - Deccan Chronicle",
+        "Scores of trees cut down for CM Revanth’s Khammam meeting - Telangana Today",
+        "HCA introduces new structure for institution teams from 2026-27 season - Telangana Today"
       ]
     }
   }
