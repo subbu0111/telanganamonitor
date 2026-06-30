@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31T15:17:50.587Z",
-    "timestampIST": "31/5/2026, 8:47:50 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. (12, 14, 17) Traffic diversions are in place for CM Revanth Reddy's tour to Asifabad on Monday. (7) The BRS is challenging the CM regarding unmet promises. (5, 6, 10) The CM will review the rollout of the Employee Health Scheme. (15)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. (12, 14, 17) Traffic diversions are in place for CM Revanth Reddy's tour to Asifabad on Monday. (7) The BRS is challenging the CM regarding unmet promises. (5, 6, 10) The CM will review the rollout of the Employee Health Scheme. (15)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS cadres are criticizing the government over the arrest of Balka Suman in Mancherial. (19)</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span> BRS is challenging the CM to fulfill promises before elections. (5, 6, 10)</li>\n    <li><span class=\"risk-low\">Electoral Concerns:</span> BJP accuses Congress of opposing the electoral roll revision process. (2)</li>\n    <li><span class=\"risk-low\">Labor Unrest:</span> TTGDA opposes a 1.5 percent pay cut. (3)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's meetings with Mallikarjun Kharge (12, 14, 17) coincide with the upcoming multi-district tour starting June 1 (18), suggesting potential strategic discussions.</li>\n    <li>The Employee Health Scheme (8, 15) is a key focus, with the CM reviewing its rollout, potentially linked to the TTGDA's concerns about pay cuts (3).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the BRS's response to the government's actions, particularly regarding the arrest of Balka Suman. (19)</li>\n    <li>Assess public sentiment regarding the fulfillment of election promises, especially in light of BRS challenges. (5, 6, 10)</li>\n    <li>Prepare for potential disruptions or protests related to the CM's multi-district tour, starting June 1. (7, 18)</li>\n    <li>Ensure effective communication regarding the Employee Health Scheme rollout and address concerns raised by the TTGDA. (3, 8, 15)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Asifabad:</b> Due to the CM's scheduled tour on Monday, requiring traffic diversions. (7)</li>\n    <li><b>Mancherial:</b> Monitor the situation following the arrest of Balka Suman and the BRS's reaction. (19)</li>\n</ul>\n```\n",
-    "dataSnapshot": {
-      "temperature": "32.7°C",
-      "humidity": "41%",
-      "wind": "4.4 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 54,
-      "pm25": 42.4,
-      "goldPerGram": "₹9,163",
-      "newsCount": 38,
-      "topHeadlines": [
-        "TPCC chief’s meeting with Kharge fuels speculation in Congress circles - Telangana Today",
-        "BJP leader accuses Congress of opposing Telangana electoral roll revision process - The News Mill",
-        "TTGDA opposes 1.5 percent pay cut, seeks clarity on health scheme - Telangana Today",
-        "CM conspires to impose restrictions on free power with Rythu Discom: Jeevan Reddy - Telangana Today",
-        "BRS Dares Telangana Chief to Address Unmet Promises Before Elections - Devdiscourse"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-31T17:08:01.221Z",
-    "timestampIST": "31/5/2026, 10:38:01 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will embark on a statewide tour, including a visit to Asifabad, to celebrate Telangana Formation Day. (1, 11) The Chief Minister met with Mallikarjun Kharge in Hyderabad. (15, 17, 20) Political tensions are rising, with BRS and BJP leaders challenging the government on unmet promises and electoral roll revisions. (6, 9, 10, 13)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will embark on a statewide tour, including a visit to Asifabad, to celebrate Telangana Formation Day. (1, 11) The Chief Minister met with Mallikarjun Kharge in Hyderabad. (15, 17, 20) Political tensions are rising, with BRS and BJP leaders challenging the government on unmet promises and electoral roll revisions. (6, 9, 10, 13)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political Instability:</span> BRS and BJP are actively challenging the government on unmet promises and electoral roll revisions, potentially leading to increased political opposition. (6, 9, 10, 13)</li>\n  <li><span class=\"risk-low\">Public Discontent:</span> TTGDA opposes a 1.5 percent pay cut and seeks clarity on a health scheme, potentially leading to employee dissatisfaction. (7)</li>\n  <li><span class=\"risk-low\">Traffic Disruptions:</span> Traffic diversions are imposed in Asifabad on Monday due to Revanth Reddy's tour. (11)</li>\n  <li><span class=\"risk-low\">Electoral Roll Concerns:</span> Concerns raised that Dalits, tribals, and migrant workers may lose their names from voter rolls. (19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>Revanth Reddy met with Mallikarjun Kharge (15, 17, 20), and the TPCC chief's meeting with Kharge is fueling speculation (4).</li>\n  <li>The CM is reviewing the rollout of the Employee Health Scheme (18), and Telangana will implement the scheme through a dedicated trust (12).</li>\n  <li>Harish demands withdrawal of ‘Rythu Discom’ (2), and CM is accused of conspiring to impose restrictions on free power with Rythu Discom (8).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the statewide tour of CM Revanth Reddy, paying close attention to public sentiment and any potential protests. (1, 11)</li>\n  <li>Assess the potential impact of the electoral roll revision process on vulnerable communities. (19)</li>\n  <li>Address concerns raised by the TTGDA regarding the pay cut and health scheme to mitigate potential employee unrest. (7)</li>\n  <li>Prepare for potential political fallout from BRS and BJP challenges regarding unmet promises. (9, 10, 13)</li>\n  <li>Review the rollout plan for the Employee Health Scheme and address any potential implementation challenges. (12, 18)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Asifabad:</b> Due to the CM's visit and traffic diversions, this district requires increased security and traffic management. (11)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "31.6°C",
-      "humidity": "46%",
-      "wind": "4.2 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 58,
-      "pm25": 55.1,
-      "goldPerGram": "₹9,163",
-      "newsCount": 38,
-      "topHeadlines": [
-        "Revanth to Embark on Statewide Tour to Celebrate Telangana Formation Day - Deccan Chronicle",
-        "Harish Demands Withdrawal Of ‘Rythu Discom’ - Deccan Chronicle",
-        "Education is the primary yardstick for development: Revanth Reddy on X - The Hindu",
-        "TPCC chief’s meeting with Kharge fuels speculation in Congress circles - Telangana Today",
-        "Minister Tells Telangana BJP Leaders to March to Delhi, Not Across Telangana - Deccan Chronicle"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-31T19:19:46.075Z",
     "timestampIST": "1/6/2026, 12:49:46 am",
     "executiveSummary": "<p>Intermediate classes begin today in Telangana. Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. Revanth Reddy will embark on a statewide tour to celebrate Telangana Formation Day, with traffic diversions planned for Asifabad on Monday.</p>",
@@ -1939,6 +1893,29 @@
         "Harish Rao accuses government of failing Sigachi blast victims’ families - Telangana Today",
         "High-Profile Meet: Sunil Bharti Mittal And CM Revanth Reddy Discuss Future Investments In Telangana - Business Today",
         "Telangana to formulate policy for land allotment for mutts at Yadagirigutta temple - tennews.in"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-30T17:56:36.022Z",
+    "timestampIST": "30/6/2026, 11:26:36 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in political discourse, criticizing the BJP and BRS while launching the Rythu Bharosa scheme, which has drawn opposition scrutiny regarding its financial claims and implementation. Significant financial and administrative challenges are noted for the new Chief Secretary Sanjay Jaju. Development initiatives include a review of Yadagirigutta Temple and a potential Kothagudem airport, alongside an international Aeromart event in Hyderabad and a cooperation agreement with Germany's Thuringia.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaged in political discourse, criticizing the BJP and BRS while launching the Rythu Bharosa scheme, which has drawn opposition scrutiny regarding its financial claims and implementation. Significant financial and administrative challenges are noted for the new Chief Secretary Sanjay Jaju. Development initiatives include a review of Yadagirigutta Temple and a potential Kothagudem airport, alongside an international Aeromart event in Hyderabad and a cooperation agreement with Germany's Thuringia.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Opposition Scrutiny:</span> CM Revanth Reddy's strong criticisms of BJP (#1, #2, #9) and BRS (#9, #10), coupled with opposition leaders Harish Rao and KTR questioning Rythu Bharosa claims and agricultural expenditure (#4, #11, #12, #13, #19), indicate a heightened political environment that could lead to public discontent or protests.</li>\n    <li><span class=\"risk-medium\">Financial and Administrative Challenges:</span> The new Chief Secretary Sanjay Jaju faces significant financial and administrative challenges (#8), and the CM has raised the inherited debt figure to Rs. 8.11 lakh crore (#3). This could impact governance and the implementation of state schemes.</li>\n    <li><span class=\"risk-medium\">Public Safety/Traffic Management:</span> A Rythu Bharosa event led by CM Revanth Reddy caused traffic snarls in Madhapur and Hitec City (#14), indicating potential for public inconvenience and the need for improved event management for high-profile gatherings.</li>\n    <li><span class=\"risk-low\">Reputational Damage (Government Claims):</span> Claims by the government regarding Rythu Bharosa are being directly contradicted by opposition leaders Harish Rao and KTR (#11, #12, #13, #19), potentially eroding public trust in government initiatives.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The launch of the Rythu Bharosa scheme by CM Revanth Reddy (#3, #14) is directly linked to criticisms from opposition leaders Harish Rao and KTR regarding the scheme's claims and alleged withheld funds (#4, #11, #12, #13, #19). This indicates a major point of contention and political debate.</li>\n    <li>CM Revanth Reddy's strong criticisms of the BJP (#1, #2, #9) and BRS (#9, #10) are part of a broader political narrative that includes his 20 years in politics (#15) and his current efforts to address inherited debt (#3), suggesting a strategic political positioning ahead of future elections.</li>\n    <li>The Aeromart Hyderabad-India 2026 event drawing delegates from 25 countries (#7) and the cooperation agreement with Germany’s Thuringia (#16) both highlight Telangana's efforts to enhance international business and development, potentially attracting further investments as discussed with Sunil Bharti Mittal (#20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Chief Secretary to provide a detailed briefing on the identified financial and administrative challenges (#8) and propose immediate mitigation strategies.</li>\n    <li>Instruct relevant departments to prepare a comprehensive response to the opposition's claims regarding Rythu Bharosa (#4, #11, #12, #13, #19), including clear data on expenditure and beneficiary outreach.</li>\n    <li>Enhance traffic management and public safety protocols for future high-profile events, learning from the snarls experienced during the Rythu Bharosa launch in Madhapur and Hitec City (#14).</li>\n    <li>Expedite the Kothagudem airport proposal (#6) to capitalize on the momentum from Aeromart Hyderabad-India 2026 (#7) and potential future investments (#20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Kothagudem:</b> Needs immediate attention due to the potential for a new airport (#6), which would require land acquisition, infrastructure planning, and coordination with various agencies.</li>\n    <li><b>Hyderabad (Madhapur and Hitec City):</b> Requires attention for improved traffic management and event planning, as evidenced by the snarls during the Rythu Bharosa event (#14). This area is also a hub for international events like Aeromart (#7).</li>\n    <li><b>Yadagirigutta:</b> Focus on the ongoing development of the Yadagirigutta Temple (#5) to ensure timely completion and efficient management of the project.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "24.4°C",
+      "humidity": "89%",
+      "wind": "12 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 20,
+      "pm25": 4.9,
+      "goldPerGram": "₹9,130",
+      "newsCount": 45,
+      "topHeadlines": [
+        "Revanth Reddy criticizes BJP ahead of Telangana Assembly polls - The News Mill",
+        "\"Don't really know his name\": Telangana CM Revanth Reddy slams Nitin Nabin, says 'will crush BJP' - ANI News",
+        "Revanth Reddy raises inherited debt figure to Rs.8.11 lakh crore at Rythu Bharosa launch - Telangana Today",
+        "Harish Rao questions Congress’ claims on agriculture expenditure - Telangana Today",
+        "Telangana CM Revanth Reddy reviews Yadagirigutta Temple development - The News Mill"
       ]
     }
   }
