@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31T11:41:15.320Z",
-    "timestampIST": "31/5/2026, 5:11:15 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will embark on a multi-district tour starting June 1, launching development projects. The CM met with Mallikarjun Kharge in Hyderabad. The CM will review the Employee Health Scheme rollout tomorrow. BRS cadres are criticizing the government over the arrest of Balka Suman in Mancherial.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will embark on a multi-district tour starting June 1, launching development projects. The CM met with Mallikarjun Kharge in Hyderabad. The CM will review the Employee Health Scheme rollout tomorrow. BRS cadres are criticizing the government over the arrest of Balka Suman in Mancherial.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n  <li><span class=\"risk-medium\">Political:</span> BRS cadres are criticizing the government over the arrest of Balka Suman in Mancherial. (Headline 6)</li>\n  <li><span class=\"risk-medium\">Farmer Unrest:</span> BRS leader questions the government over paddy procurement delays and farmer distress. (Headline 16)</li>\n  <li><span class=\"risk-low\">Legal:</span> CM Revanth Reddy appeared before court in Hyderabad over cases registered during the BRS regime. (Headline 19)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n  <li>CM Revanth Reddy met with Mallikarjun Kharge (Headline 2, 5, 8).</li>\n  <li>The CM is facing criticism from BRS (Headline 6, 16).</li>\n  <li>The CM is focusing on farmer welfare by continuing 24x7 free power (Headline 7, 9, 11).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n  <li>Monitor the situation in Mancherial closely, given the BRS criticism and arrest.</li>\n  <li>Assess the status of paddy procurement and address farmer distress concerns.</li>\n  <li>Prepare for the CM's multi-district tour, ensuring smooth project launches.</li>\n  <li>Prepare for the review of the Employee Health Scheme rollout.</li>\n  <li>Monitor any potential fallout from the CM's court appearance.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n  <li><b>Mancherial:</b> Requires immediate attention due to the arrest of Balka Suman and BRS cadre criticism. (Headline 6)</li>\n  <li><b>All Districts on CM's Tour:</b> Prepare for the CM's multi-district tour starting June 1, ensuring smooth project launches. (Headline 1)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35.8°C",
-      "humidity": "32%",
-      "wind": "10.4 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 60,
-      "pm25": 27.4,
-      "goldPerGram": "₹9,163",
-      "newsCount": 32,
-      "topHeadlines": [
-        "Revanth Reddy to embark on multi-district tour, launch key development projects across Telangana from June 1 - The Hindu",
-        "Revanth Reddy, Mahesh Goud Meet Mallikarjun Kharge In Hyderabad - INDToday",
-        "Telangana CM Revanth to review the rollout of Employee Health Scheme - The Hindu",
-        "SIR in Telangana: Dalits, tribals and migrant workers may lose their names from voter rolls, warns CM - NewsMeter",
-        "Mallikarjun Kharge meets Telangana leaders during Hyderabad stopover - The Hindu"
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-31T13:48:06.550Z",
-    "timestampIST": "31/5/2026, 7:18:06 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. (6, 8, 11, 15) The Chief Minister will review the rollout of the Employee Health Scheme tomorrow. (9, 17) Revanth Reddy will embark on a multi-district tour starting June 1st to launch development projects. (12) Traffic diversions are imposed in view of Revanth’s tour to Asifabad on Monday. (2)</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. (6, 8, 11, 15) The Chief Minister will review the rollout of the Employee Health Scheme tomorrow. (9, 17) Revanth Reddy will embark on a multi-district tour starting June 1st to launch development projects. (12) Traffic diversions are imposed in view of Revanth’s tour to Asifabad on Monday. (2)</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS challenges Revanth Reddy to fulfill poll promises. (1, 4) BRS cadres are critical of the government over the arrest of Balka Suman in Mancherial. (13)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A ragpicker died in a hit-and-run accident in Afzalgunj; the driver is absconding. (7)</li>\n    <li><span class=\"risk-low\">Electoral Integrity:</span> Dalits, tribals, and migrant workers may lose their names from voter rolls, according to the CM. (10)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Employee Health Scheme is a recurring theme, with the CM reviewing its rollout and the government implementing it through a dedicated trust. (3, 9, 17)</li>\n    <li>The CM's meetings with Mallikarjun Kharge and his upcoming multi-district tour suggest a focus on political strategy and project launches. (6, 8, 11, 12, 15)</li>\n    <li>The CM's statements on free power for farmers are consistent across multiple news outlets. (14, 16, 18, 20)</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure adequate security and traffic management for the CM's upcoming tour, particularly in Asifabad on Monday. (2, 12)</li>\n    <li>Monitor the rollout of the Employee Health Scheme and address any potential issues. (3, 9, 17)</li>\n    <li>Investigate the hit-and-run accident in Afzalgunj and apprehend the driver. (7)</li>\n    <li>Address the concerns regarding voter roll integrity to prevent potential electoral issues. (10)</li>\n    <li>Prepare a response to BRS criticism regarding poll promises and the arrest of Balka Suman. (1, 4, 13)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Asifabad:</b> Due to the CM's tour and associated traffic diversions, this district requires increased security and traffic management. (2, 12)</li>\n    <li><b>Mancherial:</b> Monitor the situation following the arrest of Balka Suman and BRS criticism. (13)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "34°C",
-      "humidity": "34%",
-      "wind": "6.8 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 53,
-      "pm25": 28.3,
-      "goldPerGram": "₹9,163",
-      "newsCount": 35,
-      "topHeadlines": [
-        "BRS Challenges Revanth Reddy to Honor Poll Promises Before Future Elections - Devdiscourse",
-        "Traffic diversions imposed in view of Revanth’s tour to Asifabad on Monday - Telangana Today",
-        "Telangana to Implement Employees Health Scheme Through Dedicated Trust - INDToday",
-        "Fulfill 420 promises before contesting elections: KTR dares Revanth Reddy - Telangana Today",
-        "82-year-old woman gets new lease of life after rare esophageal disorder treated in Hyderabad - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-31T15:17:50.587Z",
     "timestampIST": "31/5/2026, 8:47:50 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. (12, 14, 17) Traffic diversions are in place for CM Revanth Reddy's tour to Asifabad on Monday. (7) The BRS is challenging the CM regarding unmet promises. (5, 6, 10) The CM will review the rollout of the Employee Health Scheme. (15)</p>",
@@ -1962,6 +1916,29 @@
         "Telangana New CS Sanjay Jaju Meets CM Revanth Reddy - INDToday",
         "Study Tirumala Land Allocation Policy for Yadagirigutta: Revanth Reddy - Deccan Chronicle",
         "KTR flays Revanth Reddy for defaulting on Rythu Bharosa, betraying farmers - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-30T14:22:17.186Z",
+    "timestampIST": "30/6/2026, 7:52:17 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy held high-profile meetings with Sunil Bharti Mittal, discussing future investments and urging fast-tracking of the Chandanvelly Data Centre project. Sanjay Jaju has taken charge as the new Chief Secretary of Telangana. The government is preparing to release Rythu Bharosa for Kharif today, amidst accusations from opposition leaders regarding delayed payments. A significant textbook shortage is affecting intermediate students across the state.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy held high-profile meetings with Sunil Bharti Mittal, discussing future investments and urging fast-tracking of the Chandanvelly Data Centre project. Sanjay Jaju has taken charge as the new Chief Secretary of Telangana. The government is preparing to release Rythu Bharosa for Kharif today, amidst accusations from opposition leaders regarding delayed payments. A significant textbook shortage is affecting intermediate students across the state.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Opposition/Public Dissatisfaction (MEDIUM):</span> Harish Rao and KTR are accusing the government of failing Sigachi blast victims' families and defaulting on Rythu Bharosa payments, potentially increasing public discontent and political pressure (Headline #3, #16).</li>\n    <li><span class=\"risk-medium\">Educational Disruption (MEDIUM):</span> A textbook shortage for intermediate students across Telangana could impact academic performance and lead to public grievances (Headline #10).</li>\n    <li><span class=\"risk-low\">Traffic Congestion/Public Order (LOW):</span> A traffic advisory has been issued by Cyberabad police for the Rythu Bharosa event, indicating potential for localized traffic issues (Headline #13).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #4, #6, #7, #8, #9, and #12 all relate to Chief Minister Revanth Reddy's engagement with Sunil Bharti Mittal and Bharti Enterprises regarding future investments and the fast-tracking of the Chandanvelly Data Centre project in Telangana, highlighting a concerted effort to attract and expedite technology investments.</li>\n    <li>Headlines #11, #16, and #20 all concern the Rythu Bharosa scheme, specifically the release of Kharif dues, with opposition leaders like Niranjan Reddy and KTR demanding immediate release and criticizing the government, while the PCC chief reaffirms commitment. This indicates a high-priority and politically sensitive issue.</li>\n    <li>Headlines #14, #18, and #19 detail the appointment and assumption of charge by Sanjay Jaju as the new Chief Secretary of Telangana, including his meetings with CM Revanth Reddy, signifying a key administrative transition.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Expedite the resolution of the textbook shortage for intermediate students to prevent further academic disruption and public dissatisfaction (Headline #10).</li>\n    <li>Ensure the timely and transparent release of Rythu Bharosa for Kharif to address farmer concerns and counter opposition criticism (Headline #11, #16, #20).</li>\n    <li>Monitor public sentiment and address grievances related to the Sigachi blast victims' families to mitigate political fallout (Headline #3).</li>\n    <li>Facilitate and closely track the progress of proposed investments by Bharti Enterprises, particularly the Chandanvelly Data Centre project, to demonstrate commitment to economic development (Headline #4, #12).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><p><b>Cyberabad:</b> Immediate attention is required due to the traffic advisory issued for the Rythu Bharosa event, necessitating effective traffic management and crowd control (Headline #13).</p></li>\n    <li><p><b>Chandanvelly (likely Ranga Reddy district):</b> Focus on facilitating the fast-tracking of the Data Centre project as urged by the Chief Minister, given its potential for significant investment and development (Headline #12).</p></li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "26.8°C",
+      "humidity": "77%",
+      "wind": "13.5 km/h",
+      "weatherDesc": "Light Drizzle",
+      "aqi": 25,
+      "pm25": 6.1,
+      "goldPerGram": "₹9,120",
+      "newsCount": 35,
+      "topHeadlines": [
+        "The leader who knew that he would become CM: 20 years of Revanth Reddy in politics - theweek.in",
+        "HDFC Bank CSR in Telangana, spanning 40 villages - India CSR",
+        "Harish Rao accuses government of failing Sigachi blast victims’ families - Telangana Today",
+        "High-Profile Meet: Sunil Bharti Mittal And CM Revanth Reddy Discuss Future Investments In Telangana - Business Today",
+        "Telangana to formulate policy for land allotment for mutts at Yadagirigutta temple - tennews.in"
       ]
     }
   }
