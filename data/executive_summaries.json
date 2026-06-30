@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31T08:48:13.519Z",
-    "timestampIST": "31/5/2026, 2:18:13 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing scrutiny, appearing in court in Hyderabad over cases from the previous BRS regime (16, 20). He is also engaged in a dispute with Fadnavis regarding the Tummidihatti barrage (14, 18, 19). Concerns have been raised about potential voter roll issues affecting Dalits, tribals, and migrant workers (1).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing scrutiny, appearing in court in Hyderabad over cases from the previous BRS regime (16, 20). He is also engaged in a dispute with Fadnavis regarding the Tummidihatti barrage (14, 18, 19). Concerns have been raised about potential voter roll issues affecting Dalits, tribals, and migrant workers (1).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS cadres are criticizing the government over the arrest of Balka Suman in Mancherial (3).</li>\n    <li><span class=\"risk-medium\">Legal Challenges:</span> The CM is appearing in court in Hyderabad over cases registered during the BRS regime (16, 20).</li>\n    <li><span class=\"risk-low\">Farmer Unrest:</span> BRS leaders are questioning the government over paddy procurement delays and farmer distress (13).</li>\n    <li><span class=\"risk-low\">Voter Disenfranchisement:</span> Concerns exist that Dalits, tribals, and migrant workers may lose their names from voter rolls (1).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's meetings with Kharge (2, 5) and his court appearance (16, 20) suggest potential political maneuvering and legal challenges.</li>\n    <li>The CM's statements on free power for farmers (4, 6, 8, 10) and the BRS's criticism (13) highlight a key policy area under political debate.</li>\n    <li>The CM's criticism of Fadnavis regarding the barrage (14, 18, 19) and the BRS's criticism of the government (3, 13) indicate potential political friction.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the legal proceedings against the CM closely.</li>\n    <li>Assess the situation in Mancherial following Balka Suman's arrest.</li>\n    <li>Review and address concerns regarding potential voter roll issues.</li>\n    <li>Prepare a public statement addressing the paddy procurement delays and farmer distress.</li>\n    <li>Prepare a response to the criticism from Fadnavis regarding the Tummidihatti barrage.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Mancherial:</b> Monitor the situation following the arrest of Balka Suman (3).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35.8°C",
-      "humidity": "33%",
-      "wind": "11.1 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 61,
-      "pm25": 27.2,
-      "goldPerGram": "₹9,163",
-      "newsCount": 34,
-      "topHeadlines": [
-        "SIR in Telangana: Dalits, tribals and migrant workers may lose their names from voter rolls, warns CM - NewsMeter",
-        "Mallikarjun Kharge meets Telangana leaders during Hyderabad stopover - The Hindu",
-        "BRS cadres slam government over arrest of Balka Suman in Mancherial - Telangana Today",
-        "Telangana govt will continue 24x7 free power for farmers: CM Revanth Reddy - BusinessLine",
-        "Telangana Leader Revanth Reddy and Kharge Discuss at Hyderabad Airport - Devdiscourse"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-31T11:41:15.320Z",
     "timestampIST": "31/5/2026, 5:11:15 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy will embark on a multi-district tour starting June 1, launching development projects. The CM met with Mallikarjun Kharge in Hyderabad. The CM will review the Employee Health Scheme rollout tomorrow. BRS cadres are criticizing the government over the arrest of Balka Suman in Mancherial.</p>",
@@ -1962,6 +1939,29 @@
         "Telangana govt to begin disbursing Rythu Bharosa funds from today - The New Indian Express",
         "Telangana govt to invoke Revenue Recovery Act against MLA Mahipal's brother - The New Indian Express",
         "JetBlue pilot reports drone strike near New York’s JFK airport - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-30T10:58:05.890Z",
+    "timestampIST": "30/6/2026, 4:28:05 pm",
+    "executiveSummary": "<p>The new Chief Secretary, Sanjay Jaju, has assumed charge and met with CM Revanth Reddy (#3, #7, #8). The government is initiating the disbursement of Rythu Bharosa funds today (#12), amidst criticism regarding its implementation (#5). Concerns have been raised about duplicate votes in CM Revanth Reddy's constituency, with claims of 30,000 (#11) and 22,000 (#17) fake votes. The CM has also urged Bharti Enterprises to fast-track the Chandanvelly Data Centre Project (#1).</p>",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>The new Chief Secretary, Sanjay Jaju, has assumed charge and met with CM Revanth Reddy (#3, #7, #8). The government is initiating the disbursement of Rythu Bharosa funds today (#12), amidst criticism regarding its implementation (#5). Concerns have been raised about duplicate votes in CM Revanth Reddy's constituency, with claims of 30,000 (#11) and 22,000 (#17) fake votes. The CM has also urged Bharti Enterprises to fast-track the Chandanvelly Data Centre Project (#1).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Electoral Integrity:</span> Claims of 30,000 (#11) and 22,000 (#17) duplicate/fake votes in CM Revanth Reddy's constituency by TRS leader Kavitha.</li>\n    <li><span class=\"risk-medium\">Public Dissatisfaction/Political Opposition:</span> KTR flays CM Revanth Reddy for defaulting on Rythu Bharosa and betraying farmers (#5), despite the government beginning disbursement today (#12).</li>\n    <li><span class=\"risk-medium\">Governance/Legal Challenge:</span> Telangana government to invoke Revenue Recovery Act against MLA Mahipal's brother (#13).</li>\n    <li><span class=\"risk-low\">Public Health:</span> Rise in cervical cancer cases noted as a wake-up call for Telangana (#16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The appointment of Sanjay Jaju as the new Chief Secretary (#8) is immediately followed by his meeting with CM Revanth Reddy (#3, #7), indicating a swift transition and immediate engagement with the state's leadership.</li>\n    <li>The government's decision to begin disbursing Rythu Bharosa funds today (#12) directly addresses the criticism from KTR regarding the CM defaulting on the scheme (#5), highlighting a reactive measure to political pressure.</li>\n    <li>Claims of duplicate votes in CM Revanth Reddy's constituency by TRS leader Kavitha (#11, #17) indicate a coordinated political attack targeting the Chief Minister's electoral legitimacy.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Initiate an immediate, transparent investigation into the claims of 30,000 (#11) and 22,000 (#17) duplicate/fake votes in CM Revanth Reddy's constituency to uphold electoral integrity.</li>\n    <li>Ensure smooth and timely disbursement of Rythu Bharosa funds (#12) and proactively communicate progress to counter opposition criticism (#5).</li>\n    <li>Direct the new Chief Secretary, Sanjay Jaju (#8), to prioritize the fast-tracking of the Chandanvelly Data Centre Project (#1) as requested by the Chief Minister.</li>\n    <li>Review and strengthen public health campaigns and infrastructure in response to the rise in cervical cancer cases (#16).</li>\n    <li>Expedite the allocation of 2BHK houses for families affected by the Musi Development Project (#10) to mitigate potential public discontent.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Kodangal (CM Revanth Reddy's constituency):</b> Requires immediate attention due to allegations of 30,000 (#11) and 22,000 (#17) duplicate/fake votes, necessitating an urgent inquiry to maintain electoral integrity.</li>\n    <li><b>Hyderabad (Cyberabad):</b> Traffic advisory issued for the Rythu Bharosa event (#2) indicates a need for continued traffic management and crowd control planning for public gatherings.</li>\n    <li><b>Chandanvelly:</b> Focus on this area for monitoring the progress of the Data Centre Project (#1) as urged by the Chief Minister.</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "27.8°C",
+      "humidity": "74%",
+      "wind": "10.2 km/h",
+      "weatherDesc": "Thunderstorm",
+      "aqi": 32,
+      "pm25": 3.7,
+      "goldPerGram": "₹9,120",
+      "newsCount": 29,
+      "topHeadlines": [
+        "Revanth Reddy Urges Bharti Enterprises to Fast-Track Chandanvelly Data Centre Project - Deccan Chronicle",
+        "Cyberabad police issue traffic advisory for Rythu Bharosa event - Telangana Today",
+        "Telangana New CS Sanjay Jaju Meets CM Revanth Reddy - INDToday",
+        "Study Tirumala Land Allocation Policy for Yadagirigutta: Revanth Reddy - Deccan Chronicle",
+        "KTR flays Revanth Reddy for defaulting on Rythu Bharosa, betraying farmers - Telangana Today"
       ]
     }
   }
