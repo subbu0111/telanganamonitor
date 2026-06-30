@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31T04:02:17.944Z",
-    "timestampIST": "31/5/2026, 9:32:17 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is facing criticism from BRS leaders regarding paddy procurement delays and farmer distress (4). He is also engaged in a war of words with BRS leaders KCR, Harish Rao, and KTR on free power (1, 13). A BRS leader, Balka Suman, has been arrested by Hyderabad Police (18).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is facing criticism from BRS leaders regarding paddy procurement delays and farmer distress (4). He is also engaged in a war of words with BRS leaders KCR, Harish Rao, and KTR on free power (1, 13). A BRS leader, Balka Suman, has been arrested by Hyderabad Police (18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability:</span> BRS is questioning the government over paddy procurement delays and farmer distress (4), and a BRS leader has been arrested (18), potentially escalating tensions.</li>\n    <li><span class=\"risk-medium\">Public Discontent:</span> Paddy farmers are facing hardships due to procurement issues (14), which could lead to protests or other forms of public dissatisfaction.</li>\n    <li><span class=\"risk-low\">Legal Challenges:</span> A Telangana leader is facing court over BRS-era cases (10).</li>\n    <li><span class=\"risk-low\">Law and Order:</span> Telangana Congress VP Alam Khan has been named by police in a lawyer murder linked to Waqf disputes (16).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Revanth Reddy is criticizing BRS on multiple fronts, including free power (1, 13) and paddy procurement (7), indicating a concerted effort to undermine the opposition.</li>\n    <li>The arrest of BRS leader Balka Suman (18) and the legal cases against a Telangana leader (10) suggest a potential crackdown on BRS members.</li>\n    <li>The focus on YISU students' Microsoft placements (2, 6, 20) is being highlighted by the CM, potentially to showcase the government's achievements.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation regarding paddy procurement and farmer distress closely, and be prepared to address any potential protests or unrest.</li>\n    <li>Assess the implications of the arrest of BRS leader Balka Suman and potential reactions from BRS.</li>\n    <li>Review the status of the cases against the Telangana leader and any potential impact on law and order.</li>\n    <li>Prepare for the CM's district tour starting June 1 (11).</li>\n    <li>Ensure adequate security for Formation Day celebrations, starting early due to the heat (19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Focus on districts experiencing paddy procurement issues, as farmer distress is reported (4, 14). Specific districts are not mentioned in the provided data.</li>\n    <li>Monitor districts where the CM will be touring from June 1 (11).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29°C",
-      "humidity": "57%",
-      "wind": "17.6 km/h",
-      "weatherDesc": "Dense Drizzle",
-      "aqi": 39,
-      "pm25": 22.8,
-      "goldPerGram": "N/A",
-      "newsCount": 26,
-      "topHeadlines": [
-        "Telangana CM dares BRS on free power, meters - The New Indian Express",
-        "Telangana CM Revanth Reddy highlights YISU students’ Microsoft placements and skill-based education - The News Mill",
-        "Telangana CM Revanth Reddy unveils statue of former Andhra Pradesh CM NTR in Hyderabad - The News Mill",
-        "BRS leader questions Telangana government over paddy procurement delays and farmer distress - The News Mill",
-        "Revanth Reddy slams Fadnavis over Tummidihatti barrage talks - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-31T08:48:13.519Z",
     "timestampIST": "31/5/2026, 2:18:13 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is facing scrutiny, appearing in court in Hyderabad over cases from the previous BRS regime (16, 20). He is also engaged in a dispute with Fadnavis regarding the Tummidihatti barrage (14, 18, 19). Concerns have been raised about potential voter roll issues affecting Dalits, tribals, and migrant workers (1).</p>",
@@ -1963,6 +1940,29 @@
       "goldPerGram": "₹9,120",
       "newsCount": 0,
       "topHeadlines": []
+    }
+  },
+  {
+    "timestamp": "2026-06-30T07:55:04.654Z",
+    "timestampIST": "30/6/2026, 1:25:04 pm",
+    "executiveSummary": "<p>The Telangana government is initiating key welfare programs, including the disbursement of Rythu Bharosa funds starting today (Headline #3, #15) and plans to allocate 2BHK houses for Musi Development Project affected families (Headline #1). Concurrently, there are significant allegations of duplicate votes (30K and 22,000) in CM Revanth Reddy's constituency (Headline #2, #9), and the Hyderabad police are intensifying efforts against mule account networks (Headline #19). The government has also undertaken a significant transfer of 23 SP-rank officers (Headline #13).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Telangana government is initiating key welfare programs, including the disbursement of Rythu Bharosa funds starting today (Headline #3, #15) and plans to allocate 2BHK houses for Musi Development Project affected families (Headline #1). Concurrently, there are significant allegations of duplicate votes (30K and 22,000) in CM Revanth Reddy's constituency (Headline #2, #9), and the Hyderabad police are intensifying efforts against mule account networks (Headline #19). The government has also undertaken a significant transfer of 23 SP-rank officers (Headline #13).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Allegations of 30,000 and 22,000 duplicate votes in CM Revanth Reddy's constituency (Kodangal) by TRS leader Kavitha (Headline #2, #9) pose a significant threat to electoral integrity and public trust.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: The BRS warning of a \"people's movement\" over delays in the Medchal Metro expansion (Headline #20) indicates potential public unrest and opposition mobilization.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: The invocation of the Revenue Recovery Act against MLA Mahipal's brother (Headline #4) could lead to political fallout and public scrutiny.</li>\n    <li><span class=\"risk-low\">LOW</span>: A rise in cervical cancer cases (Headline #8) is a public health concern requiring attention, though not an immediate security risk.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The disbursement of Rythu Bharosa funds (Headline #3, #15) was shifted to Hyderabad after the Madhira event was postponed (Headline #14), indicating potential logistical or political considerations impacting the rollout of a key welfare scheme.</li>\n    <li>The allegations of duplicate votes in CM Revanth Reddy's constituency (Headline #2, #9) are directly linked to political critiques of his administration by a Telangana BJP leader (Headline #11), suggesting a coordinated opposition narrative.</li>\n    <li>The transfer of 23 SP-rank officers (Headline #13) and the intensified crackdown on mule account networks by Hyderabad police (Headline #19) could be related to efforts to strengthen law enforcement and address financial crimes.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately investigate the allegations of 30,000 and 22,000 duplicate votes in Kodangal constituency (Headline #2, #9) to maintain electoral integrity and public confidence.</li>\n    <li>Monitor the BRS's planned \"people's movement\" regarding the Medchal Metro expansion (Headline #20) and prepare a proactive communication strategy to address public concerns and mitigate potential unrest.</li>\n    <li>Ensure smooth and transparent disbursement of Rythu Bharosa funds (Headline #3, #15) following the shift of the launch event to Hyderabad (Headline #14) to avoid public dissatisfaction.</li>\n    <li>Formulate a public health strategy to address the rise in cervical cancer cases (Headline #8), potentially including awareness campaigns and screening programs.</li>\n    <li>Review the implications of invoking the Revenue Recovery Act against MLA Mahipal's brother (Headline #4) and prepare for potential political and public reactions.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Kodangal Constituency (Vikarabad District)</b>: Requires immediate attention due to allegations of 30,000 and 22,000 duplicate votes (Headline #2, #9), necessitating an urgent investigation to ensure electoral integrity.</li>\n    <li><b>Hyderabad District</b>: Focus on the intensified crackdown on mule account networks by Hyderabad police (Headline #19) to ensure effective implementation and further strengthen financial crime prevention. Also, the Rythu Bharosa launch is now in Hyderabad (Headline #14).</li>\n    <li><b>Medchal District</b>: Monitor closely due to the BRS warning of a \"people's movement\" over delays in the Medchal Metro expansion (Headline #20), which could lead to public protests.</li>\n    <li><b>Khammam District</b>: Note the cutting of scores of trees for CM Revanth's meeting (Headline #17), which may draw environmental scrutiny.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30.4°C",
+      "humidity": "58%",
+      "wind": "15.9 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 29,
+      "pm25": 4,
+      "goldPerGram": "₹9,120",
+      "newsCount": 26,
+      "topHeadlines": [
+        "Telangana govt prepares plans to allocate 2BHK houses to families affected by Musi Development Project - The New Indian Express",
+        "30K duplicate votes found in Telangana CM Revanth's constituency, claims TRS leader Kavitha - The New Indian Express",
+        "Telangana govt to begin disbursing Rythu Bharosa funds from today - The New Indian Express",
+        "Telangana govt to invoke Revenue Recovery Act against MLA Mahipal's brother - The New Indian Express",
+        "JetBlue pilot reports drone strike near New York’s JFK airport - Telangana Today"
+      ]
     }
   }
 ]
