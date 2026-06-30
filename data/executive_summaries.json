@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31T19:19:46.075Z",
-    "timestampIST": "1/6/2026, 12:49:46 am",
-    "executiveSummary": "<p>Intermediate classes begin today in Telangana. Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. Revanth Reddy will embark on a statewide tour to celebrate Telangana Formation Day, with traffic diversions planned for Asifabad on Monday.</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Intermediate classes begin today in Telangana. Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. Revanth Reddy will embark on a statewide tour to celebrate Telangana Formation Day, with traffic diversions planned for Asifabad on Monday.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS and BJP leaders are challenging CM Revanth Reddy regarding unmet promises and electoral roll revision. (Headlines 8, 10, 11, 15)</li>\n    <li><span class=\"risk-low\">Public Safety:</span> A ragpicker died in a hit-and-run accident in Afzalgunj; the driver is absconding. (Headline 18)</li>\n    <li><span class=\"risk-low\">Labor:</span> TTGDA opposes a 1.5 percent pay cut and seeks clarity on the health scheme. (Headline 9)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's meeting with Mallikarjun Kharge (Headlines 17, 19) is fueling speculation within Congress circles (Headline 6).</li>\n    <li>The upcoming statewide tour by Revanth Reddy (Headline 3) will involve traffic diversions in Asifabad on Monday (Headline 12).</li>\n    <li>The Employee Health Scheme is a focus, with Telangana implementing it through a dedicated trust (Headline 13) and CM Revanth Reddy reviewing its rollout (Headline 20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the political rhetoric from BRS and BJP regarding unmet promises and electoral roll revision.</li>\n    <li>Instruct the police to expedite the investigation into the hit-and-run accident in Afzalgunj.</li>\n    <li>Assess the concerns raised by the TTGDA regarding the pay cut and health scheme.</li>\n    <li>Ensure adequate security and traffic management for CM Revanth Reddy's statewide tour, particularly in Asifabad.</li>\n    <li>Prepare a response to the challenges posed by BRS regarding the fulfillment of election promises.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Asifabad:</b> Requires immediate attention due to traffic diversions planned for Monday in connection with CM Revanth Reddy's tour. (Headline 12)</li>\n    <li><b>Hyderabad:</b> Requires attention due to the hit-and-run accident in Afzalgunj (Headline 18).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29.3°C",
-      "humidity": "45%",
-      "wind": "8.4 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 62,
-      "pm25": 39.6,
-      "goldPerGram": "₹9,163",
-      "newsCount": 36,
-      "topHeadlines": [
-        "Intermediate classes to begin from today in Telangana - The Times of India",
-        "Ready for SIR, Revanth Tells Kharge - Deccan Chronicle",
-        "Revanth to Embark on Statewide Tour to Celebrate Telangana Formation Day - Deccan Chronicle",
-        "Harish Demands Withdrawal Of ‘Rythu Discom’ - Deccan Chronicle",
-        "Education is the primary yardstick for development: Revanth Reddy on X - The Hindu"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-05-31T21:01:18.365Z",
     "timestampIST": "1/6/2026, 2:31:18 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy met with Mallikarjun Kharge in Hyderabad. Intermediate classes begin today. Traffic diversions are imposed in Asifabad on Monday due to CM Revanth Reddy's tour. BRS and BJP leaders are challenging the Congress on various issues, including unmet promises and electoral roll revisions.</p>",
@@ -1916,6 +1893,29 @@
         "Revanth Reddy raises inherited debt figure to Rs.8.11 lakh crore at Rythu Bharosa launch - Telangana Today",
         "Harish Rao questions Congress’ claims on agriculture expenditure - Telangana Today",
         "Telangana CM Revanth Reddy reviews Yadagirigutta Temple development - The News Mill"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-30T20:05:14.556Z",
+    "timestampIST": "1/7/2026, 1:35:14 am",
+    "executiveSummary": "The Telangana government is set to deposit Rs 9,000 crore into farmers' accounts under Rythu Bharosa within nine days (Headline #1, #6). Politically, the Chief Minister, Revanth Reddy, has criticized the BJP and BRS regarding unkept promises and inherited debt (Headline #7, #8, #15), while opposition leaders Harish Rao and KTR have questioned the government's claims on agriculture expenditure and alleged withholding of funds from farmers (Headline #9, #17, #18, #19). Administratively, the new Chief Secretary, Sanjay Jaju, faces significant financial and administrative challenges (Headline #14).",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\nThe Telangana government is set to deposit Rs 9,000 crore into farmers' accounts under Rythu Bharosa within nine days (Headline #1, #6). Politically, the Chief Minister, Revanth Reddy, has criticized the BJP and BRS regarding unkept promises and inherited debt (Headline #7, #8, #15), while opposition leaders Harish Rao and KTR have questioned the government's claims on agriculture expenditure and alleged withholding of funds from farmers (Headline #9, #17, #18, #19). Administratively, the new Chief Secretary, Sanjay Jaju, faces significant financial and administrative challenges (Headline #14).\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Financial Strain & Political Contention:</span> The Chief Secretary faces financial and administrative challenges (Headline #14), compounded by political accusations regarding inherited debt (Headline #8) and alleged withholding of Rs 30,000 crore from farmers (Headline #18, #19). This could lead to public dissatisfaction and increased political opposition.</li>\n    <li><span class=\"risk-medium\">Agricultural Scheme Scrutiny:</span> While Rs 9,000 crore is being deposited for Rythu Bharosa (Headline #1, #6), opposition leaders are questioning the government's claims on agriculture expenditure and the scheme's effectiveness (Headline #9, #17). This could undermine public trust in a key welfare program.</li>\n    <li><span class=\"risk-low\">Infrastructure Development Delays:</span> While a Kothagudem airport nod is in the offing (Headline #11), the new Chief Secretary's challenges (Headline #14) could potentially impact the timely execution of such development projects.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Telangana government's plan to deposit Rs 9,000 crore under Rythu Bharosa (Headline #1, #6) is directly contradicted by opposition claims from Harish Rao and KTR, who state that government claims on Rythu Bharosa don't match reality and that Rs 30,000 crore has been withheld from farmers (Headline #9, #17, #18, #19). This indicates a significant political dispute over agricultural welfare.</li>\n    <li>CM Revanth Reddy's review of Yadagirigutta Temple development and direction to adopt the Tirumala model for guest houses (Headline #10, #12) is further supported by the constitution of an 18-member Yadagirigutta Devasthanam Board (Headline #4), indicating a concerted effort towards religious tourism and infrastructure development at the site.</li>\n    <li>The Chief Minister's criticism of the BRS and BJP for 'unkept' promises (Headline #15) and raising the inherited debt figure to Rs.8.11 lakh crore (Headline #8) provides context for the financial and administrative challenges faced by the new Chief Secretary, Sanjay Jaju (Headline #14).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Issue a clear, detailed public statement regarding the Rythu Bharosa scheme, addressing the opposition's claims about agricultural expenditure and alleged withheld funds, to maintain public confidence (Referencing Headline #1, #6, #9, #17, #18, #19).</li>\n    <li>Direct the new Chief Secretary to prioritize a comprehensive review of the state's financial health and administrative bottlenecks, providing a clear roadmap for addressing the identified challenges (Referencing Headline #8, #14).</li>\n    <li>Expedite the approval process for the Kothagudem airport to demonstrate commitment to regional development and attract investment (Referencing Headline #11).</li>\n    <li>Ensure robust oversight and transparent implementation of the Yadagirigutta Temple development, particularly regarding the adoption of the Tirumala model for guest houses, given the newly constituted board (Referencing Headline #4, #10, #12).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Yadadri Bhuvanagiri District:</b> Immediate attention is required for the Yadagirigutta Temple development, given the CM's review, the direction to adopt the Tirumala model, and the constitution of the 18-member Devasthanam Board (Headline #4, #10, #12).</li>\n    <li><b>Kothagudem District:</b> Focus on facilitating the \"nod\" for the Kothagudem airport, as this represents a significant infrastructure development project (Headline #11).</li>\n    <li><b>State-wide (Farmers):</b> Given the Rs 9,000 crore deposit under Rythu Bharosa and the political contention surrounding it, monitoring the disbursement and public perception across all districts with significant farming populations is crucial (Headline #1, #6, #9, #17, #18, #19).</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "24.1°C",
+      "humidity": "90%",
+      "wind": "13.6 km/h",
+      "weatherDesc": "Light Drizzle",
+      "aqi": 16,
+      "pm25": 4,
+      "goldPerGram": "₹9,130",
+      "newsCount": 51,
+      "topHeadlines": [
+        "Telangana government to deposit Rs 9,000 crore in farmers’ accounts under Rythu Bharosa in nine days - The News Mill",
+        "Sigachi accident response: Vivek defends Telangana government - newsage.in",
+        "Airtel planning to make Hyderabad its second headquarters, chairman Sunil Mittal tells Telangana CM Revan - The Times of India",
+        "Telangana government constitutes 18-member Yadagirigutta Devasthanam Board - Telangana Today",
+        "Telangana Sets 3-Month Deadline For Three New Public Schools Under TPS Pilot - Deccan Chronicle"
       ]
     }
   }
