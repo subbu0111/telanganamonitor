@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01T11:38:49.671Z",
-    "timestampIST": "1/6/2026, 5:08:49 pm",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy is scheduled to launch Indiramma Houses in Asifabad today (headlines 11, 12). He will also review the Employee Health Scheme ahead of its rollout (headline 13). BRS cadres were detained ahead of the CM's tour to Asifabad (headline 7).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is scheduled to launch Indiramma Houses in Asifabad today (headlines 11, 12). He will also review the Employee Health Scheme ahead of its rollout (headline 13). BRS cadres were detained ahead of the CM's tour to Asifabad (headline 7).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS cadres detained in Asifabad ahead of CM's tour, potentially indicating unrest or attempts to disrupt the event. (headline 7)</li>\n    <li><span class=\"risk-medium\">Public Perception:</span> KTR demands CM Revanth Reddy fulfil 420 promises before the next election, potentially highlighting unmet expectations. (headline 10)</li>\n    <li><span class=\"risk-low\">Environmental:</span> Possible rainfall deficit forecast, requiring preparedness measures for farmers. (headlines 1, 4)</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM is focused on both immediate actions (launching housing, reviewing health schemes - headlines 11, 12, 13) and long-term planning (crop diversification due to potential rainfall deficit - headlines 1, 4).</li>\n    <li>The CM's tour to Asifabad (headline 7) coincides with the launch of Indiramma Houses in the same district (headlines 11, 12).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure adequate security and crowd control measures are in place for the CM's events in Asifabad, given the detention of BRS cadres. (headline 7, 11, 12)</li>\n    <li>Monitor the situation in Asifabad closely during the CM's tour. (headline 7, 11, 12)</li>\n    <li>Prepare and disseminate information regarding the Employee Health Scheme rollout. (headline 13)</li>\n    <li>Coordinate with the Agriculture Department to implement crop diversification strategies and support farmers in light of the potential rainfall deficit. (headlines 1, 4)</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Asifabad:</b> High priority due to the CM's visit, launch of Indiramma Houses, and potential for political activity. (headlines 7, 11, 12)</li>\n    <li><b>Mahabubnagar:</b> The CM is scheduled to tour Mahabubnagar on June 4 and 5, requiring preparation. (headline 9)</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35.8°C",
-      "humidity": "28%",
-      "wind": "8.1 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 63,
-      "pm25": 12.8,
-      "goldPerGram": "₹9,163",
-      "newsCount": 35,
-      "topHeadlines": [
-        "Farmers Must Be Prepared For Possible Rainfall Deficit: Revanth Reddy - INDToday",
-        "Canada’s CIBC, Swiss Nestlé Pick Hyderabad for New GCCs - Analytics India Magazine",
-        "VB-G RAM G: Telangana Government Seeks Restoration Of Power To Take Up Works, Removal Of Two Month's Break - ETV Bharat",
-        "CM Revanth Reddy for crop diversification, as below normal rainfall is forecast - The Hindu",
-        "Telangana govt bans cash wages, brings gig workers under new regulations - Business Standard"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-06-20T06:09:47.580Z",
     "timestampIST": "20/6/2026, 11:39:47 am",
     "executiveSummary": "<p>Chief Minister Reddy has emphasized Telangana's ambition to become a powerhouse in AI, education, and sports, aiming to produce unicorns and prepare youth for global jobs (Headlines #1, #5, #7, #9, #12, #14, #18). Key infrastructure developments include the clearance of Defence land for the Gandhi Sarovar Project in Langer Houz and plans for 50,000 MT grain silos (Headlines #2, #3). However, there are significant public safety concerns with 128 accidents involving minors recorded in Hyderabad this year due to unsafe roads around schools (Headline #20).</p>",
@@ -1916,6 +1893,29 @@
         "'Your days are numbered': BJP slams Telangana CM Revanth Reddy for 'mocking' Nitin Nabin - The Economic Times",
         "BJP MP Sambit Patra criticises Telangana CM Revanth Reddy over remarks on Nitin Nabin - The News Mill",
         "BJP's Sambit Patra Slams Telangana CM for Criticizing Party President - Devdiscourse"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-07-01T12:34:35.351Z",
+    "timestampIST": "1/7/2026, 6:04:35 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaging with industry leaders, including Analog CEO and MEIL MD (#1), and Airtel, which plans a second headquarters and AI/data center expansion in Hyderabad (#2). Concurrently, the Chief Minister is focusing on revenue mobilization and warning against leakages across all departments (#4, #5). A significant political confrontation has erupted between CM Revanth Reddy and the BJP, stemming from the CM's remarks concerning BJP National President Nitin Nabin, drawing strong criticism from multiple BJP leaders (#3, #6, #8, #9, #10, #11, #12, #13, #14, #15, #16, #17). Public safety is a concern following an intermediate student's death in an RTC bus accident in Chevella (#7).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaging with industry leaders, including Analog CEO and MEIL MD (#1), and Airtel, which plans a second headquarters and AI/data center expansion in Hyderabad (#2). Concurrently, the Chief Minister is focusing on revenue mobilization and warning against leakages across all departments (#4, #5). A significant political confrontation has erupted between CM Revanth Reddy and the BJP, stemming from the CM's remarks concerning BJP National President Nitin Nabin, drawing strong criticism from multiple BJP leaders (#3, #6, #8, #9, #10, #11, #12, #13, #14, #15, #16, #17). Public safety is a concern following an intermediate student's death in an RTC bus accident in Chevella (#7).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability:</span> Intense political clash between CM Revanth Reddy and BJP leaders over remarks against BJP National President Nitin Nabin, escalating tensions and potentially impacting governance (#3, #6, #8, #9, #10, #11, #12, #13, #14, #15, #16, #17).</li>\n    <li><span class=\"risk-medium\">Public Safety/Traffic Accidents:</span> An intermediate student was killed in an RTC bus accident in Chevella, highlighting ongoing concerns regarding road safety (#7).</li>\n    <li><span class=\"risk-medium\">Revenue Mobilization Challenges:</span> CM Revanth Reddy's directives to all departments to step up efforts to mobilize higher revenue and warnings against leakages suggest potential underlying issues in financial management (#4, #5).</li>\n    <li><span class=\"risk-low\">Internal Party Discontent:</span> Komatireddy Rajgopal Reddy is displeased over the constitution of the Yadagirigutta temple board, indicating potential internal party friction (#18).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's focus on revenue mobilization (#4, #5) coincides with significant investment interest from companies like Airtel planning a second headquarters and major AI/data center expansion in Hyderabad (#2), suggesting a potential link between attracting investment and bolstering state revenue.</li>\n    <li>The repeated criticism from BJP leaders against CM Revanth Reddy regarding his remarks on Nitin Nabin (#3, #6, #8, #9, #10, #11, #12, #13) directly contributes to the broader \"Political Tensions Flare: BJP and Congress Clash in Telangana\" (#16).</li>\n    <li>The appointment of MSN Group CMD as Chairman of the Yadagirigutta Devasthanam board (#20) is the direct cause of Komatireddy Rajgopal Reddy's displeasure (#18).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Convene an urgent meeting with relevant officials to address the escalating political rhetoric with the BJP and formulate a strategic communication response to de-escalate tensions (#3, #6, #8, #9, #10, #11, #12, #13, #14, #15, #16, #17).</li>\n    <li>Direct the Transport Department and local law enforcement to investigate the RTC bus accident in Chevella (#7) and review existing safety protocols for public transport, especially near educational institutions.</li>\n    <li>Task the Finance Department and all departmental secretaries to present immediate action plans for revenue mobilization and leakage prevention as directed by the Chief Minister (#4, #5).</li>\n    <li>Engage with Komatireddy Rajgopal Reddy to understand and address his concerns regarding the Yadagirigutta temple board constitution to mitigate potential internal party dissent (#18, #20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Chevella:</b> Immediate attention is required due to the fatal RTC bus accident involving an intermediate student (#7). This necessitates a review of traffic safety measures and public transport operations in the area.</li>\n    <li><b>Hyderabad:</b> Continued focus on facilitating investment and infrastructure development, given Airtel's plans for a second headquarters and AI/data center expansion (#2), and the meeting between Analog CEO, MEIL MD, and the CM regarding smart infrastructure (#1).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "27.9°C",
+      "humidity": "65%",
+      "wind": "17.2 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 25,
+      "pm25": 6.9,
+      "goldPerGram": "₹9,130",
+      "newsCount": 58,
+      "topHeadlines": [
+        "Analog CEO, MEIL MD Meet Revanth Reddy; Smart Infrastructure in Focus - Deccan Chronicle",
+        "Airtel Eyes Second Headquarters In Hyderabad, Plans Major AI And Data Centre Expansion In Telangana - ETV Bharat",
+        "Telangana CM Revanth Reddy Hits back at BJP National PCresident Nitin Nabin | TMC | News18 - News18",
+        "Revanth Reddy Reviews Revenue Mobilisation, Warns Against Leakages - Deccan Chronicle",
+        "Telangana CM directs all departments to step up efforts to mobilise higher revenue - BusinessLine"
       ]
     }
   }
