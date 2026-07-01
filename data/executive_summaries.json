@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01T04:16:42.340Z",
-    "timestampIST": "1/6/2026, 9:46:42 am",
-    "executiveSummary": "<p>Chief Minister Revanth Reddy will launch Indiramma Houses in Asifabad today (1, 2). He will also review the Employee Health Scheme ahead of its rollout (3). The CM is scheduled to embark on a statewide tour to celebrate Telangana Formation Day (9). Traffic diversions are imposed in Asifabad today due to the CM's visit (19).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy will launch Indiramma Houses in Asifabad today (1, 2). He will also review the Employee Health Scheme ahead of its rollout (3). The CM is scheduled to embark on a statewide tour to celebrate Telangana Formation Day (9). Traffic diversions are imposed in Asifabad today due to the CM's visit (19).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political:</span> BRS and BJP are challenging the CM regarding unmet promises and electoral roll revision (14, 16, 18).</li>\n    <li><span class=\"risk-low\">Public Order:</span> Traffic diversions in Asifabad due to the CM's tour could cause minor disruptions (19).</li>\n    <li><span class=\"risk-low\">Political:</span> Potential for increased political activity and criticism from opposition parties (10, 15).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The CM's launch of Indiramma Houses (1, 2) and review of the Employee Health Scheme (3) are key policy initiatives.</li>\n    <li>The CM's meeting with Kharge (4, 8, 12) indicates ongoing political discussions and potentially cabinet reshuffle (5).</li>\n    <li>Opposition parties are criticizing the government regarding free power and electoral roll revision (10, 14, 15).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Ensure smooth execution of the Indiramma Houses launch in Asifabad and manage traffic diversions effectively (1, 2, 19).</li>\n    <li>Prepare for potential scrutiny and criticism from opposition parties regarding unmet promises and electoral roll revision (14, 16, 18).</li>\n    <li>Monitor the rollout of the Employee Health Scheme and address any potential issues (3, 20).</li>\n    <li>Prepare for the CM's statewide tour and ensure adequate security and logistical arrangements (9).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Asifabad:</b> Due to the CM's visit and Indiramma Houses launch, this district requires immediate attention for security and logistical arrangements (1, 2, 19).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "33.8°C",
-      "humidity": "31%",
-      "wind": "9.3 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 60,
-      "pm25": 17.1,
-      "goldPerGram": "₹9,163",
-      "newsCount": 37,
-      "topHeadlines": [
-        "CM Revanth Reddy to Launch Indiramma Houses in Asifabad Today - INDToday",
-        "CM Revanth to launch Indiramma housing Phase-II today - The New Indian Express",
-        "CM Revanth will review Employee Health Scheme ahead of rollout - The New Indian Express",
-        "Revanth Sounds Voter Roll Alert, Briefs Kharge on Telangana Challenges - Hyderabad Mail",
-        "Now, Congress may focus on Telangana Cabinet rejig - The New Indian Express"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-06-01T11:38:49.671Z",
     "timestampIST": "1/6/2026, 5:08:49 pm",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is scheduled to launch Indiramma Houses in Asifabad today (headlines 11, 12). He will also review the Employee Health Scheme ahead of its rollout (headline 13). BRS cadres were detained ahead of the CM's tour to Asifabad (headline 7).</p>",
@@ -1916,6 +1893,29 @@
         "Petrol, diesel prices today — 1 July: How costly is fuel in Bengaluru, Delhi, Mumbai, Kolkata, Hyderabad, other cities? - Mint",
         "Telangana Releases ₹2,482 Crore Rythu Bharosa Aid to 41 Lakh Farmers - The Morning Voice",
         "BJP Chief Nitin Nabin Calls for Congress-Free Telangana, Alleges Corruption - The Morning Voice"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-07-01T09:50:48.328Z",
+    "timestampIST": "1/7/2026, 3:20:48 pm",
+    "executiveSummary": "Political tensions are high with the BJP criticizing Chief Minister Revanth Reddy for remarks concerning Nitin Nabin, escalating into a significant political row (Headlines #2, #3, #4, #5, #6, #7, #8, #9, #10, #13, #18). There is a public safety concern following an Intermediate student's death in an RTC bus accident at Chevella (Headline #1). Additionally, a senior Congress leader, Komatireddy Rajgopal Reddy, has expressed displeasure regarding the constitution of the Yadagirigutta temple board (Headline #11).",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\nPolitical tensions are high with the BJP criticizing Chief Minister Revanth Reddy for remarks concerning Nitin Nabin, escalating into a significant political row (Headlines #2, #3, #4, #5, #6, #7, #8, #9, #10, #13, #18). There is a public safety concern following an Intermediate student's death in an RTC bus accident at Chevella (Headline #1). Additionally, a senior Congress leader, Komatireddy Rajgopal Reddy, has expressed displeasure regarding the constitution of the Yadagirigutta temple board (Headline #11).\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span> Political Instability/Inter-Party Conflict: The ongoing and widespread criticism from the BJP towards CM Revanth Reddy, involving multiple BJP leaders and media outlets, indicates a significant escalation of political tensions (Headlines #2, #3, #4, #5, #6, #7, #8, #9, #10, #13, #18).</li>\n    <li><span class=\"risk-medium\">MEDIUM</span> Public Safety/Road Accidents: The death of an Intermediate student in an RTC bus accident at Chevella highlights an immediate public safety concern related to road transport (Headline #1).</li>\n    <li><span class=\"risk-medium\">MEDIUM</span> Intra-Party Discontent: Komatireddy Rajgopal Reddy's displeasure over the Yadagirigutta temple board constitution suggests potential internal party friction within the ruling Congress (Headline #11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The numerous headlines (Headlines #2, #3, #4, #5, #6, #7, #8, #9, #10, #13, #18) regarding the BJP's criticism of CM Revanth Reddy for his remarks on Nitin Nabin demonstrate a coordinated and significant political attack, indicating a heightened state of inter-party conflict.</li>\n    <li>CM Revanth Reddy's efforts to attract investment, specifically urging Bharti Enterprises to set up a data centre at Chandanvelli (Headline #14) and Uttam's efforts to attract aerospace firms (Headline #16), align with the potential for Hyderabad to be considered Airtel's second headquarters (Headline #20), suggesting a concerted push for economic development and investment in the state.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Issue a directive to the RTC to review safety protocols and driver training, specifically focusing on routes like Chevella, following the recent fatal accident (Headline #1).</li>\n    <li>Engage with Komatireddy Rajgopal Reddy to address his concerns regarding the Yadagirigutta temple board constitution to mitigate potential internal party issues (Headline #11).</li>\n    <li>Prepare a strategic communication response to counter the ongoing BJP criticism of the Chief Minister, focusing on factual rebuttals and highlighting governance achievements (Headlines #2, #3, #4, #5, #6, #7, #8, #9, #10, #13, #18).</li>\n    <li>Prioritize follow-up with Bharti Enterprises regarding the data center at Chandanvelli and Airtel regarding Hyderabad as a potential second headquarters to capitalize on investment opportunities (Headlines #14, #20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Chevella: Immediate attention is required due to the fatal RTC bus accident involving an Intermediate student, necessitating a review of road safety and public transport operations in the area (Headline #1).</li>\n    <li>Yadagirigutta: Attention is needed to address the concerns raised by Komatireddy Rajgopal Reddy regarding the constitution of the temple board, which could have local and political implications (Headline #11).</li>\n    <li>Chandanvelli: This area requires focus for potential economic development given CM Revanth Reddy's urging of Bharti Enterprises to establish a data center there (Headline #14).</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "28.1°C",
+      "humidity": "67%",
+      "wind": "18 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 19,
+      "pm25": 5.6,
+      "goldPerGram": "₹9,130",
+      "newsCount": 58,
+      "topHeadlines": [
+        "Intermediate Student Killed in RTC Bus Accident at Chevella - INDToday",
+        "BJP calls Revanth Reddy 'ahankari', says his 'arrogance will lead to downfall' after Telangana CM 'mocks' Nitin Nabin - Deccan Herald",
+        "'Your days are numbered': BJP slams Telangana CM Revanth Reddy for 'mocking' Nitin Nabin - The Economic Times",
+        "BJP MP Sambit Patra criticises Telangana CM Revanth Reddy over remarks on Nitin Nabin - The News Mill",
+        "BJP's Sambit Patra Slams Telangana CM for Criticizing Party President - Devdiscourse"
       ]
     }
   }
