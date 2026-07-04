@@ -2516,5 +2516,28 @@
         "Gold Price Today in Hyderabad – 18K, 22K &amp; 24K Rate | 04 July 2026 - The Times of India"
       ]
     }
+  },
+  {
+    "timestamp": "2026-07-04T19:15:59.720Z",
+    "timestampIST": "5/7/2026, 12:45:59 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy marked 20 years in public life, reiterating his commitment to the people and advocating for Rahul Gandhi as the next Prime Minister (Headlines 1, 2, 5, 6, 7, 8, 9, 10, 13, 15, 16). Opposition parties, specifically BRS, have criticized the government for alleged administrative failures and lack of Cabinet coordination (Headline 17). There is a significant push from KTR and BRS for the Telangana Government to issue notifications for 20,000 police vacancies (Headlines 3, 18, 19). Additionally, PM Modi inaugurated projects worth approximately ₹9,400 crore in Telangana (Headline 20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy marked 20 years in public life, reiterating his commitment to the people and advocating for Rahul Gandhi as the next Prime Minister (Headlines 1, 2, 5, 6, 7, 8, 9, 10, 13, 15, 16). Opposition parties, specifically BRS, have criticized the government for alleged administrative failures and lack of Cabinet coordination (Headline 17). There is a significant push from KTR and BRS for the Telangana Government to issue notifications for 20,000 police vacancies (Headlines 3, 18, 19). Additionally, PM Modi inaugurated projects worth approximately ₹9,400 crore in Telangana (Headline 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Opposition Pressure:</span> BRS is actively questioning the government's stance on the VB-G RAM G scheme and criticizing administrative failures, potentially impacting public perception and governance stability (Headlines 14, 17).</li>\n    <li><span class=\"risk-medium\">Public Safety/Security Workforce Gap:</span> Repeated calls from KTR and BRS for 20,000 police vacancies suggest a perceived shortage in law enforcement, which if unaddressed, could lead to public safety concerns (Headlines 3, 18, 19).</li>\n    <li><span class=\"risk-low\">Financial Strain on Education Sector:</span> A round-table in Khammam seeking clearance of fee reimbursement arrears indicates potential financial stress for educational institutions and students, which could lead to unrest if not resolved (Headline 11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's celebration of 20 years in public life (Headlines 1, 2, 13, 15, 16) is directly linked to his strong advocacy for Rahul Gandhi as PM and the assertion of continued Congress rule until 2034 (Headlines 5, 6, 7, 8, 9, 10, 12). This indicates a strategic political alignment and future vision being articulated.</li>\n    <li>The calls from KTR and BRS for 20,000 police vacancies (Headlines 3, 18, 19) represent a unified opposition stance on a critical public safety and employment issue, potentially putting pressure on the government to act.</li>\n    <li>The BRS's criticism of the Congress government over \"administrative failure\" and \"lack of Cabinet coordination\" (Headline 17) is further exemplified by their questioning of the government's stand on the VB-G RAM G scheme (Headline 14), indicating a broad-based opposition strategy to challenge the ruling party.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize the issuance of a notification for police vacancies, addressing the concerns raised by KTR and BRS, to bolster public safety and address employment needs (Headlines 3, 18, 19).</li>\n    <li>Convene a meeting to address the fee reimbursement arrears, particularly in Khammam, to mitigate potential student and institutional discontent (Headline 11).</li>\n    <li>Prepare a comprehensive response to BRS's criticisms regarding \"administrative failure\" and the government's stance on the VB-G RAM G scheme to maintain public confidence (Headlines 14, 17).</li>\n    <li>Evaluate the request for 10 acres for Kendriya Vidyalaya in Jagtial to support educational infrastructure development (Headline 4).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Khammam:</b> Immediate attention is required to address the demands for clearance of fee reimbursement arrears, as highlighted by the round-table discussion (Headline 11).</li>\n    <li><b>Jagtial:</b> A request has been made for the allocation of 10 acres for a Kendriya Vidyalaya, indicating a need for educational infrastructure development in this district (Headline 4).</li>\n    <li><b>Midjil:</b> The Chief Minister's visit to Midjil to mark his 20 years in politics suggests a recent high-profile event in the area, which may warrant follow-up or monitoring (Headline 5, 15).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "24°C",
+      "humidity": "84%",
+      "wind": "22.5 km/h",
+      "weatherDesc": "Light Drizzle",
+      "aqi": 15,
+      "pm25": 2.1,
+      "goldPerGram": "₹9,183",
+      "newsCount": 31,
+      "topHeadlines": [
+        "From ZPTC Victory to CM’s Office: Revanth Reddy Reaches 20-Year Landmark - The Morning Voice",
+        "People's Trust Made Me Chief Minister, Says Revanth Reddy While Marking 20 Years in Public Life - The Morning Voice",
+        "KTR Urges Telangana Government to Issue Notification for 20,000 Police Vacancies - The Morning Voice",
+        "Arvind Urges Telangana Government to Allocate 10 Acres for Kendriya Vidyalaya in Jagtial - The Morning Voice",
+        "Rahul as PM Mission begins from Midjil: CM - metroindia.net"
+      ]
+    }
   }
 ]
