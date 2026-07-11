@@ -2878,5 +2878,28 @@
         "Tourists from Telangana, Andhra Pradesh among 15 killed in Vietnam boat capsize - ANI News"
       ]
     }
+  },
+  {
+    "timestamp": "2026-07-11T16:59:39.694Z",
+    "timestampIST": "11/7/2026, 10:29:39 pm",
+    "executiveSummary": "<p>The state is facing significant political contention with allegations of increased POCSO cases (#1) and challenges to the Chief Minister's governance on law and order following the Shabad multiple murders (#7, #13). The Chief Minister is also under scrutiny for alleged misuse of public funds for a political rally (#3) and his decision regarding the Kannepalli pump house (#2, #14). Concurrently, the state is actively responding to the Vietnam boat tragedy by setting up a control room (#6, #10).</p>",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>The state is facing significant political contention with allegations of increased POCSO cases (#1) and challenges to the Chief Minister's governance on law and order following the Shabad multiple murders (#7, #13). The Chief Minister is also under scrutiny for alleged misuse of public funds for a political rally (#3) and his decision regarding the Kannepalli pump house (#2, #14). Concurrently, the state is actively responding to the Vietnam boat tragedy by setting up a control room (#6, #10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Law and Order Deterioration:</span> Allegations of Telangana becoming a hub for POCSO cases (#1) and the Shabad multiple murders (#7, #13) indicate potential weaknesses in public safety and law enforcement.</li>\n    <li><span class=\"risk-medium\">Political Instability/Governance Challenges:</span> Opposition parties are challenging the CM's governance, demanding his resignation over murders (#7), questioning his decision on the Kannepalli pump house (#2, #14), and alleging misuse of public funds (#3).</li>\n    <li><span class=\"risk-medium\">International Incident Response:</span> The state's response to the Vietnam boat tragedy (#6, #10) requires sustained coordination and support for affected citizens.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #7 and #13 both refer to the \"Shabad multiple murders\" and are used by KTR to target the Revanth Government on law and order, indicating a coordinated opposition strategy to highlight perceived governance failures.</li>\n    <li>Headlines #2 and #14 both concern the Kannepalli pump house, with CM Revanth ruling out its operation (#2) and KTR alleging this is to deny credit to KCR (#14), highlighting a political dispute over infrastructure projects.</li>\n    <li>Headlines #11 and #8 both show BRS working president KTR challenging CM Revanth Reddy to call fresh elections, indicating a consistent political pressure tactic from the opposition.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Director General of Police (DGP) to provide an immediate briefing on the status of POCSO cases and the Shabad multiple murders, outlining steps taken to address law and order concerns (#1, #7, #13).</li>\n    <li>Instruct relevant departments to prepare a detailed report on the decision-making process regarding the Kannepalli pump house, addressing the concerns raised by the opposition (#2, #14).</li>\n    <li>Ensure the control room established for the Vietnam boat tragedy is fully resourced and operational, providing regular updates on citizen support and repatriation efforts (#6, #10).</li>\n    <li>Task the Finance Department to review the allegations of public money spent on the Khammam Rythu Ashirwada Sabha (#3) and provide a clarification.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><p><strong>Shabad:</strong> Immediate attention is required due to the \"multiple murders\" (#7, #13), indicating a critical law and order situation that needs urgent investigation and resolution.</p></li>\n    <li><p><strong>Kannepalli:</strong> The decision regarding the Kannepalli pump house (#2, #14) is a point of political contention, requiring clear communication and potentially local engagement to address concerns.</p></li>\n    <li><p><strong>Khammam:</strong> Allegations of public money misuse for the Rythu Ashirwada Sabha (#3) in Khammam warrant scrutiny and potential administrative action.</p></li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "28.8°C",
+      "humidity": "56%",
+      "wind": "9.2 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 37,
+      "pm25": 20.4,
+      "goldPerGram": "₹9,196",
+      "newsCount": 33,
+      "topHeadlines": [
+        "Telangana now a hub for POCSO cases, alleges RS Praveen Kumar - Telangana Today",
+        "Revanth Reddy rules out operating Kannepalli pump house, cites NDSA - Telangana Today",
+        "CM Revanth spent public money on Khammam Rythu Ashirwada Sabha to target BRS: MLC Madhusudhan - Telangana Today",
+        "Emirates plans A380 services to Hyderabad; CM Reddy seeks MRO facilities at new airports - The News Mill",
+        "India set for New Zealand tour during FIFA match window - Telangana Today"
+      ]
+    }
   }
 ]
