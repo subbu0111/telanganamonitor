@@ -2809,5 +2809,28 @@
         "Asad Owaisi urges CM Revanth to halt Gudimalkapur market shift - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-07-11T11:23:58.863Z",
+    "timestampIST": "11/7/2026, 4:53:58 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is confident of a Congress landslide in the 2029 elections, predicting 117 seats (Headlines #6, #10, #20). The government is actively pursuing development initiatives, including the completion of the Hi-tech City Railway Station redevelopment (#5) and reviewing bullet train corridors and Warangal airport plans (#18). However, the opposition BRS, led by KTR, has criticized the government over law and order following the Shabad Killings (#2) and alleged political motivations behind operational decisions (#3).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is confident of a Congress landslide in the 2029 elections, predicting 117 seats (Headlines #6, #10, #20). The government is actively pursuing development initiatives, including the completion of the Hi-tech City Railway Station redevelopment (#5) and reviewing bullet train corridors and Warangal airport plans (#18). However, the opposition BRS, led by KTR, has criticized the government over law and order following the Shabad Killings (#2) and alleged political motivations behind operational decisions (#3).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Opposition and Law & Order Criticism:</span> KTR is targeting the Revanth Government over law and order issues following the Shabad Killings (#2), potentially impacting public perception and requiring a robust response.</li>\n    <li><span class=\"risk-medium\">Inter-Party Political Accusations:</span> BRS leader Harish is accusing Congress of lying about KLIS to hide failures (#13), and KTR claims Revanth is avoiding Kanepally operations to deny credit to KCR (#3). These accusations could escalate political tensions.</li>\n    <li><span class=\"risk-low\">Potential Impact of Delimitation:</span> CM Revanth Reddy alleges BJP is using delimitation to expand political control (#7) but maintains Congress will still win (#14). While a concern, the CM expresses confidence in mitigating its impact.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #6, #10, and #20 all report CM Revanth Reddy predicting a Congress landslide in the 2029 elections with 117 seats, indicating a consistent and strong political messaging strategy from the Chief Minister.</li>\n    <li>Headlines #9 and #15 both detail the Telangana government's initiative to prepare 80,000 minority students for an AI-driven future, highlighting a focused effort on skill development and minority empowerment.</li>\n    <li>Headlines #2 and #3 both feature KTR criticizing the Revanth Government, specifically regarding law and order (Shabad Killings) and alleged political motivations behind operational decisions, demonstrating a coordinated opposition narrative.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Address law and order concerns directly, particularly regarding the Shabad Killings, to counter opposition criticism from KTR (#2).</li>\n    <li>Continue to highlight and publicize completed infrastructure projects like the Hi-tech City Railway Station redevelopment (#5) and ongoing development plans (bullet train, Warangal airport - #18) to demonstrate governance effectiveness.</li>\n    <li>Ensure transparent communication regarding government operations, especially concerning projects like Kanepally, to mitigate accusations of denying credit or political maneuvering (#3).</li>\n    <li>Promote the AI readiness program for 80,000 minority students (#9, #15) as a key government initiative for future-proofing the workforce.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are highlighted for immediate attention based solely on the provided headlines, as the news items are either state-wide (e.g., government policies, CM statements) or refer to specific locations without indicating a need for immediate district-level intervention (e.g., Shabad Killings, Hi-tech City).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.5°C",
+      "humidity": "43%",
+      "wind": "19.4 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 39,
+      "pm25": 18.4,
+      "goldPerGram": "₹9,196",
+      "newsCount": 40,
+      "topHeadlines": [
+        "True Satisfaction: Revanth Reddy on Indiramma Canteen Praise - Deccan Chronicle",
+        "Shabad Killings: KTR targets Revanth Government over law and order - Telangana Today",
+        "KTR claims Revanth avoiding Kanepally operations to deny credit to KCR - Telangana Today",
+        "Dhanush unveils title of new Vetrimaaran film ‘Thamizh Murugan’ - Telangana Today",
+        "Hyderabad: Hi-tech City Railway Station redevelopment completed - Telangana Today"
+      ]
+    }
   }
 ]
