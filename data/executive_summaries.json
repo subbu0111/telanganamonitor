@@ -2855,5 +2855,28 @@
         "True Satisfaction: Revanth Reddy on Indiramma Canteen Praise - Deccan Chronicle"
       ]
     }
+  },
+  {
+    "timestamp": "2026-07-11T14:55:12.845Z",
+    "timestampIST": "11/7/2026, 8:25:12 pm",
+    "executiveSummary": "<p>The state government has established a control room following a boat tragedy in Vietnam that killed 15 tourists, including some from Telangana (#2, #5). Concurrently, the opposition BRS is actively challenging the current administration, with Harish Rao demanding CM Revanth Reddy's resignation over the Shabad multiple murders (#3) and KTR daring the CM to face early assembly elections (#4, #8). Law and order concerns are being raised by KTR regarding the Shabad killings (#10).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The state government has established a control room following a boat tragedy in Vietnam that killed 15 tourists, including some from Telangana (#2, #5). Concurrently, the opposition BRS is actively challenging the current administration, with Harish Rao demanding CM Revanth Reddy's resignation over the Shabad multiple murders (#3) and KTR daring the CM to face early assembly elections (#4, #8). Law and order concerns are being raised by KTR regarding the Shabad killings (#10).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Safety/Law & Order:</span> Multiple murders in Shabad are a significant concern, leading to calls for the CM's resignation and criticism of the government's handling of law and order (#3, #10).</li>\n    <li><span class=\"risk-medium\">Political Instability/Opposition Pressure:</span> The BRS is aggressively challenging the ruling party, demanding resignations and early elections, which could lead to increased political tensions (#3, #4, #8).</li>\n    <li><span class=\"risk-medium\">International Incident/Citizen Welfare:</span> The Vietnam boat tragedy involving Telangana tourists requires ongoing consular support and public communication (#2, #5, #7).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #3 and #10 both relate to the \"Shabad multiple murders,\" indicating a significant law and order issue that the opposition BRS is using to criticize the current government.</li>\n    <li>Headlines #4 and #8 both show KTR challenging CM Revanth Reddy to face early assembly elections, highlighting a concerted political strategy by the BRS.</li>\n    <li>Headlines #2, #5, and #7 are all interconnected, detailing the Vietnam boat tragedy, the involvement of Telangana tourists, and the state's response, including the establishment of a control room.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize investigation and resolution of the Shabad multiple murders to address public safety concerns and counter opposition criticism (#3, #10).</li>\n    <li>Ensure the control room established for the Vietnam boat tragedy is fully operational and providing comprehensive support to affected families (#2, #5).</li>\n    <li>Develop a robust communication strategy to address opposition challenges regarding governance and law and order, particularly concerning the Shabad incident (#3, #4, #10).</li>\n    <li>Monitor political rhetoric from the BRS regarding early elections and prepare a strategic response (#4, #8).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><p><strong>Shabad:</strong> Immediate attention is required due to the \"multiple murders\" and the resulting political fallout and law and order concerns (#3, #10).</p></li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "30°C",
+      "humidity": "53%",
+      "wind": "9.8 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 38,
+      "pm25": 20.1,
+      "goldPerGram": "₹9,196",
+      "newsCount": 36,
+      "topHeadlines": [
+        "India set for New Zealand tour during FIFA match window - Telangana Today",
+        "Telangana sets up control room after Vietnam boat tragedy - Telangana Today",
+        "Harish Rao demands Revanth’s resignation over Shabad multiple murders - Telangana Today",
+        "KTR dares Revanth Reddy to face assembly elections, if he believes in governance - The Times of India",
+        "Tourists from Telangana, Andhra Pradesh among 15 killed in Vietnam boat capsize - ANI News"
+      ]
+    }
   }
 ]
