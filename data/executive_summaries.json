@@ -3315,5 +3315,28 @@
         "Telangana CM urge MPs to take up pending projects with Centre - thehawk.in"
       ]
     }
+  },
+  {
+    "timestamp": "2026-07-13T19:26:33.685Z",
+    "timestampIST": "14/7/2026, 12:56:33 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively seeking Central government support for key state projects and Scheduled Castes development, urging Telangana MPs to raise these issues in Parliament (Headlines 1, 2, 3, 4, 9, 11, 17). The BRS party is protesting against the CM's remarks, organizing blood donation drives (Headlines 7, 8), and accusing the government of compromising state interests and wasting Godavari waters (Headlines 15, 19). Political tensions are high, with accusations regarding electoral rolls and police inaction (Headlines 13, 18).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively seeking Central government support for key state projects and Scheduled Castes development, urging Telangana MPs to raise these issues in Parliament (Headlines 1, 2, 3, 4, 9, 11, 17). The BRS party is protesting against the CM's remarks, organizing blood donation drives (Headlines 7, 8), and accusing the government of compromising state interests and wasting Godavari waters (Headlines 15, 19). Political tensions are high, with accusations regarding electoral rolls and police inaction (Headlines 13, 18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Inter-party Conflict:</span> BRS is actively protesting against the CM's remarks and policies, accusing the government of compromising state interests and wasting resources (Headlines 7, 8, 15, 19, 20). This indicates heightened political tensions and potential for further unrest.</li>\n    <li><span class=\"risk-medium\">Governance Challenges (Centre-State Relations):</span> The CM is repeatedly urging MPs to secure Central support for key state projects and address pending issues (Headlines 1, 2, 3, 4, 9, 11, 17). This suggests potential bottlenecks in project implementation and funding if Central cooperation is not secured.</li>\n    <li><span class=\"risk-medium\">Electoral Integrity Concerns:</span> CM Revanth Reddy's presence on electoral rolls of two Assembly constituencies has been reported (Headline 13), which could lead to legal challenges or public scrutiny regarding electoral processes.</li>\n    <li><span class=\"risk-medium\">Public Safety/Social Cohesion:</span> Reports of the government acting against caste discrimination in education (Headline 10) indicate existing social issues that, if not managed effectively, could escalate into public safety concerns.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines 7, 8, and 20 are directly linked, showing the BRS party's organized protest (blood donation drives) in response to CM Revanth Reddy's \"blood and belt treatment\" remarks and \"blood on crops\" jibe, highlighting escalating political tensions.</li>\n    <li>Headlines 1, 2, 3, 4, 9, 11, and 17 all converge on CM Revanth Reddy's consistent efforts to secure Central government support for Telangana's key projects and development, particularly for Scheduled Castes, indicating a strategic focus on inter-governmental cooperation.</li>\n    <li>Headlines 15 and 19, both from the BRS, accuse the Congress and BJP of compromising Singareni and Telangana's interests, and the Telangana government of wasting Godavari waters, respectively. This demonstrates a coordinated opposition narrative against the current state government and the central parties.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize immediate engagement with Central government counterparts to secure approvals and funding for key state projects, as repeatedly emphasized by the CM (Headlines 1, 2, 3, 4, 9, 11, 17).</li>\n    <li>Direct relevant departments to address and clarify the issue of CM Revanth Reddy's presence on two electoral rolls to maintain transparency and public trust (Headline 13).</li>\n    <li>Monitor BRS protest activities (blood donation drives) closely for any potential escalation or disruption to public order, especially in light of the \"blood and belt treatment\" remarks (Headlines 7, 8, 20).</li>\n    <li>Formulate a clear communication strategy to counter BRS accusations regarding the wasting of Godavari waters and compromising state interests (Headlines 15, 19).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are highlighted in the provided headlines as needing immediate attention. The news focuses on state-level political dynamics, policy initiatives, and inter-governmental relations.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.9°C",
+      "humidity": "57%",
+      "wind": "15.7 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 26,
+      "pm25": 11.4,
+      "goldPerGram": "₹9,223",
+      "newsCount": 42,
+      "topHeadlines": [
+        "CM Revanth Reddy Seeks Centre’s Support for Key State Projects at MPs’ Meeting - INDToday",
+        "Telangana seeks united MPs’ push for Central approval of key projects - Hyderabad Mail",
+        "CM Revanth To MPs: Raise TG's Pending Issues In Parliament During Monsoon - Deccan Chronicle",
+        "Telangana's growth needs Centre-State partnership: CM - metroindia.net",
+        "Revanth Reddy promises redesign of school infrastructure for SC students - EdexLive"
+      ]
+    }
   }
 ]
