@@ -3361,5 +3361,28 @@
         "Revanth Reddy promises redesign of school infrastructure for SC students - EdexLive"
       ]
     }
+  },
+  {
+    "timestamp": "2026-07-13T22:56:41.410Z",
+    "timestampIST": "14/7/2026, 4:26:41 am",
+    "executiveSummary": "<p>Chief Minister A Revanth Reddy is actively engaging with MPs to secure Central support for Telangana's key projects and interests, urging them to raise pending issues in Parliament during the Monsoon session (Headlines #1, #2, #4, #5, #6, #7, #11, #13). This comes as Prime Minister Modi inaugurated projects worth approximately ₹9,400 crore in Telangana (Headline #3). The BRS party has launched blood donation protests against perceived political tensions and the CM's administration, while also accusing the Congress and BJP of compromising state interests (Headlines #10, #14, #18).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister A Revanth Reddy is actively engaging with MPs to secure Central support for Telangana's key projects and interests, urging them to raise pending issues in Parliament during the Monsoon session (Headlines #1, #2, #4, #5, #6, #7, #11, #13). This comes as Prime Minister Modi inaugurated projects worth approximately ₹9,400 crore in Telangana (Headline #3). The BRS party has launched blood donation protests against perceived political tensions and the CM's administration, while also accusing the Congress and BJP of compromising state interests (Headlines #10, #14, #18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Tensions and Opposition Protests:</span> The BRS party is actively protesting against the current administration through blood donation drives, indicating heightened political tensions (Headlines #10, #14). This could escalate into further public demonstrations.</li>\n    <li><span class=\"risk-medium\">Inter-Party Conflict over State Interests:</span> BRS is accusing both Congress and BJP of compromising Telangana's interests, and blaming the CM for a Supreme Court setback on Polavaram (Headlines #18, #19). This suggests a contentious political environment that could hinder collaborative efforts.</li>\n    <li><span class=\"risk-low\">Electoral Roll Discrepancy:</span> CM Revanth Reddy has been found on the electoral rolls of two Assembly constituencies (Headline #16). While not immediately critical, this could become a point of contention for political opponents.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's repeated calls for MPs to prioritize state interests and seek Central support for key projects (Headlines #1, #2, #4, #5, #6, #7, #11, #13) directly relate to the BRS's accusation that Congress and BJP are compromising Telangana's interests (Headline #18), highlighting a significant political divide on state development.</li>\n    <li>The BRS's blood donation protest against Telangana's political tensions and CM Revanth Reddy (Headlines #10, #14) can be seen as a direct response to the current administration's actions and policies, including the CM's efforts to secure Central support.</li>\n    <li>CM Revanth Reddy's promise to redesign school infrastructure for SC students (Headline #8) and his seeking of Centre's support for the development of Scheduled Castes (Headline #20) aligns with the government's action against caste discrimination in education (Headline #12), indicating a concerted effort towards social equity.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Continue proactive engagement with Central government and MPs to secure funding and approvals for key state projects, as emphasized by the CM (Headlines #4, #5, #6, #11, #13).</li>\n    <li>Monitor BRS protest activities (Headlines #10, #14) closely to anticipate potential escalation and ensure public order.</li>\n    <li>Address the electoral roll discrepancy concerning CM Revanth Reddy (Headline #16) to prevent it from becoming a larger political issue.</li>\n    <li>Prioritize the redesign of school infrastructure for SC students and continue efforts against caste discrimination in education (Headlines #8, #12, #20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>No specific districts are highlighted for immediate attention based on the provided headlines. The news primarily focuses on state-level political and developmental initiatives.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "26.2°C",
+      "humidity": "60%",
+      "wind": "13.9 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 23,
+      "pm25": 13.6,
+      "goldPerGram": "₹9,223",
+      "newsCount": 45,
+      "topHeadlines": [
+        "Telangana CM A Revanth Reddy calls for focus on state interests - The News Mill",
+        "CM Revanth Reddy appeals to MPs to work hard for achieving state's broader interests - ANI News",
+        "PM Modi inaugurates projects worth around ₹9,400 crore in Telangana - News On AIR",
+        "CM Revanth Reddy Seeks Centre’s Support for Key State Projects at MPs’ Meeting - INDToday",
+        "Telangana seeks united MPs’ push for Central approval of key projects - Hyderabad Mail"
+      ]
+    }
   }
 ]
