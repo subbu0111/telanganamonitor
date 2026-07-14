@@ -3568,5 +3568,28 @@
         "Dental student killed in ORR car accident near Tukkuguda - Telangana Today"
       ]
     }
+  },
+  {
+    "timestamp": "2026-07-14T21:01:28.827Z",
+    "timestampIST": "15/7/2026, 2:31:28 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is scheduled to lay the foundation stone for a ₹60,000-Crore Amazon Data Centre today (Headline #1, #6). Concurrently, the CM has urged the Centre to expedite work on Warangal and Adilabad airports, requesting international standards and setting a June 2028 target (Headline #3, #4, #14, #16, #17, #18, #19). Allegations of the CM having dual voter entries have been denied by the Nagarkurnool DEO and election officer, though a deleted clarification from the Congress government has raised eyebrows (Headline #2, #5, #12). A dental student died in an ORR car accident near Tukkuguda (Headline #7).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is scheduled to lay the foundation stone for a ₹60,000-Crore Amazon Data Centre today (Headline #1, #6). Concurrently, the CM has urged the Centre to expedite work on Warangal and Adilabad airports, requesting international standards and setting a June 2028 target (Headline #3, #4, #14, #16, #17, #18, #19). Allegations of the CM having dual voter entries have been denied by the Nagarkurnool DEO and election officer, though a deleted clarification from the Congress government has raised eyebrows (Headline #2, #5, #12). A dental student died in an ORR car accident near Tukkuguda (Headline #7).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Controversy:</span> Allegations of CM Revanth Reddy's dual voter entry persist despite official denials, with a deleted clarification raising eyebrows (Headline #2, #5, #12).</li>\n    <li><span class=\"risk-low\">Public Safety (Road Accident):</span> A fatal car accident occurred on the ORR near Tukkuguda, resulting in the death of a dental student (Headline #7).</li>\n    <li><span class=\"risk-low\">Public Safety (Accidental Death Abroad):</span> A Hyderabad youth died in a skydiving accident in Massachusetts (Headline #15).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #3, #4, #14, #16, #17, #18, and #19 all consistently report on CM Revanth Reddy's efforts to expedite and upgrade Warangal and Adilabad airports, indicating a significant and coordinated push for infrastructure development.</li>\n    <li>Headlines #2, #5, and #12 collectively address the controversy surrounding CM Revanth Reddy's voter registration, with official denials conflicting with public scrutiny over a deleted clarification.</li>\n    <li>Headlines #1 and #6 both confirm the CM's scheduled foundation stone laying for the Amazon Data Centre, highlighting a major economic development initiative.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Issue a definitive and transparent statement regarding the CM's voter registration to fully address and mitigate the ongoing controversy (Referencing Headline #2, #5, #12).</li>\n    <li>Monitor progress and coordinate with central authorities to ensure the timely execution of the Warangal and Adilabad airport projects, aligning with the CM's stated deadlines and international standards (Referencing Headline #3, #4, #14, #16, #17, #18, #19).</li>\n    <li>Initiate an immediate review of road safety measures on the Outer Ring Road (ORR) following the fatal accident near Tukkuguda (Referencing Headline #7).</li>\n    <li>Ensure all necessary security and logistical arrangements are in place for the CM's foundation stone laying event for the Amazon Data Centre (Referencing Headline #1, #6).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><strong>Nagarkurnool:</strong> Requires attention due to the District Education Officer's involvement in denying CM Revanth Reddy's alleged dual voter registration in Achampet (Headline #2).</li>\n    <li><strong>Warangal & Adilabad:</strong> These districts are critical due to the CM's push for expedited construction and international standards for their respective airports, with a June 2028 target (Headline #3, #4, #14, #16, #17, #18, #19).</li>\n    <li><strong>Hyderabad (Tukkuguda area):</strong> Immediate attention is needed for road safety assessment following a fatal car accident on the ORR near Tukkuguda (Headline #7).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "27.5°C",
+      "humidity": "61%",
+      "wind": "11.5 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 34,
+      "pm25": 19.4,
+      "goldPerGram": "₹9,279",
+      "newsCount": 49,
+      "topHeadlines": [
+        "CM Revanth Reddy to Lay Foundation Stone for ₹60,000-Crore Amazon Data Centre - Deccan Chronicle",
+        "Nagarkurnool DEO denies rumours of CM Revanth Reddy’s voter registration in Achampet - Hyderabad Mail",
+        "Revanth urges Centre to expedite work on Warangal, Adilabad airports - The Times of India",
+        "CM Revanth Seeks International Airports at Warangal, Adilabad - Deccan Chronicle",
+        "Telangana CM has no dual voter entry, clarifies election officer - thehawk.in"
+      ]
+    }
   }
 ]
