@@ -3430,5 +3430,28 @@
         "Telangana CM urges MPs to prioritise TG’s interests - The New Indian Express"
       ]
     }
+  },
+  {
+    "timestamp": "2026-07-14T09:59:40.490Z",
+    "timestampIST": "14/7/2026, 3:29:40 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaging with the Centre and state MPs to push for critical infrastructure projects, including the RRR, Greenfield Highway, and the completion of Warangal and Adilabad airports by June 2028 (Headlines #1, #2, #4, #7, #9, #16, #17). Concurrently, an anomaly has been identified where CM Revanth Reddy's name appears in two Assembly electoral rolls, which officials state will be fixed soon (Headlines #3, #5). Separately, PM Modi has inaugurated projects worth approximately ₹9,400 crore in Telangana (Headline #15).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaging with the Centre and state MPs to push for critical infrastructure projects, including the RRR, Greenfield Highway, and the completion of Warangal and Adilabad airports by June 2028 (Headlines #1, #2, #4, #7, #9, #16, #17). Concurrently, an anomaly has been identified where CM Revanth Reddy's name appears in two Assembly electoral rolls, which officials state will be fixed soon (Headlines #3, #5). Separately, PM Modi has inaugurated projects worth approximately ₹9,400 crore in Telangana (Headline #15).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Electoral Roll Anomaly:</span> The CM's name appearing in two electoral rolls (Headlines #3, #5) could lead to questions regarding electoral integrity if not resolved swiftly and transparently.</li>\n    <li><span class=\"risk-medium\">Inter-Party Accusations:</span> KTR's accusation of a \"Congress-BJP nexus over Kaleshwaram Project\" (Headline #18) indicates potential political friction and scrutiny over a major state project.</li>\n    <li><span class=\"risk-low\">Socio-Ecological Concerns:</span> \"Socio-ecological concerns hover over Musi Riverfront gamble\" (Headline #13) suggests potential public or environmental opposition to a significant urban development project.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #1, #2, #4, #7, #9, #11, #14, #16, #17, #19, #20 all indicate a concerted effort by CM Revanth Reddy to prioritize and secure central government support for Telangana's infrastructure and development projects, including airports, highways, and general state interests, through direct engagement with Union Ministers and mobilization of state MPs.</li>\n    <li>Headlines #3 and #5 both report the same anomaly regarding CM Revanth Reddy's name appearing in two Assembly electoral rolls, highlighting a specific administrative issue requiring immediate rectification.</li>\n    <li>Headlines #1 and #4 specifically mention the importance and the CM's push for the early completion of Warangal and Adilabad airports, underscoring their strategic significance for the state's growth.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct the Election Commission officials to provide an immediate and public clarification on the electoral roll anomaly concerning CM Revanth Reddy (Headlines #3, #5), outlining the steps being taken for rectification.</li>\n    <li>Coordinate with relevant departments to prepare detailed briefings and justifications for the Musi Riverfront development to address \"socio-ecological concerns\" (Headline #13) preemptively.</li>\n    <li>Instruct state MPs to maintain a unified front in Parliament, as urged by the CM (Headlines #9, #11, #14, #16, #17, #19, #20), to effectively lobby for the state's key infrastructure projects, including the RRR, Greenfield Highway, and airports.</li>\n    <li>Task relevant departments to follow up on the projects inaugurated by PM Modi (Headline #15) to ensure timely implementation and benefit realization.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><strong>Adilabad:</strong> Requires attention due to the CM's emphasis on the early completion of the Adilabad airport (Headlines #1, #4), indicating a strategic development focus for the district.</li>\n    <li><strong>Warangal:</strong> Requires attention due to the CM's emphasis on the early completion of the Warangal airport (Headlines #1, #4), indicating a strategic development focus for the district.</li>\n    <li><strong>Hyderabad:</strong> Focus on the proposed four tank bunds (Headline #10) and the Musi Riverfront development (Headline #13) due to urban development initiatives and associated socio-ecological concerns.</li>\n    <li><strong>Wanaparthy:</strong> CM Revanth Reddy's scheduled visit on July 15 (Headline #6) indicates upcoming administrative focus and potential announcements for the district.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "33.1°C",
+      "humidity": "42%",
+      "wind": "16.5 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 43,
+      "pm25": 14.8,
+      "goldPerGram": "₹9,223",
+      "newsCount": 38,
+      "topHeadlines": [
+        "Adilabad And Warangal Airports Vital For Telangana’s Growth: Revanth Reddy - INDToday",
+        "CM Revanth Reddy Seeks Early Approval for RRR, Greenfield Highway - Deccan Chronicle",
+        "Revanth Reddy’s Name Allegedly Appears In Two Assembly Electoral Rolls - INDToday",
+        "Telangana CM urges Centre to complete Warangal, Adilabad airports by June 2028 - thehawk.in",
+        "CM Revanth Reddy’s name listed twice in Telangana voter rolls; officials say anomaly to be fixed soon - The South First"
+      ]
+    }
   }
 ]
