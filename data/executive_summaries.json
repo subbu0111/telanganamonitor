@@ -3453,5 +3453,28 @@
         "CM Revanth Reddy’s name listed twice in Telangana voter rolls; officials say anomaly to be fixed soon - The South First"
       ]
     }
+  },
+  {
+    "timestamp": "2026-07-14T11:39:44.454Z",
+    "timestampIST": "14/7/2026, 5:09:44 pm",
+    "executiveSummary": "Chief Minister Revanth Reddy is actively pursuing central government approvals for key infrastructure projects, including the Regional Ring Road (RRR) northern section and the Warangal and Adilabad airport projects, meeting with the Civil Aviation Minister and Nitin Gadkari (Headlines #2, #4, #6, #7, #8, #9, #10, #11, #12, #13, #17). Concurrently, the CM faces political scrutiny regarding the Medigadda project (Headline #1) and public discontent from farmers in Suryapet following his remarks (Headline #3). An anomaly in voter rolls shows the CM's name listed twice, which officials state will be fixed (Headlines #14, #15).",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\nChief Minister Revanth Reddy is actively pursuing central government approvals for key infrastructure projects, including the Regional Ring Road (RRR) northern section and the Warangal and Adilabad airport projects, meeting with the Civil Aviation Minister and Nitin Gadkari (Headlines #2, #4, #6, #7, #8, #9, #10, #11, #12, #13, #17). Concurrently, the CM faces political scrutiny regarding the Medigadda project (Headline #1) and public discontent from farmers in Suryapet following his remarks (Headline #3). An anomaly in voter rolls shows the CM's name listed twice, which officials state will be fixed (Headlines #14, #15).\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Discontent & Public Safety:</span> Farmers in Suryapet are symbolically sprinkling blood in fields after CM Revanth Reddy’s remarks (Headline #3), indicating high public dissatisfaction that could escalate.</li>\n    <li><span class=\"risk-medium\">Governance & Electoral Integrity:</span> CM Revanth Reddy’s name allegedly appears in two Assembly electoral rolls (Headline #14) and is listed twice in Telangana voter rolls (Headline #15). While officials state it will be fixed, this raises questions about electoral roll accuracy and could be exploited politically.</li>\n    <li><span class=\"risk-medium\">Political Scrutiny:</span> The Medigadda project has become a \"political tightrope\" for CM Revanth (Headline #1), suggesting ongoing political challenges and potential for opposition criticism.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #2, #4, #6, #7, #8, #9, #10, #11, #12, #13, #17, #19 collectively demonstrate a concerted effort by CM Revanth Reddy to secure Union Cabinet approval and central government support for critical infrastructure projects, specifically the Regional Ring Road and the Warangal and Adilabad airport projects. This indicates a high-priority focus on state development through central collaboration.</li>\n    <li>Headlines #14 and #15 both report the anomaly of CM Revanth Reddy's name appearing twice in electoral rolls, confirming a specific administrative issue that requires rectification.</li>\n    <li>Headlines #1, #3, #14, and #15 highlight various political and public relations challenges faced by CM Revanth Reddy, ranging from the Medigadda project to farmer protests and electoral roll discrepancies, indicating a period of heightened political scrutiny.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Address the concerns of farmers in Suryapet immediately to de-escalate potential public safety issues arising from their symbolic protest (Headline #3).</li>\n    <li>Ensure swift and transparent rectification of the CM's voter roll anomaly to maintain public trust and electoral integrity (Headlines #14, #15).</li>\n    <li>Continue high-level engagement with the Central Government to secure timely approvals for the Regional Ring Road and airport projects, as these are critical for state growth (Headlines #2, #4, #6, #7, #8, #9, #10, #11, #12, #13, #17).</li>\n    <li>Develop a clear communication strategy regarding the Medigadda project to manage political scrutiny effectively (Headline #1).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Suryapet:</b> Requires immediate attention due to farmer protests involving symbolic blood sprinkling in fields following CM's remarks (Headline #3). This indicates significant public discontent.</li>\n    <li><b>Warangal & Adilabad:</b> These districts are critical for future development due to the proposed airport projects (Headlines #2, #11, #12). Progress on these projects will directly impact their growth.</li>\n    <li><b>Wanaparthy:</b> CM Revanth Reddy is scheduled to visit on July 15 (Headline #16), indicating a planned engagement that may require local administrative preparations.</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "32.4°C",
+      "humidity": "45%",
+      "wind": "14.6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 41,
+      "pm25": 16.1,
+      "goldPerGram": "₹9,223",
+      "newsCount": 45,
+      "topHeadlines": [
+        "Medigadda turns into Revanth’s political tightrope - Telangana Today",
+        "Telangana CM meets Civil Aviation Minister, sets deadline for Warangal, Adilabad airport projects - ANI News",
+        "Watch: Farmers in Suryapet symbolically sprinkle blood in fields after CM Revanth Reddy’s remarks - Telangana Today",
+        "Telangana CM seeks Union Cabinet approval for northern Regional Ring Road section - The News Mill",
+        "Telangana CM Urges Swift Approval for Key Highway Projects - Devdiscourse"
+      ]
+    }
   }
 ]
