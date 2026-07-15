@@ -3614,5 +3614,28 @@
         "Revanth urges Centre to expedite work on Warangal, Adilabad airports - The Times of India"
       ]
     }
+  },
+  {
+    "timestamp": "2026-07-15T02:35:12.575Z",
+    "timestampIST": "15/7/2026, 8:05:12 am",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively pursuing infrastructure development, laying the foundation stone for a ₹60,000-Crore Amazon Data Centre today and urging the Centre to expedite work on Warangal and Adilabad airports, targeting a June 2028 completion. Concurrently, the CM's voter registration in Achampet has been clarified by the Nagarkurnool DEO, denying dual voter entry rumors. Public safety concerns include a fatal dental student car accident near Tukkuguda on the ORR and the death of a Hyderabad native in a U.S. skydiving accident.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively pursuing infrastructure development, laying the foundation stone for a ₹60,000-Crore Amazon Data Centre today and urging the Centre to expedite work on Warangal and Adilabad airports, targeting a June 2028 completion. Concurrently, the CM's voter registration in Achampet has been clarified by the Nagarkurnool DEO, denying dual voter entry rumors. Public safety concerns include a fatal dental student car accident near Tukkuguda on the ORR and the death of a Hyderabad native in a U.S. skydiving accident.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Controversy:</span> Allegations of dual voter entry for CM Revanth Reddy (Headlines #3, #6, #15) and calls for action against him over remarks (Headline #16) could lead to political instability or public scrutiny.</li>\n    <li><span class=\"risk-low\">Public Safety (Road Accidents):</span> A dental student was killed in a car accident on the ORR near Tukkuguda (Headline #9). While an isolated incident, it highlights ongoing road safety concerns.</li>\n    <li><span class=\"risk-low\">Legal Challenge:</span> Pradeep Reddy has moved the High Court against permit cancellation (Headline #12), indicating potential legal challenges to administrative decisions.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #1, #4, #5, #17, #19, and #20 all relate to CM Revanth Reddy's efforts to develop Warangal and Adilabad airports to international standards, with a target completion of June 2028. This indicates a significant and coordinated push for regional air infrastructure.</li>\n    <li>Headlines #3, #6, and #15 all address the controversy surrounding CM Revanth Reddy's voter registration, with the Nagarkurnool DEO clarifying that there is no dual voter entry, despite a deleted clarification raising eyebrows.</li>\n    <li>Headlines #2 and #7 both confirm that CM Revanth Reddy will lay the foundation stone for a ₹60,000-Crore Amazon Data Centre in Hyderabad today, highlighting a major investment in the state's IT infrastructure.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Issue a definitive and transparent statement regarding the CM's voter registration to fully address and neutralize ongoing rumors and political allegations (Referencing Headlines #3, #6, #15).</li>\n    <li>Monitor the High Court proceedings concerning Pradeep Reddy's permit cancellation (Headline #12) to understand potential implications for administrative processes.</li>\n    <li>Ensure all necessary state-level support and coordination are in place to meet the June 2028 target for the Warangal and Adilabad airport projects (Referencing Headlines #1, #4, #5, #17, #19, #20).</li>\n    <li>Review road safety measures on the Outer Ring Road, particularly near Tukkuguda, following the fatal accident (Headline #9).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Warangal District:</b> Requires immediate attention due to the CM's push for international airport development and the June 2028 completion target (Headlines #1, #4, #5, #17, #19, #20). This will involve significant coordination with central agencies and local administration.</li>\n    <li><b>Adilabad District:</b> Similar to Warangal, this district is a focus for international airport development with a June 2028 deadline (Headlines #1, #4, #5, #17, #19, #20), necessitating coordinated efforts.</li>\n    <li><b>Nagarkurnool District:</b> The DEO of Nagarkurnool has been involved in clarifying the CM's voter registration (Headline #3), indicating a need for clear communication and potentially managing local political sensitivities.</li>\n    <li><b>Hyderabad District:</b> Significant economic activity with the foundation stone laying for the ₹60,000-Crore Amazon Data Centre (Headlines #2, #7). Also, a fatal car accident occurred on the ORR near Tukkuguda (Headline #9), requiring attention to traffic safety.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "26.7°C",
+      "humidity": "60%",
+      "wind": "13.2 km/h",
+      "weatherDesc": "Partly Cloudy",
+      "aqi": 45,
+      "pm25": 18,
+      "goldPerGram": "₹9,279",
+      "newsCount": 48,
+      "topHeadlines": [
+        "Telangana CM urges Centre to build Warangal, Adilabad airports to international standards - The News Mill",
+        "CM Revanth Reddy to Lay Foundation Stone for ₹60,000-Crore Amazon Data Centre - Deccan Chronicle",
+        "Nagarkurnool DEO denies rumours of CM Revanth Reddy’s voter registration in Achampet - Hyderabad Mail",
+        "Revanth urges Centre to expedite work on Warangal, Adilabad airports - The Times of India",
+        "CM Revanth Seeks International Airports at Warangal, Adilabad - Deccan Chronicle"
+      ]
+    }
   }
 ]
