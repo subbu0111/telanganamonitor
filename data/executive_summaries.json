@@ -3660,5 +3660,28 @@
         "Telangana CM wants Warangal airport operational by June 2, 2028 - The New Indian Express"
       ]
     }
+  },
+  {
+    "timestamp": "2026-07-15T10:04:05.696Z",
+    "timestampIST": "15/7/2026, 3:34:05 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy is actively engaged in infrastructure development, laying the foundation for Amazon's ₹60,000-crore data centre (10, 13, 18) and advocating for the operationalization of Warangal Airport by June 2, 2028, and its upgrade along with Adilabad Airport to international standards (8, 12, 15, 16). Concurrently, the Nagarkurnool DEO has repeatedly clarified that CM Revanth Reddy has no dual voter entry, refuting rumors (2, 3, 7, 14, 17). A political protest is underway with Prashanth Reddy on a hunger strike under house arrest, drawing condemnation from BRS regarding police action (4).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy is actively engaged in infrastructure development, laying the foundation for Amazon's ₹60,000-crore data centre (10, 13, 18) and advocating for the operationalization of Warangal Airport by June 2, 2028, and its upgrade along with Adilabad Airport to international standards (8, 12, 15, 16). Concurrently, the Nagarkurnool DEO has repeatedly clarified that CM Revanth Reddy has no dual voter entry, refuting rumors (2, 3, 7, 14, 17). A political protest is underway with Prashanth Reddy on a hunger strike under house arrest, drawing condemnation from BRS regarding police action (4).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Political Instability/Public Order:</span> Prashanth Reddy's hunger strike under house arrest and BRS condemnation of police action (4) indicate potential for escalating political tensions and public unrest.</li>\n    <li><span class=\"risk-low\">Reputational Damage (CM):</span> Persistent rumors and clarifications regarding CM Revanth Reddy's voter registration (2, 3, 7, 14, 17) could lead to public perception issues despite official refutations.</li>\n    <li><span class=\"risk-low\">Public Safety (Road Accidents):</span> A fatal car accident on the ORR near Tukkuguda (20) highlights ongoing road safety concerns.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines 2, 3, 7, 14, and 17 all pertain to the Nagarkurnool DEO clarifying and refuting rumors about CM Revanth Reddy's voter registration, indicating a concerted effort to address misinformation.</li>\n    <li>Headlines 8, 12, 15, and 16 all highlight CM Revanth Reddy's focus on airport development, specifically the operationalization of Warangal Airport and the upgrade of Warangal and Adilabad airports to international standards.</li>\n    <li>Headlines 10, 13, and 18 all report on CM Revanth Reddy laying the foundation stone for Amazon's hyperscale data centre, with a significant investment of ₹60,000 crore.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the situation regarding Prashanth Reddy's hunger strike and BRS condemnation (4) to prevent escalation of political tensions and potential public order issues.</li>\n    <li>Disseminate official clarifications regarding CM Revanth Reddy's voter registration (2, 3, 7, 14, 17) through multiple government channels to counter misinformation effectively.</li>\n    <li>Expedite the necessary approvals and coordination for the Warangal and Adilabad airport projects (8, 12, 15, 16) as per the Chief Minister's directives.</li>\n    <li>Review road safety measures on the Outer Ring Road (ORR) following the fatal accident near Tukkuguda (20).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Nagarkurnool:</b> Requires attention due to the ongoing clarifications regarding CM Revanth Reddy's voter registration (2, 3, 7, 14, 17) and the potential for political activity related to Prashanth Reddy's hunger strike (4).</li>\n    <li><b>Warangal:</b> High priority due to the Chief Minister's directive for the airport to be operational by June 2, 2028, and the push for international standards (8, 12, 15, 16).</li>\n    <li><b>Adilabad:</b> Focus needed for the proposed upgrade of its airport to international standards (12, 15, 16).</li>\n    <li><b>Hyderabad:</b> Attention required for the foundation laying of Amazon's data centre (10, 13, 18) and to address the fatal car accident on the ORR near Tukkuguda (20).</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "32.8°C",
+      "humidity": "40%",
+      "wind": "15.9 km/h",
+      "weatherDesc": "Mainly Clear",
+      "aqi": 53,
+      "pm25": 19.7,
+      "goldPerGram": "₹9,279",
+      "newsCount": 42,
+      "topHeadlines": [
+        "IIT Madras student wins Miss Universe Telangana 2026, eyes national crown - India Today",
+        "No voter registration for Revanth Reddy in Nagarkurnool, says DEO - Telangana Today",
+        "Nagarkurnool DEO refutes rumours on Telangana CM Revanth Reddy’s voter registration - The Hindu",
+        "Prashanth Reddy begins hunger strike under house arrest, BRS condemns police action - Telangana Today",
+        "Nine days after achieving his dream, Hyderabad man dies in US skydiving accident - Hyderabad Mail"
+      ]
+    }
   }
 ]
