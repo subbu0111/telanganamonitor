@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20T06:09:47.580Z",
-    "timestampIST": "20/6/2026, 11:39:47 am",
-    "executiveSummary": "<p>Chief Minister Reddy has emphasized Telangana's ambition to become a powerhouse in AI, education, and sports, aiming to produce unicorns and prepare youth for global jobs (Headlines #1, #5, #7, #9, #12, #14, #18). Key infrastructure developments include the clearance of Defence land for the Gandhi Sarovar Project in Langer Houz and plans for 50,000 MT grain silos (Headlines #2, #3). However, there are significant public safety concerns with 128 accidents involving minors recorded in Hyderabad this year due to unsafe roads around schools (Headline #20).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Chief Minister Reddy has emphasized Telangana's ambition to become a powerhouse in AI, education, and sports, aiming to produce unicorns and prepare youth for global jobs (Headlines #1, #5, #7, #9, #12, #14, #18). Key infrastructure developments include the clearance of Defence land for the Gandhi Sarovar Project in Langer Houz and plans for 50,000 MT grain silos (Headlines #2, #3). However, there are significant public safety concerns with 128 accidents involving minors recorded in Hyderabad this year due to unsafe roads around schools (Headline #20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Safety (Road Accidents):</span> 128 accidents involving minors in Hyderabad this year due to unsafe roads around schools (Headline #20).</li>\n    <li><span class=\"risk-medium\">Inter-Governmental Dispute (Metro Project):</span> Union Minister G Kishan Reddy accuses the Telangana government of delaying Hyderabad Metro Phase 2 project and disputes finances (Headlines #10, #16).</li>\n    <li><span class=\"risk-medium\">Economic/Social Disruption (AI Job Impact):</span> CM Revanth Reddy warns of an \"AI Storm\" potentially impacting lakhs of jobseekers (Headline #11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Reddy's vision for Telangana to be an \"Education and Sports Hub\" (Headlines #7, #12, #18) is directly supported by the launch of WhatsApp education services for students and parents (Headline #15) and the Telangana Junior Basketball League (Headline #17).</li>\n    <li>The Chief Minister's call for Telangana to \"Produce Unicorns\" (Headlines #1, #14) aligns with the state's ambition to be a \"powerhouse of AI\" (Headline #9), indicating a strategic focus on technology-driven economic growth.</li>\n    <li>The dispute over Hyderabad Metro finances and project delays (Headlines #10, #16) could impact the \"Bharat Future City\" milestone announced by CM Revanth Reddy (Headline #4), as efficient urban infrastructure is crucial for such large-scale development.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately address road safety around schools in Hyderabad to prevent further accidents involving minors, as indicated by the 128 incidents this year (Headline #20).</li>\n    <li>Convene a high-level meeting with Union Ministry officials to resolve disputes regarding Hyderabad Metro Phase 2 finances and project delays (Headlines #10, #16).</li>\n    <li>Develop and publicize a comprehensive strategy to mitigate the \"AI Storm\" impact on jobseekers, potentially through skill development programs in German, Japanese, and English as proposed (Headlines #6, #11).</li>\n    <li>Expedite the establishment of 50,000 MT grain silos to enhance agricultural infrastructure and food security (Headline #3).</li>\n    <li>Leverage the clearance of Defence land for the Gandhi Sarovar Project in Langer Houz to accelerate its development (Headline #2).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Immediate attention is required due to 128 accidents involving minors this year, highlighting critical public safety concerns around schools (Headline #20). Additionally, the city is central to the disputed Hyderabad Metro Phase 2 project (Headlines #10, #16) and the Gandhi Sarovar Project in Langer Houz (Headline #2).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "35.5°C",
-      "humidity": "32%",
-      "wind": "9 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 61,
-      "pm25": 18.6,
-      "goldPerGram": "₹9,098",
-      "newsCount": 24,
-      "topHeadlines": [
-        "Telangana Should Produce Unicorns: CM Reddy - Outlook India",
-        "Centre clears Defence land for Gandhi Sarovar Project in Langer Houz - The New Indian Express",
-        "Telangana government plans to set up 50K MT grain silos - The New Indian Express",
-        "Bharat Future City milestone announced by Telangana CM Revanth Reddy - The News Mill",
-        "Government focus is fitness and education: Telangana CM Revanth - The New Indian Express"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-06-20T07:51:45.266Z",
     "timestampIST": "20/6/2026, 1:21:45 pm",
     "executiveSummary": "<p>The Telangana government, under CM Revanth Reddy, is actively pursuing initiatives in health, fitness, education, and sports, including the inauguration of a FIFA-AIFF Telangana Talent Academy in Hyderabad (#6) and plans to make Telangana an education and sports powerhouse (#13, #18). Significant infrastructure development is underway with the Centre clearing defense land for the Gandhi Sarovar Project in Langer Houz (#7) and proposals for modern grain silos with 50,000 MT capacity (#2, #8). Public safety was highlighted by Rajendranagar police saving an infant's life through timely CPR after a road accident (#1).</p>",
@@ -4739,6 +4716,29 @@
         "SIR: Telangana CM steps up SIR push - metroindia.net",
         "Telangana CM Revanth Reddy allows commercial establishments to hold FIFA World Cup final viewing till 4 am - prameyanews.com",
         "Jagga Reddy asks KTR not to wish harm to the Gandhi family who gave Telangana - The Hindu"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-07-20T06:48:01.363Z",
+    "timestampIST": "20/7/2026, 12:18:01 pm",
+    "executiveSummary": "<p>The Chief Minister has authorized commercial establishments to screen the FIFA World Cup final until 4 AM (Headlines 2, 8, 9). Concurrently, the government is launching a housing scheme for low-income groups and 1 lakh Indiramma houses for the poor today (Headlines 1, 5). A significant push is underway for the SIR campaign, with CM Revanth Reddy directing Congress leaders to prioritize field work over Gandhi Bhavan visits until August 3, and warning of consequences for poor performance (Headlines 4, 6, 10, 11, 12, 17, 19, 20).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Chief Minister has authorized commercial establishments to screen the FIFA World Cup final until 4 AM (Headlines 2, 8, 9). Concurrently, the government is launching a housing scheme for low-income groups and 1 lakh Indiramma houses for the poor today (Headlines 1, 5). A significant push is underway for the SIR campaign, with CM Revanth Reddy directing Congress leaders to prioritize field work over Gandhi Bhavan visits until August 3, and warning of consequences for poor performance (Headlines 4, 6, 10, 11, 12, 17, 19, 20).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-medium\">Public Order/Safety during FIFA World Cup Final:</span> Extended viewing hours until 4 AM (Headlines 2, 8, 9) could lead to increased public gatherings and potential for minor disturbances, requiring heightened police vigilance.</li>\n    <li><span class=\"risk-medium\">Political Dissension/Intra-Party Conflict:</span> CM Revanth Reddy's stringent directives to Congress leaders regarding the SIR campaign and warnings about losing nominated posts (Headlines 4, 10, 11, 12, 17, 19) could create internal friction within the party.</li>\n    <li><span class=\"risk-low\">Inter-Party Political Tensions:</span> BRS MLC Sravan's condemnation of CM Revanth Reddy's remarks against KCR (Headline 15) indicates ongoing political rivalry, which could escalate.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's decision to allow late-night FIFA World Cup final screenings (Headlines 2, 8, 9) aligns with his statement about Telangana producing future Football World Cup stars (Headline 14), indicating a potential strategic focus on sports and public engagement.</li>\n    <li>The launch of housing schemes for low-income groups (Headlines 1, 5) directly supports the government's public welfare agenda, which is likely a key component of the \"SIR\" campaign that CM Revanth Reddy is heavily pushing (Headlines 4, 6, 10, 11, 12, 17, 19, 20).</li>\n    <li>CM Revanth Reddy's directives for Congress leaders to prioritize the SIR campaign and stay off Gandhi Bhavan until August 3 (Headlines 4, 10, 12, 17) are reinforced by warnings of losing nominated posts for poor performance (Headline 19) and instructions for in-charge ministers to organize review meetings (Headline 20), indicating a high-stakes, performance-driven approach to the campaign.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct law enforcement to increase patrols and monitor commercial establishments screening the FIFA World Cup final until 4 AM to ensure public safety and order (Headlines 2, 8, 9).</li>\n    <li>Ensure smooth and transparent launch of the housing scheme for low-income groups and the 1 lakh Indiramma houses today, with adequate administrative support (Headlines 1, 5).</li>\n    <li>Monitor internal party dynamics within Congress following CM Revanth Reddy's strict directives regarding the SIR campaign to preempt any significant dissent or organizational challenges (Headlines 4, 10, 11, 12, 17, 19, 20).</li>\n    <li>Prepare for potential political opposition and criticism from BRS given MLC Sravan's condemnation of CM Revanth Reddy's remarks (Headline 15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><strong>CURE:</strong> Immediate attention is required in CURE today for the launch of the housing scheme for low-income groups and the 1 lakh Indiramma houses (Headlines 1, 5). This will involve significant public presence and administrative coordination.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "29.8°C",
+      "humidity": "61%",
+      "wind": "17.6 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 20,
+      "pm25": 4.1,
+      "goldPerGram": "₹9,286",
+      "newsCount": 20,
+      "topHeadlines": [
+        "Telangana government to launch housing scheme for low-income groups in CURE today - The New Indian Express",
+        "Telangana CM Revanth Reddy allows commercial establishments to hold FIFA World Cup final viewing till 4 am - prameyanews.com",
+        "Congress MPs plan to corner Centre over pending Telangana issues - The New Indian Express",
+        "CM Revanth Reddy to Congress leaders: Stay off Gandhi Bhavan, hit the field for SIR - The New Indian Express",
+        "Telangana govt to launch 1 lakh Indiramma houses for the poor in CURE today - The Times of India"
       ]
     }
   }
