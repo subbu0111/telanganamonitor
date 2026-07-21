@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21T19:44:36.770Z",
-    "timestampIST": "22/6/2026, 1:14:36 am",
-    "executiveSummary": "<p>A fatal hit-and-run accident involving a nurse occurred in Asifnagar, Hyderabad (#2). Separately, a Telangana RTC electric bus caught fire, though all 40 passengers escaped safely (#4). Prime Minister Modi inaugurated projects worth approximately ₹9,400 crore in Telangana (#3).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>A fatal hit-and-run accident involving a nurse occurred in Asifnagar, Hyderabad (#2). Separately, a Telangana RTC electric bus caught fire, though all 40 passengers escaped safely (#4). Prime Minister Modi inaugurated projects worth approximately ₹9,400 crore in Telangana (#3).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span> Public Safety (Road Accidents): A fatal hit-and-run in Hyderabad highlights ongoing road safety concerns (#2).</li>\n    <li><span class=\"risk-medium\">MEDIUM</span> Public Safety (Transportation Infrastructure): An electric bus fire, while not resulting in casualties, raises questions about public transport safety and maintenance (#4).</li>\n    <li><span class=\"risk-low\">LOW</span> Infrastructure Development: The inauguration of projects worth ₹9,400 crore by the Prime Minister indicates significant ongoing development, posing minimal immediate risk but requiring continued oversight (#3).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The fatal hit-and-run in Asifnagar, Hyderabad (#2), and the Telangana RTC electric bus fire (#4) both highlight immediate public safety concerns within the state's transportation sector.</li>\n    <li>The inauguration of projects worth ₹9,400 crore by PM Modi (#3) suggests significant investment in Telangana, which may include infrastructure improvements that could indirectly impact public safety and transportation in the long term.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Direct Hyderabad City Police to prioritize investigation and apprehension in the Asifnagar hit-and-run case (#2).</li>\n    <li>Initiate an immediate inquiry into the Telangana RTC electric bus fire to ascertain cause and implement preventative measures across the fleet (#4).</li>\n    <li>Task relevant departments with ensuring timely and effective implementation of the projects inaugurated by PM Modi, focusing on their intended benefits for the state (#3).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Hyderabad District: Requires immediate attention due to the fatal hit-and-run accident in Asifnagar (#2) and the potential for public safety concerns related to the electric bus fire (as RTC buses operate across districts, but the incident highlights a state-level transport issue) (#4).</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "27.6°C",
-      "humidity": "69%",
-      "wind": "11.7 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 40,
-      "pm25": 18.7,
-      "goldPerGram": "₹9,098",
-      "newsCount": 5,
-      "topHeadlines": [
-        "Iran to resume oil exports under US framework - Telangana Today",
-        "Hyderabad: Nurse killed in hit-and-run accident in Asifnagar - Telangana Today",
-        "PM Modi inaugurates projects worth around ₹9,400 crore in Telangana - Newsonair",
-        "Narrow escape for 40 as Telangana RTC electric bus catches fire - The Shillong Times",
-        "LPG price today — 21 June: Domestic and commercial cylinder rates in Delhi, Mumbai, Bengaluru, Kolkata, Hyderabad - Mint"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-06-21T21:15:55.556Z",
     "timestampIST": "22/6/2026, 2:45:55 am",
     "executiveSummary": "<p>The state faces significant financial implications with a potential ₹2.5 Cr per day cost due to Metro loan delays, prompting the Chief Minister to notify the Centre and seek a meeting with Union Minister Vaishnaw regarding an IRFC loan (#1, #13). Political tensions are high, with Congress and BJP sparring over Telangana promises and Metro approvals, and KTR alleging a Modi-Revanth nexus concerning the Musi Riverfront project (#4, #6). Public safety concerns are highlighted by a fatal hit-and-run accident involving a nurse in Hyderabad (#2, #7) and an electric bus catching fire, though without casualties (#12).</p>",
@@ -4739,6 +4716,29 @@
         "Srinivas Goud seeks new railway underpass at New Moti Nagar - Telangana Today",
         "Indian Athletics Series Final to feature top stars in New Delhi - Telangana Today",
         "Telangana CM Reddy condemns detention of Rahul, Priyanka after protest outside PM’s residence - ThePrint"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-07-21T21:11:16.500Z",
+    "timestampIST": "22/7/2026, 2:41:16 am",
+    "executiveSummary": "<p>The Chief Minister has condemned the detention of Rahul and Priyanka Gandhi and expressed support for their protest, leading to a 'Chalo Lok Bhavan’ protest today by the T Congress (1, 6, 11, 13). Concurrently, the BRS is criticizing the Congress government's drought preparedness and alleged neglect of farmers (9, 10, 16). Public safety concerns are highlighted by a student fatality due to a speeding car crashing into an apartment wall in Telangana, and a significant number of road accident victims missing out on compensation (7, 15).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Chief Minister has condemned the detention of Rahul and Priyanka Gandhi and expressed support for their protest, leading to a 'Chalo Lok Bhavan’ protest today by the T Congress (1, 6, 11, 13). Concurrently, the BRS is criticizing the Congress government's drought preparedness and alleged neglect of farmers (9, 10, 16). Public safety concerns are highlighted by a student fatality due to a speeding car crashing into an apartment wall in Telangana, and a significant number of road accident victims missing out on compensation (7, 15).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Public Order:</span> The 'Chalo Lok Bhavan’ protest by T Congress following the detention of Rahul and Priyanka Gandhi, and the CM's support for the protest, indicates potential for public unrest and heightened political tensions (1, 6, 11, 13).</li>\n    <li><span class=\"risk-medium\">Public Safety (Road Accidents):</span> A student was killed in Telangana due to a speeding car (15), and many road accident victims are missing out on compensation (7), indicating ongoing issues with road safety and victim support mechanisms.</li>\n    <li><span class=\"risk-medium\">Government Credibility/Opposition Criticism:</span> The BRS is actively blaming the Congress government for drought preparedness and neglecting farmers' families (9, 10, 16), which could impact public perception and government effectiveness.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's condemnation of Rahul and Priyanka Gandhi's detention (6, 11, 13) directly correlates with the T Congress's planned 'Chalo Lok Bhavan’ protest today (1), indicating a unified political stance and potential for organized public action.</li>\n    <li>The BRS's criticism of the Congress government regarding drought preparedness (9, 16) and alleged neglect of farmers' families (10) suggests a coordinated opposition narrative aimed at discrediting the current administration.</li>\n    <li>The fulfillment of Revanth Reddy’s promise on the Dharmareddy Canal and water release (2) could be leveraged to counter the BRS's allegations regarding drought preparedness (9, 16).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Monitor the 'Chalo Lok Bhavan’ protest closely for any escalation or public order issues, ensuring adequate security deployment (1).</li>\n    <li>Initiate a review of the Hit and Run Compensation Scheme to identify bottlenecks and ensure eligible road accident victims receive the Rs. 2 Lakh relief (7).</li>\n    <li>Develop a robust communication strategy to address BRS allegations regarding drought preparedness and farmer welfare, highlighting initiatives like the Dharmareddy Canal water release (2, 9, 10, 16).</li>\n    <li>Direct relevant departments to investigate the speeding car incident that killed a student in Telangana and assess measures to prevent similar occurrences (15).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> The 'Chalo Lok Bhavan’ protest is scheduled in Hyderabad (1), requiring immediate attention for maintaining public order. Additionally, a Hyderabad family was killed in a California road mishap (8), and a Hyderabad man encountered a truck on the wrong side (14), though these are less critical for immediate state-level action.</li>\n    <li><b>Telangana (General):</b> The student fatality due to a speeding car (15) and the issue of road accident victims missing compensation (7) indicate a need for statewide focus on road safety and victim support.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "23.2°C",
+      "humidity": "87%",
+      "wind": "17.9 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 19,
+      "pm25": 5.4,
+      "goldPerGram": "₹9,282",
+      "newsCount": 16,
+      "topHeadlines": [
+        "T Cong condemns Rahul, Priyanka Detention; 'Chalo Lok Bhavan’ protest today - The Times of India",
+        "Revanth Reddy’s Promise on Dharmareddy Canal Fulfilled; Water Released - Deccan Chronicle",
+        "Telangana signs cooperation agreement with Germany’s Thuringia | Akashvani News - News On AIR",
+        "Srinivas Goud seeks new railway underpass at New Moti Nagar - Telangana Today",
+        "Indian Athletics Series Final to feature top stars in New Delhi - Telangana Today"
       ]
     }
   }
