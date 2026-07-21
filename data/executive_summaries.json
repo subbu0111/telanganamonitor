@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21T12:11:00.648Z",
-    "timestampIST": "21/6/2026, 5:41:00 pm",
-    "executiveSummary": "The Chief Minister, Revanth Reddy, is scheduled for a three-day trip to Delhi starting June 22nd, with key agenda items including discussions on the Hyderabad Metro Phase 2 project funding and the Raidurg Land Row. This trip follows the inauguration of projects worth approximately ₹9,400 crore in Telangana by PM Modi. A significant public safety incident occurred with a Telangana RTC electric bus catching fire, though all 40 passengers escaped. The state government is also considering complaining to the RBI against SBI regarding an IRFC loan.",
-    "fullAnalysis": "<h3>📋 Executive Summary</h3>\nThe Chief Minister, Revanth Reddy, is scheduled for a three-day trip to Delhi starting June 22nd, with key agenda items including discussions on the Hyderabad Metro Phase 2 project funding and the Raidurg Land Row. This trip follows the inauguration of projects worth approximately ₹9,400 crore in Telangana by PM Modi. A significant public safety incident occurred with a Telangana RTC electric bus catching fire, though all 40 passengers escaped. The state government is also considering complaining to the RBI against SBI regarding an IRFC loan.\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Public Safety Incident - A Telangana RTC electric bus caught fire (Headline #3), indicating potential safety concerns with public transport infrastructure or maintenance.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Inter-Governmental Relations/Project Delays - Union Minister G Kishan Reddy accuses the Telangana government of delaying Hyderabad Metro Phase 2 (Headline #11), while CM Revanth Reddy seeks a meeting with the Railway Minister regarding pending Metro funding (Headlines #14, #15, #20). This highlights potential friction and project stagnation.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Financial/Banking Dispute - The Telangana government may complain to RBI against SBI (Headline #6) and the CM's agenda in Delhi includes the SBI court challenge (Headline #13), indicating a significant financial dispute.</li>\n    <li><span class=\"risk-low\">LOW</span>: Political Opposition - BRS accuses the Congress government of betraying farmers and demands resignation (Headline #16), indicating ongoing political criticism.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #1, #4, #12, #13, #14, #15, #20: CM Revanth Reddy's upcoming three-day trip to Delhi (Headline #1) will focus on critical issues including securing a meeting with Union Minister Ashwini Vaishnaw regarding the IRFC loan (Headline #4, #14, #15, #20), addressing the Raidurg Land Row (Headline #12), and discussing Hyderabad Metro funding (Headline #13).</li>\n    <li>Headlines #11, #13, #14, #15, #20: The accusation by Union Minister G Kishan Reddy regarding delays in Hyderabad Metro Phase 2 (Headline #11) directly correlates with CM Revanth Reddy's efforts to arrange a meeting with the Railway Minister to discuss pending Hyderabad Metro funding (Headlines #13, #14, #15, #20).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Initiate an immediate, comprehensive investigation into the Telangana RTC electric bus fire (Headline #3) to determine the cause and implement preventative measures across the fleet.</li>\n    <li>Prepare detailed briefing materials for the CM's Delhi trip (Headline #1) on the Hyderabad Metro Phase 2 funding (Headlines #11, #13, #14, #15, #20), the IRFC loan issue with SBI (Headlines #4, #6, #13), and the Raidurg Land Row (Headline #12).</li>\n    <li>Convene an urgent meeting with relevant departments to address the potential complaint against SBI to the RBI (Headline #6) and strategize on the SBI court challenge (Headline #13).</li>\n    <li>Monitor public and political reactions to the BRS accusation regarding farmers (Headline #16) and prepare a communication strategy if necessary.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Hyderabad: Requires immediate attention due to the ongoing discussions and accusations surrounding the Hyderabad Metro Phase 2 project (Headlines #11, #13, #14, #15, #20), and the Raidurg Land Row which is on the CM's agenda for Delhi (Headline #12).</li>\n    <li>State-wide: The incident of the Telangana RTC electric bus catching fire (Headline #3) necessitates a state-wide review of public transport safety protocols and infrastructure, particularly for electric vehicles.</li>\n</ul>",
-    "dataSnapshot": {
-      "temperature": "33.2°C",
-      "humidity": "43%",
-      "wind": "3.1 km/h",
-      "weatherDesc": "Partly Cloudy",
-      "aqi": 44,
-      "pm25": 17.9,
-      "goldPerGram": "₹9,098",
-      "newsCount": 25,
-      "topHeadlines": [
-        "Telangana CM Revanth Reddy to leave for Delhi on three-day trip - ThePrint",
-        "PM Modi inaugurates projects worth around ₹9,400 crore in Telangana - Newsonair",
-        "Narrow escape for 40 as Telangana RTC electric bus catches fire - The Shillong Times",
-        "Fix meeting with Vaishnaw on IRFC loan: CM to Kishan - The New Indian Express",
-        "Telangana Education Commission report: A good start, but not a blueprint - The New Indian Express"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-06-21T15:53:27.467Z",
     "timestampIST": "21/6/2026, 9:23:27 pm",
     "executiveSummary": "The Chief Minister is traveling to Delhi for a three-day trip, with key agenda items including the Raidurg Land Row, Hyderabad Metro funding, and a meeting with the Railway Minister regarding IRFC loans. Political tensions are high, with the Congress and BJP sparring over Telangana promises and Metro approvals, and KTR alleging a Modi-Revanth nexus concerning the Musi Riverfront project. Public safety concerns include a fatal hit-and-run in Asifnagar and an electric bus fire that saw 40 people narrowly escape.",
@@ -4716,6 +4693,29 @@
         "Telangana signs cooperation agreement with Germany’s Thuringia | Akashvani News - News On AIR",
         "PM Modi inaugurates projects worth around ₹9,400 crore in Telangana - News On AIR",
         "Shabbir Ali KTR row over jobs and TSPSC - newsage.in"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-07-21T13:53:53.784Z",
+    "timestampIST": "21/7/2026, 7:23:53 pm",
+    "executiveSummary": "The political landscape in Telangana is highly charged, with the ruling Congress party facing criticism regarding farmer welfare (1), drought management (6), and alleged",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\nThe political landscape in Telangana is highly charged, with the ruling Congress party facing criticism regarding farmer welfare (1), drought management (6), and alleged",
+    "dataSnapshot": {
+      "temperature": "24°C",
+      "humidity": "88%",
+      "wind": "13.1 km/h",
+      "weatherDesc": "Drizzle",
+      "aqi": 22,
+      "pm25": 14.8,
+      "goldPerGram": "₹9,303",
+      "newsCount": 14,
+      "topHeadlines": [
+        "Balka Suman accuses Congress of neglecting farmers’ families - Telangana Today",
+        "Telangana CM Reddy backs Rahul Gandhi’s protest, says Cong stands with India’s youth - ThePrint",
+        "Revanth Reddy Extends Support to Rahul Gandhi's Protest - Deccan Chronicle",
+        "Hyderabad man comes face-to-face with truck on wrong side. Video captures rest - India Today",
+        "Telangana Student Killed After Speeding Car Crashes Into Apartment's Wall - NDTV"
       ]
     }
   }
