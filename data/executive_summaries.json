@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21T09:52:31.534Z",
-    "timestampIST": "21/6/2026, 3:22:31 pm",
-    "executiveSummary": "An electric bus fire in Telangana resulted in a narrow escape for 40 individuals, highlighting a public safety concern (1). Chief Minister Revanth Reddy is embarking on a two-day trip to Delhi, with a primary agenda including discussions on the Raidurg Land Row and securing an IRFC loan for the Hyderabad Metro Phase 2 project (2, 3, 10, 11). The Hyderabad Metro Phase 2 project faces delays, with the Union Minister accusing the Telangana government of obstruction, while the CM seeks a meeting with the Railway Minister to address funding (9, 12, 13, 20).",
-    "fullAnalysis": "<h3>📋 Executive Summary</h3>\nAn electric bus fire in Telangana resulted in a narrow escape for 40 individuals, highlighting a public safety concern (1). Chief Minister Revanth Reddy is embarking on a two-day trip to Delhi, with a primary agenda including discussions on the Raidurg Land Row and securing an IRFC loan for the Hyderabad Metro Phase 2 project (2, 3, 10, 11). The Hyderabad Metro Phase 2 project faces delays, with the Union Minister accusing the Telangana government of obstruction, while the CM seeks a meeting with the Railway Minister to address funding (9, 12, 13, 20).\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Public Safety:</span> An electric bus fire (1) indicates potential safety issues within the public transport system, posing a direct threat to citizens.</li>\n    <li><span class=\"risk-medium\">Inter-Governmental Relations/Project Delays:</span> Accusations of delaying the Hyderabad Metro Phase 2 project by a Union Minister (9) and the CM's efforts to secure funding and meetings (3, 12, 13, 20) suggest friction and potential long-term project stagnation.</li>\n    <li><span class=\"risk-medium\">Financial/Legal Challenge:</span> The Telangana government may complain to RBI against SBI (5) and the CM's agenda in Delhi includes an SBI court challenge (11), indicating a significant financial and legal dispute.</li>\n    <li><span class=\"risk-low\">Political Opposition:</span> The BRS party's accusation that the Congress government has betrayed farmers and must step down (14) indicates ongoing political opposition, which could lead to protests or public unrest.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The Chief Minister's two-day trip to Delhi (2) is directly linked to addressing the Raidurg Land Row (10) and securing an IRFC loan for the Hyderabad Metro Phase 2 project (3, 11). This trip also aims to facilitate a meeting with Union Minister Ashwini Vaishnaw regarding the Hyderabad Metro delay (12, 13, 18).</li>\n    <li>The accusation by Union Minister G Kishan Reddy that the Telangana government is delaying the Hyderabad Metro Phase 2 project (9) is directly countered by the CM's efforts to arrange a meeting with the Railway Minister (12, 13, 18) and the explanation that Phase-II is stuck despite Telangana's Rs.15,000 Crore move (20).</li>\n    <li>The Telangana government's potential complaint to RBI against SBI (5) is further emphasized by the CM's agenda in Delhi including an SBI court challenge (11).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Initiate an immediate, comprehensive safety audit of all Telangana RTC electric buses following the recent fire incident (1).</li>\n    <li>Prioritize the CM's discussions in Delhi regarding the Hyderabad Metro Phase 2 project, specifically focusing on securing the IRFC loan and resolving inter-governmental disputes to unblock the project (3, 9, 11, 12, 13, 20).</li>\n    <li>Prepare a detailed brief for the CM on the potential complaint to RBI against SBI and the ongoing court challenge, outlining all legal and financial implications (5, 11).</li>\n    <li>Monitor political rhetoric from opposition parties, specifically BRS's claims regarding farmers (14), to anticipate and mitigate potential public discontent.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><span class=\"district-focus\">Hyderabad:</span> The Hyderabad Metro Phase 2 project is a critical infrastructure development facing delays and inter-governmental disputes (9, 12, 13, 20). The Raidurg Land Row, also on the CM's agenda, is likely situated within or near Hyderabad (10).</li>\n</ul>",
-    "dataSnapshot": {
-      "temperature": "33.8°C",
-      "humidity": "41%",
-      "wind": "5.6 km/h",
-      "weatherDesc": "Overcast",
-      "aqi": 59,
-      "pm25": 20.4,
-      "goldPerGram": "₹9,098",
-      "newsCount": 26,
-      "topHeadlines": [
-        "Narrow escape for 40 as Telangana RTC electric bus catches fire - The Shillong Times",
-        "Telangana CM Revanth Reddy to leave for Delhi on two-day trip - ThePrint",
-        "Fix meeting with Vaishnaw on IRFC loan: CM to Kishan - The New Indian Express",
-        "Telangana Education Commission report: A good start, but not a blueprint - The New Indian Express",
-        "Telangana government may complain to RBI against SBI - The New Indian Express"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-06-21T12:11:00.648Z",
     "timestampIST": "21/6/2026, 5:41:00 pm",
     "executiveSummary": "The Chief Minister, Revanth Reddy, is scheduled for a three-day trip to Delhi starting June 22nd, with key agenda items including discussions on the Hyderabad Metro Phase 2 project funding and the Raidurg Land Row. This trip follows the inauguration of projects worth approximately ₹9,400 crore in Telangana by PM Modi. A significant public safety incident occurred with a Telangana RTC electric bus catching fire, though all 40 passengers escaped. The state government is also considering complaining to the RBI against SBI regarding an IRFC loan.",
@@ -4712,6 +4689,29 @@
       "newsCount": 18,
       "topHeadlines": [
         "Three killed in Bachupally SUV accident near Hyderabad - Hyderabad Mail",
+        "KTR alleges Congress failed to tackle drought-like situation in Telangana - The New Indian Express",
+        "Telangana signs cooperation agreement with Germany’s Thuringia | Akashvani News - News On AIR",
+        "PM Modi inaugurates projects worth around ₹9,400 crore in Telangana - News On AIR",
+        "Shabbir Ali KTR row over jobs and TSPSC - newsage.in"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-07-21T10:26:05.164Z",
+    "timestampIST": "21/7/2026, 3:56:05 pm",
+    "executiveSummary": "<p>The state is experiencing significant political contention, with allegations of fiscal mismanagement (#6), a decline in investment rankings (#9, #13), and criticism regarding the handling of drought-like conditions (#2). Public safety concerns persist in Hyderabad due to traffic violations (#1) and a fatal accident involving a speeding auto (#15). The Chief Minister has demanded an end to 'police brutality' on protesting students (#11), indicating potential unrest.</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The state is experiencing significant political contention, with allegations of fiscal mismanagement (#6), a decline in investment rankings (#9, #13), and criticism regarding the handling of drought-like conditions (#2). Public safety concerns persist in Hyderabad due to traffic violations (#1) and a fatal accident involving a speeding auto (#15). The Chief Minister has demanded an end to 'police brutality' on protesting students (#11), indicating potential unrest.</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Public Unrest:</span> Allegations of fiscal mismanagement (#6), decline in investment ranking (#9, #13), and the CM's demand to end 'police brutality' on protesting students (#11) suggest potential for increased political friction and public demonstrations.</li>\n    <li><span class=\"risk-medium\">Public Safety (Roads):</span> A video of a truck on the wrong side of the road (#1) and a fatal accident involving a speeding auto (#15) in Hyderabad highlight ongoing road safety issues.</li>\n    <li><span class=\"risk-medium\">Governance/Economic Performance:</span> Criticism regarding the state's handling of drought-like situations (#2), allegations of fiscal mismanagement (#6), and a drop to 13th in NITI Aayog Investment Ranking (#9, #13) indicate challenges in governance and economic performance.</li>\n    <li><span class=\"risk-low\">Youth Disillusionment:</span> The \"howla\" havoc article (#14) suggests growing disillusionment among Telangana's youth due to derogatory rhetoric, which could contribute to future social issues.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The decline in Telangana's NITI Aayog Investment Ranking to 13th (#9) and the alleged fall in Ease of Doing Business ranking (#13) are directly correlated, both attributed to the current Congress government by BRS MLA Sanjay.</li>\n    <li>Allegations of fiscal mismanagement (#6) by Dasoju Sravan, citing a CAG report, could be linked to the criticism of the Congress government's handling of drought-like situations (#2) and the decline in investment rankings (#9, #13), suggesting broader governance challenges.</li>\n    <li>The CM's demand to end 'police brutality' on protesting students (#11) could be related to the \"howla\" havoc article (#14) which discusses derogatory rhetoric corroding the dreams of Telangana's youth, implying student protests might be fueled by such sentiments.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Address the Chief Minister's concerns regarding 'police brutality' on protesting students (#11) immediately, initiating an inquiry or review of police conduct to de-escalate potential unrest.</li>\n    <li>Formulate a clear response to allegations of fiscal mismanagement (#6) and the decline in investment rankings (#9, #13) to restore public and investor confidence.</li>\n    <li>Implement urgent measures to improve road safety in Hyderabad, specifically targeting wrong-side driving (#1) and speeding (#15), potentially through increased enforcement and public awareness campaigns.</li>\n    <li>Develop a comprehensive strategy to address the drought-like situation (#2) and communicate proactive steps taken to the public to mitigate criticism.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><b>Hyderabad:</b> Immediate attention is required due to critical public safety issues, including a truck on the wrong side of the road (#1) and a fatal accident involving a speeding auto (#15).</li>\n    <li><b>Kodangal:</b> The CM's visit on July 21 and 22 (#16) indicates this district will be a focal point for administrative attention and potential policy announcements.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "26°C",
+      "humidity": "83%",
+      "wind": "10.6 km/h",
+      "weatherDesc": "Light Drizzle",
+      "aqi": 24,
+      "pm25": 12.7,
+      "goldPerGram": "₹9,303",
+      "newsCount": 16,
+      "topHeadlines": [
+        "Hyderabad man comes face-to-face with truck on wrong side. Video captures rest - India Today",
         "KTR alleges Congress failed to tackle drought-like situation in Telangana - The New Indian Express",
         "Telangana signs cooperation agreement with Germany’s Thuringia | Akashvani News - News On AIR",
         "PM Modi inaugurates projects worth around ₹9,400 crore in Telangana - News On AIR",
