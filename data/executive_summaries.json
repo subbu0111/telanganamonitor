@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21T23:15:50.618Z",
-    "timestampIST": "22/6/2026, 4:45:50 am",
-    "executiveSummary": "<p>The Telangana government faces significant financial implications with a potential ₹2.5 Cr per day cost due to Metro loan delays, prompting CM Revanth Reddy to notify the Centre (#1). Political tensions are high, with Congress and BJP sparring over state promises and Metro approvals (#3), and accusations of a Modi-Revanth nexus regarding the Musi Riverfront project (#5). Public safety concerns are highlighted by a fatal hit-and-run in Asifnagar (#6) and an electric bus catching fire, though without casualties (#11).</p>",
-    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>The Telangana government faces significant financial implications with a potential ₹2.5 Cr per day cost due to Metro loan delays, prompting CM Revanth Reddy to notify the Centre (#1). Political tensions are high, with Congress and BJP sparring over state promises and Metro approvals (#3), and accusations of a Modi-Revanth nexus regarding the Musi Riverfront project (#5). Public safety concerns are highlighted by a fatal hit-and-run in Asifnagar (#6) and an electric bus catching fire, though without casualties (#11).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Financial Strain:</span> Metro loan delays could cost ₹2.5 Cr daily (#1), impacting state finances.</li>\n    <li><span class=\"risk-medium\">Political Instability/Inter-Party Conflict:</span> Congress-BJP sparring over promises and Metro approvals (#3), and accusations of a Modi-Revanth nexus (#5), indicate heightened political tensions.</li>\n    <li><span class=\"risk-medium\">Public Safety/Infrastructure Failure:</span> A fatal hit-and-run in Asifnagar (#6) and an electric bus catching fire (#11) highlight immediate public safety and infrastructure reliability concerns.</li>\n    <li><span class=\"risk-low\">Inter-Governmental Disputes:</span> Telangana Cabinet flags concerns over the proposed VB-G RAM G Act (#4), and the state government may complain to RBI against SBI (#14), indicating potential friction with central bodies.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>The delay in Metro loan approval (#1) and the Union Minister G Kishan Reddy accusing the Telangana government of delaying Hyderabad Metro Phase 2 (#8) are directly linked to the ongoing political sparring between Congress and BJP over Metro approvals (#3). CM Revanth Reddy's instruction to fix a meeting with Vaishnaw on the IRFC loan (#12) further emphasizes this financial and political nexus.</li>\n    <li>CM Revanth Reddy's upcoming three-day trip to Delhi (#9) is likely connected to addressing the Metro loan delays (#1) and potentially engaging with the Centre on issues like the IRFC loan (#12) and the broader political disputes (#3).</li>\n    <li>The inauguration of projects worth ₹9,400 crore by PM Modi in Telangana (#10) occurs amidst accusations of a Modi-Revanth nexus regarding the Musi Riverfront project (#5), suggesting a complex interplay of development initiatives and political rhetoric.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Prioritize immediate engagement with the Centre regarding the Metro loan delays to mitigate the ₹2.5 Cr daily cost (#1, #12).</li>\n    <li>Initiate a comprehensive review of public transport safety protocols following the electric bus fire (#11) and investigate the fatal hit-and-run in Asifnagar (#6).</li>\n    <li>Develop a communication strategy to address the political sparring (#3) and accusations of a \"nexus\" (#5) to maintain public confidence.</li>\n    <li>Expedite the review of the proposed VB-G RAM G Act (#4) and prepare a formal complaint to RBI against SBI if necessary (#14).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><p><strong>Hyderabad/Asifnagar:</strong> Immediate attention required due to the fatal hit-and-run accident (#6). This area also falls under the broader Metro project discussions (#1, #3, #8).</p></li>\n    <li><p><strong>Warangal:</strong> CM Revanth Reddy's review of Warangal airport plans (#7) indicates potential for significant infrastructure development and associated public interest/impact.</p></li>\n</ul>",
-    "dataSnapshot": {
-      "temperature": "26.5°C",
-      "humidity": "70%",
-      "wind": "10.2 km/h",
-      "weatherDesc": "Clear Sky",
-      "aqi": 37,
-      "pm25": 12.5,
-      "goldPerGram": "₹9,098",
-      "newsCount": 18,
-      "topHeadlines": [
-        "Metro Loan Delay To Cost ₹2.5 Cr A Day, Revanth To Notify Centre - Deccan Chronicle",
-        "Iran to resume oil exports under US framework - Telangana Today",
-        "Congress-BJP spar through open letters over Telangana promises and Metro approvals - Telangana Today",
-        "Telangana Cabinet panel flags concerns over proposed VB-G RAM G Act - Telangana Today",
-        "KTR warns of Modi-Revanth nexus in Musi Riverfront project targeting poor people’s homes - Telangana Today"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-06-22T04:26:03.040Z",
     "timestampIST": "22/6/2026, 9:56:03 am",
     "executiveSummary": "<p>Chief Minister Revanth Reddy is traveling to Delhi to address critical issues including the SBI land row and Metro loan delays, which are projected to cost ₹2.5 Cr daily (Headline #1, #5). Political tensions are high, with the Congress and BJP exchanging open letters regarding state promises and Metro approvals, and the Union Minister G Kishan Reddy accusing the state government of delaying Metro Phase 2 (Headline #9, #14). Public safety concerns are highlighted by a fatal hit-and-run accident in Hyderabad (Headline #7, #12) and an RTC electric bus catching fire, though without casualties (Headline #17).</p>",
@@ -4733,6 +4710,29 @@
       "pm25": 3.6,
       "goldPerGram": "₹9,282",
       "newsCount": 17,
+      "topHeadlines": [
+        "T Cong condemns Rahul, Priyanka Detention; 'Chalo Lok Bhavan’ protest today - The Times of India",
+        "Revanth Reddy’s Promise on Dharmareddy Canal Fulfilled; Water Released - Deccan Chronicle",
+        "Telangana signs cooperation agreement with Germany’s Thuringia | Akashvani News - News On AIR",
+        "Srinivas Goud seeks new railway underpass at New Moti Nagar - Telangana Today",
+        "Indian Athletics Series Final to feature top stars in New Delhi - Telangana Today"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-07-22T02:46:13.554Z",
+    "timestampIST": "22/7/2026, 8:16:13 am",
+    "executiveSummary": "The Chief Minister has condemned the detention of Rahul and Priyanka Gandhi, with the Telangana Congress planning a 'Chalo Lok Bhavan' protest today (#1, #6, #12, #14). There are significant public safety concerns due to multiple fatal road accidents, including one in Telangana (#8, #9, #16). Additionally, the BRS is criticizing the Congress government on drought preparedness and farmer welfare (#10, #11).",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\nThe Chief Minister has condemned the detention of Rahul and Priyanka Gandhi, with the Telangana Congress planning a 'Chalo Lok Bhavan' protest today (#1, #6, #12, #14). There are significant public safety concerns due to multiple fatal road accidents, including one in Telangana (#8, #9, #16). Additionally, the BRS is criticizing the Congress government on drought preparedness and farmer welfare (#10, #11).\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Public Order:</span> The planned 'Chalo Lok Bhavan' protest by the Telangana Congress following the detention of Rahul and Priyanka Gandhi could lead to public order issues (#1).</li>\n    <li><span class=\"risk-high\">Public Safety (Road Accidents):</span> Multiple fatal road accidents have been reported, including one within Telangana where a student was killed (#8, #9, #16). There is also a significant number of road accident victims missing out on compensation (#7).</li>\n    <li><span class=\"risk-medium\">Agricultural/Drought Preparedness:</span> The BRS is actively blaming the Congress government for neglecting drought preparedness and farmers' families, potentially leading to farmer discontent (#10, #11).</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #1, #6, #12, and #14 all relate to the Chief Minister's and Telangana Congress's condemnation of Rahul and Priyanka Gandhi's detention and the planned 'Chalo Lok Bhavan' protest. This indicates a unified political stance and a planned public demonstration.</li>\n    <li>Headlines #7, #8, #9, and #16 all highlight significant issues related to road safety and accidents. #7 indicates a systemic issue with compensation for victims, while #8, #9, and #16 report recent fatal incidents, suggesting a pressing need for road safety measures.</li>\n    <li>Headlines #10 and #11 both reflect criticism from the BRS against the Congress government regarding agricultural issues, specifically drought preparedness and farmer welfare. This indicates a focused opposition narrative.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Deploy adequate security forces and monitor the 'Chalo Lok Bhavan' protest today to ensure public order and prevent escalation (#1).</li>\n    <li>Initiate an immediate review of road safety measures and enforcement, particularly in areas prone to accidents, and address the reported gaps in the Hit and Run Compensation Scheme (#7, #16).</li>\n    <li>Formulate and publicize a clear action plan for drought preparedness and farmer welfare to counter the BRS's accusations and reassure the agricultural community (#10, #11).</li>\n    <li>Direct relevant departments to investigate the circumstances of the fatal road accident involving a student in Telangana and implement preventative measures (#16).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Hyderabad: The 'Chalo Lok Bhavan' protest is likely to impact Hyderabad, requiring heightened security and monitoring (#1). Additionally, a Hyderabad man was involved in a dangerous road incident (#15), and a student was killed in a speeding car crash, indicating potential road safety concerns within the city or its immediate vicinity (#16).</li>\n    <li>New Moti Nagar: Srinivas Goud has requested a new railway underpass, suggesting existing infrastructure issues and potential traffic/safety concerns in this area (#4).</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "23.2°C",
+      "humidity": "92%",
+      "wind": "20.5 km/h",
+      "weatherDesc": "Drizzle",
+      "aqi": 17,
+      "pm25": 5.4,
+      "goldPerGram": "₹9,282",
+      "newsCount": 16,
       "topHeadlines": [
         "T Cong condemns Rahul, Priyanka Detention; 'Chalo Lok Bhavan’ protest today - The Times of India",
         "Revanth Reddy’s Promise on Dharmareddy Canal Fulfilled; Water Released - Deccan Chronicle",
