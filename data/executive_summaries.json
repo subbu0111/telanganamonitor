@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23T03:42:47.119Z",
-    "timestampIST": "23/6/2026, 9:12:47 am",
-    "executiveSummary": "<p>The Chief Minister is actively engaged in securing central government support for key infrastructure projects, specifically Hyderabad Metro Phase-2 funding and defence project approvals, including Adilabad airport expansion (Headlines #1, #2, #4, #7, #9, #10, #11, #12, #14). Concurrently, the state faces internal political pressure, with the ABVP calling for a statewide school bandh (Headline #3) and opposition parties criticizing government actions on various fronts (Headlines #13, #15, #16). A significant financial concern is the Centre's withholding of a ₹13,537 crore loan for the Hyderabad Metro (Headline #18).</p>",
-    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>The Chief Minister is actively engaged in securing central government support for key infrastructure projects, specifically Hyderabad Metro Phase-2 funding and defence project approvals, including Adilabad airport expansion (Headlines #1, #2, #4, #7, #9, #10, #11, #12, #14). Concurrently, the state faces internal political pressure, with the ABVP calling for a statewide school bandh (Headline #3) and opposition parties criticizing government actions on various fronts (Headlines #13, #15, #16). A significant financial concern is the Centre's withholding of a ₹13,537 crore loan for the Hyderabad Metro (Headline #18).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">HIGH</span>: Statewide School Bandh (Headline #3) - Potential for disruption to education and public order.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Hyderabad Metro Phase-2 Funding Shortfall (Headlines #1, #2, #4, #9, #11, #18) - Significant financial implications and potential delays for a critical urban infrastructure project.</li>\n    <li><span class=\"risk-medium\">MEDIUM</span>: Political Opposition and Criticism (Headlines #13, #15, #16) - Could lead to increased public dissent and challenges to governance.</li>\n    <li><span class=\"risk-low\">LOW</span>: Telangana Government vs. SBI Land Dispute (Headline #5) - Potential for legal challenges and concerns among industry leaders.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>Headlines #1, #2, #4, #9, #10, #11, #12, #18 indicate a concerted effort by the Telangana CM and other state leaders to secure funding for Hyderabad Metro Phase-2, highlighting the critical nature of this project and the financial challenges involved, including the Centre's withholding of a ₹13,537 crore loan.</li>\n    <li>Headlines #7 and #14 demonstrate the Chief Minister's focus on securing central government support for defence-related projects, specifically general defence project approvals and the expansion of Adilabad airport, indicating a broader strategy for infrastructure development and central government engagement.</li>\n    <li>Headlines #13, #15, and #16 show a pattern of increased criticism from opposition parties (KTR, RS Praveen Kumar, Harish Rao) against the current Telangana government on various issues, including governance, bail proceedings, and farmer welfare, suggesting heightened political tensions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Engage immediately with ABVP leadership to understand and address demands to mitigate the impact of the statewide school bandh (Headline #3).</li>\n    <li>Formulate a clear strategy for addressing the ₹13,537 crore loan withholding for Hyderabad Metro Phase-2, potentially involving direct engagement with the Urban Development Ministry as suggested by Headline #11.</li>\n    <li>Prepare a public communication strategy to counter opposition criticism regarding governance, bail issues, and farmer welfare (Headlines #13, #15, #16).</li>\n    <li>Prioritize follow-up with the Ministry of Defence regarding approvals for defence projects and the Adilabad airport expansion (Headlines #7, #14).</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><strong>Hyderabad:</strong> Immediate attention required due to ongoing discussions and financial challenges related to the Metro Phase-2 project (Headlines #1, #2, #4, #9, #10, #11, #12, #18) and the land dispute with SBI (Headline #5).</li>\n    <li><strong>Adilabad:</strong> Focus on securing approvals for the airport expansion project, as requested by the CM (Headline #14).</li>\n    <li><strong>Statewide:</strong> Monitor the impact and public response to the ABVP-called school bandh (Headline #3) across all districts.</li>\n</ul>\n```",
-    "dataSnapshot": {
-      "temperature": "29.7°C",
-      "humidity": "57%",
-      "wind": "16.4 km/h",
-      "weatherDesc": "Mainly Clear",
-      "aqi": 18,
-      "pm25": 6,
-      "goldPerGram": "₹9,132",
-      "newsCount": 44,
-      "topHeadlines": [
-        "T’gana CM discusses Hyderabad Metro financing with Railway Minister Ashwini Vaishnaw - tennews.in",
-        "Telangana CM meets Railway Minister to discuss Hyderabad Metro Phase-2 funding - The News Mill",
-        "Telangana school bandh today: Why has ABVP called statewide shutdown? Key demands explained - Moneycontrol.com",
-        "Telangana CM discusses Hyderabad Metro Phase-2 funding with Railway Minister - ANI News",
-        "Why a Telangana govt vs SBI tussle over 5 acres of land has industry leaders worried - ThePrint"
-      ]
-    }
-  },
-  {
     "timestamp": "2026-06-23T07:51:08.749Z",
     "timestampIST": "23/6/2026, 1:21:08 pm",
     "executiveSummary": "<p>The state is experiencing significant political tension with BRS leaders under house arrest ahead of farmer protests (#1) and accusations of the CM betraying farmers (#6). Public safety concerns include a statewide school bandh called by ABVP over fee hikes (#12, #16) and a reported murder in Hyderabad (#13). Concurrently, the Chief Minister is actively pursuing central government support for Hyderabad Metro Phase-II financing (#4, #5, #9, #11, #15, #17) and discussing strategic projects with the Defence Minister (#19).</p>",
@@ -4854,6 +4831,29 @@
         "Revanth: Expedite Development Works in Three Municipal Corporations in the City - Deccan Chronicle",
         "Telangana chief minister Revanth Reddy alleges BJP, BRS plot to remove names of Congress voters in Special Intensive Revision - The Times of India",
         "KTR urges Telangana CM to clarify stand on revival of CCI plant in Adilabad - thehawk.in"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-07-23T06:30:55.682Z",
+    "timestampIST": "23/7/2026, 12:00:55 pm",
+    "executiveSummary": "<p>Political tensions are high with CM Revanth Reddy alleging BJP and BRS are conspiring to delete SC, ST, and minority votes (2, 10). KTR is issuing a legal notice to Revanth over the Globarena allegation (1) and demanding clarity on the Adilabad CCI plant revival (4, 12, 14, 17). The Centre has agreed to procure an additional 8 LMT of rice from Telangana (3), and PM Modi inaugurated projects worth approximately ₹9,400 crore in the state (15).</p>",
+    "fullAnalysis": "```html\n<h3>📋 Executive Summary</h3>\n<p>Political tensions are high with CM Revanth Reddy alleging BJP and BRS are conspiring to delete SC, ST, and minority votes (2, 10). KTR is issuing a legal notice to Revanth over the Globarena allegation (1) and demanding clarity on the Adilabad CCI plant revival (4, 12, 14, 17). The Centre has agreed to procure an additional 8 LMT of rice from Telangana (3), and PM Modi inaugurated projects worth approximately ₹9,400 crore in the state (15).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Electoral Integrity:</span> Allegations by CM Revanth Reddy of BJP and BRS conspiring to delete SC, ST, and minority votes (2, 10) and concerns over SIR registration (16) could lead to significant public unrest and challenges to electoral processes.</li>\n    <li><span class=\"risk-medium\">Inter-Party Conflict:</span> KTR's legal notice to CM Revanth Reddy (1) and repeated demands for clarity on the CCI plant (4, 12, 14, 17) indicate escalating political friction, potentially diverting government focus.</li>\n    <li><span class=\"risk-medium\">Public Order:</span> Congress activists were detained during a Lok Bhavan protest (5), and CM Revanth Reddy led protests (6), indicating potential for further demonstrations and law enforcement engagement.</li>\n    <li><span class=\"risk-low\">Road Safety:</span> The launch of the International Trauma Care Hyderabad Chapter (8) suggests an ongoing focus on improving response to road accidents, indicating a recognized public safety concern.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's allegations regarding vote deletion (2, 10) are directly linked to his criticism of BLOs and concerns over SIR registration (16), suggesting a coordinated effort to address perceived electoral irregularities.</li>\n    <li>The repeated demands by BRS leader KTR for the Telangana government to clarify its stand on the CCI plant revival (4, 12, 14, 17) highlight a consistent opposition pressure point on the current administration's industrial policy.</li>\n    <li>The Centre's procurement of 8 LMT additional rice from Telangana (3) and Kishan Reddy thanking PM Modi for boosting rice procurement (19) indicates a positive inter-governmental collaboration on agricultural policy, despite political tensions.</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Immediately investigate the allegations made by CM Revanth Reddy regarding the deletion of SC, ST, and minority votes (2, 10) and concerns over SIR registration (16) to ensure electoral integrity and public confidence.</li>\n    <li>Formulate and publicly communicate a clear stance on the revival of the CCI plant in Adilabad (4, 12, 14, 17) to address opposition demands and provide clarity on industrial development.</li>\n    <li>Monitor and manage ongoing political protests, such as those led by CM Revanth Reddy (6) and involving Congress activists (5), to prevent escalation and maintain public order.</li>\n    <li>Expedite development works in the three municipal corporations as requested by CM Revanth Reddy (9) to demonstrate governance effectiveness and address urban infrastructure needs.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li><strong>Adilabad:</strong> Requires immediate attention due to repeated demands from BRS leader KTR for clarity on the revival of the CCI plant (4, 12, 14, 17), indicating a significant local economic and political issue.</li>\n    <li><strong>Hyderabad:</strong> Focus is needed due to the detention of Congress activists during a Lok Bhavan protest (5), the launch of the International Trauma Care Hyderabad Chapter (8), and the rally at Osmania University in support of Delhi protesters (11), indicating potential for public order issues and a need for improved trauma response.</li>\n</ul>\n```",
+    "dataSnapshot": {
+      "temperature": "28.9°C",
+      "humidity": "58%",
+      "wind": "20 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 26,
+      "pm25": 13.1,
+      "goldPerGram": "₹9,314",
+      "newsCount": 31,
+      "topHeadlines": [
+        "KTR to issue legal notice to Revanth over Globarena allegation - Telangana Today",
+        "BJP, BRS conspiring to delete SC, ST, minority votes: CM Revanth - The New Indian Express",
+        "Centre to procure 8 LMT additional rice from Telangana - The New Indian Express",
+        "BRS leader KT Rama Rao asks Telangana government to spell out CCI revival stand - The New Indian Express",
+        "Congress activists detained during Lok Bhavan protest in Telangana - The New Indian Express"
       ]
     }
   }
