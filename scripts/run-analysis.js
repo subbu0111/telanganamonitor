@@ -152,7 +152,7 @@ async function runAIAnalysis(weather, aqi, news, gold) {
   const aCtx = aqi ? `AQI: ${aqi.european_aqi}, PM2.5: ${aqi.pm2_5}, PM10: ${aqi.pm10}` : 'No AQI data';
   const nCtx = news.slice(0, 20).map((n, i) => `${i + 1}. ${n.title} [${n.source}]`).join('\n');
 
-  const prompt = `You are an intelligence analyst for the Government of Telangana, India. You serve senior IAS/IPS officers and the Chief Minister. Analyze the following real-time data and produce a structured intelligence briefing.
+  const prompt = `You are an intelligence analyst for the Government of Telangana, India. You serve senior IAS/IPS officers and the Chief Minister. Analyze the following real-time data and produce a structured Executive Summary in clean HTML.
 
 - Every claim in your analysis must trace back to a specific headline number or data point provided below.
 - BE CONSERVATIVE: Do not imagine connections (like weather impacting an event) unless the connection is obvious and high-impact.
@@ -172,9 +172,9 @@ GOLD PRICE: ₹${gold || '--'}/gram
 
 Produce the following sections in clean HTML (use <h3>, <p>, <ul>, <li> tags only, no markdown):
 
-1. <h3>📋 Executive Summary</h3> — 3-4 concise lines covering the most critical developments for the CM/DGP. ONLY mention events from the headlines above. Be specific with names, places, numbers.
+1. <h3>📋 Executive Summary</h3> — 3-4 concise lines covering the most critical developments for the CM/DGP. ONLY mention events from the headlines above. Be specific with names, places, numbers, and dates.
 
-2. <h3>🚨 Risk Assessment</h3> — List top 3-5 risks with severity (HIGH/MEDIUM/LOW). Use <span class="risk-high">, <span class="risk-medium">, or <span class="risk-low"> for severity tags. Base risks ONLY on the data provided.
+2. <h3>🚨 Risk Assessment</h3> — List top 3-5 risks with severity (HIGH/MEDIUM/LOW). Use <span class="risk-high">, <span class="risk-medium">, or <span class="risk-low"> for severity tags. Back each risk with specific headline references.
 
 3. <h3>🔗 Cross-Correlation</h3> — Identify 2-3 connections between different news items or data points.
 
@@ -193,10 +193,10 @@ Keep the tone formal, concise, and actionable. This is for decision-makers, not 
       'X-Title': 'TelanganaMonitor'
     },
     body: JSON.stringify({
-      model: 'google/gemini-2.5-flash',
+      model: 'nvidia/nemotron-3-ultra-550b:free',
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.3,
-      max_tokens: 2048
+      max_tokens: 1500
     })
   });
 
