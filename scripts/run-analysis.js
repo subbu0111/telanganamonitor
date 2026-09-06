@@ -152,8 +152,9 @@ async function runAIAnalysis(weather, aqi, news, gold) {
   const aCtx = aqi ? `AQI: ${aqi.european_aqi}, PM2.5: ${aqi.pm2_5}, PM10: ${aqi.pm10}` : 'No AQI data';
   const nCtx = news.slice(0, 20).map((n, i) => `${i + 1}. ${n.title} [${n.source}]`).join('\n');
 
-  const prompt = `You are an intelligence analyst for the Government of Telangana, India. You serve senior IAS/IPS officers and the Chief Minister. Analyze the following real-time data and produce a structured Executive Summary in clean HTML.
+  const prompt = `You are an intelligence analyst for the Government of Telangana, India. You serve senior IAS/IPS officers and the Chief Minister. Analyze the following real-time data and produce a concise, actionable Executive Summary with Risk Assessment.
 
+CRITICAL INSTRUCTIONS:
 - Every claim in your analysis must trace back to a specific headline number or data point provided below.
 - BE CONSERVATIVE: Do not imagine connections (like weather impacting an event) unless the connection is obvious and high-impact.
 - NO HALLUCINATIONS: Do not misattribute content. If headline #15 is about a fire, do not say #15 is about weather.
@@ -172,9 +173,9 @@ GOLD PRICE: ₹${gold || '--'}/gram
 
 Produce the following sections in clean HTML (use <h3>, <p>, <ul>, <li> tags only, no markdown):
 
-1. <h3>📋 Executive Summary</h3> — 3-4 concise lines covering the most critical developments for the CM/DGP. ONLY mention events from the headlines above. Be specific with names, places, numbers, and dates.
+1. <h3>📋 Executive Summary</h3> — 3-4 concise lines covering the most critical developments for the CM/DGP. ONLY mention events from the headlines above. Be specific with names, places, numbers.
 
-2. <h3>🚨 Risk Assessment</h3> — List top 3-5 risks with severity (HIGH/MEDIUM/LOW). Use <span class="risk-high">, <span class="risk-medium">, or <span class="risk-low"> for severity tags. Back each risk with specific headline references.
+2. <h3>🚨 Risk Assessment</h3> — List top 3-5 risks with severity (HIGH/MEDIUM/LOW). Use <span class="risk-high">, <span class="risk-medium">, or <span class="risk-low"> for severity tags. Base all risks on the news above.
 
 3. <h3>🔗 Cross-Correlation</h3> — Identify 2-3 connections between different news items or data points.
 
@@ -193,7 +194,7 @@ Keep the tone formal, concise, and actionable. This is for decision-makers, not 
       'X-Title': 'TelanganaMonitor'
     },
     body: JSON.stringify({
-      model: 'nvidia/nemotron-3-ultra-550b:free',
+      model: 'nvidia/nemotron-3-ultra-550b-a55b:free',
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.3,
       max_tokens: 1500
