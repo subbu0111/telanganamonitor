@@ -185,6 +185,8 @@ Produce the following sections in clean HTML (use <h3>, <p>, <ul>, <li> tags onl
 
 Keep the tone formal, concise, and actionable. This is for decision-makers, not the public. DO NOT invent or assume any events not present in the headlines.`;
 
+  log('📡 Calling OpenRouter API with model: meta-llama/llama-2-70b-chat');
+
   const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
     method: 'POST',
     headers: {
@@ -194,7 +196,7 @@ Keep the tone formal, concise, and actionable. This is for decision-makers, not 
       'X-Title': 'TelanganaMonitor'
     },
     body: JSON.stringify({
-      model: 'nvidia/nemotron-3-ultra-550b-a55b:free',
+      model: 'meta-llama/llama-2-70b-chat',
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.3,
       max_tokens: 1500
