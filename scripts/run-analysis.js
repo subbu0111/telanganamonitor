@@ -193,7 +193,7 @@ Keep the tone formal, concise, and actionable. This is for decision-makers, not 
       'X-Title': 'TelanganaMonitor'
     },
     body: JSON.stringify({
-      model: 'nvidia/nemotron-3.5-lightning:free',
+      model: 'google/gemini-2.5-flash',
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.3,
       max_tokens: 2048
