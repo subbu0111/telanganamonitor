@@ -1,8 +1,8 @@
-name: '📡 Whisper Net (Every 2 Hours)'
+name: '📡 Whisper Net (Every 4 Hours)'
 
 on:
   schedule:
-    - cron: '20 */2 * * *'
+    - cron: '20 */4 * * *'
   workflow_dispatch:
 
 permissions:
