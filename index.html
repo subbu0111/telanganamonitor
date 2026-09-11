@@ -120,6 +120,34 @@ body{font-family:'Inter',system-ui,-apple-system,sans-serif;background:var(--bg)
 .btn-primary{background:var(--blue);color:#fff}.btn-primary:hover{opacity:.85}
 .btn-ghost{background:transparent;color:var(--text2);border:1px solid var(--border)}.btn-ghost:hover{background:var(--glass)}
 
+
+/* Whisper Net v2 */
+.whisper-wrap{display:flex;flex-direction:column;gap:16px}
+.whisper-banner{background:rgba(10,132,255,.12);border:1px solid rgba(10,132,255,.28);color:var(--text);padding:8px 14px;border-radius:10px;font-size:12px;display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap}
+.whisper-banner a{color:var(--blue);font-weight:600}
+.whisper-stats{display:grid;grid-template-columns:1.2fr .8fr;gap:12px}
+@media(max-width:800px){.whisper-stats{grid-template-columns:1fr}}
+.whisper-stat{background:var(--glass);border:1px solid var(--border);border-radius:12px;padding:14px}
+.whisper-pain{font-size:28px;font-weight:800;letter-spacing:-.03em;color:var(--red)}
+.whisper-filters{display:flex;flex-wrap:wrap;gap:6px}
+.whisper-filter{padding:5px 12px;border-radius:999px;border:1px solid var(--border);background:var(--surface);color:var(--text2);font-size:11px;cursor:pointer}
+.whisper-filter.active{background:var(--blue);border-color:var(--blue);color:#fff}
+.whisper-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
+.whisper-card{background:var(--glass);border:1px solid var(--border);border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:8px;min-height:118px}
+.whisper-card.hot{border-color:rgba(255,69,58,.45)}
+.whisper-card.rising{border-color:rgba(255,159,10,.45)}
+.whisper-card.from-reddit{border-color:#ff4500;box-shadow:inset 3px 0 0 #ff4500}
+.whisper-flag{font-size:9px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:2px 6px;border-radius:4px}
+.whisper-flag.reddit{background:#ff4500;color:#fff}
+.whisper-flag.press{background:rgba(255,255,255,.08);color:var(--text3);border:1px solid var(--border)}
+.whisper-card a{color:var(--text);text-decoration:none;font-size:13px;line-height:1.45;font-weight:600}
+.whisper-card a:hover{color:var(--blue)}
+.whisper-meta{display:flex;flex-wrap:wrap;gap:8px;font-size:10px;color:var(--text3);align-items:center}
+.whisper-chip{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.04em}
+.whisper-heat{font-weight:800;font-size:9px;text-transform:uppercase}
+.whisper-empty{padding:28px;text-align:center;color:var(--text2)}
+.test-chip{background:var(--orange);color:#000;font-size:9px;font-weight:800;padding:2px 6px;border-radius:4px;letter-spacing:.04em}
+
 /* Intelligence Hub */
 .intel-hub{display:none;min-height:calc(100vh - 160px);padding:32px}
 .intel-hub.active{display:block}
@@ -152,6 +180,7 @@ body{font-family:'Inter',system-ui,-apple-system,sans-serif;background:var(--bg)
 .ai-section ul{padding-left:16px;margin-top:8px}
 .ai-section li{margin-bottom:6px}
 .ai-loading{text-align:center;padding:40px}
+.whisper-empty .spinner{width:28px;height:28px;border:3px solid var(--border);border-top-color:var(--blue);border-radius:50%;animation:spin 1s linear infinite}
 .ai-loading .spinner{width:32px;height:32px;border:3px solid var(--border);border-top-color:var(--blue);border-radius:50%;animation:spin 1s linear infinite;margin:0 auto 16px}
 @keyframes spin{to{transform:rotate(360deg)}}
 .risk-high{color:var(--red);font-weight:600}
@@ -305,7 +334,13 @@ body{font-family:'Inter',system-ui,-apple-system,sans-serif;background:var(--bg)
     <div class="intel-grid" id="civic-grid"></div>
   </div>
   <div class="intel-section" id="intel-whisper">
-    <div class="intel-grid" id="whisper-grid"></div>
+    <div class="whisper-wrap">
+      <div class="whisper-banner">
+        <div>📡 Whisper Net — civic press plus people-voice when Reddit is reachable.</div>
+        <div id="whisper-sync">Preparing people-voice feed…</div>
+      </div>
+      <div id="whisper-grid"></div>
+    </div>
   </div>
   <div class="intel-section" id="intel-trends">
     <div id="trend-container"></div>
@@ -915,40 +950,230 @@ async function fetchCivicPulse(){
   document.getElementById('civic-grid').innerHTML=html;
 }
 
-// === WHISPER NET (Real-time civic complaints & community alerts) ===
-async function fetchWhisperNet(){
-  const feeds=[
-    {query:'Hyderabad water supply shortage HMWSSB',label:'💧 Water Supply',color:'var(--blue)'},
-    {query:'Hyderabad power cut outage TSSPDCL',label:'⚡ Power Grid',color:'var(--yellow)'},
-    {query:'Hyderabad road pothole GHMC repair',label:'🛣️ Road & Infra',color:'var(--orange)'},
-    {query:'Hyderabad garbage sewage sanitation GHMC',label:'🗑️ Sanitation',color:'var(--green)'},
-    {query:'Hyderabad traffic jam accident congestion',label:'🚦 Traffic',color:'var(--red)'},
+
+// === WHISPER NET v2 (prebuilt JSON + news reuse + optional live Reddit) ===
+const WHISPER_BUCKETS = {
+  Water:{color:'#0a84ff',icon:'💧',keys:['water','hmwssb','tanker','borewell','pipeline','drinking water','water supply','scarcity']},
+  Power:{color:'#ffd60a',icon:'⚡',keys:['power cut','outage','tsspdcl','tsnspdcl','load shedding','transformer','power supply','current cut']},
+  Roads:{color:'#ff9f0a',icon:'🛣️',keys:['pothole','road','flyover','manhole','footpath','crater']},
+  Sanitation:{color:'#30d158',icon:'🗑️',keys:['garbage','sewage','sanitation','drain','dumping','landfill','waste']},
+  Traffic:{color:'#ff453a',icon:'🚦',keys:['traffic','congestion','accident','jam','signal','diversion']},
+  Crime:{color:'#ff375f',icon:'🚨',keys:['crime','theft','robbery','assault','police','snatch','scam','fraud']},
+  Governance:{color:'#bf5af2',icon:'🏛️',keys:['ghmc','hmda','complaint','prajavani','encroachment','councillor']}
+};
+
+function whisperBucket(text){
+  const t=String(text||'').toLowerCase();
+  let best='Other', hits=0;
+  Object.entries(WHISPER_BUCKETS).forEach(([name,meta])=>{
+    const n=meta.keys.filter(k=>t.includes(k)).length;
+    if(n>hits){hits=n;best=name}
+  });
+  return {bucket:hits?best:'Other',hits};
+}
+
+function whisperAge(pub){
+  const t=Date.parse(pub);
+  if(!Number.isFinite(t)) return 999;
+  return (Date.now()-t)/36e5;
+}
+
+function whisperHeat(hours,score){
+  if(hours<=12 && score>=20) return 'rising';
+  if(hours<=48 && score>=28) return 'hot';
+  if(hours<=168) return 'warm';
+  return 'cool';
+}
+
+function renderWhisperLoading(msg){
+  const grid=document.getElementById('whisper-grid');
+  if(!grid) return;
+  grid.innerHTML=`<div class="whisper-empty"><div class="spinner" style="margin:0 auto 12px"></div><div>${msg||'Scanning civic channels…'}</div></div>`;
+}
+
+function mergeWhisperTopics(base, extra){
+  const out=[];
+  const seen=new Set();
+  [...(base||[]), ...(extra||[])].forEach(t=>{
+    const key=(t.title||'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
+    if(!key || seen.has(key)) return;
+    seen.add(key);
+    out.push(t);
+  });
+  out.sort((a,b)=>(b.score||0)-(a.score||0)||(a.ageHours||999)-(b.ageHours||999));
+  return out;
+}
+
+function topicsFromNews(news){
+  const items=[];
+  (news||[]).forEach(n=>{
+    const title=n.title||'';
+    if(!/hyderabad|telangana|ghmc|hmwssb|tsspdcl|cyberabad|secunderabad/i.test(title)) return;
+    const {bucket,hits}=whisperBucket(title);
+    if(bucket==='Other' && hits===0) return;
+    const hours=whisperAge(n.pubDate);
+    if(hours>14*24) return;
+    const score=(hours<=24?32:hours<=72?18:8)+hits*4;
+    items.push({
+      bucket, heat:whisperHeat(hours,score), title,
+      source:'press', outlet:n.source||'News', score,
+      comments:0, url:n.link, ageHours:Math.round(hours*10)/10, pubDate:n.pubDate
+    });
+  });
+  return items;
+}
+
+async function fetchLiveRedditTopics(){
+  const urls=[
+    'https://www.reddit.com/r/hyderabad/hot.json?limit=30',
+    'https://www.reddit.com/r/Telangana/hot.json?limit=20',
+    'https://www.reddit.com/r/hyderabad/rising.json?limit=15'
   ];
-  let html='';
-  for(const f of feeds){
+  const proxies=[
+    u=>u,
+    u=>'https://corsproxy.org/?'+encodeURIComponent(u),
+    u=>'https://api.allorigins.win/raw?url='+encodeURIComponent(u)
+  ];
+  const posts=[];
+  for(const url of urls){
+    let data=null;
+    for(const wrap of proxies){
+      try{
+        const r=await fetch(wrap(url),{headers:{'Accept':'application/json'}});
+        if(!r.ok) continue;
+        const text=await r.text();
+        const json=JSON.parse(text);
+        data=json.data && json.data.children;
+        if(data) break;
+      }catch(e){}
+    }
+    if(!data) continue;
+    data.forEach(c=>{
+      const p=c.data||{};
+      if(p.stickied) return;
+      const title=p.title||'';
+      const {bucket}=whisperBucket(title+' '+(p.selftext||''));
+      if(bucket==='Other') return;
+      const hours=(Date.now()/1000-(p.created_utc||0))/3600;
+      if(hours>72) return;
+      const score=Math.min(90,(p.score||0)/2+(p.num_comments||0));
+      posts.push({
+        bucket, heat:whisperHeat(hours, score+20),
+        title, source:'reddit', outlet:'r/'+(p.subreddit||'hyderabad'),
+        score: Math.round(score+24), comments:p.num_comments||0,
+        url:'https://www.reddit.com'+(p.permalink||''),
+        ageHours:Math.round(hours*10)/10
+      });
+    });
+  }
+  return posts;
+}
+
+function renderWhisperNet(){
+  const grid=document.getElementById('whisper-grid');
+  const sync=document.getElementById('whisper-sync');
+  if(!grid) return;
+  const feed=STORE.whisper || {topics:[],counts:{},painScore:0};
+  const filter=window.currentWhisperFilter||'All';
+  const topics=feed.topics||[];
+  const filtered=filter==='All'?topics:filter==='People'?topics.filter(t=>t.source==='reddit'):topics.filter(t=>t.bucket===filter);
+  const counts=feed.counts||{};
+  const colors={Water:'#0a84ff',Roads:'#ff9f0a',Power:'#ffd60a',Sanitation:'#30d158',Traffic:'#ff453a',Crime:'#ff375f',Governance:'#bf5af2'};
+  const total=Object.values(counts).reduce((a,b)=>a+b,0)||1;
+  let bars='';
+  Object.entries(counts).sort((a,b)=>b[1]-a[1]).forEach(([b,c])=>{
+    bars+=`<div class="reddit-bar-row" style="margin-bottom:6px">
+      <div style="width:78px;font-size:11px;color:var(--text2)">${WHISPER_BUCKETS[b]?WHISPER_BUCKETS[b].icon+' ':''}${b}</div>
+      <div class="reddit-bar-bg" style="background:var(--surface2);height:6px;border-radius:3px;flex:1;overflow:hidden"><div style="width:${Math.max(4,(c/total)*100)}%;height:100%;background:${colors[b]||'#888'}"></div></div>
+      <div style="width:24px;text-align:right;font-size:11px;color:var(--text3)">${c}</div>
+    </div>`;
+  });
+  const filters=['All','People','Water','Power','Roads','Sanitation','Traffic','Crime','Governance'];
+  const filterHtml=filters.map(f=>`<button class="whisper-filter ${filter===f?'active':''}" onclick="window.currentWhisperFilter='${f}';renderWhisperNet()">${f==='People'?'🗣️ People':f}</button>`).join('');
+  const cards=filtered.slice(0,24).map(t=>{
+    const age=t.ageHours<1?'just now':t.ageHours<24?Math.round(t.ageHours)+'h':Math.round(t.ageHours/24)+'d';
+    const isReddit=t.source==='reddit';
+    const src=isReddit?'Reddit · '+(t.outlet||'r/hyderabad'):(t.outlet||'Press');
+    const flag=isReddit?'<span class="whisper-flag reddit">Reddit · People</span>':'<span class="whisper-flag press">Press</span>';
+    return `<article class="whisper-card ${t.heat||''} ${isReddit?'from-reddit':''}">
+      <div class="whisper-meta">
+        ${flag}
+        <span class="whisper-chip" style="color:${colors[t.bucket]||'var(--text2)'}">${WHISPER_BUCKETS[t.bucket]?WHISPER_BUCKETS[t.bucket].icon+' ':''}${t.bucket}</span>
+        <span class="whisper-heat" style="color:${t.heat==='hot'?'var(--red)':t.heat==='rising'?'var(--orange)':'var(--text3)'}">${t.heat||'warm'}</span>
+        <span>${age}</span>
+      </div>
+      <a href="${t.url||'#'}" target="_blank" rel="noopener">${t.title}</a>
+      <div class="whisper-meta"><span>${src}</span>${t.comments?`<span>💬 ${t.comments}</span>`:''}${isReddit?`<span>▲ ${t.score}</span>`:''}</div>
+    </article>`;
+  }).join('') || '<div class="whisper-empty">No items in this filter. Try All.</div>';
+
+  grid.innerHTML=`
+    <div class="whisper-stats">
+      <div class="whisper-stat">
+        <div class="stat-card label" style="padding:0;background:transparent;text-align:left">Topic mix</div>
+        ${bars||'<div style="color:var(--text3);font-size:12px">Waiting for classified items</div>'}
+      </div>
+      <div class="whisper-stat">
+        <div style="font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--text3);font-weight:700">Civic heat</div>
+        <div class="whisper-pain">${feed.painScore||0}</div>
+        <div style="font-size:11px;color:var(--text3);line-height:1.45;margin-top:6px">Recency-weighted intensity of water, power, roads, sanitation, traffic and crime items. Reddit threads boost this when the visitor browser can reach Reddit.</div>
+      </div>
+    </div>
+    <div class="whisper-filters">${filterHtml}</div>
+    <div class="whisper-cards">${cards}</div>`;
+  if(sync){
+    const redditN=topics.filter(t=>t.source==='reddit').length;
+    sync.textContent=`${topics.length} items · ${redditN} people-voice · updated ${feed.updatedAtIST||'just now'}`;
+  }
+}
+
+async function fetchWhisperNet(){
+  const grid=document.getElementById('whisper-grid');
+  if(!grid) return;
+  if(!STORE.whisper) renderWhisperLoading('Loading pre-built civic feed…');
+  let prebuilt=null;
+  try{
+    const r=await fetch('./data/whisper_net.json?ts='+Date.now());
+    if(r.ok) prebuilt=await r.json();
+  }catch(e){}
+  if(!prebuilt){
     try{
-      const allItems = await fetchRSS(f.query);
-      if(allItems && allItems.length){
-        const threeDaysAgo=new Date(Date.now()-3*24*60*60*1000);
-        const items=allItems.filter(item=>new Date(item.pubDate)>=threeDaysAgo).sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate)).slice(0,2);
-        items.forEach(item=>{
-          html+=`<div class="intel-card">
-            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px">
-              <span style="font-size:11px;font-weight:700;color:${f.color};text-transform:uppercase">${f.label}</span>
-              <span style="font-size:10px;color:var(--text3)">${new Date(item.pubDate).toLocaleDateString('en-IN',{timeZone:'Asia/Kolkata',day:'numeric',month:'short'})}</span>
-            </div>
-            <h3 style="font-size:14px;line-height:1.4">${item.title}</h3>
-            <div style="display:flex;justify-content:space-between;align-items:center;margin-top:8px">
-              <span style="font-size:10px;color:var(--text3)">${item.source||'News'}</span>
-              <a href="${item.link}" target="_blank" style="font-size:11px;color:var(--blue)">Read →</a>
-            </div>
-          </div>`;
-        });
-      }
+      const cached=JSON.parse(localStorage.getItem('tm_whisper_v2')||'null');
+      if(cached && cached.topics) prebuilt=cached;
     }catch(e){}
   }
-  if(!html)html='<div class="intel-card"><h3>No civic alerts detected</h3><div class="subtitle">Community intelligence feed is clear at this time</div></div>';
-  document.getElementById('whisper-grid').innerHTML=html;
+  const fromNews=topicsFromNews(STORE.news||[]);
+  let topics=mergeWhisperTopics(prebuilt && prebuilt.topics, fromNews);
+  STORE.whisper={
+    ...(prebuilt||{}),
+    topics,
+    updatedAtIST:(prebuilt && prebuilt.updatedAtIST)||new Date().toLocaleString('en-IN',{timeZone:'Asia/Kolkata'}),
+    counts:{},
+    painScore:prebuilt && prebuilt.painScore || 0
+  };
+  const counts={}; let pain=0;
+  topics.forEach(t=>{
+    counts[t.bucket]=(counts[t.bucket]||0)+1;
+    if(['Water','Power','Roads','Sanitation','Traffic','Crime'].includes(t.bucket)) pain+=Math.min(18,t.score||10);
+  });
+  STORE.whisper.counts=counts;
+  STORE.whisper.painScore=pain;
+  renderWhisperNet();
+  try{localStorage.setItem('tm_whisper_v2',JSON.stringify({...STORE.whisper,topics:topics.slice(0,40)}))}catch(e){}
+
+  // Optional live Reddit from the visitor IP — never block the tab
+  fetchLiveRedditTopics().then(reddit=>{
+    if(!reddit.length) return;
+    STORE.whisper.topics=mergeWhisperTopics(STORE.whisper.topics, reddit);
+    const c={}; let p=0;
+    STORE.whisper.topics.forEach(t=>{
+      c[t.bucket]=(c[t.bucket]||0)+1;
+      if(['Water','Power','Roads','Sanitation','Traffic','Crime'].includes(t.bucket)) p+=Math.min(18,t.score||10);
+    });
+    STORE.whisper.counts=c;
+    STORE.whisper.painScore=p;
+    renderWhisperNet();
+  }).catch(()=>{});
 }
 
 // === CULTURAL SPOTLIGHT (Live — Hyderabad events & entertainment news) ===
@@ -1455,6 +1680,7 @@ async function boot(){
   initMap();
   await fetchWeather();
   renderWeatherOnlyAlerts();
+  renderWhisperLoading('Scanning civic channels…');
   await Promise.allSettled([fetchGold(),fetchNews(),fetchReservoirs(),fetchCivicPulse(),fetchWhisperNet(),fetchCulture()]);
   // Post-news processing
   updateDistrictHeatmap();
