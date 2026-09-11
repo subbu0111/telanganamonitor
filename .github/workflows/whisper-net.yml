@@ -1,0 +1,33 @@
+name: '📡 Whisper Net (Every 2 Hours)'
+
+on:
+  schedule:
+    - cron: '20 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  whisper:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - name: Build Whisper Net feed
+        run: node scripts/fetch-whisper.js
+      - name: Commit feed
+        run: |
+          git config user.name "TelanganaMonitor Bot"
+          git config user.email "bot@telanganamonitor.local"
+          git add data/whisper_net.json
+          if git diff --cached --quiet; then
+            echo "No whisper changes"
+          else
+            git commit -m "📡 Auto: Whisper Net $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
+            git push
+          fi
