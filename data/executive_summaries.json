@@ -596,5 +596,28 @@
         "Weather today September 12, 2026: Check IMD rain forecast for Delhi, Punjab, Gujarat, Andhra, Telangana, M - The Economic Times"
       ]
     }
+  },
+  {
+    "timestamp": "2026-09-12T10:34:52.345Z",
+    "timestampIST": "12/9/2026, 4:04:52 pm",
+    "executiveSummary": "<p>Chief Minister Revanth Reddy has unveiled \"Telangana Rising 2047\" with a focus on mobilizing Gen Z, Alpha, and Beta for a $3 trillion economy and a new education policy (3, 5, 10, 16, 18, 20). Concurrently, two FIRs have been filed regarding edited photos and posts depicting CM Reddy as deceased (6, 15). The Deputy CM attributes irregular power supply to El Nino (13), while degree colleges threaten a stir if dues are not cleared (17).</p>",
+    "fullAnalysis": "<h3>📋 Executive Summary</h3>\n<p>Chief Minister Revanth Reddy has unveiled \"Telangana Rising 2047\" with a focus on mobilizing Gen Z, Alpha, and Beta for a $3 trillion economy and a new education policy (3, 5, 10, 16, 18, 20). Concurrently, two FIRs have been filed regarding edited photos and posts depicting CM Reddy as deceased (6, 15). The Deputy CM attributes irregular power supply to El Nino (13), while degree colleges threaten a stir if dues are not cleared (17).</p>\n\n<h3>🚨 Risk Assessment</h3>\n<ul>\n    <li><span class=\"risk-high\">Political Instability/Disinformation:</span> FIRs filed over edited photos and posts depicting CM Revanth Reddy as deceased (6, 15) indicate potential attempts to undermine leadership and spread misinformation.</li>\n    <li><span class=\"risk-medium\">Public Dissatisfaction/Protest:</span> Degree colleges in Telangana are threatening a stir if fee reimbursement dues are not cleared (17), which could lead to public protests and disruption.</li>\n    <li><span class=\"risk-medium\">Infrastructure/Service Delivery:</span> Irregular power supply attributed to El Nino (13) could impact public services and daily life, potentially leading to public discontent.</li>\n    <li><span class=\"risk-low\">Inter-Party Conflict:</span> BRS has taken a dig at Revanth in a mock Assembly (1), indicating ongoing political rivalry.</li>\n</ul>\n\n<h3>🔗 Cross-Correlation</h3>\n<ul>\n    <li>CM Revanth Reddy's focus on \"Telangana Rising 2047\" and new education policy targeting Gen Z, Alpha, and Beta (3, 5, 10, 16, 18, 20) is directly linked to his statement on clearing fee reimbursement for genuine colleges in phases (4), suggesting an attempt to address educational sector concerns while implementing his vision.</li>\n    <li>The FIRs filed over edited photos and posts depicting CM Revanth Reddy as deceased (6, 15) highlight a potential security concern for the Chief Minister, especially in the context of political criticism from the BRS (1).</li>\n</ul>\n\n<h3>💡 Recommendations</h3>\n<ul>\n    <li>Initiate a rapid investigation into the FIRs regarding edited photos and posts targeting CM Revanth Reddy (6, 15) to identify perpetrators and mitigate further disinformation.</li>\n    <li>Prioritize engagement with degree colleges threatening a stir (17) to address fee reimbursement issues (4) and prevent potential public protests.</li>\n    <li>Develop a public communication strategy regarding the irregular power supply (13), explaining the El Nino impact and outlining mitigation efforts.</li>\n    <li>CM Revanth Reddy should consider meeting with Raja Singh regarding Hyderabad Development (2) to address local concerns and demonstrate responsiveness.</li>\n</ul>\n\n<h3>🗺️ District Focus</h3>\n<ul>\n    <li>Hyderabad: Raja Singh seeks a meeting with the CM on Hyderabad Development (2), indicating specific local concerns that require attention.</li>\n    <li>State-wide: The threat of a stir by degree colleges (17) and irregular power supply (13) are state-wide issues that could impact multiple districts.</li>\n</ul>",
+    "dataSnapshot": {
+      "temperature": "30.5°C",
+      "humidity": "50%",
+      "wind": "13.5 km/h",
+      "weatherDesc": "Overcast",
+      "aqi": 51,
+      "pm25": 16.2,
+      "goldPerGram": "₹9,217",
+      "newsCount": 28,
+      "topHeadlines": [
+        "BRS takes dig at Revanth in mock Assembly at Telangana Bhavan - The Siasat Daily",
+        "Raja Singh Seeks CM Meeting on Hyderabad Development - INDToday",
+        "Revanth Reddy unveils ‘Telangana Rising 2047’, vows to mobilise Gen Z, Alpha and Beta for $3 trillion economy - EdexLive",
+        "Telangana CM Revanth says fee reimbursement for genuine colleges will be cleared in phases - The News Minute",
+        "\"Education policy must cater to Gen Z, Gen Alpha, Gen Beta to achieve its goals for Rising 2047\": CM Revanth Reddy - ET Education"
+      ]
+    }
   }
 ]
