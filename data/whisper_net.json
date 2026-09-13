@@ -1,56 +1,20 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-13T18:49:15.488Z",
-  "updatedAtIST": "14/9/2026, 12:19:15 am",
-  "painScore": 990,
+  "updatedAt": "2026-09-13T22:27:38.184Z",
+  "updatedAtIST": "14/9/2026, 3:57:38 am",
+  "painScore": 972,
   "counts": {
-    "Power": 8,
-    "Traffic": 23,
+    "Power": 7,
+    "Traffic": 22,
     "Water": 8,
-    "Crime": 4,
+    "Crime": 5,
     "Sanitation": 11,
-    "Governance": 5,
+    "Governance": 6,
     "Roads": 1
   },
   "redditStatus": "client",
   "note": "Press layer is pre-built. Reddit Pulse is fetched in the visitor browser (datacenter IPs are blocked by Reddit).",
   "topics": [
-    {
-      "bucket": "Power",
-      "heat": "rising",
-      "title": "Arrangements in place for free power supply to Ganesh pandals in Telangana - The Hindu",
-      "source": "press",
-      "outlet": "The Hindu",
-      "score": 62,
-      "comments": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSjRRcjF1OVlwZTM3R3owRlQ0YnFnWVd3UTI2aHVHdHVPSkVCWW5zQXlrMHJKNXRhZmxsTzc2U2dGOGRxTFhqYWdwWWZrZG14aF9heVlxMm5ZTXdFeUs1YUc0dVBGS2tBYjBncVlwSnpYVTg5ajlTNm9GQnYyNFZWc096bXRiMnFMaUg2RFo2bGJfNnZScENHVlZDQk5vdXNkUmFXcUU0V281RlZtdnloQ21kLWR6cjE5bHdkNUFqMWZodE1fM0VLbUZPWEh4MFZxaXRnR1VzZWcwLURLbV9UcW9n0gHiAUFVX3lxTE5KNFFyMXU5WXBlMzdHejBGVDRicWdZV3dRMjZodUd0dU9KRUJZbnNBeWswcko1dGFmbGxPNzZTZ0Y4ZHFMWGphZ3BZZmtkbXhoX2F5WXEybllNd0V5SzVhRzR1UEZLa0FiMGdxWXBKelhVODlqOVM2b0ZCdjI0VlZzT3ptdGIycUxpSDZEWjZsYl82dlJwQ0dWVkNCTm91c2RSYVdxRTRXbzVGVm12eWhDbWQtZHpyMTlsd2Q1QWoxZmh0TV8zRUttRk9YSHgwVnFpdGdHVXNlZzAtREttX1Rxb2c?oc=5",
-      "ageHours": 2.6,
-      "pubDate": "Sun, 13 Sep 2026 16:11:14 GMT"
-    },
-    {
-      "bucket": "Traffic",
-      "heat": "rising",
-      "title": "Hyderabad traffic police book 397 for drunk driving Sept 11-12 - The Siasat Daily",
-      "source": "press",
-      "outlet": "The Siasat Daily",
-      "score": 62,
-      "comments": 0,
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOTgyaHpkYXhwM3AzV3dMMkZiTnl4V3lPcFM4WFNTSkJ3MWYzZE1oaThRaEJTYV9FZklKZTdpQzF4ZVNCMlhFSHNlQ3RkVl9GQnhEN2s0WUxBRWRmREJJc2Z5dXp4bjE1cXJYajYydXU4R3JWbUFyVjROMHRUVHo2WG9sbzdHYktoTmJxMmVzN2g2OGdFbjNCNUZ30gGfAUFVX3lxTFBnM01zUVFRR2VuTE82N0RQNWNaUjR3U1BPM0V2bDh0cGp6UXFZVldHR056WWpaQWNGajJuWWxxQkVsWEpBQV9wY19iRUlONXVfYU9YTElnR1VOYWlfeHJ6WHhKTHhrNlE2Y3dDaVRkS3RtbW40cGQ3bk1ZN0cxeWRaSU9EbTlpRldsTk0yVjhwbnJTT3hCVXpiRk9BRUNISQ?oc=5",
-      "ageHours": 3.7,
-      "pubDate": "Sun, 13 Sep 2026 15:06:23 GMT"
-    },
-    {
-      "bucket": "Water",
-      "heat": "rising",
-      "title": "JAC demands ₹50 lakh ex-gratia, jobs for kin of deceased HMWSSB outsourcing employees - The Hindu",
-      "source": "press",
-      "outlet": "The Hindu",
-      "score": 62,
-      "comments": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaV8xS29KRnp2X2l4RWJYUzlTYm5mUC1SWWRZcHZOSmN6VFJsMVplQUhKNEFlVFA3WkRJa3NoaWFYZ1hJZTlKMWo0eFctWEZjZ25QMEdTZFduZDlSVTFGOTA3d0VfZ19MQkdMY0ZLc2NEVlNPamJ6eEEtb3dCSzZ1X0xUV1ZOMDZfNEpIUTVBY0UtdXRRNW56dGladktxQmRiXzlKaHdEc2tmZHhCem9qczJQZ3dmbWdGcU9UVEZTTExGXy1XVTAtTmc4WWF6QjBsd2Y2RkxXUVBkaTVfVFR3VmR3SlZEUjk1S3BoUWZR0gHuAUFVX3lxTE9pXzFLb0pGenZfaXhFYlhTOVNibmZQLVJZZFlwdk5KY3pUUmwxWmVBSEo0QWVUUDdaRElrc2hpYVhnWEllOUoxajR4Vy1YRmNnblAwR1NkV25kOVJVMUY5MDd3RV9nX0xCR0xjRktzY0RWU09qYnp4QS1vd0JLNnVfTFRXVk4wNl80SkhRNUFjRS11dFE1bnp0aVp2S3FCZGJfOUpod0Rza2ZkeEJ6b2pzMlBnd2ZtZ0ZxT1RURlNMTEZfLVdVMC1OZzhZYXpCMGx3ZjZGTFdRUGRpNV9UVHdWZHdKVkRSOTVLcGhRZlE?oc=5",
-      "ageHours": 5.6,
-      "pubDate": "Sun, 13 Sep 2026 13:15:47 GMT"
-    },
     {
       "bucket": "Power",
       "heat": "rising",
@@ -60,20 +24,32 @@
       "score": 54,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUDEtR3lVRG9nbU95ZDlfY2FfQmc3dnROZ1NLMFB5NEMtcm00V09vUjhsYTJXdHdCLUdPSzFiRUszR2ZQY2ZOeEZ1NmFOZ1FPVzU3LVUwckZmWU9fbVpoM1l4S1lHZGhLdDFQbFBHMGN3ZEdEYVJfdzdHaGxETWV3Mlg3Wm9qMWtobDRoN2NFbTJ2ZU11eVZqQ21nektDaDRlbkRsdXpkcGRJZTlCTjI4Vy1NSjVENUFoRWNwYmczUmh4LUZLLWphM2JvRm9tSm4wS3ptcGpFdGI0X05DbFJIZTVKLVXSAeQBQVVfeXFMTlAxLUd5VURvZ21PeWQ5X2NhX0JnN3Z0TmdTSzBQeTRDLXJtNFdPb1I4bGEyV3R3Qi1HT0sxYkVLM0dmUGNmTnhGdTZhTmdRT1c1Ny1VMHJGZllPX21aaDNZeEtZR2RoS3QxUGxQRzBjd2RHRGFSX3c3R2hsRE1ldzJYN1pvajFraGw0aDdjRW0ydmVNdXlWakNtZ3pLQ2g0ZW5EbHV6ZHBkSWU5Qk4yOFctTUo1RDVBaEVjcGJnM1JoeC1GSy1qYTNib0ZvbUpuMEt6bXBqRXRiNF9OQ2xSSGU1Si1V?oc=5",
-      "ageHours": 1.7,
+      "ageHours": 5.3,
       "pubDate": "Sun, 13 Sep 2026 17:09:38 GMT"
     },
     {
-      "bucket": "Power",
+      "bucket": "Traffic",
       "heat": "rising",
-      "title": "TGSPDCL inspects arrangements at Khairatabad Ganesh and Balapur Ganesh pandals - Telangana Today",
+      "title": "Hyderabad traffic police book 397 for drunk driving Sept 11-12 - The Siasat Daily",
       "source": "press",
-      "outlet": "Telangana Today",
-      "score": 54,
+      "outlet": "The Siasat Daily",
+      "score": 50,
       "comments": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT01iMlViX3VFaHp4UmdQOTF0MVVsLWpETTdGbm5tUzU0WnlKVGtDQUF5TXR0Q3R5Ni1OT0NTd0RYSzktN1ZDY2FNek01MzNzVFlESE9MdEdxbDZ5M1J1VUdGS0h0SldrZmwzZ3M4YkhFY0Qxb0hVS01KY0ItSU5Kd2lkZmlxZmpTNHVfNVBua01rUmFpb0I5eFZTQXpONzNUWTJqVnFYdk0?oc=5",
-      "ageHours": 2.9,
-      "pubDate": "Sun, 13 Sep 2026 15:57:59 GMT"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOTgyaHpkYXhwM3AzV3dMMkZiTnl4V3lPcFM4WFNTSkJ3MWYzZE1oaThRaEJTYV9FZklKZTdpQzF4ZVNCMlhFSHNlQ3RkVl9GQnhEN2s0WUxBRWRmREJJc2Z5dXp4bjE1cXJYajYydXU4R3JWbUFyVjROMHRUVHo2WG9sbzdHYktoTmJxMmVzN2g2OGdFbjNCNUZ30gGfAUFVX3lxTFBnM01zUVFRR2VuTE82N0RQNWNaUjR3U1BPM0V2bDh0cGp6UXFZVldHR056WWpaQWNGajJuWWxxQkVsWEpBQV9wY19iRUlONXVfYU9YTElnR1VOYWlfeHJ6WHhKTHhrNlE2Y3dDaVRkS3RtbW40cGQ3bk1ZN0cxeWRaSU9EbTlpRldsTk0yVjhwbnJTT3hCVXpiRk9BRUNISQ?oc=5",
+      "ageHours": 7.4,
+      "pubDate": "Sun, 13 Sep 2026 15:06:23 GMT"
+    },
+    {
+      "bucket": "Water",
+      "heat": "rising",
+      "title": "JAC demands ₹50 lakh ex-gratia, jobs for kin of deceased HMWSSB outsourcing employees - The Hindu",
+      "source": "press",
+      "outlet": "The Hindu",
+      "score": 50,
+      "comments": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaV8xS29KRnp2X2l4RWJYUzlTYm5mUC1SWWRZcHZOSmN6VFJsMVplQUhKNEFlVFA3WkRJa3NoaWFYZ1hJZTlKMWo0eFctWEZjZ25QMEdTZFduZDlSVTFGOTA3d0VfZ19MQkdMY0ZLc2NEVlNPamJ6eEEtb3dCSzZ1X0xUV1ZOMDZfNEpIUTVBY0UtdXRRNW56dGladktxQmRiXzlKaHdEc2tmZHhCem9qczJQZ3dmbWdGcU9UVEZTTExGXy1XVTAtTmc4WWF6QjBsd2Y2RkxXUVBkaTVfVFR3VmR3SlZEUjk1S3BoUWZR0gHuAUFVX3lxTE9pXzFLb0pGenZfaXhFYlhTOVNibmZQLVJZZFlwdk5KY3pUUmwxWmVBSEo0QWVUUDdaRElrc2hpYVhnWEllOUoxajR4Vy1YRmNnblAwR1NkV25kOVJVMUY5MDd3RV9nX0xCR0xjRktzY0RWU09qYnp4QS1vd0JLNnVfTFRXVk4wNl80SkhRNUFjRS11dFE1bnp0aVp2S3FCZGJfOUpod0Rza2ZkeEJ6b2pzMlBnd2ZtZ0ZxT1RURlNMTEZfLVdVMC1OZzhZYXpCMGx3ZjZGTFdRUGRpNV9UVHdWZHdKVkRSOTVLcGhRZlE?oc=5",
+      "ageHours": 9.2,
+      "pubDate": "Sun, 13 Sep 2026 13:15:47 GMT"
     },
     {
       "bucket": "Traffic",
@@ -84,7 +60,7 @@
       "score": 50,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0E3Y2E4UUlSZmlPT3kwZVhTd0RqRDBQRUlNMDBxLVZOUTFrUmthZ2piVEJ4OTQtcDk1eVI2YjRHLUxwUlp6U2pIYy0xcUJSNEpHYmF1VE9jNnJQbzdTRGNBWlJ0TC03WTQ5RlpXZi1rZEdiSmtZeU4yYWd0SFRDTlNoVEJXTVVlSGE4QlVtOA?oc=5",
-      "ageHours": 7.4,
+      "ageHours": 11,
       "pubDate": "Sun, 13 Sep 2026 11:25:34 GMT"
     },
     {
@@ -96,7 +72,7 @@
       "score": 50,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmJmSjR4aUxzMGJlVnRnSElQb2dmTV9wZmtQVlZUSTVvQzJMT0RFemRfVFdKU3JKZlZXbXZUOVVUeXViLXhkRnltTWo1WFRYSTJVY25BUEF2cGJ0QVdhT1VGdWE4RW1oUENSeXIyZWZKNUpmMUswTWVxVXVxREY1TWxqM19rRDZJQUJaZWxDWlRvV3PSAZMBQVVfeXFMTk5iZko0eGlMczBiZVZ0Z0hJUG9nZk1fcGZrUFZWVEk1b0MyTE9ERXpkX1RXSlNySmZWV212VDlVVHl1Yi14ZEZ5bU1qNVhUWEkyVWNuQVBBdnBidEFXYU9VRnVhOEVtaFBDUnlyMmVmSjVKZjFLME1lcVV1cURGNU1sajNfa0Q2SUFCWmVsQ1pUb1dz?oc=5",
-      "ageHours": 7.9,
+      "ageHours": 11.5,
       "pubDate": "Sun, 13 Sep 2026 10:56:00 GMT"
     },
     {
@@ -108,7 +84,7 @@
       "score": 50,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSkJDTmV6c3ZEUzNBRzdFMldRMzhKUW1RNVZzMnhFbTN5RVdWdkwyWUdmYXJoQTZJZGtYaURmNGpCZmgwMndfSms1TWN0N3ozX0JHYXFOVmJhSEF4dmt3d0FsMnNRSlpLbHI5LW9LY1FxcjMtVkVBRWZvVUVRYl9kVU5PUmFPall6ZkdFTUcxaDQ5WTNWcDdKYXBNTTUwSXduRFFMRHA1UjMtYzBCZEN1cWVuVldJOWd4M1hnbV9QUnFlSThSd2NKM01JWUxveHZ3Q2VvZTdfeFnSAdgBQVVfeXFMUEpCQ05lenN2RFMzQUc3RTJXUTM4SlFtUTVWczJ4RW0zeUVXVnZMMllHZmFyaEE2SWRrWGlEZjRqQmZoMDJ3X0prNU1jdDd6M19CR2FxTlZiYUhBeHZrd3dBbDJzUUpaS2xyOS1vS2NRcXIzLVZFQUVmb1VFUWJfZFVOT1JhT2pZemZHRU1HMWg0OVkzVnA3SmFwTU01MEl3bkRRTERwNVIzLWMwQmRDdXFlblZXSTlneDNYZ21fUFJxZUk4UndjSjNNSVlMb3h2d0Nlb2U3X3hZ?oc=5",
-      "ageHours": 14.4,
+      "ageHours": 18.1,
       "pubDate": "Sun, 13 Sep 2026 04:23:06 GMT"
     },
     {
@@ -120,7 +96,7 @@
       "score": 50,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNR3ktZ2xnRi1xYnVGMGtZZmVYdDNPVjlFSTJSbHNVeE5FX21uclhCbGxmVnM3QV9uaFdacU1qQ3FWOHNJRkdlMHNCS2l4Xzc1SUM5eVRaZ0NaLXFmQzVITkdpUXd2TEFYbWhCZkFOSVpKemhVeGdwM3pQZlZWSG5wXzFXSU1QX1lMWmVFd193R1NfTUlubXU1djNVd0kyZUY4TlZrNnZPSFl4MEJaVDBwTlRwMWZ5aXFhMEVSRVNndmlMajF0V2l4TVphVEVhQTFBUlVjSktiR1daa0J4R1doc1BXTG5oWlRNZ1ZsS1MybXdYamk0RnfSAfsBQVVfeXFMUGR3MFdFX3l6cHQ0aUFNVjdFTDdkTzUxRk1GMGpKUThZSUNhNl9oaXY5QklOVElRcHdwcHB6MTZxeHNINlkwQkpaQy1LN0Y4c2RtOG5IdmN5MDZLclNLVFBYQktWOEtKRHBzLVFxakQ4eGp6NTBlcFBxdnItRGpGMHFNVDhNdmFmdFVRQnR2UHFXMjRfVGdKeU02RVdEbDJlT1ZzUEo2YlZwQWlzUlNaNEl5Rk5RRkZQM083SDRvUzdFS1RTSTkyS29DQWhnMF8ySEZNcDJSc0FhWUxKei1qbHBKbHNMR3Jlb3pDUVdVM19FVnlUMG9ONHJFNWs?oc=5",
-      "ageHours": 15.3,
+      "ageHours": 18.9,
       "pubDate": "Sun, 13 Sep 2026 03:31:00 GMT"
     },
     {
@@ -131,21 +107,9 @@
       "outlet": "Deccan Chronicle",
       "score": 50,
       "comments": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQai1kS28tZk1uSXNGcmNfbVVTbUxGZ2VPWmVwc3JtQU1GcmxFUGVxTUpZOHFQdmJPX0tNeFdGSmVNeDRYZHI1Qjl1Y0V4bHJwamZCMEFQUDJUTXJWUUsxaUdiRVhDWFBYVnRjdjRleXZ0a1huUHA1SFFmZ1IzNnY0dmZJY09sWDZHaFpaVHlhNDQydkpNdnA5cnVUQXNRdldzdFJyeHhXOEY1QUdxVmRGS0RDZzYzazJ6UDJiRGZQVmU4WlpRNDE5Smk4WXdubTFpSTJ1YVNR0gHbAUFVX3lxTE44TTN1YUd4TUdvZ1lidk56dDEta1dDY05GY2R5aXIwWjNobnRKenBITGllLVk3UkxLWXB3UHNVYl9ua21JOURpV1c1WjkxUUtJeVhLVnBRb2JJeUpBX1hScVhsYUVYV29BVUVvRUV2bmlxMEFaUUhzV1BjcW50c3lONTU1eUp3SEl3NTVpTnVJMkk4ZG5iUS1sakZHWGJlYVVFdVhrY1diNmNYTDZiUE12NVVBc0lrVUNaZ1pKS0FDU0tYeFdEdVhGdEcwNHcxdVhYVTdEcWRodW9WSQ?oc=5",
-      "ageHours": 16.3,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOE0zdWFHeE1Hb2dZYnZOenQxLWtXQ2NORmNkeWlyMFozaG50SnpwSExpZS1ZN1JMS1lwd1BzVWJfbmttSTlEaVdXNVo5MVFLSXlYS1ZwUW9iSXlKQV9YUnFYbGFFWFdvQVVFb0VFdm5pcTBBWlFIc1dQY3FudHN5TjU1NXlKd0hJdzU1aU51STJJOGRuYlEtbGpGR1hiZWFVRXVYa2NXYjZjWEw2YlBNdjVVQXNJa1VDWmdaSktBQ1NLWHhXRHVYRnRHMDR3MXVYWFU3RHFkaHVvVknSAdsBQVVfeXFMTjhNM3VhR3hNR29nWWJ2Tnp0MS1rV0NjTkZjZHlpcjBaM2hudEp6cEhMaWUtWTdSTEtZcHdQc1ViX25rbUk5RGlXVzVaOTFRS0l5WEtWcFFvYkl5SkFfWFJxWGxhRVhXb0FVRW9FRXZuaXEwQVpRSHNXUGNxbnRzeU41NTV5SndISXc1NWlOdUkySThkbmJRLWxqRkdYYmVhVUV1WGtjV2I2Y1hMNmJQTXY1VUFzSWtVQ1pnWkpLQUNTS1h4V0R1WEZ0RzA0dzF1WFhVN0RxZGh1b1ZJ?oc=5",
+      "ageHours": 19.9,
       "pubDate": "Sun, 13 Sep 2026 02:31:14 GMT"
-    },
-    {
-      "bucket": "Traffic",
-      "heat": "rising",
-      "title": "26-year-old woman killed after RTC bus hits Rapido bike in Hyderabad - India Today",
-      "source": "press",
-      "outlet": "India Today",
-      "score": 48,
-      "comments": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUV3X3p6VmZlNzcwM3ZCMTBRMmJmRDYtclpJMHZzLTZyOGppdUlhRFVDWEFoQmVlSnVEOURqQkNmT1ZEMXY3cWtfRXpOYTU0Tmx0bjRMQjUxTzA3aFNiUHFTenVfQUU0dTFySGpvU2hGdWJ1TU5zNk9JQVlCRDJJc3JjZFRQNHR2VkdKYUJ2ODNNN1Jobm1tMmwyaWZnU21rM2g2V0RJdUFnUzVsYjFPa2o1LTgtUmtydFlmQ3VCbUxpb081eVpaSUVsdVByVzQtdWfSAdcBQVVfeXFMTTBJMHUxX2M3RldzeGszRENUTmlJYjRnel96LVktYzBfbjBBY1EybzRzUHBHNFJLeGpJQ1E2VkhoREl3ZWJvdGdPai1aWlZDZElDUERnallTeXllT1dUR2NBcndEZldlai1kd18wejJpbE8xQTduZVJVTUxoWnNNc0dFUkhWSzZwOVdiUkFPM1BSc3RmVFhyenlDNkhWVDZMMTYtci1VYWNHMzJUdEczcWFzV20xUFVVNjFpNjFuN2lQaU1HUWtKWVJOakZvTGhxNVMydlBjWG8?oc=5",
-      "ageHours": 5.3,
-      "pubDate": "Sun, 13 Sep 2026 13:29:37 GMT"
     },
     {
       "bucket": "Crime",
@@ -156,67 +120,79 @@
       "score": 46,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcE5xVHZxNzRMaTI0a2U1cGltM0xYMUN1UVFGWm5RY0pfWnphZHNuUEFqY0g1WmVpbWh0NUIxVDEyYlNTNVh3VFZ0UWZJZTg3MlRuSWtrTzVQY1NiMEdYbzl2MWhueDRPeTlmbTY5YTNHZktlNTdDX1I2RnZvZS1LZml2UEp6RjZPZ1lkX3VmTXVIVGpE?oc=5",
-      "ageHours": 13.9,
+      "ageHours": 17.6,
       "pubDate": "Sun, 13 Sep 2026 04:52:54 GMT"
     },
     {
       "bucket": "Sanitation",
-      "heat": "rising",
+      "heat": "hot",
       "title": "Hyderabad Rider Calls Out Man For Littering, Gets Told To Pick Up All Garbage In Viral Confrontation - Asianet Newsable",
       "source": "press",
       "outlet": "Asianet Newsable",
       "score": 44,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV1JCaW5mSzF2MW5iVjluWTlRdkoyU0FwYV9GZkNFWlFmWW1saWdBQTZ2NXlxbHFPYXVzNlhzeWRqWmx2emx1bjFodHlhTmQzOHVTa0duNXQxd3NhSzFBU0thMW9VNUpiSE1CR1dDenpmMS1yMFFOSkI2QmtJNjJVdGJqQl8tb0hqZlhtSzRlZWNFSlFUYmtXbklDWGNEUFVvZ2tjelBUZEF6cWJkbVQ4XzdDUldSQS1MczBaRmg1OU1RWGN2azFEbldqZmxBWTVFS1JTbjBrYnJPcGJhSHpCVjRqclZzMk1xN01xMExHUdIB9AFBVV95cUxPSmdhYlc2OHE2b2xpSVJsUzdnUHZ4QndValhDcEE4b1VUV3hHWnFHYmozM1hDcUxPOXNkRDhHcDBUajYyMkItUDU5NU1JWHRiYzdOOFJJYUU2YmNEamg0MFNxOXA2NkN2b1gwX0NJc2lwbXhwdFY4WHBFVU1qeGJWcUF3UmtJWGYtekxFMlIxbXBRYVZBVUFMSEVJeGNrZDZuNERQU2RWNTFPQVdtVXFlSjRuRjR5MnpiSTA5ZEV5eHFVTG9HT09Pall2dUhBNVllc0gyVEl6ZEJhZTVoWU80RlZjQWJBT0g0dkZtb2JsZ0k3TUJ1?oc=5",
-      "ageHours": 9,
+      "ageHours": 12.7,
       "pubDate": "Sun, 13 Sep 2026 09:46:24 GMT"
     },
     {
       "bucket": "Water",
-      "heat": "rising",
+      "heat": "hot",
       "title": "Telangana outsourced employees JAC flags 'unbearable work pressure' in HMWSSB after three workers die within 24 hours - The South First",
       "source": "press",
       "outlet": "The South First",
       "score": 44,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOc2hHbUlPLUpoSHhJdU1NdnI4UjBqWTdnWjFaNkFOcDl0NnIzbFpYUTg2V01uVnEtZmwyanBSbFIyNVkzUHh5NlJ4eUhMemU3T1g0eGhLQWlNa29uUG5Wc3hta0NhOG80SWJyZkdseXZlY3ljcVhJQ0JLTDRhRzRvV0o1Ry1CZ2ZLSHM5YlZYWG85UEtsS2JGTWxhV1QzemhJSnBjUjQzVk0tQ3ljX0l4eHdmcTV5YVpWSk9LdmM5bkQxSVJ0cEtCUjJpbzRpNTRQa1QwRFlKZUZtSk4xbHpyMXJlWFVsdGM?oc=5",
-      "ageHours": 10.4,
+      "ageHours": 14,
       "pubDate": "Sun, 13 Sep 2026 08:26:05 GMT"
     },
     {
       "bucket": "Sanitation",
-      "heat": "rising",
+      "heat": "hot",
       "title": "GHMC Garbage Workers Detained Near Telangana Assembly - INDToday",
       "source": "press",
       "outlet": "INDToday",
       "score": 44,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWJaLUVuc3daTzdLZ1ZLYlRDS000OXVveVM0LUZ3MFlVeUd0ekkyb3hpc3JYZ2Q4V09XQjZrTUNJT2ZieHJNczVpcmlEYlBtcDFOWFdLLUZDS0EtdDc5VjRROVFacXEyOWtJVUp5Tm1ZSjNzZENCYlNVMFE5UTM2Tw?oc=5",
-      "ageHours": 11.2,
+      "ageHours": 14.8,
       "pubDate": "Sun, 13 Sep 2026 07:39:22 GMT"
     },
     {
       "bucket": "Sanitation",
-      "heat": "rising",
-      "title": "Man Throws Garbage On Hyderabad Road, Taunts Biker Who Picks It Up: 'GHMC Ne Kaam Par Lagaya Hai?' - News18",
+      "heat": "hot",
+      "title": "Man Throws Garbage On Hyderabad Road, Taunts Biker Who Picks It Up: 'GHMC Ne Kaam Par Lagaya Hai?' - news18.com",
       "source": "press",
-      "outlet": "News18",
+      "outlet": "news18.com",
       "score": 44,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOGpJWTJ0YzFlbTNESEVzUGI2dXF2VmVJRG4yUkxsdEo0YTNub2RaQjhJVkQ5eTRTSjNNWFJyaWRVM2tLUnBKc0NIX0RDLW51WDFCbkF3SHo1SzBhb0tqenNBWURhZHF6bUFPcTFMOVBCYlRhSnN1NENNUHk4M0xfY3JPN0Q2SGtqdDVYSlhoSkFPX1FUS0dMSERLMTdpeUZPMXVfVDdmYzJJTUh1S1JCVGs5QUJKdUQtSU1TTEJTajBiWmVzanlGbmd5aFNyNlNGbkFNMmROM09pdUpTalHSAd4BQVVfeXFMTzhqSVkydGMxZW0zREhFc1BiNnVxdlZlSURuMlJMbHRKNGEzbm9kWkI4SVZEOXk0U0ozTVhScmlkVTNrS1JwSnNDSF9EQy1udVgxQm5Bd0h6NUswYW9LanpzQVlEYWRxem1BT3ExTDlQQmJUYUpzdTRDTVB5ODNMX2NyTzdENkhranQ1WEpYaEpBT19RVEtHTEhESzE3aXlGTzF1X1Q3ZmMySU1IdUtSQlRrOUFCSnVELUlNU0xCU2owYlplc2p5Rm5neWhTcjZTRm5BTTJkTjNPaXVKU2pR?oc=5",
-      "ageHours": 11.3,
+      "ageHours": 14.9,
       "pubDate": "Sun, 13 Sep 2026 07:30:52 GMT"
     },
     {
       "bucket": "Power",
       "heat": "rising",
+      "title": "TGSPDCL inspects arrangements at Khairatabad Ganesh and Balapur Ganesh pandals - Telangana Today",
+      "source": "press",
+      "outlet": "Telangana Today",
+      "score": 42,
+      "comments": 0,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT01iMlViX3VFaHp4UmdQOTF0MVVsLWpETTdGbm5tUzU0WnlKVGtDQUF5TXR0Q3R5Ni1OT0NTd0RYSzktN1ZDY2FNek01MzNzVFlESE9MdEdxbDZ5M1J1VUdGS0h0SldrZmwzZ3M4YkhFY0Qxb0hVS01KY0ItSU5Kd2lkZmlxZmpTNHVfNVBua01rUmFpb0I5eFZTQXpONzNUWTJqVnFYdk0?oc=5",
+      "ageHours": 6.5,
+      "pubDate": "Sun, 13 Sep 2026 15:57:59 GMT"
+    },
+    {
+      "bucket": "Power",
+      "heat": "hot",
       "title": "Telangana farmers protest power disruptions, low voltage and crop losses - Telangana Today",
       "source": "press",
       "outlet": "Telangana Today",
       "score": 42,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT0pLM0RiRjQ2WnlsdTJ2aVcwQkxaWmhVOGZUd3M2QmNBMlZZMlkyUEhYWGhqRzlzd3VyWHc4SS1XUG1NdFdXaHl3aTRPZzZiTU8yTUdlNXZsczBVcXZ1cXVIal9xVFdGVlpNejJ1RkNtQ2FwcGlXNGpqRFRucGc4Umc5Tmp4RzNnRUlNVVkyYTl3NV9qdEhsaklPTFVYdVE?oc=5",
-      "ageHours": 11.2,
+      "ageHours": 14.8,
       "pubDate": "Sun, 13 Sep 2026 07:39:34 GMT"
     },
     {
@@ -228,7 +204,7 @@
       "score": 42,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWlSYjNYX3ZIcUJrRW0xT3V6VjZNUXF5TGd0R2RWYkhmenFIbEFTT0Q0a2xNZHJnTThicEctZjlxMHZfaEhmQ3ZYeHIyMmdNX2VhSjhtWUJZcVQwOFR2OGN0N2pFd0V4by1zbnNjUmlacnhTYVJqQm9Ta0ZrNm9rMFFBU2UyZWVBQTkwNUYxNGJrVXQ3ZUVjb0VSelfSAaIBQVVfeXFMUGJRV2V1ckZRQ0VsN2RtZ2diSFBwNC1JMVJqbXU1TkxKSV83UmFSYXN4VXB1a0hyMl9FWmEyX0dCdmxzZkRjSXRrQXNsbXl2QU85VGR5LUYyS1BuMDdjTnlWNGsxZXNBM1V5MTJfeEgyeXpiekExcHZwb2VQMXhKTUFtb0pWSW5yVkU0SXRHTDFtVU1CRmw2S2NlTkRJMUgwV2Zn?oc=5",
-      "ageHours": 13.3,
+      "ageHours": 17,
       "pubDate": "Sun, 13 Sep 2026 05:28:23 GMT"
     },
     {
@@ -240,7 +216,7 @@
       "score": 42,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUGhNaXhVczFIcUIybUpSZ2RiMlpiT2RJZjBfNVpudFRFNy1WUmdjOGhVdS0zQ2Nlc1pFWlZOU3J4QzBFc2lyQUdoeWFRb2NfV2NJUm1wUld4MUlwaUVRTVRSYVdVbHdKdElGSFhBeXRxc2h5cFJPQ2NsOWZzZ3lqNGdObElXeWdyckh4R01POTRDZTJ6UUNZb1pTMWpYMTc4SWNCRGZhd2o5eElXT2tMRml0YVA2Uno5SW9jY2VPTFNuZDVSbGtsQ29KQ3F6eWhCSTRTQ9IB1AFBVV95cUxQUGhNaXhVczFIcUIybUpSZ2RiMlpiT2RJZjBfNVpudFRFNy1WUmdjOGhVdS0zQ2Nlc1pFWlZOU3J4QzBFc2lyQUdoeWFRb2NfV2NJUm1wUld4MUlwaUVRTVRSYVdVbHdKdElGSFhBeXRxc2h5cFJPQ2NsOWZzZ3lqNGdObElXeWdyckh4R01POTRDZTJ6UUNZb1pTMWpYMTc4SWNCRGZhd2o5eElXT2tMRml0YVA2Uno5SW9jY2VPTFNuZDVSbGtsQ29KQ3F6eWhCSTRTQw?oc=5",
-      "ageHours": 14.2,
+      "ageHours": 17.9,
       "pubDate": "Sun, 13 Sep 2026 04:35:23 GMT"
     },
     {
@@ -252,31 +228,55 @@
       "score": 42,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ3V4dFNvekQwN2tjQ1RBNFZTVGk4WDdJVlpzdkNUWHZCV2MyMm5hTnltNmRxeVRqLXVXQVFraWFyZXVDZjBfdENsVmp6ZjhyTGtMZzluR0t3Ynd2dnV4R2poUU5NVXhIcXZHUUJYQUxDQzZyZXZwaGo5WDRNQklKb01ra3VZc3RvMlNBYXln0gGTAUFVX3lxTE9ma1ZHMjhfWndTZ0lnNkVpcTdVLWQ5eUUwbHFlRllJVkpUZmVVOVRkSVlMUmZ4NVZ2Y3BoYUE1VVZ3SElQTUpveklfZFRlM1JuVXA4YlhLWDc1VzlfZ3JZSVZKRGpFYUxBbUtHZzF5QjJpOUU1V19kVldfRjEzeWFvVm9qdTVGY3RnVWxzWVU5NTFEbw?oc=5",
-      "ageHours": 14.9,
+      "ageHours": 18.5,
       "pubDate": "Sun, 13 Sep 2026 03:57:57 GMT"
     },
     {
+      "bucket": "Power",
+      "heat": "hot",
+      "title": "Farmers lay siege to power substation over frequent cuts in Khammam district - The New Indian Express",
+      "source": "press",
+      "outlet": "The New Indian Express",
+      "score": 42,
+      "comments": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeF9OdVZscjBZekNKcHl6N0xIamdlN0xLWnJoZmNnQk9YRVlaTEYwTy11enBsVTJCb29zOUtEcXBUOEM4VFUtb1FLOTdXbXFkNHFjdWc1NmV5RjNEYnZ1cFl5WExPb0RfeEdGNnlNdFFFdGpmejNpa2Q0eEtmaTFmZmtYZzdxNjFiR0syM3d2TS1vbEkwd3RWYk9jTzhmaXBfekdkTF8xblIySjVPeEZUX25KVUh3M3p6S0Y2TjEyd0szVXdWOWYxZDVKSExsVFU2eWN2bdIB4gFBVV95cUxOcS1pZTFmbnNhN1ZFSF9oSzVlc2RGR1U2cXhUei1vUWpEb2MtR2c5VmVYUDRtcWVGOEkwTmd3cE9jRDl4Mi1UaFJkWkN4WkNZV0VQVmtPTmxXaXVoQTV2MEZaU0xFMVRzVHdSelBMREVkazdkcFJMS1pJdEpPZUFwWHJSSlZKME5qR2hhNFdjb2VrQkh3SHJOdVJ2bTBYUU5KRElTTVBwTnJ1MFg2YjRBVVhmaVpjekNCYkd1SnlUNHFfMEY4UjdXY3pWZWtELUVSSzJnRkJuaU9leWR3YWFFa0hB?oc=5",
+      "ageHours": 18.8,
+      "pubDate": "Sun, 13 Sep 2026 03:36:42 GMT"
+    },
+    {
+      "bucket": "Traffic",
+      "heat": "hot",
+      "title": "Hyderabad Cops gear up as crowds flock to see tallest Ganesh - The New Indian Express",
+      "source": "press",
+      "outlet": "The New Indian Express",
+      "score": 42,
+      "comments": 0,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdHdZSEFlTnNrcmFOdTN6ZHQwb0xybWlRRHBMZ0VsNU1nWkdoemRSS0RzbHZiWkQ5SU9rRGVlaUtYWUpQbW8xZ1RISG1SRGh5QW1ENmhTaXhINmo4TnF1V3ZIUDRnUmdWSVhtYnktVUpyM3dyQTJEVGF2b0hoRElLUU5rZEJET0MxelgyTTVDOW1OeXRWTkZMNU5LOTZJZHB5MV94VUFnNThSMTBpRm9zMGUtMkNOS1dUbnl0eTVLb9IBzAFBVV95cUxNb2hWR3p5dGlrMUZJbUkwcDcwMkZjYjU4QVZMVzJsd2lnTldGbVREenoyQUN5QVNpaU5yYkhtMTRWNGxQQ3hsb2Y5YjZNNUJFQTVPVTBpZGRPai1EXzJlcmhnYWdJaTk5N0llZi04UjVBcG92ZkNabjEwVjFieEFqeE9lN1YxTzVTWm1WMlYzZlpmdVprOHI0YmpkRm94X0h1ZXpNWEJSMDFIYV9WeDZfeFFobUJ3c3F1SXdWWmcyZGVCNVpBVnpfWVNuRnk?oc=5",
+      "ageHours": 19.5,
+      "pubDate": "Sun, 13 Sep 2026 02:55:05 GMT"
+    },
+    {
       "bucket": "Crime",
-      "heat": "rising",
+      "heat": "hot",
       "title": "BLO Alleges Assault And Death Threat by Hyderabad Resident - INDToday",
       "source": "press",
       "outlet": "INDToday",
       "score": 40,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMjNPWVR1ZlBHVUdUZkRRWlktMjBFUGx5RVc3NE11Y1pKZ3pFcF9wMk9kazdfVExsOTFiZE9KRUpELW9DMEFlbkFGSkplT0phOEdnenB6X0tSTjFJMDFZUHJXaUJuOHBMSjJBRnV0WXdGWmFST2w2a1pjM24zcy13VGs1MENQWWc?oc=5",
-      "ageHours": 9.5,
+      "ageHours": 13.1,
       "pubDate": "Sun, 13 Sep 2026 09:21:09 GMT"
     },
     {
       "bucket": "Traffic",
-      "heat": "rising",
+      "heat": "hot",
       "title": "Traffic Diverted Near Telangana Assembly Amid Protest - INDToday",
       "source": "press",
       "outlet": "INDToday",
       "score": 40,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcTdJR0ZrNUpxMG1EcGNFbGtpb2lFdGU5TGF1NjhMbERSMWtvNnI2c1ZreS1FSUtvWEg0VmFxNDhQNGtQX0ROZmlST25CMnlEOXpWeGlRb1NORkZuM005MHV2aHdvM1BrcG91WlBaUTVOUlVYdmswTG44T3dzMW41aA?oc=5",
-      "ageHours": 11.1,
+      "ageHours": 14.8,
       "pubDate": "Sun, 13 Sep 2026 07:40:18 GMT"
     },
     {
@@ -288,7 +288,7 @@
       "score": 38,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2JtSW5aZWVwSXNpQ3NCTXh5YXNDYmpvZXRORHkyczF1c2E3Qm5KWWc1NXBnQWtiLWhoX0RiTnFSS2hRdjQ5V3QwZHVHQ0VfeERCZkt3eENmYmQ1NXhwbHRzUTlZR1FNMWl5X2VmZ3lwVEVheE1iX0ZtMW1JQ3ZGTEVlcUVPZjBHNG9rcG1PSWlITUJTUWRSQw?oc=5",
-      "ageHours": 25,
+      "ageHours": 28.7,
       "pubDate": "Sat, 12 Sep 2026 17:47:22 GMT"
     },
     {
@@ -300,7 +300,7 @@
       "score": 38,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMHh4bmZrYjBIV0hqeWltSkFCYldNdWNHcFdMZ3JNb1JsSlZmLU9nYXR6VjYxbUVUY1c0VDR5ZTN2YW56eXVlby04ekstemJaamZhMEg1Rk5Ra3FweHp0ZHlob0RGXzR1UVNhenVBUS0yU3pibzVvdkkyWk83WE5WSlRJTVcwZk1zMWd2ZjR5NVZjTWxXSW9aaDk1bng5R3JoWVplWlNUNk5jSmMx?oc=5",
-      "ageHours": 28.3,
+      "ageHours": 31.9,
       "pubDate": "Sat, 12 Sep 2026 14:34:09 GMT"
     },
     {
@@ -312,7 +312,7 @@
       "score": 38,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc1FEZHpDX1ZreEZ3UmJ3SEVfbmJBWXBPWlp3QU9nOW5ObjRzLXRHSEpKcUQzTEJUclVndDNyQlBOQzdicHJjM28xLXhPR2I1MkwzSktEY0lsUlN0YU9uelJnaEJnWEpydzRtVE9JN21vOG14T0c1QlBzNV9aVVpMT2pKdmZDd3ZrYTloTGtnSFZnYVQzb0NVR0hUU0p1dw?oc=5",
-      "ageHours": 29.5,
+      "ageHours": 33.2,
       "pubDate": "Sat, 12 Sep 2026 13:17:09 GMT"
     },
     {
@@ -324,7 +324,7 @@
       "score": 38,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14WlZUVW9IZTFKc2Y1ZF83U0xTSHVnRS1SUHZrZ3VyMVVRZlh2TjhteXRaOU83QzhTMDEtZk0ydW5hV2ZSYmdBbWxRYjhQY1c1RFdQVjFxMUVxT3JTRHE3azg4VEJLZWVrR2d5c1dELUgtQWhtQWZRV0hVT2Q2aFU?oc=5",
-      "ageHours": 31.5,
+      "ageHours": 35.1,
       "pubDate": "Sat, 12 Sep 2026 11:19:24 GMT"
     },
     {
@@ -336,7 +336,7 @@
       "score": 38,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcTVOZDJDS09EaGg1aXhucEFvc3ZhSk45Qmc3QXQ5Qmx5eG1lTTRIcHNiWTlqZEpDbnNJdTFtdlpQLVlDSHpzUElxd1Q1Y3RzUkdxMG9pUGZQbnhkZ2tndUZWUDVIel9xdlJmdVE3Zk9fM2R5UjdyMXF0WnZ4YmlYTDJrcw?oc=5",
-      "ageHours": 33.9,
+      "ageHours": 37.5,
       "pubDate": "Sat, 12 Sep 2026 08:56:43 GMT"
     },
     {
@@ -348,7 +348,7 @@
       "score": 38,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1AwNmY3RnhHcjhLam9vd2pwa1Q1R0R0dm9SUTVuYVhOMHZtM3J5clNHSmVMc0pmT2w4MVYwNmJHQ3N6b0p2MXo2ZE1sVzdSRVl4YTd1WUxpNGtMM1pNV2FnR2llNVFrd3dMOTBUeC1CNUJjT0s3YU5yQWJRWU1peVVLMHFSQUhvUHFyWU44aHRFZ3p1WWN5cGdxTQ?oc=5",
-      "ageHours": 35.9,
+      "ageHours": 39.6,
       "pubDate": "Sat, 12 Sep 2026 06:53:32 GMT"
     },
     {
@@ -360,7 +360,7 @@
       "score": 38,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWd2TnhQVzE4WW9iTzBHT3ZmUnBtaHBmRlZLVkRwbGFJeGZENV9wLUY1b1oxRFN5aEd4RVAzYVZyZm9MYVVOX0gxd0dUaDNRTi1WZlF0andMRjJ4bGhzUmcwbWt4ZVlLdXZNWE5aV3EyeGFENlNDNXlaWXBBRzZFNGRGLXJJMy05djJmOEQzaXp0Rm1CTDZENnMyM3FNU25y0gGmAUFVX3lxTE1hX3U2ZU1ndTFYNE81ZlQtSXFRay1lMHg1OVE4ZWZ6OEJPN3FDcjVwVDhvMTFaS1pmU3JUS0xnQ3pUTE5ReWhicjlSYzlhWXd3ZG1EWVltSWFlUFI5dXNRcml6cXE0aTFzd0Y0ZWpydUxNOTNKMHhPaTVRQkJJZUhTUDN2aGdIM192ZFhRUHFFbF9ZdHRESmluMzMxaFk4cGRObVF5SXc?oc=5",
-      "ageHours": 39.7,
+      "ageHours": 43.3,
       "pubDate": "Sat, 12 Sep 2026 03:08:44 GMT"
     },
     {
@@ -372,7 +372,7 @@
       "score": 38,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNEpsVGxsWm5weGJLcGFINlNOZy01T0hYaW9SY25JZzFjdGhoSEl2anZvclJiMTlDaVJVU3RnZ3l4Ni1TVTlFYVFUdy1ubDZqaDBvbkRaU2Z5MUllQk9pYTMtRXZMVnZGMjd1RVhhaXVCZ1piZmFfLS1mQmN4VktZdkM5WDhVUQ?oc=5",
-      "ageHours": 48.1,
+      "ageHours": 51.7,
       "pubDate": "Fri, 11 Sep 2026 18:45:18 GMT"
     },
     {
@@ -384,7 +384,7 @@
       "score": 38,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbHRQQS1kWFg4ZW4tYU9wdjdNZzhEODhKWFlTcnpSQnpIMGhkSXNuQURVYUNCRngyOXR2UENmMDdFWDNHQkFGTkdOamV0QlhYa1FnSHAtRHFsRXJkMjRqSXBZQVhxRVBxeGVETk13ZmxxY094N2JZMFB2WVVsSHlyM081aUpJOUk?oc=5",
-      "ageHours": 49.2,
+      "ageHours": 52.9,
       "pubDate": "Fri, 11 Sep 2026 17:35:30 GMT"
     },
     {
@@ -396,7 +396,7 @@
       "score": 38,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2FsT0s1WVR3am9nM3pLRUhXRm02dGdaWlZWSy1PU2NQaWo3cnE5dF83Q2tZY3BReVl2N2MxNGoxV29NVGhHVDl0T0lWRmVHNGdGczcycVdORl9OelpzeVJPZjNTNmczMW1qb0l6eFJ2dEw2MW5LdGx0WlU2cXRYRmxEb1ZmaHgwMXJZ?oc=5",
-      "ageHours": 51,
+      "ageHours": 54.6,
       "pubDate": "Fri, 11 Sep 2026 15:50:20 GMT"
     },
     {
@@ -408,7 +408,7 @@
       "score": 38,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObk9LOXB2MzVveTZNTU5zOS00VVNsUkdYbExnMzRuNE8tUTh0ZE1jMGpHUG5WdzgxR185dmdWZ25Gc2QxLXVoSi1aQkJjZUR6Sm5wR1NwMTVhN2stWmhfOWhLOW5MVkZ3ZTB5TVdJYWh0Mk13ekM2RjZGYnpYczB1Z3RpQ1Y3OW1lcFVsU2x1TlM5Q09W?oc=5",
-      "ageHours": 52,
+      "ageHours": 55.6,
       "pubDate": "Fri, 11 Sep 2026 14:51:57 GMT"
     },
     {
@@ -420,8 +420,20 @@
       "score": 38,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNlFDZGdOUy1ZUi1XU0R0b0VXdjJrMHcxMFlZd1hwUkY2b2hjcWU3VFR2NWhjajFQcmFFX2R1QUJtWWRxVlRMR24wYndrQXc3NWgtb3hmcTVwSm9BVUJIY1NPWmcxajlGQ0d6UTVTOW9nYlFlNW04SHJ4MUFvdGc4YXRtYk5XLU04Q0ZtMVNBYUN6am_SAZgBQVVfeXFMT1VrbnFtWnhuZzhLYkFXUUpQZTdSOGFfejctSlhPNnJmQ3dEQWUyd0RJdHl4VHU0amJFZlk2cjUyZ1ZfQnF3Q1psQnhEZ011MEZtckZYN1BkOVNJNFQtdmJpa2M5QVpOVGdqS3dpbmxJdi1neGNWdGFZdms3MTBlX0lTcmFDSGEyT24tSUtSRjM3cFc3amR1WU8?oc=5",
-      "ageHours": 52.4,
+      "ageHours": 56,
       "pubDate": "Fri, 11 Sep 2026 14:27:24 GMT"
+    },
+    {
+      "bucket": "Power",
+      "heat": "warm",
+      "title": "Telangana: Yellampet farmers protest seeking uninterrupted power supply - The New Indian Express",
+      "source": "press",
+      "outlet": "The New Indian Express",
+      "score": 38,
+      "comments": 0,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVndYRDQwa20zQWxBaTBIZWdjYmpOdXBNM2tiZl9sbGFmSk5NdE9oOTJaWXhkSExrLWVnc0liQkloTjhQbWlxSmVESDZSVzJTZjhvejRrV3o1M0l5a1ZoMkRyQVh1VVExMnpaZDZCcG1ZQzVQaWxCZHluV2tLQXREd20tOHZDS1ZwcGF2VGM4WmJoNldsRlR4MnpaMjhEZHo2ejI1N2lMUmJWYkt1UWlrSHZwUDMzUGU4QW9TUTR3X3l0ZGFUSUMwQk1fYkHSAdoBQVVfeXFMTXFMelhBX0tRSTI2TG9qb2R2NFd3M1lBUlhvWHh0MTNnVXRwZ05RVno2d3c2UmlTaFZvMS11cVFMdGsyUEkzVy04ZnQ3eURfb3RuYmp5TWI0Q01oSE1nWkRzUnJaeVUxOXdQNzJYb2J2YmpyLW15c3pSV2FvU09pOW0yTHJSVkxoY0I5aGNLWFhXdmE2ZmNNb2lsSnJuMW9IOWEteWxSbkdNOUJuTVRGVnRZWWdHU1RSUDJoN01QUnF4dkVEenFtV2Z4RS1NeVJrQ0JiNkI3ZGl5VFE?oc=5",
+      "ageHours": 59.3,
+      "pubDate": "Fri, 11 Sep 2026 11:11:42 GMT"
     },
     {
       "bucket": "Water",
@@ -432,7 +444,7 @@
       "score": 38,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRUhwcC1pbzdTMEdNVWlnRkxlMzR4Sl9XMDJ6OFlrTVkwdTcxTHZ6RUNQYlRnWjlqR3RMbVd3UUZnR2dlUFRGUnkxT3pTNnFSSV92cTA4NlZRazFNOHUzMXdCSkZQQ28tLTN1Ym5DMG5nZGhIZkE0Q2FRXzdLb1NkczVvUW81ZlVJMkE4N2pPdUFGeVJWTExWNk5R?oc=5",
-      "ageHours": 59,
+      "ageHours": 62.7,
       "pubDate": "Fri, 11 Sep 2026 07:48:08 GMT"
     },
     {
@@ -444,44 +456,20 @@
       "score": 38,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXJJMlhpaUdNMXZkdEpZYjdiNWxTanFQeVl2aEZFNWZic3pqNTkxaGJOYnhDOGFqb2RoZ1dGbnVFd1hvZno5QXp6VkllQ1FpUGhpSUgwN2piSjRNeDFfX3JQa1NwSkFJSktfbnNQZXZGdlFhaEtFY0Q0YmtZWmpUNktCazFSaW5Vb05lcmVGUFd5UjhaMGl6MEdUdw?oc=5",
-      "ageHours": 63.1,
+      "ageHours": 66.7,
       "pubDate": "Fri, 11 Sep 2026 03:43:53 GMT"
     },
     {
       "bucket": "Traffic",
-      "heat": "warm",
-      "title": "Ganesh festival preparations stepped up in Hyderabad; police review traffic, immersion plans - The Hindu",
+      "heat": "rising",
+      "title": "26-year-old woman killed after RTC bus hits Rapido bike in Hyderabad - India Today",
       "source": "press",
-      "outlet": "The Hindu",
-      "score": 38,
-      "comments": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQmtOYlV3aU15NzVqTjg0b0RCLWVQU3VuNVBkYXA3aEdpSC1jNWRtbzJILWlPdm5yOV9aNWRiM3Mtd3RYZmx3UzN4bXo4NV9ERC1raHZnQ1BsdlM5ZmMyeXRqWDF0VG5iQmdGSS1CRXRiMlZWN1JpX2JSb1FxbGE3NGpWejBKbEJMQmMzX1FVRUJCblFYZTB2QlM5U0c5YjVGNS1NZ2NOT2EyZWkwdjhWakVVV1JLNnRGUkZzU0VoMk9UN3h3a2RRZUswTElqUk9ac2pSTUltNFgyWTNQNXQyc0ZvS0Jlc0ItR19xSzFn0gH0AUFVX3lxTE45Vjdjc3duRW9hc3hnZE9EdmZxZENoY0l6el8xMXZES0NXanU4RzhQX3Z0cDBVUFgyNEdFc05WYzNFR2hDejd4X1dCUjdOMjNRSE9GbkhZMVlTQXhsdlhlLW52dGZpUW4wNGJxTE5abkwyNXVKcV9jdTkyb1dpUWoyblRqZWotMWZwVUFsWlpQM0pzeUp0LTdTQ3Y4SjFrRE5tUEhTVVptLVJqMDlLOVB5MnVIUnE2bmR1WUxXa240NUdjelA1amRISGk2VWx6cHNYcjVOSW9SNGxxQm9SSWpJYTlCbXlXVmxYUGE5QjVLVXhBdEI?oc=5",
-      "ageHours": 71.1,
-      "pubDate": "Thu, 10 Sep 2026 19:44:42 GMT"
-    },
-    {
-      "bucket": "Power",
-      "heat": "hot",
-      "title": "Farmers lay siege to power substation over frequent cuts in Khammam district - newindianexpress.com",
-      "source": "press",
-      "outlet": "newindianexpress.com",
+      "outlet": "India Today",
       "score": 36,
       "comments": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeF9OdVZscjBZekNKcHl6N0xIamdlN0xLWnJoZmNnQk9YRVlaTEYwTy11enBsVTJCb29zOUtEcXBUOEM4VFUtb1FLOTdXbXFkNHFjdWc1NmV5RjNEYnZ1cFl5WExPb0RfeEdGNnlNdFFFdGpmejNpa2Q0eEtmaTFmZmtYZzdxNjFiR0syM3d2TS1vbEkwd3RWYk9jTzhmaXBfekdkTF8xblIySjVPeEZUX25KVUh3M3p6S0Y2TjEyd0szVXdWOWYxZDVKSExsVFU2eWN2bdIB4gFBVV95cUxOcS1pZTFmbnNhN1ZFSF9oSzVlc2RGR1U2cXhUei1vUWpEb2MtR2c5VmVYUDRtcWVGOEkwTmd3cE9jRDl4Mi1UaFJkWkN4WkNZV0VQVmtPTmxXaXVoQTV2MEZaU0xFMVRzVHdSelBMREVkazdkcFJMS1pJdEpPZUFwWHJSSlZKME5qR2hhNFdjb2VrQkh3SHJOdVJ2bTBYUU5KRElTTVBwTnJ1MFg2YjRBVVhmaVpjekNCYkd1SnlUNHFfMEY4UjdXY3pWZWtELUVSSzJnRkJuaU9leWR3YWFFa0hB?oc=5",
-      "ageHours": 15.2,
-      "pubDate": "Sun, 13 Sep 2026 03:36:42 GMT"
-    },
-    {
-      "bucket": "Traffic",
-      "heat": "hot",
-      "title": "Hyderabad Cops gear up as crowds flock to see tallest Ganesh - newindianexpress.com",
-      "source": "press",
-      "outlet": "newindianexpress.com",
-      "score": 36,
-      "comments": 0,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdHdZSEFlTnNrcmFOdTN6ZHQwb0xybWlRRHBMZ0VsNU1nWkdoemRSS0RzbHZiWkQ5SU9rRGVlaUtYWUpQbW8xZ1RISG1SRGh5QW1ENmhTaXhINmo4TnF1V3ZIUDRnUmdWSVhtYnktVUpyM3dyQTJEVGF2b0hoRElLUU5rZEJET0MxelgyTTVDOW1OeXRWTkZMNU5LOTZJZHB5MV94VUFnNThSMTBpRm9zMGUtMkNOS1dUbnl0eTVLb9IBzAFBVV95cUxNb2hWR3p5dGlrMUZJbUkwcDcwMkZjYjU4QVZMVzJsd2lnTldGbVREenoyQUN5QVNpaU5yYkhtMTRWNGxQQ3hsb2Y5YjZNNUJFQTVPVTBpZGRPai1EXzJlcmhnYWdJaTk5N0llZi04UjVBcG92ZkNabjEwVjFieEFqeE9lN1YxTzVTWm1WMlYzZlpmdVprOHI0YmpkRm94X0h1ZXpNWEJSMDFIYV9WeDZfeFFobUJ3c3F1SXdWWmcyZGVCNVpBVnpfWVNuRnk?oc=5",
-      "ageHours": 15.9,
-      "pubDate": "Sun, 13 Sep 2026 02:55:05 GMT"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUV3X3p6VmZlNzcwM3ZCMTBRMmJmRDYtclpJMHZzLTZyOGppdUlhRFVDWEFoQmVlSnVEOURqQkNmT1ZEMXY3cWtfRXpOYTU0Tmx0bjRMQjUxTzA3aFNiUHFTenVfQUU0dTFySGpvU2hGdWJ1TU5zNk9JQVlCRDJJc3JjZFRQNHR2VkdKYUJ2ODNNN1Jobm1tMmwyaWZnU21rM2g2V0RJdUFnUzVsYjFPa2o1LTgtUmtydFlmQ3VCbUxpb081eVpaSUVsdVByVzQtdWfSAdcBQVVfeXFMTTBJMHUxX2M3RldzeGszRENUTmlJYjRnel96LVktYzBfbjBBY1EybzRzUHBHNFJLeGpJQ1E2VkhoREl3ZWJvdGdPai1aWlZDZElDUERnallTeXllT1dUR2NBcndEZldlai1kd18wejJpbE8xQTduZVJVTUxoWnNNc0dFUkhWSzZwOVdiUkFPM1BSc3RmVFhyenlDNkhWVDZMMTYtci1VYWNHMzJUdEczcWFzV20xUFVVNjFpNjFuN2lQaU1HUWtKWVJOakZvTGhxNVMydlBjWG8?oc=5",
+      "ageHours": 9,
+      "pubDate": "Sun, 13 Sep 2026 13:29:37 GMT"
     },
     {
       "bucket": "Roads",
@@ -492,7 +480,7 @@
       "score": 34,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUm9zb21tQ0FDSGxSOUNrT3JHdjdkaHVPM1YxdDEyVkpqYlRSMHVSellzNHNab1RPTGw1VVZGczFNTklfWkhPTlFQUjd6dGlkUE1jenNpUTVkbldpQ1FsZ2k5NWFmekNtandFb1E0RFJQRFlWTkduZy1vTXA3RWxRZWRuT21kZFlwdlVMSmFEeTcyMHRsVmg4?oc=5",
-      "ageHours": 26.8,
+      "ageHours": 30.4,
       "pubDate": "Sat, 12 Sep 2026 16:01:58 GMT"
     },
     {
@@ -503,9 +491,9 @@
       "outlet": "The Siasat Daily",
       "score": 34,
       "comments": 0,
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGhmZkE0S18zRTdrbHo1UEQ0MzJSdDZxUFQyQ0RNdXdqNHVKLU12TGNJVXZ1TlVUNFFVeXBHLUdwVXdmbDZ2aE1JWmJWb1BXeFJlcUJEdDlNbnBZLTA1LWhrNzhEbEEwdUx3MEpCYnJ5OEs5SGdESnBoQ2QteHJfaGJDNlRmTUlSX3lTN0NMaThlMTl0bkZ4M1dYcDIwQdIBngFBVV95cUxOZGhmZkE0S18zRTdrbHo1UEQ0MzJSdDZxUFQyQ0RNdXdqNHVKLU12TGNJVXZ1TlVUNFFVeXBHLUdwVXdmbDZ2aE1JWmJWb1BXeFJlcUJEdDlNbnBZLTA1LWhrNzhEbEEwdUx3MEpCYnJ5OEs5SGdESnBoQ2QteHJfaGJDNlRmTUlSX3lTN0NMaThlMTl0bkZ4M1dYcDIwQQ?oc=5",
-      "ageHours": 28.9,
-      "pubDate": "Sat, 12 Sep 2026 13:55:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYlhMT1MwZWZGUnBSbzM5QnNUX2RZSmxSTkF4aHByS21xb3lyeERfblQ5WFlCQk1lbUlHM244NlZBVVpVRFQyelQ5a2FHb0xicENiY0ZNUGtIVWQxTHpfWTZhcXA5ekR5RGVwZW9wY3hXbnh2VFZ2dFNHTzVCVDRUMGlHSDFJNlVPaUtQWGZwdFFkQ3VhaEljTNIBngFBVV95cUxOZGhmZkE0S18zRTdrbHo1UEQ0MzJSdDZxUFQyQ0RNdXdqNHVKLU12TGNJVXZ1TlVUNFFVeXBHLUdwVXdmbDZ2aE1JWmJWb1BXeFJlcUJEdDlNbnBZLTA1LWhrNzhEbEEwdUx3MEpCYnJ5OEs5SGdESnBoQ2QteHJfaGJDNlRmTUlSX3lTN0NMaThlMTl0bkZ4M1dYcDIwQQ?oc=5",
+      "ageHours": 32.5,
+      "pubDate": "Sat, 12 Sep 2026 13:55:12 GMT"
     },
     {
       "bucket": "Crime",
@@ -516,7 +504,7 @@
       "score": 34,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcXlPNXJReGNlQUZPVE9UM1IwNzhVUi11S3k2ekk3aTZwZTNtMTZFWkFCOXpHbGFtWHlwWHI3WDZzbGUzMnhETU1fR1FXZy14Tjk5cGZUbUNGTm1VNGx3UjQtbV9Ud2VwYUdqQzhueU1sVUVPYktrZ2FEWjR2ZEx3TEFueFY?oc=5",
-      "ageHours": 29.5,
+      "ageHours": 33.2,
       "pubDate": "Sat, 12 Sep 2026 13:17:53 GMT"
     },
     {
@@ -528,7 +516,7 @@
       "score": 34,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHhzb2doVUptbTNxenpWWDFTTmtkUnlycFV1dENyVUJsVEt5SWNndkFwU05JNEpvZk5vTE9HdUFJa3NNSkRXeWNaWGswNzBhN2pkUy1jVHFmajFOSDAzV2RRQUZ2Y2lHRFEwSnBRQW1seG5zZ092VmpYVC1lODJUd3J2OG15YWRObWtJYkc5VGprWXc1a3fSAZYBQVVfeXFMTlh4c29naFVKbW0zcXp6VlgxU05rZFJ5cnBVdXRDclVCbFRLeUljZ3ZBcFNOSTRKb2ZOb0xPR3VBSWtzTUpEV3ljWlhrMDcwYTdqZFMtY1RxZmoxTkgwM1dkUUFGdmNpR0RRMEpwUUFtbHhuc2dPdlZqWFQtZTgyVHdydjhteWFkTm1rSWJHOVRqa1l3NWt3?oc=5",
-      "ageHours": 33.5,
+      "ageHours": 37.2,
       "pubDate": "Sat, 12 Sep 2026 09:18:00 GMT"
     },
     {
@@ -540,8 +528,20 @@
       "score": 34,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORl9hQjhjOFNlaDhZbWpMOVVEcFJWYk1ucFNvNnZZMzZLMUM3cExkYU9UbjJLclRqekJDZDIxQ2hTQVVwSjBERVRvT2pGb05MOXJxenpZQ2thNmo2S29EeHhHOUxISmJYTkJkY1pzUW5ZODB0YzR2WmlLN2c2dm9PaUpDVjNWX2otdHBBN01yRjhGZw?oc=5",
-      "ageHours": 34.8,
+      "ageHours": 38.4,
       "pubDate": "Sat, 12 Sep 2026 08:00:45 GMT"
+    },
+    {
+      "bucket": "Crime",
+      "heat": "hot",
+      "title": "Telangana BRS women MLAs approach NHRC over ‘police excesses’ - The New Indian Express",
+      "source": "press",
+      "outlet": "The New Indian Express",
+      "score": 34,
+      "comments": 0,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHhLZ1I1ck5tczB4bTZ6NFR6d1loYjRVWjRrMFV5NVV0LXdGWGRqTVhkclhwcno4QVd4OWwyak05cmJtQTJKRjRLdUprTW9HU2Z4QWU5UnpoV3RvQ3c0cXJOaDFoLUE5dDhOcWY3eWdsWVpoNUhwOFluWFZOR3BaOFRMZ1F6dDBMR3NwbUtXSEFRU3o2a1hlc3B4Wk54Y0NNQW9xZ1FfV3daa215TG0yLWNiS0VUZVV4dHBZV2F30gHLAUFVX3lxTE9TZEFoTVBuQ2Y0bnQwcUF5aXB6Ti0tMGVVeUJNblVqWWt4X3RnRmlHUkJpMzRIdnQzZjRfa2NMX2hONkVsUVVyRTNwdmx0RDBBT1hmQXVZeWE5dHpIekUxTFMtQXBhNUxrbU56UVVtRHg0RXRCU0ppeG94U3d4WlpXcktMMTJoYVcyVjgyTVF6dDJ5ZFk2Z3RKS25KWVd3UnVEZEJKd1k3YlpYR2pXTzZ1Qzh4b055a1FYYUtUVW54b3dmWGFyaml6c2dr?oc=5",
+      "ageHours": 42.9,
+      "pubDate": "Sat, 12 Sep 2026 03:35:38 GMT"
     },
     {
       "bucket": "Water",
@@ -552,31 +552,31 @@
       "score": 34,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkVXRHhzQnRLSFBtbmgyU20zYnREajY1dGZ2N0c3aXJWZllHU1R0OThHSkc5T0puYnp3RnJIQ0VGM0NIMTE5U3hUUWZNMDZESktfZ1BLb0xvSG9xaW5iWmFYVmx0NlZlaHFLb1dlYjlJcFhLSFhHMnlESnVoZjNoUWZMdkxtRFJZSTc4akdFbHbSAZYBQVVfeXFMT2YtLXRNcF8xR1F3T2J3b2pxbGcxMFlmdGZTT0lESHZTdEVwdW5oaU1oQkc3TnlZTG1leTgxT1JKYjhCOTlrWXI2RnYtWjFYWnhpb3QxZ2pod1l1LWx3a1NLQjV2Q1hvNERhWVpjSEtYdUM5U09oRDdTWnBMQ0trUFRlNUREeTNKWjV4a0FETFk1c0dkQ0F3?oc=5",
-      "ageHours": 146.3,
+      "ageHours": 150,
       "pubDate": "Mon, 07 Sep 2026 16:30:19 GMT"
     },
     {
       "bucket": "Sanitation",
       "heat": "hot",
-      "title": "Hyderabad: Garbage workers hold protest #Gallery - Social News XYZ",
+      "title": "Hyderabad: Garbage workers hold protest #Gallery - socialnews.xyz",
       "source": "press",
-      "outlet": "Social News XYZ",
+      "outlet": "socialnews.xyz",
       "score": 32,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0hRWmtZUW9KZ3AtRnVtTDNaT0VzdFpfdGQ0TmdQcXRvalBhbGo5dTVKRVN6WE9IbVVEemJTa29TZkQ5ZzRnTERacVpYRVdkZWpGR0swemNNZzNoN1JXTFRyLV9GbkhiOEdWV2hCSU55cGVFazBMVmxLcUFxR2daeVdFNFd5NnVpeTA0ZUd3?oc=5",
-      "ageHours": 25.2,
+      "ageHours": 28.9,
       "pubDate": "Sat, 12 Sep 2026 17:36:12 GMT"
     },
     {
       "bucket": "Traffic",
       "heat": "hot",
-      "title": "Hyderabad traffic police advise using public transport amid Ganesh Chaturthi festivities - thenewsmill.com",
+      "title": "Hyderabad traffic police advise using public transport amid Ganesh Chaturthi festivities - The News Mill",
       "source": "press",
-      "outlet": "thenewsmill.com",
+      "outlet": "The News Mill",
       "score": 32,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWktSUWVwNDFNQ1Q5aDdLRkRNZkZObjI5dHJkUUx3MDhnVnV0dElyNW83SmpkVF9TRHZlTWZjR3UzNmpjcEFqMXZlMEgzdHQyY3BfNHBhSHlzSGNvb19XRERuR3VtX1FpUFZwdDZTMHA0YzhRb0NsQmxMclB3blYwX3d0QWFJWXlZZXMwOUJQSGRaalBZeWprWTBGc0txVTJtYU10cDg4RTFqTGtGcENLMU1kV1d4eDhHRUZpOHhn?oc=5",
-      "ageHours": 25.8,
+      "ageHours": 29.4,
       "pubDate": "Sat, 12 Sep 2026 17:02:11 GMT"
     },
     {
@@ -588,7 +588,7 @@
       "score": 32,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZTBCQncxbmRwcWdFVFlERXdKVGp2eldmaHJpeG1FOVdic2hObHNDTkJjU3B5dk9BWWpmTkVPR3F3ZzlSRjltMzBydGlnLURVOGZZZG9wNHVaMEtGbGk1R0wxbnpWMGRIUzNnT2p0Nk1vaHZzWTZ3X3dHaW80UjhOdE1DMEp0dHQ5dHdXOUlLdTVXRXRrOC1yYzdqX1FucW1ta2I4a0xTVG8xYzMxckhISElsaHRqYllqZlFMSHlsZ2w2bVlNdkVOWWpaQVlLODVfTnFaWVd2Szg5eFhOTC1UQzMyVQ?oc=5",
-      "ageHours": 25.9,
+      "ageHours": 29.5,
       "pubDate": "Sat, 12 Sep 2026 16:58:00 GMT"
     },
     {
@@ -600,7 +600,7 @@
       "score": 32,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTRFYU9zYzdURC1MYTJTcHJuRTlkSUZVTlFZRkJBY0ZLUnFfcTk4cC03cXJhSEdpRGRHWDdiXzAwdk15TjBFRnhlS2hNMkpJSnJ0RnczXzhDMXdKZ3pBVXRONFZTMDRSdmQzaF9Ga2kyeHoxNUNHOW1IV0FITWdMSzBSSUlrYmxKWThQeXVBTmcyS2I0bEE?oc=5",
-      "ageHours": 28.4,
+      "ageHours": 32.1,
       "pubDate": "Sat, 12 Sep 2026 14:23:32 GMT"
     },
     {
@@ -612,7 +612,7 @@
       "score": 32,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTWVRY0dwb3VPV0V3TThDNDFQdmxkcTZCLU5FMEF1cXB3Mk92QzFqUjNxSi15dW1EY09qel9FZGdTdGdLWjh3Ny1LZHp5czBhN0lPMGs2YUN2cnZ0UkFpcmZhaGhRVzV3aGsyX0U2c1FVeFV6X3dFUE1YMk1MMGxBQjY2aTkzYnkyNUV4c3FyMzl3VW5XdFdHMzlsOXVfNDhXUkRYdmI1T1B5RGRVS2ZEZTcxWW9VWjRxdUJPYW1HNlBJOGROajZVV0lNMjYtWUFzOUxaWlhZR1pES2xm0gHiAUFVX3lxTFByaFlqN1hBUFJMeG5wTFBILTE4UGxuR3RDWVk5bjlGSjV1NldaS0VDeDB1eEpvVWRZaS1iRUlyRzJRV3BDOEVIYjVXaGxFdUV2Vk9WSjBlTU5mSUxuT1dhZXI2MEtOSm80Q0RaNU8zVlp0ajEtWTZqN2pMSnphLTJTU2hMUk9jR1liUnJPTmpJNFJUY19LUEN2TkI1cWthQ0NPR2Z3Qkc3ZTlrOVlBNEFuMlFGT2p4SVpDUFZxaXN6OC1HRjN1LWljcU1pNEZJZGctcWVOSXZ1NmRnbXo4WDZkbVE?oc=5",
-      "ageHours": 30.4,
+      "ageHours": 34,
       "pubDate": "Sat, 12 Sep 2026 12:27:52 GMT"
     },
     {
@@ -624,7 +624,7 @@
       "score": 32,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUG9mbVdoenZyeFozTDNFdnJlSWJ0dENpSE1HZlpZTFlGQUh5Z3MzejBGQ3JERno0UVRzUzJvR2g3Tkl6WGZrU21mTnZNS3QtX08yRlNCQjVNZGxabHU1R0FrQV81QXFoQmFHQWVyN2w1X05pYW5aVlN4U2NTejlNb3ZtQzJnMVlqY1ZR?oc=5",
-      "ageHours": 30.6,
+      "ageHours": 34.2,
       "pubDate": "Sat, 12 Sep 2026 12:16:11 GMT"
     },
     {
@@ -636,7 +636,7 @@
       "score": 32,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWlNNmlsYkhIeUFlVzRVUVZBdWJwWkliaWZONmRZeFZwQ29VTkJfcGh1SXlSajFMYTlIVlB0OGE0TlBZTTFrenRPcHNuQmVLMlNMb21rZFFrXy1hdnE0el9xaFVBNGZxWWp4Uml3bVBFMWtDTV9nUTFDM2l0RzY1WmFIb3VNR2t4cDROYXF0eTUwdG5iS2steVhR?oc=5",
-      "ageHours": 33.1,
+      "ageHours": 36.8,
       "pubDate": "Sat, 12 Sep 2026 09:42:03 GMT"
     },
     {
@@ -648,7 +648,7 @@
       "score": 32,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGd4Q3piZkRONFFLUEVQSWRsX1RNX2JxTk9WRlYtVUNpWmNwWW5ta2s0dWhDbUtCVWFsbkVNTGFCZldiT3BYeEhZWDFwdm12alptc1ZmQXg4SmVQMl9tU1p2eFVMSzJPdXlNZ1pyZlNpYkJCTlB4MG1vMVd1REdhMWxweTk3QlF2SlBFdGZNd2I?oc=5",
-      "ageHours": 38.6,
+      "ageHours": 42.3,
       "pubDate": "Sat, 12 Sep 2026 04:11:33 GMT"
     },
     {
@@ -660,7 +660,7 @@
       "score": 32,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WRVh0VEVjUEVjUm03d1pQaXFLVm02MXlQX280TTZxWXQ3ZEJ4dTNnYUdoZUwtZ2FYRGM1NlE0X20zUEFOV1BibE1mSFRFU3RSSE9IWVN1NVRVT3l6a05WaHBweHBKd0hqaUhCTWNFVEd5bHpsbFV1czJUZVg?oc=5",
-      "ageHours": 50,
+      "ageHours": 53.6,
       "pubDate": "Fri, 11 Sep 2026 16:49:43 GMT"
     },
     {
@@ -672,7 +672,7 @@
       "score": 32,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNa2ZUWEFoM1ZsRXBNb0dNellaMDV0a21SSGZNRTZKZEhZRGVFSkd0aFp2anRZVW9fQ25GdUwzMWNrUFFfejNRZmlORVB1d3dmcExVM1JrZGtSVllQTkc3RTNBbU5wb2RpOG1MNEFmenp5RXhJWVNTWVMya21FQ1NsSm9LM05faE9TX2ludzZJclhCbTBMMnBzNE03VDhTNmp3U3NTOXlkN2k0NHY0WDZWZ3ZTVktiRmc1OU8xSXFwMG5QdHpjUUhGWmRiNjJWOUFpS0N2YzIzMUZRZWQzazlpYk41NkdxMkVRX25aUS05MnFOZ0liYkJFdVhHUUtDcksxV291ZUl2eGUyT21sZzlkYlo0dHdReFhBUWtsR3Z3?oc=5",
-      "ageHours": 50.5,
+      "ageHours": 54.1,
       "pubDate": "Fri, 11 Sep 2026 16:19:11 GMT"
     },
     {
@@ -684,7 +684,7 @@
       "score": 32,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQUpDcFVNQ0NTTHVXVVY1cUV0YUhkZW9TZmROV2oxTDZ5aEFwTDRJNk42VVBrbUc2cllGUUVibVF6M1JPeXpLMGtSWEVwUVdCSlEwX1htUzNKQURzWnpEQlQxZ09hdHp6RXRHbUZEZWQyeXZhNWlkTy1tSVZaaU55c01XUV9zVUJMeUxmNnVZZVJ4Vm9MWnk2RW5NLVJfVVNlNGd0XzJfTFJ6eEtETW9XMlJUMFYtSy16Rndjc2pYZFB2eUpmQURYbWlsMHZSQnhVSVVacnFQTTA3V2xfaXYwSGV3Z9IB4wFBVV95cUxOQUpDcFVNQ0NTTHVXVVY1cUV0YUhkZW9TZmROV2oxTDZ5aEFwTDRJNk42VVBrbUc2cllGUUVibVF6M1JPeXpLMGtSWEVwUVdCSlEwX1htUzNKQURzWnpEQlQxZ09hdHp6RXRHbUZEZWQyeXZhNWlkTy1tSVZaaU55c01XUV9zVUJMeUxmNnVZZVJ4Vm9MWnk2RW5NLVJfVVNlNGd0XzJfTFJ6eEtETW9XMlJUMFYtSy16Rndjc2pYZFB2eUpmQURYbWlsMHZSQnhVSVVacnFQTTA3V2xfaXYwSGV3Zw?oc=5",
-      "ageHours": 50.9,
+      "ageHours": 54.6,
       "pubDate": "Fri, 11 Sep 2026 15:53:36 GMT"
     },
     {
@@ -696,20 +696,8 @@
       "score": 32,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3dwamVTaFhkeTkyLXNmNFZJbS1MejNnOTh3UU4tWTVDWDdUa3VrYmMzcjhCWUpDeHljY2Z4RHRJSk5tdE9sdS1GQ3NSRDlEdEk5NEYxZU1QenpyMWJPclhPelpRczZIb1NxX21qREFjNWZ2bHYweDBORExWS0REQVlnNDk4b3prTURYMl8yWE9PTG9pdENWbmtKUXF0TXFBQTRFRDhyRFltV1k?oc=5",
-      "ageHours": 53.7,
+      "ageHours": 57.3,
       "pubDate": "Fri, 11 Sep 2026 13:06:44 GMT"
-    },
-    {
-      "bucket": "Power",
-      "heat": "warm",
-      "title": "Telangana: Yellampet farmers protest seeking uninterrupted power supply - newindianexpress.com",
-      "source": "press",
-      "outlet": "newindianexpress.com",
-      "score": 32,
-      "comments": 0,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVndYRDQwa20zQWxBaTBIZWdjYmpOdXBNM2tiZl9sbGFmSk5NdE9oOTJaWXhkSExrLWVnc0liQkloTjhQbWlxSmVESDZSVzJTZjhvejRrV3o1M0l5a1ZoMkRyQVh1VVExMnpaZDZCcG1ZQzVQaWxCZHluV2tLQXREd20tOHZDS1ZwcGF2VGM4WmJoNldsRlR4MnpaMjhEZHo2ejI1N2lMUmJWYkt1UWlrSHZwUDMzUGU4QW9TUTR3X3l0ZGFUSUMwQk1fYkHSAdoBQVVfeXFMTXFMelhBX0tRSTI2TG9qb2R2NFd3M1lBUlhvWHh0MTNnVXRwZ05RVno2d3c2UmlTaFZvMS11cVFMdGsyUEkzVy04ZnQ3eURfb3RuYmp5TWI0Q01oSE1nWkRzUnJaeVUxOXdQNzJYb2J2YmpyLW15c3pSV2FvU09pOW0yTHJSVkxoY0I5aGNLWFhXdmE2ZmNNb2lsSnJuMW9IOWEteWxSbkdNOUJuTVRGVnRZWWdHU1RSUDJoN01QUnF4dkVEenFtV2Z4RS1NeVJrQ0JiNkI3ZGl5VFE?oc=5",
-      "ageHours": 55.6,
-      "pubDate": "Fri, 11 Sep 2026 11:11:42 GMT"
     },
     {
       "bucket": "Traffic",
@@ -720,7 +708,7 @@
       "score": 30,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzU3Y2dIQzg5YjM0c0l3R1NNWktYQWFpbTRBamg5QUhzS1dTVlBkcUd6OHNBM1k4dkZMSjhyRGJId2ZPZ05qQWlReWdEaVVYTHNGM2ZrY3dzS1pBaWp4TUlWRVNHYTVEeEdrYWNoN00zUDU5b2VpczliZDFoZnlYaXEzUml5dzBTeVFocTdmZjlUaXNtT0E3Y0g5S0F0VnM?oc=5",
-      "ageHours": 28.3,
+      "ageHours": 31.9,
       "pubDate": "Sat, 12 Sep 2026 14:34:05 GMT"
     },
     {
@@ -732,8 +720,20 @@
       "score": 30,
       "comments": 0,
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcm1qbmY1c05uUWxfelhpQ3duUWxDanhKWUFzUUNVejVvN0xwc3plMURQck9XeTB0ci11eld3d0ZBaVZWLW5maFlTY2k1ZmN1aWFQNDBCaEFoNWJxTjl3MnJkUGFLcktqb25hanRvYmpVckthLTBqbUFUUEVPUUpVb2NSWDY2NUxGRGVGWm84bGIzTjVyV0h0R2IxaFNGYlBlNDRuVF9MUnNMMEhIbl9lVDBXMFlYSVRCU3poV1JvMTNwaFBqMGZwQ9IBzgFBVV95cUxOem1FbVh3STF3VE9IaGtiSHFxOHBkQ1NnQ0ZSNlFJU3JVcEtGNlVQTGxjaVlLcXk2SlRLdm9KTnl4eHlkR0c1VndNdDZtVTdFZ0d2LVctenV4aWhUS01CbnpuenVRbHJUX1h5NDJzS3hYWTNXZmtRVUNVbEFld19MekRFZGc4b1ZlT1JfdWVrY2ZmSnBieTd1SWs5cm9hRVRiN1NScFlQVGRlQ0F1YjNRajZRME1VQ3FLdjBWOC15YkxNMlRLbGNOaGU5NUJSUQ?oc=5",
-      "ageHours": 28.4,
+      "ageHours": 32.1,
       "pubDate": "Sat, 12 Sep 2026 14:22:47 GMT"
+    },
+    {
+      "bucket": "Governance",
+      "heat": "hot",
+      "title": "Onion prices hit Rs 60-70 per kg in Hyderabad as arrivals fall - Telangana Today",
+      "source": "press",
+      "outlet": "Telangana Today",
+      "score": 30,
+      "comments": 0,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPanUtQ0Q3YktRU1NYdVhWQkhSdzFOdGdGTjdGeWdIS1M2aU1NV0x6TDVwMVdEdHBfNzlnZWU4bDlYcEw2V3FKdlpZcWpqSnN2RE9NZE9mYUxXTVJ0cVI0NG52SE9oTEhCN1l6MVc1WHlpQ1gzQkI0RDFtb2UzVlJTMGJBWDJCWFVrNHVlbkU0c29Ycjg?oc=5",
+      "ageHours": 34.5,
+      "pubDate": "Sat, 12 Sep 2026 11:59:22 GMT"
     }
   ]
 }
