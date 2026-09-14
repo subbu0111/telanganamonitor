@@ -1,6 +1,6 @@
 # CivicDarpan V2: impact and scheduled intelligence
 
-Agreed on 14 September 2026: two-hour AI Analysis; daily report at 7 AM IST covering the previous day; source-supported impact heat; tagline “Your place. Your news. The bigger picture.”
+Agreed on 14 September 2026: six-hour AI Analysis; daily report at 7 AM IST covering the previous day; source-supported impact heat; tagline “Your place. Your news. The bigger picture.”
 
 ## Release status
 
@@ -13,7 +13,7 @@ The Hindu's terms restrict public/commercial use and limit permitted disseminati
 - Replaces headline-keyword frequency heat with an editorial reported-impact rubric: severity 40%, essential-service disruption 30%, reported reach 20%, documented duration 10%.
 - Shows the highest fully supported incident score in the selected geography/time window. Extra articles neither inflate nor dilute it. Exact quotes, source timestamps and component calculations are visible behind the asterisk. Missing evidence produces an unknown total, not a low score. Publication time is not incident duration; “indefinite” is not proof of an elapsed week; a city name does not establish city-wide impact.
 - Gemini extraction is followed by quote validation, explicit category-evidence checks and a separate model support pass. These checks reduce unsupported assessments; they do not independently verify news reports or guarantee zero errors.
-- AI analysis runs on a target two-hour schedule. Unchanged selected evidence retains the prior generation and timestamp. Daily digest targets 7 AM IST for the previous calendar day, with labelled later revisions. GitHub scheduled runs can be delayed.
+- AI analysis runs on a target six-hour schedule. Unchanged selected evidence retains the prior generation and timestamp. Daily digest targets 7 AM IST for the previous calendar day, with labelled later revisions. GitHub scheduled runs can be delayed.
 - A single scheduled workflow serializes refreshes. It checks source permissions, collects dated original-page records, assesses impact, generates reports, validates, commits public data and requests a refresh of the existing branch-based Pages site. Failed stages do not commit or deploy partial runs.
 - Public validation checks both article records and citations embedded in AI reports. A successful RSS fetch cannot silently approve a publisher. No credential or private database is included in the public payload.
 

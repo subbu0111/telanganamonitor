@@ -18,7 +18,7 @@ The existing runtime `OPENROUTER_API_KEY` is required. Credentials are never pla
 node outputs/civicdarpan/scripts/preview.mjs --auto-intelligence
 ```
 
-While this process stays running, local collection and AI analysis run every two hours; the previous day's daily digest runs at 7 AM IST. Starting the server schedules the next cycle; it does not immediately regenerate reports. Closing it stops scheduling. The page's Refresh reports button reloads saved reports, rather than starting a paid model request. Local automation status is available at `/api/automation-status`.
+While this process stays running, local collection and AI analysis run every six hours; the previous day's daily digest runs at 7 AM IST. Starting the server schedules the next cycle; it does not immediately regenerate reports. Closing it stops scheduling. The page's Refresh reports button reloads saved reports, rather than starting a paid model request. Local automation status is available at `/api/automation-status`.
 
 Manual generation:
 

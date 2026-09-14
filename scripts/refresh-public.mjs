@@ -9,6 +9,6 @@ run('./collect-news.mjs',['--public']);
 run('./generate-impact.mjs');
 run('./generate-intelligence.mjs',['--type='+type]);
 const url=new URL('../data/intelligence.json',import.meta.url),data=JSON.parse(await readFile(url));
-data.schedule={enabled:true,host:'GitHub Actions',analysisEveryHours:2,dailyAt:'07:00 IST',lastSuccessfulType:type,lastSuccessfulAt:new Date().toISOString()};
+data.schedule={enabled:true,host:'GitHub Actions',analysisEveryHours:6,dailyAt:'07:00 IST',lastSuccessfulType:type,lastSuccessfulAt:new Date().toISOString()};
 const pending=new URL('../data/intelligence.pending.json',import.meta.url);await writeFile(pending,JSON.stringify(data));await rename(pending,url);
 run('./validate-public.mjs');
