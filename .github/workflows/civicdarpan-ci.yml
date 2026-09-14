@@ -1,0 +1,21 @@
+name: CivicDarpan checks
+on:
+  push:
+    branches: [main, civicdarpan-v2-impact]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - run: node --check app.mjs
+      - run: node --check intelligence-ui.mjs
+      - run: node --check scripts/generate-intelligence.mjs
+      - run: node --check scripts/generate-impact.mjs
+      - run: node --test tests/*.test.mjs
+      - run: node scripts/validate-public.mjs

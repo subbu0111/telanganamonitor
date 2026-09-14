@@ -1,0 +1,21 @@
+export function renderMap({state,geo,scopedArticles,rows,navigate,$,escape,SPECIAL}){
+ const isWorld=state.scope==='world';const districtMode=!isWorld&&SPECIAL.includes(state.region);
+ const features=isWorld?geo.world.features:(state.region?geo.states.features.filter(f=>f.properties.name===state.region):geo.states.features);
+ const width=800,height=430;let pts=[];function walk(c){if(typeof c[0]==='number')pts.push(c);else c.forEach(walk);}features.forEach(f=>walk(f.geometry.coordinates));
+ let minX=Math.min(...pts.map(p=>p[0])),maxX=Math.max(...pts.map(p=>p[0])),minY=Math.min(...pts.map(p=>p[1])),maxY=Math.max(...pts.map(p=>p[1]));if(isWorld){minX=-180;maxX=180;minY=-57;maxY=84;}
+ const cos=isWorld?1:Math.cos((minY+maxY)/2*Math.PI/180);const scale=Math.min((width-70)/((maxX-minX)*cos),(height-36)/(maxY-minY));
+ const project=p=>[(p[0]-(minX+maxX)/2)*cos*scale+width/2,((maxY+minY)/2-p[1])*scale+height/2];
+ const path=f=>(f.geometry.type==='Polygon'?[f.geometry.coordinates]:f.geometry.coordinates).map(poly=>poly.map(ring=>ring.map((p,i)=>{const [x,y]=project(p);return (i?'L':'M')+x.toFixed(1)+','+y.toFixed(1);}).join('')+'Z').join('')).join('');
+ const count=name=>isWorld?scopedArticles('world',name,'').length:districtMode?scopedArticles('india',state.region,name).length:scopedArticles('india',name,'').length;
+ const regionRows=rows();const maxCount=Math.max(1,...regionRows.map(r=>r.articles));
+ const color=n=>n?`hsl(210 ${60}% ${28+Math.round(25*n/maxCount)}%)`:'#242a33';
+ let svg=`<svg viewBox="0 0 ${width} ${height}" aria-label="${escape(state.region||'Coverage')} map"><defs><filter id="region-edge"><feMorphology in="SourceAlpha" operator="dilate" radius="0.6" result="edge"/><feFlood flood-color="#394351"/><feComposite in2="edge" operator="in"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>`;
+ svg+=features.map(f=>{const name=f.properties.name;const n=districtMode?scopedArticles('india',state.region,'').length:count(name);return `<path class="map-region" data-place="${escape(name)}" tabindex="0" role="button" aria-label="${escape(name)}: ${n} articles" d="${path(f)}" fill="${districtMode?'#24364c':color(n)}" stroke="none" filter="url(#region-edge)"><title>${escape(name)} · ${n} source articles</title></path>`;}).join('');
+ let markers=[];
+ if(districtMode)markers=geo.districts.filter(d=>d.state===state.region).map(d=>({...d,count:count(d.name)}));
+ else for(const f of features){const n=count(f.properties.name);if(!n)continue;let all=[];function extract(c){if(typeof c[0]==='number')all.push(c);else c.forEach(extract);}extract(f.geometry.coordinates);const largest=(f.geometry.type==='Polygon'?[f.geometry.coordinates]:f.geometry.coordinates).sort((a,b)=>b[0].length-a[0].length)[0][0];const center=[largest.reduce((s,p)=>s+p[0],0)/largest.length,largest.reduce((s,p)=>s+p[1],0)/largest.length];markers.push({name:f.properties.name,center,count:n});}
+ svg+=markers.map(m=>{const [x,y]=project(m.center);const selected=m.name===state.district;return `<g class="marker" data-place="${escape(m.name)}" tabindex="0" role="button" aria-label="${escape(m.name)}: ${m.count} articles"><title>${escape(m.name)} · ${m.count} articles${districtMode?' · approximate district location':''}</title><circle cx="${x}" cy="${y}" r="${m.count?11:5}" fill="${selected?'#b97826':m.count?'#0a84ff':'#627082'}" stroke="#141416" stroke-width="2"/><text x="${x}" y="${y}" class="map-count">${m.count||''}</text>${(!isWorld||m.count>=5)?`<text class="map-label" x="${x+13}" y="${y+3}">${escape(m.name)}</text>`:''}</g>`;}).join('');
+ $('map').innerHTML=svg+'</svg>';$('map-title').textContent=districtMode?state.region+' · district view':state.region?state.region+' · state view':isWorld?'The world, in the news':'India, in the news';
+ $('map-note').textContent=districtMode?'Dots mark approximate district locations, not boundaries.':'Map counts include repeated reporting across publishers.';
+ for(const el of $('map').querySelectorAll('[data-place]')){const select=()=>{const name=el.dataset.place;if(districtMode){if(name!==state.region)navigate({district:state.district===name?'':name});}else navigate({region:state.region===name?'':name,district:''});};el.addEventListener('click',select);el.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();select();}});}
+}
