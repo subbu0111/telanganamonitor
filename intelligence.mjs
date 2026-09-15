@@ -8,6 +8,10 @@ export function validateReport(report,sources){
  for(const section of report.sections){if(!Array.isArray(section.items))throw Error('Invalid section items');for(const item of section.items){
   if(!item.id||seen.has(item.id)||!item.text||item.text.length>1600||!['fact','inference','recommendation'].includes(item.kind)||!Array.isArray(item.citations)||!item.citations.length)throw Error('Invalid report item');seen.add(item.id);
   for(const c of item.citations){const s=byId.get(c.sourceId);if(!s||!eligible(s)||typeof c.quote!=='string'||c.quote.length<12||![s.title,s.excerpt||''].some(t=>t.includes(c.quote)))throw Error('Unsupported citation in '+item.id);}
+  // Headlines describing planned events cannot establish completion. Missing records cannot prove absence.
+  const quotes=item.citations.map(c=>c.quote).join(' ');
+  if(/\b(?:will|to)\s+(?:organis[ez]|launch|inaugurate|address|visit|hold|begin|open)\b|\bscheduled to\b/i.test(quotes)&&/\b(?:launched|inaugurated|addressed|visited|held|began|opened)\b/i.test(item.text))throw Error('Planned event presented as completed in '+item.id);
+  if(/\b(?:not yet published|no .{0,80}(?:announced|published|reported)|(?:have|has) not been (?:announced|published|reported))\b/i.test(item.text)&&!quotes.toLowerCase().includes(item.text.toLowerCase()))throw Error('Unsupported absence claim in '+item.id);
   // Numeric factual claims require an identical number in the cited evidence.
   if(item.kind==='fact'){const evidence=item.citations.map(c=>{const s=byId.get(c.sourceId);return s.title+' '+(s.excerpt||'');}).join(' ').replace(/,/g,'');for(const n of item.text.replace(/,/g,'').match(/\d+(?:\.\d+)?/g)||[])if(!new RegExp('(?:^|[^0-9])'+n.replace('.','\\.')+'(?:$|[^0-9])').test(evidence))throw Error('Unsupported number in '+item.id);}
  }}
