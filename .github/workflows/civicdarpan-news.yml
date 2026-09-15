@@ -1,5 +1,8 @@
 name: CivicDarpan scheduled reports
 on:
+  push:
+    branches: [main]
+    paths: ['scripts/**', '.github/workflows/civicdarpan-news.yml']
   schedule:
     - cron: '17 */6 * * *'
     - cron: '30 1 * * *'
