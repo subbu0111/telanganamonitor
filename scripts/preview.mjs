@@ -1,0 +1,8 @@
+import {createServer} from 'node:http';
+import {readFile} from 'node:fs/promises';
+import {startAutomation} from './local-automation.mjs';
+const automation=startAutomation(process.argv.includes('--auto-intelligence'));
+const base=new URL('../',import.meta.url);
+const routes={'/':'index.html','/index.html':'index.html','/app.mjs':'app.mjs','/core.mjs':'core.mjs','/v2.mjs':'v2.mjs','/impact.mjs':'impact.mjs','/data/impact.json':'data/impact.json','/map.mjs':'map.mjs','/intelligence.mjs':'intelligence.mjs','/intelligence-ui.mjs':'intelligence-ui.mjs','/styles.css':'styles.css','/assets/geography.json':'assets/geography.json','/data/news.json':'data/news.json','/data/briefing.json':'data/briefing.json','/data/intelligence.json':'data/intelligence.json'};
+const server=createServer(async(req,res)=>{try{const path=new URL(req.url,'http://127.0.0.1').pathname;if(path==='/api/automation-status'){res.setHeader('Content-Type','application/json');res.setHeader('Cache-Control','no-store');res.end(JSON.stringify(automation.status()));return;}const file=routes[path];if(!file){res.writeHead(404);res.end('Not found');return;}res.setHeader('Content-Type',file.endsWith('.html')?'text/html; charset=utf-8':file.endsWith('.css')?'text/css':file.endsWith('.json')?'application/json':'text/javascript');res.setHeader('Cache-Control','no-store');res.end(await readFile(new URL(file,base)));}catch{res.writeHead(500);res.end('Unavailable');}}).listen(4173,'127.0.0.1',()=>console.log('CivicDarpan preview http://127.0.0.1:4173'));
+server.on('close',()=>automation.stop());
