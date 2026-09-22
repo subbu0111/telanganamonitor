@@ -13,6 +13,8 @@ export const readingSources = [
  ['Citizen Matters','https://citizenmatters.in/',['India','Telangana','Tamil Nadu']],
  ['Scroll.in','https://scroll.in/',['India']],
  ['IndiaSpend','https://www.indiaspend.com/',['India']],
+ ['Mongabay India','https://india.mongabay.com/',['India']],
+ ['India Water Portal','https://www.indiawaterportal.org/',['India']],
  ['Factly','https://factly.in/',['India','Andhra Pradesh','Telangana']],
  ['BBC News India','https://www.bbc.com/news/world/asia/india',['India']],
  ['Press Information Bureau','https://www.pib.gov.in/',['India']],

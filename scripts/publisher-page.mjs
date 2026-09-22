@@ -11,5 +11,5 @@ export function publisherPage(html,candidate){
  const raw=article?.datePublished||metadata(html,'article:published_time');if(!dated(raw))throw Error('Original publication timestamp missing');
  const authors=[article?.author].flat().filter(Boolean).map(a=>typeof a==='string'?a:a.name).filter(Boolean).join(', ');
  if(candidate.rule.requiredLicense&&!html.includes(candidate.rule.requiredLicense))throw Error('Page licence not established');
- return {title:clean(candidate.title),raw,author:authors||metadata(html,'author')||candidate.author||candidate.rule.publisher,excerpt:candidate.rule.headlineOnly?'':metadata(html,'og:description'),locator:article?.datePublished?'JSON-LD datePublished':'meta article:published_time'};
+ return {geographyText:metadata(html,'og:description'),title:clean(candidate.title),raw,author:candidate.rule.preferFeedAuthor&&candidate.author&&clean(html).includes(candidate.author)?candidate.author:authors||metadata(html,'author')||candidate.author||candidate.rule.publisher,excerpt:candidate.rule.headlineOnly?'':metadata(html,'og:description'),locator:article?.datePublished?'JSON-LD datePublished':'meta article:published_time'};
 }

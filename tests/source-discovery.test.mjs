@@ -1,0 +1,4 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {discoverPublisherLinks} from '../scripts/source-discovery.mjs';
+const rule={url:'https://www.indiawaterportal.org/',hosts:['www.indiawaterportal.org']};
+test('Discover original publisher article links without off-site or navigation contamination',()=>{const title='How residents protect water supplies in their village';const html=`<a href="/water/story">${title}</a><a href="/water/story#x">${title}</a><a href="https://evil.example/water/story">${title}</a><a href="/author/person">${title}</a><a href="/about">${title}</a><a href="javascript:alert(1)">${title}</a>`;const out=discoverPublisherLinks(html,rule);assert.equal(out.length,1);assert.equal(out[0].url,'https://www.indiawaterportal.org/water/story');assert.equal(out[0].title,title);});
